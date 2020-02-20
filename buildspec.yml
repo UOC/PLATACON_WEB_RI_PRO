@@ -1,0 +1,51 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      nodejs: 10
+    commands:
+      - npm install
+      - npm install -g loose-envify
+      - wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.deb
+      - dpkg -i hugo_${HUGO_VERSION}_Linux-64bit.deb
+    finally:
+      - hugo version
+  pre_build:
+    commands:
+      - node ./bin/rename-languages.js
+    finally:
+      - echo "Finished renaming language files"
+  build:
+    commands:
+      - hugo --environment ${ENV}
+      - node ./bin/update-netlify-config.js
+      - cd public/ && loose-envify ./admin/main.js > updated-main.js && mv updated-main.js main.js
+      - |
+          aws s3api head-object --bucket ${BUCKET_S3} --key ${DEST_FOLDER}/ca/index.json || not_exist=true
+          if [ $not_exist ]; then
+            echo "index.json does not exist"
+          else
+            echo "index.json exists"
+            aws s3 cp s3://${BUCKET_S3}/${DEST_FOLDER}/ca/index.json ./ca/previous-index.json
+            node ../bin/create-to-delete-index.js
+          fi   
+      - aws s3 cp index.html s3://${BUCKET_S3}/${DEST_FOLDER}/index.html
+      - cd ./admin && aws s3 sync . s3://${BUCKET_S3}/${DEST_FOLDER}/admin --delete
+      - cd ../ca && aws s3 sync . s3://${BUCKET_S3}/${DEST_FOLDER}/ca --delete
+      - cd ../es && aws s3 sync . s3://${BUCKET_S3}/${DEST_FOLDER}/es --delete
+      - cd ../en && aws s3 sync . s3://${BUCKET_S3}/${DEST_FOLDER}/en --delete
+      - cd ../img && aws s3 sync . s3://${BUCKET_S3}/${DEST_FOLDER}/img --delete
+      - cd ../js && aws s3 sync . s3://${BUCKET_S3}/${DEST_FOLDER}/js --delete
+      - cd ../css && aws s3 sync . s3://${BUCKET_S3}/${DEST_FOLDER}/css --delete
+      - |
+          if [ "${UPLOAD_TO_CLOUDSEARCH}" == "true" ]; then
+            echo "Uploading data to cloudsearch"
+            cd .. && aws cloudsearchdomain --endpoint-url ${CLOUDSEARCH_URL} upload-documents --content-type application/json --documents ./ca/index.json
+            if test -f "./ca/index-to-delete.json"; then
+                aws cloudsearchdomain --endpoint-url ${CLOUDSEARCH_URL} upload-documents --content-type application/json --documents ./ca/index-to-delete.json
+            fi
+          fi
+    finally:
+      - aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --paths "/admin/*,/ca/*,/es/*,/en/*,/js/*,/css/*,/img/*,/api-ri/*"
+      - echo "Script finished running"

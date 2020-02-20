@@ -1,0 +1,30 @@
+service: webri-cloudsearch
+
+provider:
+  name: aws
+  runtime: python3.6
+  region: ${opt:region, self:custom.defaultRegion}
+  stage: ${opt:stage, self:custom.defaultStage}
+   
+functions:
+  search:
+    handler: event.search
+    events:
+      - http:
+          path: api-ri/search
+          method: get
+          cors:
+            origin: '*' # <-- Specify allowed origin
+            headers: # <-- Specify allowed headers
+              - Content-Type
+              - X-Amz-Date
+              - Authorization
+              - X-Api-Key
+              - X-Amz-Security-Token
+              - X-Amz-User-Agent
+              - X-Requested-With
+            allowCredentials: false
+
+custom:
+  defaultStage: dev
+  defaultRegion: eu-west-1

@@ -1,0 +1,411 @@
+{{$type := .Type}}
+
+<section class="info-general">
+    <div class="row">
+        <div class="col-xs-12">
+            <div class="h1 page-title title-border-green">
+                {{with .Params.general.nom}}{{.}}{{end}}
+            </div>
+        </div>
+
+        <div class="col-xs-12 col-md-9">
+            <section class="bg-main " style="background-image: url({{.Params.general.img_background}});">
+                <div class="img--tint"></div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6 col-lg-6 col-xs-6">
+                            {{with .Params.general.text_breu}}<h2>{{.}}</h2>{{end}}
+                        </div>
+                        <div class="col-md-12"></div>
+                        <div class="col-md-8 col-lg-8 col-xs-8">
+                            {{with .Params.general.slogan}}<h5>{{.}}</h5>{{end}}
+                        </div>
+                        <div data-dropdown="" class="dropdown">
+                            <button data-dropdown-trigger="" aria-expanded="false" class="btn btn--primary">
+                                {{ T "uoc_ri_detail_social_media" }}
+                                <span class="icon icon--share"></span>
+                            </button>
+                            {{with .Params.general.xarxes}}
+                            <div data-dropdown-content class="dropdown__content" style="background-color: white;">
+                                <div class="social-links unstyled">
+                                    {{range .}}
+                                    {{if eq .xarxa "facebook"}}
+                                    <a onclick="_gaq.push(['_trackEvent','Footer','{{ T "uoc_grup_footer_social"}}', 'Facebook']);" href="{{.address}}" target="_blank"
+                                    title='Facebook {{ T "uoc_grup_footer_links_new_window"}}' aria-label='Facebook {{ T "uoc_grup_footer_links_new_window"}}'><span class="icon icon--social-facebook"> </span></a>
+                                    {{end}}
+                                    {{if eq .xarxa "twitter"}}
+                                    <a onclick="_gaq.push(['_trackEvent','Footer','{{ T "uoc_grup_footer_social"}}', 'Twitter']);"	href="{{.address}}" target="_blank"
+                                    title='Twitter {{ T "uoc_grup_footer_links_new_window"}}' aria-label='Twitter {{ T "uoc_grup_footer_links_new_window"}}'><span class="icon icon--social-twitter"> </span></a>
+                                    {{end}}
+                                    {{if eq .xarxa "instagram"}}        
+                                    <a onclick="_gaq.push(['_trackEvent','Footer','{{ T "uoc_grup_footer_social"}}', 'Instagram']);" href="{{.address}}" target="_blank"	
+                                    title='Instagram {{ T "uoc_grup_footer_links_new_window"}}' aria-label='Instagram {{ T "uoc_grup_footer_links_new_window"}}'><span class="icon icon--social-instagram"> </span></a>
+                                    {{end}}
+                                    {{if eq .xarxa "web"}}        
+                                    <a onclick="_gaq.push(['_trackEvent','Footer','{{ T "uoc_grup_footer_social"}}', 'Web']);" href="{{.address}}" target="_blank"	
+                                    title='Web {{ T "uoc_grup_footer_links_new_window"}}' aria-label='Web {{ T "uoc_grup_footer_links_new_window"}}'><span class="icon icon--material-web"> </span></a>
+                                    {{end}}
+                                    {{end}}
+                                </div>
+                            </div>
+                            {{end}}
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <div class="col-xs-12 col-md-3">
+            <div class="ficha-detail">
+                <div class="box">
+                    <div class="boxGrey">
+                        {{with .Params.general.sector}}<p><strong>{{ T "uoc_ri_sector" }} :</strong>{{.}}</p>{{end}}
+                        {{with .Params.general.centre}}<p><strong>{{ T "uoc_ri_centre" }} :</strong>{{.}}</p>{{end}}
+                        {{with .Params.general.logo}}
+                        <p>
+                            <div class="row">
+                                
+                                <div class="img--y col-xs-12 col-md-12">
+                                    <div class="img-wpr img-wpr--horizontal">
+                                        <img class="img-wpr__cover" src="{{.}}" alt="Logo" />
+                                    </div>
+                                </div>
+                                
+                            </div>
+                            
+                        </p>{{end}}
+                        {{ with .Params.general.keywords }}
+                        <p>
+                            <div class="row">
+
+                                <div class="col-xs-12">
+
+                                    <div data-dropdown="" aria-label="keywords" class="dropdown">
+                                        <h5 data-dropdown-trigger="" class="dropdown-trigger" aria-expanded="false" aria-controls="dropdown__content1">{{ T "uoc_ri_keywords" }}
+                                            <span aria-hidden="true" class="icon icon--arrow-down icon--after is-active-hidden float-right"></span>
+                                            <span aria-hidden="true" class="icon icon--arrow-up icon--after is-active-visible float-right"></span>
+                                        </h5>
+                                        <ul role="list" id="dropdown__content1" data-dropdown-content="" class="dropdown__content dropdown__list">
+                                            
+                                            {{range .}}
+                                            <li role="listitem" data-dropdown-content="" class="dropdown__item">
+                                                <p class="text-small">
+                                                    {{.value}}
+                                                </p>
+                                            </li>
+                                            {{end}}
+                                            
+                                        </ul>
+                                    </div>
+
+                                </div>
+                                  
+
+                            </div>
+                                                      
+                        </p>{{end}}
+                    </div>	
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</section>
+        
+<section data-tab-system="" class="ficha-detail mT60">
+        
+    <div class="row">
+        <div class="col-xs-12 col-md-3">
+            <ul role="tablalist" data-sticky="data-sticky" class="list-group borderTopGrey toStick">
+                {{with .Params.about}}    
+                <li role="presentation">
+                    <a id="tab-about" href="#tab-content-about" role="tab"
+                    aria-controls="tab-content-about" aria-selected="true" data-tab-trigger=""
+                    class="tab is-active js-width-final"><span>
+                        {{if eq $type "solucio_tec"}}{{ T "uoc_ri_about_tec" }}
+                        {{else if eq $type "patent"}}{{ T "uoc_ri_about_pat" }}
+                        {{else if eq $type "servei"}}{{ T "uoc_ri_about_serv" }}
+                        {{else}}{{ T "uoc_ri_about_spin" }}{{end}}
+                        
+                    </span></a>
+                </li>{{end}}
+                {{with .Params.aspectes_innovadors}}                   
+                <li role="presentation">
+                    <a id="tab-innova" href="#tab-content-innova" role="tab"
+                    aria-controls="tab-content-innova" aria-selected="false" data-tab-trigger=""
+                    class="tab"><span>{{ T "uoc_ri_aspect_innov" }}</span></a>
+                </li>{{end}}
+                {{with .Params.aplicacions}}          
+                <li role="presentation">
+                    <a id="tab-apps" href="#tab-content-apps" role="tab"
+                    aria-controls="tab-content-apps" aria-selected="false" data-tab-trigger=""
+                    class="tab"><span>{{ T "uoc_ri_apps" }}</span></a>
+                </li>{{end}}
+                {{with .Params.productes_serveis}}          
+                <li role="presentation">
+                    <a id="tab-PS" href="#tab-content-PS" role="tab"
+                    aria-controls="tab-content-PS" aria-selected="false" data-tab-trigger=""
+                    class="tab"><span>{{ T "uoc_ri_productes_serveis" }}</span></a>
+                </li>{{end}}
+                {{with .Params.clients}}          
+                <li role="presentation">
+                    <a id="tab-clients" href="#tab-content-clients" role="tab"
+                    aria-controls="tab-content-clients" aria-selected="false" data-tab-trigger=""
+                    class="tab"><span>{{ T "uoc_ri_clients" }}</span></a>
+                </li>{{end}}
+                {{with .Params.casos_exit}}          
+                <li role="presentation">
+                    <a id="tab-casos" href="#tab-content-casos" role="tab"
+                    aria-controls="tab-content-casos" aria-selected="false" data-tab-trigger=""
+                    class="tab"><span>{{ T "uoc_ri_casos_exit" }}</span></a>
+                </li>{{end}}
+                {{with or .Params.grup_recerca .Params.investigadors}}          
+                <li role="presentation">
+                    <a id="tab-grups" href="#tab-content-grups" role="tab"
+                    aria-controls="tab-content-grups" aria-selected="false" data-tab-trigger=""
+                    class="tab"><span>{{ T "uoc_ri_research_groups" }}</span></a>
+                </li>{{end}}
+                {{with .Params.contacte}}       
+                <li role="presentation">
+                    <a id="tab-contact" href="#tab-content-contact" role="tab"
+                    aria-controls="tab-content-contact" aria-selected="false" data-tab-trigger=""
+                    class="tab"><span>{{ T "uoc_ri_contacte" }}</span></a>
+                </li>{{end}}
+            </ul>
+            <div class="content-for-sticky"></div>
+        </div>
+        <div class="col-xs-12 col-md-9">
+            {{with .Params.about}}
+            <div id="tab-content-about" data-tab-content="" role="tabpanel" aria-labelledby="tab-about"
+            aria-hidden="false" class="tab-content is-active">
+                <div class="js-collapse-group">
+                    
+                    <div class="collapse">
+                        <div class="head-collapse js-collapse">
+                            <p>
+                                <a href="#collapseAbout" aria-expanded="true"
+                                class="js-collapseClick">
+                                {{if eq $type "solucio_tec"}}{{ T "uoc_ri_about_tec" }}
+                                {{else if eq $type "patent"}}{{ T "uoc_ri_about_pat" }}
+                                {{else if eq $type "servei"}}{{ T "uoc_ri_about_serv" }}
+                                {{else}}{{ T "uoc_ri_about_spin" }}{{end}}<span
+                                class="icon icon--arrow-down"></span></a>
+                            </p>
+                        </div>
+                        <div id="collapseAbout" class="contentCollapse show">
+                            {{partial "subsection.html" .}}
+                        </div>
+                    </div> 
+                </div>
+            </div>
+            {{end}}
+            {{with .Params.aspectes_innovadors}}                
+            <div id="tab-content-innova" data-tab-content="" role="tabpanel" aria-labelledby="tab-innova"
+                aria-hidden="true" class="tab-content">
+                <div class="js-collapse-group">
+                    <div class="collapse">
+                        <div class="head-collapse js-collapse">
+                            <p>
+                                <a href="#collapseInnova" aria-expanded="true" class="js-collapseClick">{{ T "uoc_ri_aspect_innov" }}<span
+                                    class="icon icon--arrow-down"></span>
+                                </a>
+                            </p>
+                        </div>
+                        <div id="collapseInnova" class="contentCollapse show">
+                            {{partial "subsection.html" .}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{end}}
+            {{with .Params.aplicacions}}
+            <div id="tab-content-apps" data-tab-content="" role="tabpanel" aria-labelledby="tab-apps"
+            aria-hidden="true" class="tab-content">
+                <div class="js-collapse-group">
+                    <div class="collapse">
+                        <div class="head-collapse js-collapse">
+                            <p>
+                                <a href="#collapseApps" aria-expanded="true" class="js-collapseClick">{{ T "uoc_ri_apps" }}<span
+                                    class="icon icon--arrow-down"></span>
+                                </a>
+                            </p>
+                        </div>
+                        <div id="collapseApps" class="contentCollapse show">
+                            {{partial "subsection.html" .}}
+                        </div>
+                    </div>
+                </div>
+            </div> 
+            {{end}}
+            {{with .Params.productes_serveis}}                
+            <div id="tab-content-PS" data-tab-content="" role="tabpanel" aria-labelledby="tab-PS"
+                aria-hidden="true" class="tab-content">
+                <div class="js-collapse-group">
+                    <div class="collapse">
+                        <div class="head-collapse js-collapse">
+                            <p>
+                                <a href="#collapsePS" aria-expanded="true" class="js-collapseClick">{{ T "uoc_ri_productes_serveis" }}<span
+                                    class="icon icon--arrow-down"></span>
+                                </a>
+                            </p>
+                        </div>
+                        <div id="collapsePS" class="contentCollapse show">
+                            {{partial "subsection.html" .}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{end}}     
+            {{with .Params.clients}}  
+            <div id="tab-content-clients" data-tab-content="" role="tabpanel" aria-labelledby="tab-clients"
+            aria-hidden="true" class="tab-content">
+                <div class="js-collapse-group">
+                    <div class="collapse">
+                        <div class="head-collapse js-collapse">
+                            <p>
+                                <a href="#collapseClients" aria-expanded="true" class="js-collapseClick">{{ T "uoc_ri_clients" }}<span
+                                    class="icon icon--arrow-down"></span>
+                                </a>
+                            </p>
+                        </div>
+                        <div id="collapseClients" class="contentCollapse show">
+                            {{partial "subsection.html" .}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{end}}     
+            {{with .Params.casos_exit}}  
+            <div id="tab-content-casos" data-tab-content="" role="tabpanel" aria-labelledby="tab-casos"
+                aria-hidden="true" class="tab-content">
+                <div class="js-collapse-group">
+                    <div class="collapse">
+                        <div class="head-collapse js-collapse">
+                            <p>
+                                <a href="#collapseCasos" aria-expanded="true" class="js-collapseClick">{{ T "uoc_ri_casos_exit" }}<span
+                                    class="icon icon--arrow-down"></span>
+                                </a>
+                            </p>
+                        </div>
+                        <div id="collapseCasos" class="contentCollapse show">
+                            <div class="card-in-acordeon ">
+                                {{ range . }}
+                                <div class="row" >
+                                
+                                    <ul class="list--unstyled">
+                                        <li><h2>{{ .titol }}</h2></li>
+                                        {{if isset . "img" }}
+                                        <li><img src="{{.img}}" alt="{{ .titlol }} img"></li>
+                                        {{end}}
+                                        {{if isset . "descripcio" }}
+                                        <li><div class="wrap-richText">{{ safeHTML (markdownify .descripcio) }}</div></li>
+                                        {{end}}
+                                        {{if isset . "url_success" }}
+                                        <li><a href="{{.url_success}}" target="_blank" title=''>
+                                            <span class="icon icon--access">
+                                                <span class="h3">{{T "uoc_ri_casos_link"}}</span>
+                                            </span>
+                                        </a></li>
+                                        {{end}}
+                                    </ul>
+                                </div>
+                                
+                                
+
+                                {{end}}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{end}}
+            <div id="tab-content-grups" data-tab-content="" role="tabpanel" aria-labelledby="tab-grups"
+            aria-hidden="true" class="tab-content">
+                {{with .Params.grups_recerca}}
+                <div class="collapse">
+                    <div class="head-collapse js-collapse">
+                        <p><a href="#collapseResearch" aria-expanded="true"
+                            class="js-collapseClick">{{ T "uoc_ri_research_groups" }}<span
+                            class="icon icon--arrow-down"></span></a></p>
+                    </div>
+                    <div id="collapseResearch" class="contentCollapse show">
+                        <div class="row">
+                            {{ range .}}
+                                <div class="col-md-4 col-xs-12">
+                                    <a href="{{.url}}">
+                                        <div class="card card-noimg" style="background-color: #C3FFDE;" role="region">
+                                            
+                                            <div class="card__contents">
+                                                <div><h4><strong>{{ .name }}</strong></h4></div>
+                                                <div>{{ .description }}</div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            {{end}}
+                        </div>
+                    </div>
+                </div>
+                {{end}}
+                {{with .Params.investigadors}}
+                <div class="collapse">
+                    <div class="head-collapse js-collapse">
+                        <p><a href="#collapseResearchers" aria-expanded="true"
+                            class="js-collapseClick">{{ T "uoc_ri_researchers" }}<span
+                            class="icon icon--arrow-down"></span></a></p>
+                    </div>
+                    <div id="collapseResearchers" class="contentCollapse show">
+                        <div class="row">
+                            {{ range .}}
+                            <div class="col-xs-12 col-md-4">
+                                <a href="{{.url}}">
+                                    <div class="card">
+                                        <div class="card__contents img-wpr">
+                                            <img src="{{.url_img}}" alt="" class="img-wpr__cover">
+                                            <div class="img-wpr__contents">
+                                                <p><strong>{{ .name }}</strong></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            {{end}}
+                        </div>
+                    </div>
+                </div>
+                {{end}}
+            </div>
+            {{with .Params.contacte}}       
+            <div id="tab-content-contact" data-tab-content="" role="tabpanel" aria-labelledby="tab-contact"
+            aria-hidden="false" class="tab-content">
+                <div class="collapse">
+                    <div class="head-collapse js-collapse">
+                        <p>
+                            <a href="#collapseContact" aria-expanded="true" class="js-collapseClick">{{ T "uoc_ri_contacte" }}<span
+                            class="icon icon--arrow-down"></span></a>
+                        </p>
+                    </div>
+                    <div id="collapseContact" class="contentCollapse show">
+                        <div class="contact-list-icon">
+                            
+                            <div class="row">
+                                {{range .}}
+                                <div class="col-xs-12 col-md-3">
+                                    <div class="wrap-content">
+                                        <p ><h2>{{ .text}}</h2></p>
+                                        <p >{{ .address}}</p>
+                                        <p >{{ .telefon}}</p>
+                                        <p >{{ .email}}</p>
+                                    </div>
+                                </div>
+                                {{end}}
+                            </div>
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>{{end}}
+        </div>
+    </div>
+</section>
