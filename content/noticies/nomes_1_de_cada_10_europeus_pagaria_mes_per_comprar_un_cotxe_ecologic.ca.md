@@ -93,8 +93,6 @@ descripcio:
     ecocotxe (14%).
 
 
-
-
     **Gairebé la meitat dels europeus desconeix l'etiqueta ecològica de la UE**
 
 
@@ -125,11 +123,7 @@ descripcio:
     de les dues opcions.
 
 
-
-
     ![](https://research.uoc.edu/portal/_resources/common/imatges/sala_de_premsa/noticies/2020/137-ecolabels-compra-cotxe-imatge.png)
-
-
 
 
     Els resultats dels experiments indiquen que tots aquests atributs tenen un
@@ -144,5 +138,40 @@ descripcio:
     lloc, cal dir que la combinació d'un missatge amb altres elements dins de la
     mateixa etiqueta té un efecte petit però positiu en les tries de les
     persones a les quals s'ha fet l'enquesta.
+
+
+
+
+
+
+    **Article de referència:**
+
+
+    Folkvord F.; Veltri G.A.; Lupiáñez-Villanueva F.; Tornese P.; Codagnone C.;
+    Gaskel G. (2019). «The effects of ecolabels on environmentally-and
+    health-friendly cars: an online survey and two experimental studies ha estat
+    liderat per Open Evidence». The International Journal of Life Cycle
+    Assessment. DOI:
+    [10.1007/s11367-019-01644-4](https://link.springer.com/article/10.1007%2Fs11367-019-01644-4)
+
+
+
+
+    **UOC R&I**
+
+
+    La recerca i innovació (R+I) de la UOC contribueix a solucionar els reptes a
+    què s'enfronten les societats globals del segle xxi mitjançant l'estudi de
+    la interacció de les TIC amb l'activitat humana, amb un focus específic en
+    l'ensenyament en línia i la salut digital. Els més de 400 investigadors i 47
+    grups de recerca s'articulen entorn dels set estudis de la UOC i tres
+    centres de recerca: l'Internet Interdisciplinary Institute (IN3), l'eLearn
+    Center (eLC) i l'eHealth Center (eHC).
+
+
+    Els objectius de l'**Agenda 2030 de desenvolupament sostenible**de les
+    Nacions Unides i el **coneixement obert** són eixos estratègics de la
+    docència, la recerca i la innovació de la UOC. Per a més informació:
+    [research.uoc.edu](https://research.uoc.edu/portal/ca/ri/index.html).
 ---
 
