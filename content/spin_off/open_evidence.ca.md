@@ -5,6 +5,7 @@ general:
   img_background: /img/35870472491_cb3a156788_w.jpg
   keywords:
     - value: eSalut
+    - value: Dades
   logo: /img/logo_openevidence.jpg
   nom: ' Open Evidence'
   sector: Salut - eHealth
@@ -26,7 +27,7 @@ about:
       consultoria.
 
 
-      Els trets diferenciadors de la seva activitat són:\
+      **Els trets diferenciadors de la seva activitat són:**
 
 
       * Metodologies i dissenys presentats i compartits en obert: el disseny de
@@ -64,7 +65,7 @@ about:
       aplicacions mòbils sobre la conducta infantil.
 
 
-      Projectes de salut electrònica:
+      **Projectes de salut electrònica:**
 
 
       * Desplegament de benchmarking sobre salut electrònica entre metges de
@@ -84,12 +85,28 @@ about:
       * Suport especialitzat en l’avaluació de la Iniciativa Kublai.
 
 
-      Economia del coneixement - dades massives (big data):
+      **Economia del coneixement - dades massives (big data):**
 
 
       * Mercat de dades europeu.
 
       * Estudi sobre l’ús de tecnologies socials en petites i mitjanes empreses.
     titol: Sobre
+    docs_rels: []
+productes_serveis: []
+casos_exit: []
+grups_recerca:
+  - id: '2202'
+    name: GADE
+    description: 'eGovernança: administració i democràcia electrònica'
+    url: 'https://transfer-research.am.pre.uoc.es/ca/gade.html'
+    url_img: >-
+      https://transfer-research.am.pre.uoc.es/img/api/grupsrecerca/22/image/1581319786424
+investigadors:
+  - id: '18608302'
+    name: 'Garcia Alsina, Montserrat'
+    url: 'https://talent.am.pre.uoc.es/ca/garcia-alsina-montserrat.html'
+    url_img: 'https://talent.am.pre.uoc.es/img/api/pdi/186083/image/1571921035749'
+contacte: []
 ---
 
