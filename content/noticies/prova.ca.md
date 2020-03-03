@@ -20,6 +20,10 @@ descripcio:
     paper clau. Albert Barberà Lluís dirigeix des del juliol del 2019 l'eHealth
     Center
   text: >-
+
+
+
+
     Els avenços i les millores del darrer segle han propiciat que puguem viure
     el doble d'anys que els nostres rebesavis. El repte és com es pot arribar a
     gaudir de tota aquesta vida «extra» amb bona salut, perquè ningú no vol
@@ -34,5 +38,8 @@ descripcio:
 
 
     ![xx](/img/logo_openevidence.jpg "xx")
+
+
+    fdafafafaf
 ---
 
