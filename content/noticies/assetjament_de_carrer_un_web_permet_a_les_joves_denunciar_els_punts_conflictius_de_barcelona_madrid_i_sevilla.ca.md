@@ -3,7 +3,7 @@ title: >-
   Assetjament de carrer un web permet a les joves denunciar els punts
   conflictius de Barcelona Madrid i Sevilla
 language: ca
-destacat: false
+destacat: true
 date: 2020-03-24T15:35:42.850Z
 general:
   titol: >-
