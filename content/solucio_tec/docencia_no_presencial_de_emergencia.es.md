@@ -3,11 +3,12 @@ title: Docencia no presencial de emergencia
 language: es
 general:
   nom: Docencia no presencial de emergencia
-  slogan: "Docencia no presencial de emergencia: recursos impartidos en línea por
-    profesorado de la UOC"
+  slogan: ""
   sector: Educación - eLearning
   img_background: /img/ig_es.jpg
   centre: Estuids
+  text_breu: "Docencia no presencial de emergencia: recursos impartidos en línea
+    por profesorado de la UOC"
 about:
   - titol: Cuerpo texto
     descripcio: >-
