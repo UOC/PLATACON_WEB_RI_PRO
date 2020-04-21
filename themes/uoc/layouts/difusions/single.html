@@ -20,43 +20,44 @@
                 </div>
             </div>
 
-            {{ range first 1 (where (where .Site.Pages.ByDate ".Params.destacat" true) ".Params.language" .Site.Language.Lang)}}
-            <div class=" col-md-9 col-xs-9">
-                <a href="{{.Permalink}}" class="">
-                <div class="bg-simple img-wpr img-wpr--horizontal img--tint">
-                    {{ with .Params.general.img}}<img src="{{.}}" class="img-wpr__cover" >{{end}}
+            {{ range first 1 (where (where .Site.Pages.ByDate.Reverse ".Params.destacat" true) ".Params.language" .Site.Language.Lang)}}
+            <div class=" col-md-9 col-xs-9" role="region">
+                
+                <div class="bg-simple img-wpr img-wpr--horizontal img--tint link-trigger">
+                    
+                    {{ with .Params.general.img}}<img src="{{.}}" class="img-wpr__cover" alt="">{{end}}
+                    <a href="{{.Permalink}}" aria-labelledby="x0" tabindex="-1" aria-hidden="true"></a>
                     <div class="img-wpr__contents_no-bg">
                         <div class="row">
                             <div class="col-md-7">
-                                <p class="h3 inverse">{{ with .Params.general.titol}}{{.}}{{end}}</p>
-                                {{ with .Params.general.entrada}}<p class="h4 inverse">{{.}}</p>{{end}}
+                                <h3 class=" inverse"><a id="x0" href="{{.Permalink}}">{{ with .Params.general.titol}}{{.}}{{end}}<span class="visually-hidden">{{T "uoc_ri_difusions_link"}}</span></a></h3>
                             </div>
                         </div>
                     </div>
                     <div class="img-wpr__contents_no-bg"  style="bottom: .5rem;">
                         <div class="row">
-                            <div class="float-right p-right-x text-small inverse">{{if eq .Type "noticies" }}{{ T "uoc_ri_noticia" }}{{else}}{{ T "uoc_ri_esdeveniment" }}{{end}}
-                            </div>
+                            <span class="float-right p-right-x text-small inverse"><span class="visually-hidden">Tag: </span>{{if eq .Type "noticia" }}{{ T "uoc_ri_noticia" }}{{else}}{{ T "uoc_ri_esdeveniment" }}{{end}}</span>
                         </div>
                     </div>
-                </div></a>
+                </div>
             </div>
             {{end}}
 
-            {{ range first 1 (after 1 (where (where .Site.Pages.ByDate ".Params.destacat" true) ".Params.language" .Site.Language.Lang))}}
-            <div class="col-xs-6 col-md-3" role="article">
-                <a href="{{.Permalink}}" class="card-absolute-link"></a>
-                <div class="card" role="region" aria-label="Texto descriptivo" >
+            {{ range first 1 (after 1 (where (where .Site.Pages.ByDate.Reverse ".Params.destacat" true) ".Params.language" .Site.Language.Lang))}}
+            <div class="col-xs-6 col-md-3" role="region">
+                
+                <div class="card">
+                    <a href="{{.Permalink}}" aria-labelledby="x1" tabindex="-1" class="card-absolute-link" aria-hidden="true"></a>
                     <div class="card__image">
-                        <img src="{{with .Params.general.img}}{{.}}{{end}}" alt="{{with .Params.general.titol}}{{.}}{{end}}">
+                        <img src="{{with .Params.general.img}}{{.}}{{end}}" alt="">
                     </div>
                     <div class="card__contents" >
-                        <p class="text-big text font-alternate">{{.Params.general.titol}}</p>
+                        <h3 class="h5 text font-alternate"><a id="x1" href="{{.Permalink}}">{{ with .Params.general.titol}}{{.}}{{end}}<span class="visually-hidden">{{T "uoc_ri_difusions_link"}}</span></a></h3>
                         {{ with .Params.general.entrada}}<p class="text-small text font-alternate"><blockquote class="pullquote">{{.}}</blockquote></p>{{end}}
                     </div>
                     <div class="card__footer">
-                        <div class="float-left p-left-x  icon icon--external-link"></div>
-                        <div class="float-right p-right-x">{{if eq .Type "noticies" }}{{ T "uoc_ri_noticia" }}{{else}}{{ T "uoc_ri_esdeveniment" }}{{end}}</div>
+                        <span class="float-left p-left-x  icon icon--external-link" aria-hidden="true"></span>
+                        <span class="float-right p-right-x"><span class="visually-hidden">Tag: </span>{{if eq .Type "noticia" }}{{ T "uoc_ri_noticia" }}{{else}}{{ T "uoc_ri_esdeveniment" }}{{end}}</span>
                     </div>
                 </div>
             </div>
@@ -65,21 +66,20 @@
             <div class="row">
                 <div class="col-xs-12">
                     <div class="text-align-center text-small" style="margin-top:50px;margin-bottom:50px;">
-                        <h4><strong>{{ T "uoc_ri_difusio_novetats" }}</strong></h3>
-                            <p><a id="st1" href="" class="text-align-center text-small">
-                                <div class="icon icon--arrow-down"></div>
-                            </a></p>
+                        <h2 class="h4"><strong>{{ T "uoc_ri_difusio_novetats" }}</strong></h2>
+                                <span class="icon icon--arrow-down" aria-hidden="true"></span>
+
                      </div>
                 </div>
             </div>               
             <div class="row resultsDifusions">
                 <div class="col-xs-12 col-md-12 col-lg-12" >
-                    <div class="row list-difusions">
+                    <div class="row list-difusions" role="list">
                     </div>
                     <div class="pagination-difusions">
                         <div class="row">
                             <div class="col-xs-12">
-                                <div class="pagination-difusions-container"></div>
+                                <div class="pagination-difusions-container " aria-label = pagination></div>
                             </div>
                         </div>
                     </div>                        
@@ -96,9 +96,10 @@
         <script type="text/javascript">
             $(".list-difusions .card").matchHeight(); 
             var noticiaLabel = '{{ T "uoc_ri_noticia" }}';
+            var LinkLang = '{{T "uoc_ri_difusions_link"}}';
             var esdevenimentLabel = '{{ T "uoc_ri_esdeveniment" }}';
             var difusionsDestacades = [
-                {{ range (after 2 (where (where .Site.Pages.ByDate ".Params.destacat" true) ".Params.language" .Site.Language.Lang))}}
+                {{ range (after 2 (where (where .Site.Pages.ByDate.Reverse ".Params.destacat" true) ".Params.language" .Site.Language.Lang))}}
                   {
                     "destacat": {{.Params.destacat}},
                     "data": {{.Params.date}},
@@ -107,16 +108,16 @@
                     "titol" : {{.}},{{end}}{{with .Params.general.entrada}}
                     "entrada": {{.}},{{end}}
 
-                    {{- if eq .Type "noticies" }}
-                    "type" : "noticies"
-                    {{else if eq .Type "esdeveniments"}}
-                    "type" : "esdeveniments"
+                    {{- if eq .Type "noticia" }}
+                    "type" : "noticia"
+                    {{else if eq .Type "esdeveniment"}}
+                    "type" : "esdeveniment"
                     {{end}} 
                   },
                 {{end}}                                                        
             ];
             var restaDifusions = [
-                {{ range (where (where .Site.Pages.ByDate ".Params.destacat" false) ".Params.language" .Site.Language.Lang)}}
+                {{ range (where (where .Site.Pages.ByDate.Reverse ".Params.destacat" false) ".Params.language" .Site.Language.Lang)}}
                 {
                     "destacat": {{.Params.destacat}},
                     "data": {{.Params.date}},
@@ -125,10 +126,10 @@
                     "titol" : {{.}},{{end}}{{with .Params.general.entrada}}
                     "entrada": {{.}},{{end}}
 
-                    {{- if eq .Type "noticies" }}
-                    "type" : "noticies"
-                    {{else if eq .Type "esdeveniments"}}
-                    "type" : "esdeveniments"
+                    {{- if eq .Type "noticia" }}
+                    "type" : "noticia"
+                    {{else if eq .Type "esdeveniment"}}
+                    "type" : "esdeveniment"
                     {{end}} 
                 },
                 {{end}}                                                        

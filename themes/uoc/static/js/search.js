@@ -49,7 +49,9 @@ jQuery(document).ready(function ($) {
 		tab = 'cercadorFiltres';
 		submitSearch(e);
 	});	
-
+	$('.filters-main__box').click(function(e) {
+		submitSearch(e);
+	});
 	$(".cercadorTextual form").submit(function(e){ //Free text search
 		e.preventDefault();
 		$(".cercadorTextual .collapse-filter").show();
@@ -141,38 +143,40 @@ function submitSearch(caller){
 			queryInnovaSolSearchEngine(searchParams);
 		break;
 	}
+	//if($(".general-filter.visualitzacio input:checked").length>0){
+		
+	//Visualitza per checked
+	// FILTRATGE VISUALITZACIO
+	if($(".general-filter.visualitzacio input:checked").length>0){
+		$(".collapse.solucions.results").addClass("hidden");
+		$(".collapse.spin.results").addClass("hidden");
+		$(".collapse.fitxa.results").addClass("hidden");
+		$(".collapse.grup.results").addClass("hidden");
+		var filtreV = [];
+		$(".general-filter.visualitzacio input:checked").each(function( index ) {
+			filtreV[index] = $(this).val();
+		});
+		if(filtreV.includes("solucions")){
+			$(".collapse.solucions.results").removeClass("hidden");
+		}
+		if(filtreV.includes("spin")){
+			$(".collapse.spin.results").removeClass("hidden");
+		}
+		if(filtreV.includes("fitxa")){
+			$(".collapse.fitxa.results").removeClass("hidden");
+		}
+		if(filtreV.includes("grup")){
+			$(".collapse.grup.results").removeClass("hidden");
+		}
 
-	if(searchParams.visualitzacio && searchParams.visualitzacio.length){
-		
-		switch(tab){
-			case 'cercadorFiltres':
-				$(".cercadorFiltres .collapse.results").addClass("hidden");						//Hide depending on "visualitza per" options
-			break;
-			case 'cercadorSectors':
-				$(".cercadorSectors .collapse.results").addClass("hidden");						//Hide depending on "visualitza per" options
-			break;
-			case 'cercadorTextual':
-				$(".cercadorTextual .collapse.results").addClass("hidden");						//Hide depending on "visualitza per" options
-			break;
-		}
-		
-		for(selector in searchParams.visualitzacio){
-			switch(tab){
-				case 'cercadorFiltres':
-					$(".cercadorFiltres .collapse."+searchParams.visualitzacio[selector]).removeClass("hidden");
-				break;
-				case 'cercadorSectors':
-					//console.log('Remove ' + searchParams.visualitzacio[selector] + ' results');
-					//console.log(".cercadorSectors .collapse."+searchParams.visualitzacio[selector]);
-					$(".cercadorSectors .collapse."+searchParams.visualitzacio[selector]).removeClass("hidden");
-				break;
-				case 'cercadorTextual':
-					//console.log('Remove ' + searchParams.visualitzacio[selector] + ' results');
-					$(".cercadorTextual .collapse."+searchParams.visualitzacio[selector]).removeClass("hidden");
-				break;
-			}
-		}
-	} 
+		console.log(filtreV);
+	}else{
+		$(".collapse.solucions.results").removeClass("hidden");
+		$(".collapse.spin.results").removeClass("hidden");
+		$(".collapse.fitxa.results").removeClass("hidden");
+		$(".collapse.grup.results").removeClass("hidden");
+	}	
+
 }
 
 function getSearchFormValues(){
@@ -210,11 +214,11 @@ function getSearchFormValues(){
 			searchParams.centre.push($(this).val());
 		});	
 	}
-	if($(".general-filter.visualitzacio input:checked").length>0){						//Visualitza per checked
+	/*if($(".general-filter.visualitzacio input:checked").length>0){
 		searchParams.visualitzacio = [];
 		$(".general-filter.visualitzacio input:checked").each(function( index ) {
 			searchParams.visualitzacio.push($(this).val());
-		});	
+		});
 	} else {
 		searchParams.visualitzacio = [];
 		if(tab=="cercadorFiltres") {
@@ -229,7 +233,9 @@ function getSearchFormValues(){
 			searchParams.visualitzacio.push("solucions");
 			searchParams.visualitzacio.push("spin");
 		}
-	}
+	}*/
+	
+	
 }
 
 
@@ -445,24 +451,29 @@ function getResultMarkup(item, content_type, idx, listView){
 	
 	if(content_type == "fitxa"){
 			var posicio = item.fields.posicio;
+			var entradeta = item.fields.entradeta;
+			
 			if(typeof item.fields.posicio === 'undefined'){posicio=""}
+			if(typeof item.fields.entradeta === 'undefined'){entradeta=""}
+
 			markup+="<a href='"+item.fields.url+"'>"
 			markup+='<div id="'+item.id+'" class="card card-people"><div class="card__contents img-wpr"><img src="'+item.fields.imatge_url+'" alt="" class="img-wpr__cover">';
 			markup+='<div class="img-wpr__contents"><p class="title">'+item.fields.nom_investigador+'</p>';
-			markup+='</div><span class="author">'+posicio+'<span class="description">'+item.fields.entradeta+'</span></span>';
+			markup+='</div><span class="author">'+posicio+'<span class="description">'+ entradeta+'</span></span>';
 			markup+='</div></div></div></a>';
     } else if(content_type == "grup"){
 			markup+="<a href='"+item.fields.url+"'>"
 			markup+='<div id="'+item.id+'" aria-label="region" class="card card-noimg"><div class="card__contents">';
-			markup+='<p class="title">'+item.fields.nom_grup+'</p><p>'+item.fields.descripcio+'</p>';
+			markup+='<h4 class="title">'+item.fields.nom_grup+'</h4><p>'+item.fields.descripcio+'</p>';
             markup+='</div></div></a>';
             
     } else if(content_type == "patent" || content_type == "servei" || content_type == "solucio_tec" || content_type == "spin_off") { // sols_tec, patent, servei, spin-off print view
+			var text_breu = item.fields.text_breu;
+			if(typeof item.fields.text_breu === 'undefined'){text_breu=""}
 
 			markup+="<a href='"+item.fields.url+"'>"
 			markup+='<div id="'+item.id+'" aria-label="region" class="card card-noimg"><div class="card__contents">';
-			markup+='<p class="title">'+item.fields.name;
-			if(item.fields.descripcio) markup+='</p><p>'+item.fields.descripcio+'</p>';
+			markup+='<h4 class="title">'+item.fields.name+'</h4><p>'+text_breu+'</p>';
 			markup+='</div></div></a>';
 	}
 	

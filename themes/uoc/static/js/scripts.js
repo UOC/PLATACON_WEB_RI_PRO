@@ -89,17 +89,36 @@ jQuery(document).ready(function ($) {
 
         })
     }
+    $('.js-filter').keydown(function(event) {
+        // Number 13 is the "Enter" key on the keyboard
+        if (event.keyCode === 13) {
+          // Cancel the default action, if needed
+          event.preventDefault();
+          // Trigger the button element with a click
+          $(this).parent().click();
+        }
+    });
 
 
     if($('.tag-list').length > 0) {
         $('.tag-list').on('click', 'li', function() {
             $(this).toggleClass('active');
+            if($(this).children().attr("aria-pressed")=="false"){
+                $(this).children().attr("aria-pressed","true");
+            }else{
+                $(this).children().attr("aria-pressed","false");
+            }
         })
     }
 
     if($('.tag-icons').length > 0) {
         $('.tag-icons').on('click', 'li', function() {
             $(this).toggleClass('select-icon');
+            if($(this).children().attr("aria-pressed")=="false"){
+                $(this).children().attr("aria-pressed","true");
+            }else{
+                $(this).children().attr("aria-pressed","false");
+            }
         })
     }
 
@@ -187,11 +206,12 @@ jQuery(document).ready(function ($) {
 
     var url = document.location.toString();
     if (url.match('#')) {
-        $('.ficha-detail a[href="#' + url.split('#')[1] + '"]').addClass('is-active');
-        $('.ficha-detail a[href="#' + url.split('#')[1] + '"]').parent().siblings().children().removeClass('is-active');
+        $('.ficha-detail a[href="#' + url.split('#')[1] + '"]').parent().siblings().children().removeClass('is-active').attr("aria-selected","false");
+        $('.ficha-detail a[href="#' + url.split('#')[1] + '"]').addClass('is-active').attr("aria-selected","true");
 
-        $('#' + url.split('#')[1]).addClass('is-active');
-        $('#' + url.split('#')[1]).siblings().removeClass('is-active');
+        $('#' + url.split('#')[1]).siblings().removeClass('is-active').attr("aria-selected","false");;
+        $('#' + url.split('#')[1]).addClass('is-active').attr("aria-selected","true");;
+
     } 
 
     // Change hash for page-reload
@@ -206,4 +226,19 @@ jQuery(document).ready(function ($) {
             $(this).parent().parent().parent().find('input').prop("checked", false);
         })
     }
+    if(window.localStorage && window.localStorage["netlify-cms-user"]){
+        var _href = $('#time-stamp').attr("href");
+        var date = new Date();
+        var timestamp = date.getTime(); 
+        console.log("LOGAT")
+        $('.js-CMS').addClass('show');   
+        $('#time-stamp').attr("href", _href+"?preview="+timestamp);
+    }else{
+        console.log("NO LOGAT")
+    }
+    $('.tab').on('click', function () {
+       $(this).parent().siblings().children().attr("aria-selected","false");
+       $(this).attr("aria-selected","true");
+    });
+
 });

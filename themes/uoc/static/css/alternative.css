@@ -175,3 +175,19 @@
     left: 1.8rem;
     min-height: initial;
 }
+
+.js-CMS{
+    display: none; 
+}
+
+.js-CMS.show{
+    display: block; 
+}
+
+.link-trigger{
+    cursor: pointer
+}
+
+dd {
+    margin-bottom: 10px;
+}

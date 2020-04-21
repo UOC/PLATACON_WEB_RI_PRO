@@ -10,12 +10,9 @@ def search(event,context):
     """GET FIELDS OF QUERY GIVEN IN EVENT"""
     idioma=args.get('idioma')
     term=args.get('s')
-    visualitzacio=args.get('visualitzacio')
     centre=args.get('centre')
     sector=args.get('sector_productiu')
     """TRANSFORMING DATA TO BUILD QUERY"""
-    if(visualitzacio!=None):
-        visualitzacio=visualitzacio.split(',')
     if(centre!=None):
         centre=centre.split(',')
     if(sector!=None):
@@ -41,25 +38,19 @@ def search(event,context):
         for i in centre:
             element=i
             consulta +="centre: '%s' "%element
-    if visualitzacio!=None:
-        existe=consulta.find('or')
-        if(existe==-1):
-            consulta += "(or "
-        for i in visualitzacio:
-            element = i
-            consulta += "content_type: '%s' " % element
 
     existe = consulta.find('or')
     if (existe != -1):
         consulta += ")"
-
+    consulta += "( not content_type:'fitxa') (not content_type:'grup')"
     consulta+=")"
 
     """SEARCHING IN CLOUDSEARCH"""
 
     response = client.search(
         query=consulta,
-        queryParser='structured')
+        queryParser='structured',
+        size=1000)
     ret={
         "statusCode":200,
         "body": json.dumps(response)

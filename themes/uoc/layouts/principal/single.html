@@ -37,74 +37,89 @@
 					<li class="filters-main__box border-green" role="presentation">
 						<a id="tab-1" href="#tab-content-1" role="tab" aria-controls="tab-content-1" aria-selected="false" data-tab-trigger="" class="tab cercaFiltres">
 							<h3>{{ T "uoc_ri_cercadortab_filtres" }}</h3>
-							<span class="icon icon--arrow-down" aria-hidden='true'></span>
+							<span class="icon icon--arrow-down" aria-hidden='false'></span>
 						</a>
 					</li>
 					<li class="filters-main__box border-green" role="presentation">
 						<a id="tab-3" href="#tab-content-3" role="tab" aria-controls="tab-content-3" aria-selected="false" data-tab-trigger="" class="tab cercaSectors">
 							<h3>{{ T "uoc_ri_cercadortab_sectors" }}</h3>
-							<span class="icon icon--arrow-down" aria-hidden='true'></span>
+							<span class="icon icon--arrow-down" aria-hidden='false'></span>
 						</a>
 					</li>
 					<li class="filters-main__box border-green" role="presentation">
 						<a id="tab-2" href="#tab-content-2" role="tab" aria-controls="tab-content-2" aria-selected="false" data-tab-trigger="" class="tab cercaTextual">
 							<h3>{{ T "uoc_ri_cercadortab_text" }}</h3>
-							<span class="icon icon--arrow-down" aria-hidden='true'></span>
+							<span class="icon icon--arrow-down" aria-hidden='false'></span>
 						</a>
 					</li>
 				</ul>
 				<div class="col-xs-12">
 					<div id="tab-content-1" data-tab-content="" role="tabpanel" aria-labelledby="tab-1" aria-hidden="false" class="filters-main__content tab-content cercaFiltres">
 						<form action="" class="radio-accordeon search-form-container">
-							<h4>{{ T "uoc_ri_cercador_cercaper" }}</h4>
-							<div class="radio-collapse-item active">
-								<input role="radiogroup" aria-label="paymentMode" type="radio" name="paymentMode" value="CreditCard" id="creditcard" class="js-payment-mode-radio">
-								<label for="creditcard" class="checkbox-wrapper payment-mode-label">{{ T "uoc_ri_cercador_filtres_ambitsespecialitzacio" }}</label>
-								<div class="collapse-content">
-									<ul class="tag-list ambits_especialitzacio">
-										{{ range $index, $element := .Params.ambits_especialitzacio }}
-										<li data-ambit="{{ $element.value}}">{{ $element.display_name }}</li>
-										{{ end }}
-									</ul>
-								</div>
-							</div>
-							<div class="radio-collapse-item">
-								<input role="radiogroup" aria-label="paymentMode" type="radio" name="paymentMode" value="Boleto" id="boleto" class="js-payment-mode-radio">
-								<label for="boleto" class="checkbox-wrapper payment-mode-label">{{ T "uoc_ri_cercador_filtres_ods"}}</label>
-								<div class="collapse-content">
-									<style>.tag-icons li {vertical-align: bottom;}</style>
-									<ul class="tag-icons ods">
-										{{ range $index, $element := .Params.ods }}
-										<li class="tag-icons-{{$element.color}}">
-											<p> <span class="number">{{add $index 1}}</span><span class="title">{{$element.display_name}}</span></p><span class="icon icon--group"></span>
-										</li>
-										{{ end }}
-									</ul>
-								</div>
-							</div>
-							<div class="radio-collapse-item">
-								<input type="radio" name='{{ T "uoc_ri_cercador_filtres_unesco" }}' id="unesco" aria-label='{{ T "uoc_ri_cercador_filtres_unesco" }}' class="js-payment-mode-radio">
-								<label for="unesco" class="checkbox-wrapper payment-mode-label">{{ T "uoc_ri_cercador_filtres_unesco" }}</label>
-								<div class="collapse-content"> 
-									<div class="full-width search-container-top">
-										<div class="col-xs-12">
-											<p><a href="javascript:;">{{ T "uoc_ri_home_search_consultaunesco" }}</a></p>
-											<input list="unesco-code-list" id="search-input" name="searchWords" aria-label='{{T "uoc_ri_cercador_filtres_unesco_placeholder"}}' placeholder='{{T "uoc_ri_cercador_filtres_unesco_placeholder"}}' title='{{T "uoc_ri_cercador_filtres_unesco_placeholder"}}' class="w100-inline-block page-module ruler ruler--thin ruler--primary font-alternate h1 unesco" style="font-size: 16px;    height: 47px;"/>
-											<!--  <input type="search" id="search-input" aria-label="Cerca per codi" placeholder='{{T "uoc_ri_cercador_filtres_unesco_placeholder"}}' name="searchWords" tabindex="0" value="" title='{{T "uoc_ri_cercador_filtres_unesco_placeholder"}}' class="w100-inline-block page-module ruler ruler--thin ruler--primary font-alternate h1 unesco">-->
-											<datalist id="unesco-code-list">
-												{{ range $index, $element := .Params.unesco }}
-													<option value="{{$element.value}}">{{$element.display_name}}</option>
-												{{ end }}
-											</datalist>
-										</div>
+							<h4 class="h2">{{ T "uoc_ri_cercador_cercaper" }}</h4>
+							<div class="js-collapse-group">
+								<div class="collapse">
+									<div class="head-collapse js-collapse">
+										<h5><a href="#collapseAmbits" aria-expanded="false" class="js-collapseClick ">{{ T "uoc_ri_cercador_filtres_ambitsespecialitzacio" }}<span class="icon icon--arrow-down float-right" aria-hidden="true"></span></a></h5>
 									</div>
+									<div id="collapseAmbits" class="contentCollapse">							
+										<ul class="tag-list ambits_especialitzacio">
+											{{ range $index, $element := .Params.ambits_especialitzacio }}
+											<li data-ambit="{{ $element.value}}" ><span class="js-filter" role="button" aria-pressed="false" tabindex="0">{{ $element.display_name }}</span></li>
+											{{ end }}
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="js-collapse-group">
+								<div class="collapse">
+									<div class="head-collapse js-collapse">
+										<h5><a href="#collapseOds" aria-expanded="false" class="js-collapseClick ">{{ T "uoc_ri_cercador_filtres_ods"}}<span class="icon icon--arrow-down float-right" aria-hidden="true"></span></a></h5>
+									</div>
+									<div id="collapseOds" class="contentCollapse">
+										<style>.tag-icons li {vertical-align: bottom;}</style>
+										<ul class="tag-icons ods">
+											{{ range $index, $element := .Params.ods }}
+											<li class="tag-icons-{{$element.color}}">
+												<span class="js-filter" role="button" aria-pressed="false" tabindex="0">
+													
+														<span class="number">{{add $index 1}}</span>
+														<span id="name-ods">{{$element.display_name}}</span>
+												
+													<span class="icon icon--group" aria-hidden="true"></span>
+												</span>
+											</li>
+											{{ end }}
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="js-collapse-group">
+								<div class="collapse">
+									<div class="head-collapse js-collapse">
+										<h5><a href="#collapseUnesco" aria-expanded="false" class="js-collapseClick ">{{ T "uoc_ri_cercador_filtres_unesco" }}<span class="icon icon--arrow-down float-right" aria-hidden="true"></span></a></h5>
+									</div>
+									<div id="collapseUnesco" class="contentCollapse"> 
+										<div class="full-width search-container-top">
+											<div class="col-xs-12">
+												<p><a href="javascript:;">{{ T "uoc_ri_home_search_consultaunesco" }}</a></p>
+												<input list="unesco-code-list" id="search-input" name="searchWords" aria-label='{{T "uoc_ri_cercador_filtres_unesco_placeholder"}}' placeholder='{{T "uoc_ri_cercador_filtres_unesco_placeholder"}}' title='{{T "uoc_ri_cercador_filtres_unesco_placeholder"}}' class="w100-inline-block page-module ruler ruler--thin ruler--primary font-alternate h1 unesco" style="font-size: 16px;    height: 47px;"/>
+												<!--  <input type="search" id="search-input" aria-label="Cerca per codi" placeholder='{{T "uoc_ri_cercador_filtres_unesco_placeholder"}}' name="searchWords" tabindex="0" value="" title='{{T "uoc_ri_cercador_filtres_unesco_placeholder"}}' class="w100-inline-block page-module ruler ruler--thin ruler--primary font-alternate h1 unesco">-->
+												<datalist id="unesco-code-list">
+													{{ range $index, $element := .Params.unesco }}
+														<option value="{{$element.value}}">{{$element.display_name}}</option>
+													{{ end }}
+												</datalist>
+											</div>
+										</div>
+									</div>	
 								</div>
 							</div>
 							<div class="more-filter-options">
 								<h4>{{ T "uoc_ri_cercador_filtres_centre" }}</h4>
 								<ul class="tag-list centre">
 									{{ range $index, $element := .Params.centre }}
-									<li>{{$element.display_name}}</li>
+									<li><span class="js-filter" role="button" aria-pressed="false" tabindex="0">{{$element.display_name}}</span></li>
 									{{ end }}
 								</ul>
 								<div class="filter-btn">
@@ -113,13 +128,13 @@
 							</div>
 						</form>
 					</div>
-					<div id="tab-content-3" data-tab-content="" role="tabpanel" aria-labelledby="tab-3" aria-hidden="true" class="filters-main__content tab-content cercaSectors">
+					<div id="tab-content-3" data-tab-content="" role="tabpanel" aria-labelledby="tab-3" aria-hidden="false" class="filters-main__content tab-content cercaSectors">
 						<form action="" class="radio-accordeon search-form-container">
 							<div class="more-filter-options">
 								<h4>{{ T "uoc_ri_cercador_cercapersector" }}</h4>
 								<ul class="tag-list sector_productiu">
 									{{ range $i, $el := .Params.sector_productiu }}
-									<li>{{$el.display_name}}</li>
+									<li><span class="js-filter" role="button" aria-pressed="false" tabindex="0">{{$el.display_name}}</span></li>
 									{{ end }}
 								</ul>
 							</div>
@@ -127,7 +142,7 @@
 								<h4>{{ T "uoc_ri_cercador_filtres_centre" }}</h4>
 								<ul class="tag-list centre">
 									{{ range $index, $element := .Params.centre }}
-									<li>{{$element.display_name}}</li>
+									<li><span class="js-filter" role="button" aria-pressed="false" tabindex="0">{{$element.display_name}}</span></li>
 									{{ end }}
 								</ul>
 								<div class="filter-btn">
@@ -139,13 +154,13 @@
 					<div id="tab-content-2" data-tab-content="" role="tabpanel" aria-labelledby="tab-2" aria-hidden="false" class="filters-main__content tab-content cercaTextual">
 						<form action="" class="search-form-container filters-main-search">
 							<div class="full-width search-container-top">
+								<div class="col-xs-10 col-md-11">
+									<input type="search" id="search" aria-label='{{ T "uoc_ri_cercador_paraulesACercar" }}' placeholder='{{ T "uoc_ri_cercador_paraulesACercar" }}' name="searchWords" tabindex="0" value="" class="w100-inline-block page-module ruler ruler--thin ruler--primary font-alternate h1">
+								</div>
 								<div class="col-xs-2 col-md-1">
 									<span class="icon-container hover--dynamic-hover bg-grey">
-										<input type="submit" value="Cerca" name="search_sbm" title="Buscar" onclick="" class="w100-inline-block"><span class="icon icon--search"></span>
+										<input type="submit" value="Cerca" name="search_sbm" title="Buscar" aria-label="buscar" onclick="" class="w100-inline-block"><span class="icon icon--search" aria-hidden="true"></span>
 									</span>
-								</div>
-								<div class="col-xs-10 col-md-11">
-									<input type="search" id="search" aria-label="Paraules a cercar" placeholder="Paraules a cercar" name="searchWords" tabindex="0" value="" title="Paraules a cercar" class="w100-inline-block page-module ruler ruler--thin ruler--primary font-alternate h1">
 								</div>
 							</div>
 						</form>
@@ -160,20 +175,21 @@
 						<div class="js-collapse-group">
 							<div class="collapse">
 								<div class="head-collapse js-collapse">
-									<h2><a href="#collapse2" aria-expanded="false" class="js-collapseClick" role="button">{{ T "uoc_ri_home_centres" }}<span class="icon icon--arrow-down" aria-hidden='true'></span></a></h2>
+									<h2><a href="#collapse2" aria-expanded="true" class="js-collapseClick" role="button">{{ T "uoc_ri_home_centres" }}<span class="icon icon--arrow-down" aria-hidden='false'></span></a></h2>
 								</div>
 								<div id="collapse2" class="contentCollapse show">
 									<div class="wrap-richText">
 										<section class="card-home">
-											<div class="row">
+											<div class="row" role="list">
 												{{ range $index, $element := .Params.centres_home }}
-													<div class="col-xs-12 col-md-3 centresHomeList">
-														<a class="card-absolute-link" href="{{$element.url}}" title="{{$element.title}}" aria-hidden='true' target='_blank' aria-labelledby='centresHome_{{$index}}'></a>
+													<div class="col-xs-12 col-md-3 centresHomeList" role="listitem">
+														<a class="card-absolute-link" href="{{$element.url}}" title="{{$element.title}}" aria-hidden='true'  tabindex="-1" target='_blank' aria-labelledby='centresHome_{{$index}}'></a>
 														<div class="card card--brand-corporate">
 															<div class="card__contents">
-																<h3 id="centresHome_{{$index}}">
-																	<a href="{{$element.url}}" title="{{$element.title}}">{{$element.title}}</a>
-																</h3>
+																<h3 ><a id="centresHome_{{$index}}" href="{{$element.url}}">
+																	{{$element.title}}
+																	<span class="visually-hidden">{{T "uoc_ri_difusions_link"}}</span>
+																</a></h3>
 																<p>{{$element.description}}</p>
 																<div class="card-link-icon"><span class="icon icon--external-link" aria-hidden="true"></span></div>
 															</div>
@@ -198,25 +214,31 @@
 						<div class="js-collapse-group">
 							<div class="collapse">
 								<div class="head-collapse js-collapse">
-									<p><a href="#collapse3" aria-expanded="false" class="js-collapseClick">{{ T "uoc_ri_home_difusions" }}<span class="icon icon--arrow-down"></span></a></p>
+									<h2><a href="#collapse3" aria-expanded="true" class="js-collapseClick">{{ T "uoc_ri_home_difusions" }}<span class="icon icon--arrow-down"></span></a></h2>
 								</div>
-								<div id="collapse2" class="contentCollapse show">
+								<div id="collapse3" class="contentCollapse show">
+										{{ $.Scratch.Set "idx" 1 }}
 										{{ range first 4 (where (where .Site.Pages.ByDate ".Params.destacat" true) ".Params.language" .Site.Language.Lang)}}
-										<div class="col-xs-12 col-md-3 difusionsHomeList" role="article">
-											<a href="{{.Permalink}}" class="card-absolute-link"></a>
-											<div class="card" role="region" aria-label="Texto descriptivo" >
+										
+
+										<div class="col-xs-12 col-md-3 difusionsHomeList" role="region">
+                
+											<div class="card">
+												<a href="{{.Permalink}}" aria-labelledby='x{{$.Scratch.Get "idx"}}' tabindex="-1" class="card-absolute-link" aria-hidden="true"></a>
 												<div class="card__image">
-													{{with .Params.general.img}}<img src="{{.}}" alt="Texto alternativo">{{end}}
+													<img src="{{with .Params.general.img}}{{.}}{{end}}" alt="">
 												</div>
 												<div class="card__contents" >
-													<p class="text-big text font-alternate">{{with .Params.general.titol}}{{.}}{{end}}</p>
+													<h3 class="h5 text font-alternate"><a id='x{{$.Scratch.Get "idx"}}' href="{{.Permalink}}">{{.Params.general.titol}}<span class="visually-hidden">{{T "uoc_ri_difusions_link"}}</span></a></h3>
+													{{ with .Params.general.entrada}}<p class="text-small text font-alternate"><blockquote class="pullquote">{{.}}</blockquote></p>{{end}}
 												</div>
 												<div class="card__footer">
-													<div class="float-left p-left-x  icon icon--external-link"></div>
-													<div class="float-right p-right-x">{{.Type}}</div>
+													<span class="float-left p-left-x  icon icon--external-link" aria-hidden="true"></span>
+													<span class="float-right p-right-x"><span class="visually-hidden">Tag: </span>{{if eq .Type "noticia" }}{{ T "uoc_ri_noticia" }}{{else}}{{ T "uoc_ri_esdeveniment" }}{{end}}</span>
 												</div>
 											</div>
 										</div>
+										{{ $.Scratch.Set "idx" (add ($.Scratch.Get "idx") 1) }}
 										{{ end }}
 								</div>
 							</div>

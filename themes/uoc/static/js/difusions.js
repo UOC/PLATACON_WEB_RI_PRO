@@ -6,29 +6,31 @@ jQuery(document).ready(function ($) {
     allDifusions = allDifusions.concat(restaDifusions);
 
     console.log(allDifusions);
-    
+    var idx=2;
     for(var difusio of allDifusions){
-        difusionsList.push(getResultMarkup(difusio));
+		difusionsList.push(getResultMarkup(difusio, idx));
+		idx+=1;
     }
     initPagination(difusionsList);
 })
 
-function getResultMarkup(difusio){
+function getResultMarkup(difusio, idx){
 
     var label;
-    if(difusio.type == 'noticies') label = noticiaLabel;
-    else if(difusio.type == 'esdeveniments') label = esdevenimentLabel;
+    if(difusio.type == 'noticia') label = noticiaLabel;
+    else if(difusio.type == 'esdeveniment') label = esdevenimentLabel;
 
-    var markup='<div class="col-xs-6 col-md-3" role="article" data-id="">';
-    markup+='<a href="' + difusio.link + '" class="card-absolute-link"></a>';
-    markup+='<div class="card" role="region" aria-label="Texto descriptivo" >';
-    markup+='<div class="card__image">';
-    if(difusio.img) markup+='<img src="'+ difusio.img + '" alt="Texto alternativo">';
-    markup+='</div>';
-    markup+='<div class="card__contents" >';
-    if(difusio.titol) markup+='<p class="text-big text font-alternate">' + difusio.titol+ '</p>'
-    markup+='</div><div class="card__footer"><div class="float-left p-left-x  icon icon--external-link"></div>';
-    markup+='<div class="float-right p-right-x">'+ label +'</div>';
+    var markup='<div class="col-xs-6 col-md-3" role="listitem" data-id="">';
+    	
+		markup+='<div class="card">';
+			markup+='<a href="' + difusio.link + '" class="card-absolute-link" aria-hidden="true" aria-labelledby="x'+ idx +'" tabindex="-1"></a>';
+    		markup+='<div class="card__image">';
+    			if(difusio.img) markup+='<img src="'+ difusio.img + '" alt="">';
+    			markup+='</div>';
+    	markup+='<div class="card__contents" >';
+    if(difusio.titol) markup+='<h3 class="h5 text font-alternate"><a id="x' + idx + '" href="'+ difusio.link +'">' + difusio.titol + '<span class="visually-hidden">' + LinkLang + '</span></a></h3>'
+    markup+='</div><div class="card__footer"><span class="float-left p-left-x  icon icon--external-link" aria-hidden="true"></span>';
+	markup+='<span class="float-right p-right-x"><span class="visually-hidden">Tag: </span>'+ label +'</span>';
     markup+='</div></div>';
     markup+='</div>';
 
@@ -88,3 +90,8 @@ function initPagination(dataset) {
 	    pageRange: 1
 	});	
 }
+
+$(".link-trigger").click(function() {
+    window.location = $(this).find("a").attr("href");
+    return false;
+});

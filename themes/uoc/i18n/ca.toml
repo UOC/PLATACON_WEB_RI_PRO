@@ -62,7 +62,7 @@
 
 
 [uoc_grup_footer_explore] other = "Explora" 
-[uoc_grup_footer_explore_days] other = "Jornadas"
+[uoc_grup_footer_explore_days] other = "Difusió i Jornades"
 [uoc_grup_footer_explore_prod] other = "Producció científica"
 [uoc_grup_footer_explore_projects] other = "Projectes d'R+I"
 [uoc_grup_footer_explore_memos] other = "Memòries d'R+I"
@@ -100,7 +100,7 @@
 [uoc_grup_footer_social] other = "Xarxes socials (ca)" 
 [uoc_grup_footer_social_more] other = "Més" 
 [uoc_grup_footer_social_twitter_account1] other = "@UOCorst" 
-[uoc_grup_footer_social_twitter_account2] other = "@UOCuniversitat" 
+[uoc_grup_footer_social_twitter_account2] other = "@UOC_research" 
 
 [uoc_grup_footer_links_new_window] other = "(El link s'obre en finestra nova)" 
 
@@ -121,7 +121,7 @@
 [uoc_ri_cercador_cercaper] other = "Cerca per:"
 [uoc_ri_cercador_cercapersector] other = "Cerca per sector productiu:"
 [uoc_ri_cercador_esborrafiltres] other = "Esborrar filtres"
-[uoc_ri_cercador_cercar] other = "Paraules a cercar"
+[uoc_ri_cercador_cercar] other = "Cercar"
 
 [uoc_ri_cercador_filtres_ambitsespecialitzacio] other = "Àmbits d'especialització"
 [uoc_ri_cercador_filtres_ods] other = "Objectius ODS"
@@ -180,14 +180,14 @@
 [uoc_language_close] other = "Tancar idioma (x)"
 [uoc_mainmenu_label] other = "Menú principal"
 
-[uoc_ri_tipologia] other = 'Tipología'
+[uoc_ri_tipologia] other = 'Tipologia'
 [uoc_ri_sector] other = 'Sector'
 [uoc_ri_centre] other = 'Centre'
 [uoc_ri_keywords] other = 'Keywords'
 [uoc_ri_about_tec] other = 'Sobre la tecnologia'
 [uoc_ri_about_pat] other = 'Sobre la patent'
 [uoc_ri_about_serv] other = 'Sobre el servei'
-[uoc_ri_about_spin] other = 'Sobre el spin-off'
+[uoc_ri_about_spin] other = "Sobre l'spin-off"
 [uoc_ri_aspect_innov] other = 'Aspectes Innovadors'
 [uoc_ri_apps] other = 'Aplicacions'
 [uoc_ri_research_groups] other = 'Grups de Recerca'
@@ -210,3 +210,11 @@
 [uoc_ri_noticia] other = "#Notícia"
 [uoc_ri_esdeveniment] other = "#Esdeveniment"
 [uoc_ri_casos_link] other = "Enllaç al cas d'èxit"
+
+[uoc_ri_cercador_llista_simple] other = "Vista de llista"
+[uoc_ri_cercador_llista_bloc] other = "Vista de bloc"
+[uoc_ri_cercador_paraulesACercar] other = "Paraules a cercar"
+
+[uoc_ri_esdeveniment_inscripcio] other = "Inscripció"
+
+[uoc_ri_difusions_link] other = "Enllaç extern"

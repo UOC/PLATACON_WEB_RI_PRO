@@ -100,7 +100,7 @@
 [uoc_grup_footer_social] other = "Xarxes socials (ca)" 
 [uoc_grup_footer_social_more] other = "Més" 
 [uoc_grup_footer_social_twitter_account1] other = "@UOCorst" 
-[uoc_grup_footer_social_twitter_account2] other = "@UOCuniversitat" 
+[uoc_grup_footer_social_twitter_account2] other = "@UOC_research" 
 
 [uoc_grup_footer_links_new_window] other = "(El link s'obre en finestra nova)" 
 
@@ -121,7 +121,7 @@
 [uoc_ri_cercador_cercaper] other = "Busca por:"
 [uoc_ri_cercador_cercapersector] other = "Busca por sector productivo:"
 [uoc_ri_cercador_esborrafiltres] other = "Borrar filtros"
-[uoc_ri_cercador_cercar] other = "Palabras de búsqueda"
+[uoc_ri_cercador_cercar] other = "Buscar"
 
 [uoc_ri_cercador_filtres_ambitsespecialitzacio] other = "Ámbitos de especialización"
 [uoc_ri_cercador_filtres_ods] other = "Objetivos ODS"
@@ -188,9 +188,9 @@
 [uoc_ri_about_pat] other = 'Sobre la patente'
 [uoc_ri_about_serv] other = 'Sobre el servicio'
 [uoc_ri_about_spin] other = 'Sobre el spin-off'
-[uoc_ri_aspect_innov] other = 'Aspectes Innovadores'
+[uoc_ri_aspect_innov] other = 'Aspectos Innovadores'
 [uoc_ri_apps] other = 'Aplicaciones'
-[uoc_ri_research_groups] other = 'Grupos de Recerca'
+[uoc_ri_research_groups] other = 'Grupos de investigación'
 [uoc_ri_researchers] other = 'Investigadores'
 [uoc_ri_contacte] other = 'Contacto'
 [uoc_ri_casos_exit] other = "Casos de Éxito"
@@ -211,3 +211,10 @@
 [uoc_ri_esdeveniment_Quan] other = "Cuándo"
 [uoc_ri_casos_link] other = "Enlace al caso de éxito"
 
+[uoc_ri_cercador_llista_simple] other = "Vista de lista"
+[uoc_ri_cercador_llista_bloc] other = "Vista de bloque"
+[uoc_ri_cercador_paraulesACercar] other = "Palabras de búsqueda"
+
+[uoc_ri_esdeveniment_inscripcio] other = "Inscripción"
+
+[uoc_ri_difusions_link] other = "Enlace externo"
