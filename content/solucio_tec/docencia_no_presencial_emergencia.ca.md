@@ -3,9 +3,9 @@ title: Docència no presencial emergència
 language: ca
 general:
   nom: Docència no presencial d'emergència
-  text_breu: ""
-  slogan: "Docència no presencial d'emergència: recursos impartits en línia per
+  text_breu: "Docència no presencial d'emergència: recursos impartits en línia per
     professorat de la UOC"
+  slogan: ""
   img_background: /img/ig_es.jpg
   sector: Educació - eLearning
   centre: Estuids
