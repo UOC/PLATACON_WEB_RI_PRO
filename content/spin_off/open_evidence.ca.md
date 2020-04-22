@@ -7,18 +7,16 @@ general:
     - value: eSalut
     - value: Dades
   logo: /img/logo_openevidence.jpg
-  nom: ' Open Evidence'
+  nom: " Open Evidence"
   sector: Salut - eHealth
-  slogan: >-
-    Apliquem informació sobre ciències socials i del comportament, proporcionant
-    als governs i organitzacions investigacions que fonamenten decisions
-    informades sobre evidències per afrontar alguns dels principals reptes del
-    món.
-  text_breu: >-
-    Recerca i consultoria que es troba a la intersecció de la tecnologia i la
-    societat
+  slogan: Apliquem informació sobre ciències socials i del comportament,
+    proporcionant als governs i organitzacions investigacions que fonamenten
+    decisions informades sobre evidències per afrontar alguns dels principals
+    reptes del món.
+  text_breu: Recerca i consultoria que es troba a la intersecció de la tecnologia
+    i la societat
   xarxes:
-    - address: 'https://open-evidence.com/'
+    - address: https://open-evidence.com/
       xarxa: facebook
 about:
   - descripcio: >-
@@ -30,22 +28,11 @@ about:
       **Els trets diferenciadors de la seva activitat són:**
 
 
-      * Metodologies i dissenys presentats i compartits en obert: el disseny de
-      recerca i les metodologies aplicades per l’empresa són sempre
-      transparents, verificables i compartides en obert amb els seus clients i
-      amb la comunitat d’investigadors i professionals mitjançant processos de
-      consulta i de validació.
+      * Metodologies i dissenys presentats i compartits en obert: el disseny de recerca i les metodologies aplicades per l’empresa són sempre transparents, verificables i compartides en obert amb els seus clients i amb la comunitat d’investigadors i professionals mitjançant processos de consulta i de validació.
 
-      * Caixes negres obertes: Open Evidence obre les «caixes negres» de models
-      empírics complexos i de tècniques sofisticades d’econometria i
-      d’estadística per a garantir que els resultats de les seves anàlisis de
-      dades i les seves simulacions de modelització són fàcils de fer servir i
-      d’entendre.
+      * Caixes negres obertes: Open Evidence obre les «caixes negres» de models empírics complexos i de tècniques sofisticades d’econometria i d’estadística per a garantir que els resultats de les seves anàlisis de dades i les seves simulacions de modelització són fàcils de fer servir i d’entendre.
 
-      * Oberts a la innovació i el compromís de les parts interessades:
-      l’enfocament no és mai tecnocràtic ni vertical, sinó que mira d’incloure
-      perspectives i coneixements de totes les parts interessades, per mitjà de
-      processos de consulta i de compromís col·laboratiu oberts i en línia.
+      * Oberts a la innovació i el compromís de les parts interessades: l’enfocament no és mai tecnocràtic ni vertical, sinó que mira d’incloure perspectives i coneixements de totes les parts interessades, per mitjà de processos de consulta i de compromís col·laboratiu oberts i en línia.
 
 
       Destaquen projectes en els àmbits següents:\
@@ -53,28 +40,23 @@ about:
       Projectes de neuroeconomia/neuromàrqueting:
 
 
-      * Estudi sobre jocs d’apostes en línia i mesures adequades per a la
-      protecció dels consumidors d’aquests serveis.
+      * Estudi sobre jocs d’apostes en línia i mesures adequades per a la protecció dels consumidors d’aquests serveis.
 
-      * Avaluació d’opcions d’etiquetatge de vehicles pel que fa al CO2 i a la
-      informació per al consumidor.
+      * Avaluació d’opcions d’etiquetatge de vehicles pel que fa al CO2 i a la informació per al consumidor.
 
       * Estudi de l’etiquetatge i l’empaquetament del tabac.
 
-      * Estudi de l’impacte del màrqueting en mitjans socials, jocs en línia i
-      aplicacions mòbils sobre la conducta infantil.
+      * Estudi de l’impacte del màrqueting en mitjans socials, jocs en línia i aplicacions mòbils sobre la conducta infantil.
 
 
       **Projectes de salut electrònica:**
 
 
-      * Desplegament de benchmarking sobre salut electrònica entre metges de
-      primària.
+      * Desplegament de benchmarking sobre salut electrònica entre metges de primària.
 
       * Atenció integrada a regions europees.
 
-      * Estudi d’indicadors d’innovació i de cost-efectivitat en salut
-      electrònica.
+      * Estudi d’indicadors d’innovació i de cost-efectivitat en salut electrònica.
 
 
       Innovació Oberta:
@@ -96,17 +78,15 @@ about:
 productes_serveis: []
 casos_exit: []
 grups_recerca:
-  - id: '2202'
+  - id: "2202"
     name: GADE
-    description: 'eGovernança: administració i democràcia electrònica'
-    url: 'https://transfer-research.am.pre.uoc.es/ca/gade.html'
-    url_img: >-
-      https://transfer-research.am.pre.uoc.es/img/api/grupsrecerca/22/image/1581319786424
+    description: "eGovernança: administració i democràcia electrònica"
+    url: https://transfer.research.uoc.edu/ca/gade.html
+    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/22/image/1579101717481
 investigadors:
-  - id: '18608302'
-    name: 'Garcia Alsina, Montserrat'
-    url: 'https://talent.am.pre.uoc.es/ca/garcia-alsina-montserrat.html'
-    url_img: 'https://talent.am.pre.uoc.es/img/api/pdi/186083/image/1571921035749'
+  - id: "18608302"
+    name: Garcia Alsina, Montserrat
+    url: https://talent.uoc.edu/ca/montserrat-garcia-alsina.html
+    url_img: https://talent.uoc.edu/img/api/pdi/186083/image/1574088471013
 contacte: []
 ---
-
