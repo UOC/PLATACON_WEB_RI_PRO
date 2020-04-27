@@ -27,8 +27,6 @@ descripcio:
     l'Educació](https://www.uoc.edu/portal/ca/estudis_arees/psicologia_ciencies_educacio/index.html).
 
 
-
-
     **Rentar-se les mans més i millor**
 
 
@@ -38,8 +36,6 @@ descripcio:
     Els experts apunten que, després de setmanes a casa per mandat governamental, és probable que un percentatge rellevant de la població «pateixi **cansament mental, es relaxi davant d'aquestes mesures** i no es renti les mans amb la cura que pertoca», com assenyala Armayones. El professor de la UOC, que també és investigador del grup de recerca Psicologia, Salut i Xarxa ([PSiNET](http://transfer.rdi.uoc.edu/ca/grup/psicologia-salut-i-xarxa)), afirma que també és probable que algunes de les **indicacions que fan les institucions** en aquest sentit per diferents canals puguin **perdre en bona part l'efecte** per ajudar a complir les mesures d'higiene i precaució que cal seguir.
 
 
-
-
     **Recordar no tocar-se la cara**
 
 
@@ -47,8 +43,6 @@ descripcio:
 
 
     Per evitar-ho, els experts apunten **maneres que ens ajuden a recordar que no ens hem de tocar el rostre**. Descartant opcions que no semblen factibles per al dia a dia, com seria portar un casc integral al cap quan sortim a comprar, Armayones exemplifica que una bona manera és «vestir **màniga llarga** i, si ens hem de tocar la cara o rascar-nos-la, ho fem amb la mateixa màniga». Un altre exemple que destaca l'expert de la UOC per no tocar-nos la cara mentre estem asseguts és posa r**les mans sota les natges**.
-
-
 
 
     **Hàbits en temps d'excepcionalitat**
@@ -69,11 +63,7 @@ descripcio:
     Aleshores és difícil que, amb motiu de la pandèmia, establim l'hàbit de rentar-nos les mans correctament i recordem que no ens hem de tocar la cara? «La COVID-19 ens obliga a adquirir una sèrie d'hàbits molt ràpidament. El repte és que **els hem d'introduir a les nostres rutines diàries** o, en el cas de no tocar-se la cara, hem de ser capaços de no fer una cosa que ja era un hàbit molt ben establert per a la immensa majoria de les persones», apunta Armayones. Per a l'investigador és important prendre consciència de generar nous hàbits, encara que pugui implicar un esforç addicional, «perquè trenca la nostra cadena de comportaments. Si ho anem repetint i sobretot **ens felicitem i celebrem cada cop que ho fem**—com ara cantant una de les nostres cançons preferides—, aconseguirem automatitzar-lo molt ràpidament», puntualitza.
 
 
-
-
-    **Començar per un detall petit i avançar molt a poc a poc** i d'una manera gradual. Aquesta seria l'estratègia denominada «passos de nadó» per establir nous hàbits, teoritzada pel professor Brian Jeffrey Fogg, de la Universitat de Stanford, al seu llibre *Tiny Habits*. «Es tracta d'anar fent cada cop una miqueta més, però sempre pensant que el nostre compromís amb nosaltres mateixos només és arribar a petites metes. Per exemple, si vull desenvolupar l'hàbit de**fer exercici a casa**i em costa molt posar-m'hi, podria començar per fer un "pas de nadó" com ara ballar la meva cançó preferida durant uns segons. Això em permetrà aconseguir un primer triomf i adonar-me que puc fer alguna activitat per mantenir-me en forma, per petita que sigui, i, a poc a poc, avançar», analitza Armayones. El professor Fogg també proposa determinar un moment clau durant el dia per establir aquest nou comportament, com podria ser després dels aplaudiments de les 20 h. I, per acabar, el professor de Stanford apunta que cal celebrar els nostres petits èxits. «Es tractaria de fer una petita celebració, com donar-me l'enhorabona, fer un gest de victòria o el que considerem», aclareix Armayones. «Si ho fem així, segurament tindrem ben establert el nou hàbit més aviat del que ens pensem. És fàcil, costa poc provar-ho i a més funciona», assegura l'investigador de la UOC.
-
-
+    **Començar per un detall petit i avançar molt a poc a poc** i d'una manera gradual. Aquesta seria l'estratègia denominada «passos de nadó» per establir nous hàbits, teoritzada pel professor Brian Jeffrey Fogg, de la Universitat de Stanford, al seu llibre *Tiny Habits*. «Es tracta d'anar fent cada cop una miqueta més, però sempre pensant que el nostre compromís amb nosaltres mateixos només és arribar a petites metes. Per exemple, si vull desenvolupar l'hàbit de **fer exercici a casa**i em costa molt posar-m'hi, podria començar per fer un "pas de nadó" com ara ballar la meva cançó preferida durant uns segons. Això em permetrà aconseguir un primer triomf i adonar-me que puc fer alguna activitat per mantenir-me en forma, per petita que sigui, i, a poc a poc, avançar», analitza Armayones. El professor Fogg també proposa determinar un moment clau durant el dia per establir aquest nou comportament, com podria ser després dels aplaudiments de les 20 h. I, per acabar, el professor de Stanford apunta que cal celebrar els nostres petits èxits. «Es tractaria de fer una petita celebració, com donar-me l'enhorabona, fer un gest de victòria o el que considerem», aclareix Armayones. «Si ho fem així, segurament tindrem ben establert el nou hàbit més aviat del que ens pensem. És fàcil, costa poc provar-ho i a més funciona», assegura l'investigador de la UOC.
 
 
     **Difusió d'estratègies per millorar els hàbits contra la COVID-19**
