@@ -40,6 +40,8 @@ about:
 
 
       <!--EndFragment-->
+    video_list:
+      - video: UeYcUb2vOLw
 aspectes_innovadors:
   - titol: SpeakApps_aspectes
     descripcio: >-
