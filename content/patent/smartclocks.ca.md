@@ -15,7 +15,7 @@ about:
       <!--StartFragment-->
 
 
-      **Patent no. PCT/EP2016/067541**
+      **Patent nº. PCT/EP2016/067541**
 
 
       Data de prioritat: 22/07/16
