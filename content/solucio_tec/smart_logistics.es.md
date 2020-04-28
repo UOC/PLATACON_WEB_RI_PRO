@@ -108,4 +108,5 @@ investigadors:
     url_img: https://talent.uoc.edu/img/api/pdi/199841/image/1585666126241
 contacte:
   - email: transfer_ari@uoc.edu
+    video: F9MD_IgBiMc
 ---
