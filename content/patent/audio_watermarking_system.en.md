@@ -62,6 +62,8 @@ about:
       <!--EndFragment-->
     video_list:
       - video: hlrFaaRyDrA
+    docs_rels:
+      - file: /img/brochure_-_audiowatermarking_system.pdf
 aspectes_innovadors:
   - titol: Audio watermrking_innovation
     descripcio: >-
