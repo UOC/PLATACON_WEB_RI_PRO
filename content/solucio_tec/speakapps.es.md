@@ -15,6 +15,7 @@ general:
       address: https://twitter.com/speakapps
     - xarxa: facebook
       address: https://www.youtube.com/user/SpeakApps
+  logo: /img/speakapplogo.png
 about:
   - titol: SpeakApps_descripcion
     descripcio: >-
