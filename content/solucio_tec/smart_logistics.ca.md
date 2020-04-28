@@ -10,6 +10,9 @@ general:
     de simulació per a generar solucions pseudoòptimes en la presa de decisions
     en problemes complexos en condicions d’incertesa"
   text_breu: ""
+  xarxes:
+    - address: http://dpcs.uoc.edu/wordpress/
+      xarxa: web
 about:
   - descripcio: >-
       <!--StartFragment-->
