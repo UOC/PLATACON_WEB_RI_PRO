@@ -58,6 +58,18 @@ aplicacions:
 
 
       <!--EndFragment-->
+
+
+      Clientes:
+
+
+      <!--StartFragment-->
+
+
+      Entre los clientes de esta herramienta encontramos centros de educación de varios tipos: centros de formación profesional, centros de educación secundaria y universidades.
+
+
+      <!--EndFragment-->
 contacte:
   - email: transfer_ari@uoc.edu
     video: F9MD_IgBiMc
