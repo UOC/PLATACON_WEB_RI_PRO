@@ -2,7 +2,7 @@
 title: eLearnCourt
 language: es
 general:
-  nom: eLearnCourt
+  nom: eLearnCOURT
   text_breu: "eLearnCOURT: Herramienta para el aprendizaje en línea de la
     negociación, la mediación, la conciliación y el arbitraje"
   img_background: /img/eleancourt_1.jpg
