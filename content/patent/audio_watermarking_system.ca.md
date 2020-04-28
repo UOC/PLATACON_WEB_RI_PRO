@@ -55,6 +55,8 @@ about:
       <!--EndFragment-->
     docs_rels:
       - file: /img/uocs_audiowatermarking_system_brochure.pdf
+    video_list:
+      - video: hlrFaaRyDrA
 aspectes_innovadors:
   - titol: Audio watermarking_aspectes
     descripcio: >-
