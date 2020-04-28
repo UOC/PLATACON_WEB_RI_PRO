@@ -11,7 +11,7 @@ general:
   xarxes:
     - xarxa: web
       address: http://dpcs.uoc.edu/wordpress/
-  img_background: /img/35870472491_cb3a156788_w.jpg
+  img_background: /img/35163823714_5988ddfcaa_w.jpg
 about:
   - descripcio: >-
       <!--StartFragment-->
