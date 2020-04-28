@@ -62,6 +62,6 @@ aplicacions:
 investigadors:
   - {}
 contacte:
-  - email: trasnfer_ari@uoc.edu
+  - email: transfer_ari@uoc.edu
     video: F9MD_IgBiMc
 ---
