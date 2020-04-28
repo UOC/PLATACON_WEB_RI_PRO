@@ -1,9 +1,9 @@
 ---
-title: eLearnCourt
+title: eLearnCOURT
 language: en
 general:
-  nom: eLearnCourt
-  text_breu: "eLearnCourt: Tool for the online learning of negotiation, mediation,
+  nom: eLearnCOURT
+  text_breu: "eLearnCOURT: Tool for the online learning of negotiation, mediation,
     conciliation and arbitration."
   img_background: /img/eleancourt_1.jpg
   sector: Education - eLearning
