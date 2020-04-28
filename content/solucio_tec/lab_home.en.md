@@ -54,6 +54,18 @@ aplicacions:
 
 
       <!--EndFragment-->
+
+
+      <!--StartFragment-->
+
+
+      Clients: 
+
+
+      Customers of this tool include different types of educational institution: vocational training schools, secondary schools and universities.
+
+
+      <!--EndFragment-->
 contacte:
   - email: transfer_ari@uoc.edu
     video: F9MD_IgBiMc
