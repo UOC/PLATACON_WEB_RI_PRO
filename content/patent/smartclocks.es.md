@@ -15,6 +15,12 @@ about:
       <!--StartFragment-->
 
 
+      **Patente nº. PCT/EP2016/067541**
+
+
+      Fecha de prioridad: 22/07/16
+
+
       SMARTCLOCKS es un nuevo método, de bajo coste y de bajo consumo energético que ajusta los relojes de los dispositivos inalámbricos para garantizar una mejor precisión de la sincronización —hasta diez veces superior a las actuales soluciones de alta precisión— así como un 30 % menos de consumo de energía.
 
 
