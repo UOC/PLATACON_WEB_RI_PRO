@@ -15,6 +15,12 @@ about:
       <!--StartFragment-->
 
 
+      **Patent no. PCT/EP2016/067541**
+
+
+      Data de prioritat: 22/07/16
+
+
       SMARTCLOCKS és un nou mètode, de baix cost i de baix consum energètic que ajusta els rellotges dels dispositius sense fils per a garantir una millor precisió de la sincronització —fins a deu vegades superior a les actuals solucions d’alta precisió— i també un 30% menys de consum d’energia.
 
 
