@@ -14,6 +14,12 @@ about:
       <!--StartFragment-->
 
 
+      **Patent no. PCT/EP2016/067541**
+
+
+      Priority date: 22/07/16
+
+
       SMARTCLOCKS is a novel, low-cost and energy-efficient method that aligns the clocks of wireless devices to guarantee improved synchronization accuracy by up to 10 times when compared to the current high-accuracy solutions while using 30% less energy.
 
 
