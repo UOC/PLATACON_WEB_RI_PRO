@@ -61,8 +61,10 @@ about:
 
 
       <!--EndFragment-->
-    docs_rels:
-      - file: /img/care_respite_esquema.jpg
+
+
+      ![](/img/care_respite_esquema.jpg)
+    docs_rels: []
 aspectes_innovadors:
   - titol: Care Respite_aspectes
     descripcio: >-
