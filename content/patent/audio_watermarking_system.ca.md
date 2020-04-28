@@ -54,7 +54,7 @@ about:
 
       <!--EndFragment-->
     docs_rels:
-      - file: /img/uocs_audiowatermarking_system_brochure.pdf
+      - file: /img/brochure_-_audiowatermarking_system.pdf
     video_list:
       - video: hlrFaaRyDrA
 aspectes_innovadors:
