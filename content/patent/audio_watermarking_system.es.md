@@ -40,7 +40,7 @@ about:
     video_list:
       - video: hlrFaaRyDrA
     docs_rels:
-      - file: /img/oferta_tecnologica_-_audiowatermarking_system.pdf
+      - file: /img/brochure_-_audiowatermarking_system.pdf
 aspectes_innovadors:
   - titol: Audio watermarking_aspectos
     descripcio: >-
