@@ -53,6 +53,18 @@ about:
 
 
       <!--EndFragment-->
+
+
+      <!--StartFragment-->
+
+
+      *Amb el suport d’**[ACCIÓ - Agència per la Competitivitat de l’Empresa (Generalitat de Catalunya)](http://www.accio.gencat.cat/ca/inici)***
+
+
+      ![](/img/logo_accio_petit.jpg)
+
+
+      <!--EndFragment-->
     docs_rels:
       - file: /img/brochure_-_audiowatermarking_system.pdf
     video_list:
