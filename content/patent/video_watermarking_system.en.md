@@ -15,6 +15,12 @@ about:
       <!--StartFragment-->
 
 
+      **Patent nº. PCT/EP2017/057426**
+
+
+      Priority date: 29/03/17
+
+
       A video watermark is a sequence of bits embedded in a video signal. They are imperceptible to the human senses and are only detected by devices such as smartphones or tablets. A watermark contains unique identifiers of both the portion of the video[](<>)from which the mark was extracted and the distribution source to which the content can be credited.
 
 
