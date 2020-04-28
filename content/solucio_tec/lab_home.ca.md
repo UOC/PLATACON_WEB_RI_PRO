@@ -62,6 +62,18 @@ aplicacions:
 
 
       Entre els clients d’aquesta eina hi ha centres d’educació de diversos tipus: centres de formació professional, centres d’educació secundària i universitats.
+
+
+      Clients:
+
+
+      <!--StartFragment-->
+
+
+      Entre els clients d’aquesta eina hi ha centres d’educació de diversos tipus: centres de formació professional, centres d’educació secundària i universitats.
+
+
+      <!--EndFragment-->
 grups_recerca:
   - {}
 contacte:
