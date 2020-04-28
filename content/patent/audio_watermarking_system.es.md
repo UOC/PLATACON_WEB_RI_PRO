@@ -16,6 +16,21 @@ about:
       <!--StartFragment-->
 
 
+      **Patent nº. PCT/EP2013/074971**
+
+
+      **Patent nº. US 15/039,666**
+
+
+      **Patent nº. EP13799269**
+
+
+      Fecha de prioridad: 28/11/13
+
+
+      <!--EndFragment-->
+
+
       Una marca de agua de audio es una secuencia de bits incrustados en una señal de audio transmitida (televisión, radio o internet). Son imperceptibles para los sentidos humanos y solo pueden ser detectados por dispositivos como teléfonos inteligentes o tabletas. Una marca de agua contiene identificadores únicos tanto de la parte de audio de la que se ha extraído la marca como de la fuente de distribución en la que se puede acreditar el contenido.
 
 
@@ -34,6 +49,20 @@ about:
       4. Alta capacidad (más de 1.000 bits por segundo).
 
       5. No hace falta acceso a internet para que los usuarios ejecuten el sistema.
+
+
+      <!--EndFragment-->
+
+
+
+
+      <!--StartFragment-->
+
+
+      *Con el apoyo de**[ACCIÓ - Agència per la Competitivitat de l’Empresa (Generalitat de Catalunya)](http://www.accio.gencat.cat/ca/inici)***
+
+
+      ![](/img/logo_accio_petit.jpg)
 
 
       <!--EndFragment-->
