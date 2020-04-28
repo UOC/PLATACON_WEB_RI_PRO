@@ -74,22 +74,17 @@ aplicacions:
 
         Clients:
 
-        <!--StartFragment-->
-
         \- Aplicació realitat augmentada en el Cosmo Caixa
 
         \- El model educatiu de la UOC amb realitat augmentada
 
-        <!--EndFragment-->
-
         \- Visites immobiliàries virtuals amb Solvia
-
-
-
-        <!--EndFragment-->
     titol: Aplicació
     video_list:
       - video: z0QueSx6J0o
       - video: xJo5DTu4uKo
       - video: V060nGTsq7s
+contacte:
+  - video: F9MD_IgBiMc
+    email: transfer_ari@uoc.edu
 ---
