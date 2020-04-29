@@ -20,6 +20,8 @@ general:
       xarxa: web
     - xarxa: twitter
       address: https://twitter.com/openevidence?lang=ca
+    - xarxa: facebook
+      address: https://www.facebook.com/pg/OpenEvidence/posts/
 about:
   - descripcio: >-
       Els professionals d’Open Evidence són professors, investigadors i
