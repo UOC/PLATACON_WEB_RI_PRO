@@ -24,6 +24,9 @@ about:
       <!--StartFragment-->
 
 
+      Open Evidence es una empresa surgida de la Universitat Oberta de Catalunya que trabaja en el ámbito de la consultoría
+
+
       Los profesionales de Open Evidence son profesores, investigadores y consultores con más de veinte años de experiencia en la investigación aplicada y la consultoría.
 
 
