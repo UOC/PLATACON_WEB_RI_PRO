@@ -89,6 +89,11 @@ aplicacions:
 
 
       <!--EndFragment-->
+investigadors:
+  - id: "22479602"
+    name: Megías Jiménez, David
+    url: https://talent.uoc.edu/ca/david-megias-jimenez.html
+    url_img: https://talent.uoc.edu/img/api/pdi/224796/image/1588156888077
 contacte:
   - text: "Knowledge, Transfer & Entrepreneurship "
     email: trasnfer_ari@uoc.edu
