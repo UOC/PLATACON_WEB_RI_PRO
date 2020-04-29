@@ -18,6 +18,8 @@ general:
   xarxes:
     - address: https://open-evidence.com/
       xarxa: web
+    - xarxa: twitter
+      address: https://twitter.com/openevidence?lang=ca
 about:
   - descripcio: >-
       Els professionals d’Open Evidence són professors, investigadors i
@@ -91,4 +93,6 @@ investigadors:
 contacte:
   - text: Open Evidence
     email: info@open-evidence.com
+    address: Carrer Almogàvers, 165 08018 Barcelona, Spain
+    telefon: (+34) 696 21 36 79
 ---
