@@ -24,9 +24,11 @@ general:
       address: https://www.facebook.com/pg/OpenEvidence/posts/
 about:
   - descripcio: >-
-      Els professionals d’Open Evidence són professors, investigadors i
-      consultors amb més de vint anys d’experiència en la recerca aplicada i la
-      consultoria.
+      Open Evidence és una empresa sorgida de la Universitat Oberta de Catalunya
+      que treballa en l’àmbit de la consultoria. 
+
+
+      Els professionals d’Open Evidence són professors, investigadors i consultors amb més de vint anys d’experiència en la recerca aplicada i la consultoria.
 
 
       **Els trets diferenciadors de la seva activitat són:**
