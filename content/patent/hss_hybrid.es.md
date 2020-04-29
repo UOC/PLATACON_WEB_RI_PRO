@@ -2,7 +2,7 @@
 title: HSS_Hybrid
 language: es
 general:
-  nom: HSS_Hybrid
+  nom: HSS_Hybrid Self-Scheduled Protocol
   slogan: Haz que tu red IoT tenga un rendimiento de hasta el 99% de ahorro de
     energía, incluso con una configuración dinámica y transmisiones a ráfagas.
   img_background: /img/hss_imatge_repetidor.png
