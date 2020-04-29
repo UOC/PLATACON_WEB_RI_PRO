@@ -17,7 +17,7 @@ general:
     i la societat
   xarxes:
     - address: https://open-evidence.com/
-      xarxa: facebook
+      xarxa: web
 about:
   - descripcio: >-
       Els professionals d’Open Evidence són professors, investigadors i
@@ -88,5 +88,7 @@ investigadors:
     name: Garcia Alsina, Montserrat
     url: https://talent.uoc.edu/ca/montserrat-garcia-alsina.html
     url_img: https://talent.uoc.edu/img/api/pdi/186083/image/1574088471013
-contacte: []
+contacte:
+  - text: Open Evidence
+    email: info@open-evidence.com
 ---
