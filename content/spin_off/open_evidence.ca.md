@@ -37,7 +37,7 @@ about:
       * Caixes negres obertes: Open Evidence obre les «caixes negres» de models empírics complexos i de tècniques sofisticades d’econometria i d’estadística per a garantir que els resultats de les seves anàlisis de dades i les seves simulacions de modelització són fàcils de fer servir i d’entendre.
 
       * Oberts a la innovació i el compromís de les parts interessades: l’enfocament no és mai tecnocràtic ni vertical, sinó que mira d’incloure perspectives i coneixements de totes les parts interessades, per mitjà de processos de consulta i de compromís col·laboratiu oberts i en línia.
-    titol: Sobre
+    titol: Open Evidence_cat
     docs_rels: []
 productes_serveis:
   - descripcio: >-
