@@ -37,11 +37,18 @@ about:
       * Caixes negres obertes: Open Evidence obre les «caixes negres» de models empírics complexos i de tècniques sofisticades d’econometria i d’estadística per a garantir que els resultats de les seves anàlisis de dades i les seves simulacions de modelització són fàcils de fer servir i d’entendre.
 
       * Oberts a la innovació i el compromís de les parts interessades: l’enfocament no és mai tecnocràtic ni vertical, sinó que mira d’incloure perspectives i coneixements de totes les parts interessades, per mitjà de processos de consulta i de compromís col·laboratiu oberts i en línia.
+    titol: Sobre
+    docs_rels: []
+productes_serveis:
+  - descripcio: >-
+      
+
+      Destaquen projectes en els àmbits següents:
 
 
-      Destaquen projectes en els àmbits següents:\
+      \
 
-      Projectes de neuroeconomia/neuromàrqueting:
+      **Projectes de neuroeconomia/neuromàrqueting:**
 
 
       * Estudi sobre jocs d’apostes en línia i mesures adequades per a la protecció dels consumidors d’aquests serveis.
@@ -63,7 +70,7 @@ about:
       * Estudi d’indicadors d’innovació i de cost-efectivitat en salut electrònica.
 
 
-      Innovació Oberta:
+      **Innovació Oberta:**
 
 
       * Innovació Oberta de la Fundació Jaume Bofill.
@@ -77,21 +84,20 @@ about:
       * Mercat de dades europeu.
 
       * Estudi sobre l’ús de tecnologies socials en petites i mitjanes empreses.
-    titol: Sobre
-    docs_rels: []
-productes_serveis: []
+    titol: Open Evidence_serveis
+clients:
+  - titol: Open Evidence_clients
+    descripcio: >-
+      <!--StartFragment-->
+
+
+      Open Evidence s’adreça al sector públic i privat d’àmbit internacional. Entre els seus clients hi ha organismes com la Comissió Europea; entitats sense ànim de lucre, com la Fundació Jaume Bofill, i institucions públiques, com el Departament de Desenvolupament i Cohesió Econòmica (Ministeri de Foment, Itàlia).
+
+
+      <!--EndFragment-->
 casos_exit: []
-grups_recerca:
-  - id: "2202"
-    name: GADE
-    description: "eGovernança: administració i democràcia electrònica"
-    url: https://transfer.research.uoc.edu/ca/gade.html
-    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/22/image/1579101717481
-investigadors:
-  - id: "18608302"
-    name: Garcia Alsina, Montserrat
-    url: https://talent.uoc.edu/ca/montserrat-garcia-alsina.html
-    url_img: https://talent.uoc.edu/img/api/pdi/186083/image/1574088471013
+grups_recerca: []
+investigadors: []
 contacte:
   - text: Open Evidence
     email: info@open-evidence.com
