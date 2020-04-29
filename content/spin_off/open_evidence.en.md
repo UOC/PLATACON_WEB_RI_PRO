@@ -16,6 +16,7 @@ general:
       address: https://twitter.com/OpenEvidence
     - xarxa: facebook
       address: https://www.facebook.com/pg/OpenEvidence/posts/
+  logo: /img/logo_openevidence.jpg
 about:
   - titol: Open Evidence_en
     descripcio: >-
