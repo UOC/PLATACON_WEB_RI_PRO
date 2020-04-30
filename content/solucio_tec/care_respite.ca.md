@@ -60,7 +60,10 @@ aplicacions:
 
       <!--EndFragment-->
 investigadors:
-  - {}
+  - id: "63980502"
+    name: Baró Solé, Xavier
+    url: https://talent.uoc.edu/ca/xavier-baro-sole.html
+    url_img: https://talent.uoc.edu/img/api/pdi/639805/image/1588154058963
 contacte:
   - email: transfer_ari@uoc.edu
     video: F9MD_IgBiMc
