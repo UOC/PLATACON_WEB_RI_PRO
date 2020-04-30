@@ -98,6 +98,11 @@ clients:
 
 
       <!--EndFragment-->
+investigadors:
+  - id: "39288202"
+    name: Lupiáñez Villanueva, Francisco
+    url: https://talent.uoc.edu/ca/francisco-lupianez-villanueva.html
+    url_img: https://talent.uoc.edu/img/api/pdi/392882/image/1588172709040
 contacte:
   - text: Open Evidence
     address: Almogàvers, 165   08018 Barcelona, Spain
