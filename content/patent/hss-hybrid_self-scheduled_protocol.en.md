@@ -98,6 +98,11 @@ aplicacions:
 
 
       <!--EndFragment-->
+investigadors:
+  - id: "42075402"
+    name: Vilajosana Guillén, Xavier
+    url: https://talent.uoc.edu/ca/xavier-vilajosana-guillen.html
+    url_img: https://talent.uoc.edu/img/api/pdi/420754/image/1588231887989
 contacte:
   - text: Knowledge, Transfer & Entrepreneurship
     email: "transfer_ari@uoc.edu "
