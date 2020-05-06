@@ -80,7 +80,10 @@ aplicacions:
       tracta d’una tecnologia idònia per a persones i institucions que dediquin
       la seva activitat a la cura de persones dependents.
 investigadors:
-  - {}
+  - id: "63980502"
+    name: Baró Solé, Xavier
+    url: https://talent.uoc.edu/ca/xavier-baro-sole.html
+    url_img: https://talent.uoc.edu/img/api/pdi/639805/image/1588154058963
 contacte:
   - text: "Knowledge, Transfer & Entrepreneurship "
     email: transfer_ari@uoc.edu
