@@ -85,6 +85,15 @@ aplicacions:
 
 
       <!--EndFragment-->
+investigadors:
+  - id: "42075402"
+    name: Vilajosana Guillén, Xavier
+    url: https://talent.uoc.edu/ca/xavier-vilajosana-guillen.html
+    url_img: https://talent.uoc.edu/img/api/pdi/420754/image/1588231887989
+  - id: "53724602"
+    name: Adelantado Freixer, Ferran
+    url: https://talent.uoc.edu/ca/ferran-adelantado-freixer.html
+    url_img: https://talent.uoc.edu/img/api/pdi/537246/image/1588234736244
 contacte:
   - text: Knowledge, Transfer & Entrepreneurship
     video: F9MD_IgBiMc
