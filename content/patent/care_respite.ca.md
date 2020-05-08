@@ -24,9 +24,6 @@ about:
       **Titularitat: Compartida: CVC, ACCEPLAN, UB, UAB i UOC**
 
 
-      <!--StartFragment-->
-
-
       Aquesta invenció ofereix una alternativa a l’estat de la qüestió anterior, amb l’objectiu de proporcionar un mètode i un sistema per fer el monitoratge remot d’un usuari. A més, és capaç de treballar amb usuaris no identificats i, per tant, no té la necessitat d’utilitzar les dades històriques dels usuaris.\
 
       Aquesta invenció fa referència a tres elements:
@@ -60,7 +57,6 @@ about:
       Un altre element de la invenció és un programa informàtic que inclou instruccions de codi que, quan s’executen en un ordinador, implementen tots els passos del mètode del primer element de la invenció, llevat dels d’adquisició de dades d’usuari multimodals.
 
 
-      <!--EndFragment-->
 
 
       ![](/img/care_respite_esquema.jpg)
