@@ -48,7 +48,7 @@ contacte:
   - text: "Knowledge, Transfer & Entrepreneurship Unit . Àrea de Recerca i Innovació
       "
     email: "transfer_ari@uoc.edu "
-    address: Parc Mediterrani de la Tecnologia.  Av Carl Friedrich Gauss, 5. Edifici
-      B3 08860 Castelldefels (Barcelona)
+    address: "Parc Mediterrani de la Tecnologia.  Av Carl Friedrich Gauss, 5.
+      Edifici B3 08860 Castelldefels (Barcelona). "
     telefon: "Telèfon: 934 505 200"
 ---
