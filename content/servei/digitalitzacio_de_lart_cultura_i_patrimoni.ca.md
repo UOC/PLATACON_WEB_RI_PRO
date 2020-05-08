@@ -7,7 +7,7 @@ general:
   img_background: /img/detall_solucions_principal.png
 about:
   - descripcio: >-
-      * #### **Estudis de la cultura digital a la societat** 
+      * #### **Estudis de la cultura digital a la societat**
 
         Estudi de la cultura digital, analitzant les transformacions de diferents pràctiques (cinema, art, joc, fotografia, periodisme, etc) en entorns tecnològics (xarxes socials, webs, YouTube i altres mitjans).  
 
@@ -26,7 +26,7 @@ about:
         5. Estudi dels **nous models de patrimoni** en la societat digital i l'ús d'eines mèdia aplicades al patrimoni (ús de xarxes socials aplicades als museus, concepte de museu 2.0).
 
 
-      * #### **Desenvolupament d'aplicacions tecnològiques per a la indústria cultural** 
+      * #### **Desenvolupament d'aplicacions tecnològiques per a la indústria cultural**
 
         Invenció d'aplicacions per a institucions, empreses i entitats per  a la creació, gestió i producció d'elements culturals. Ús de tecnologies disruptives com visió per computadors, reconeixement d'objectes i escenes i intel•ligència artificial amb implicacions emocionals entre d'altres.
 
