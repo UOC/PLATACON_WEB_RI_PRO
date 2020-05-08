@@ -83,4 +83,20 @@ about:
       2. Creació d’**aplicacions tecnològiques** amb finalitats didàctiques
 
       3. Creació, implementació i avaluació de **tecnologies d'ajut a la traducció** (traducció automàtica, traducció assistida per ordinador)
+grups_recerca:
+  - id: "6102"
+    name: ALTER
+    description: Crisi, alteritat i representació..
+    url: https://transfer.research.uoc.edu/ca/alter.html
+    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/61/image/1576236141533
+  - id: "8402"
+    name: LiCMES
+    description: Literatura Catalana, Món Editorial i Societat
+    url: https://transfer.research.uoc.edu/ca/licmes.html
+    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/84/image/1576237395373
+  - {}
+contacte:
+  - text: Knowledge Transfer & Entrepreneurship - Unit Àrea de Recerca i Innovació
+    email: transfer_ari@uoc.edu
+    telefon: 934 505 200
 ---
