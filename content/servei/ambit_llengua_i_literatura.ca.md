@@ -96,7 +96,7 @@ grups_recerca:
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/84/image/1576237395373
   - {}
 contacte:
-  - text: Knowledge Transfer & Entrepreneurship - Unit Àrea de Recerca i Innovació
+  - text: Knowledge Transfer & Entrepreneurship  Unit - Àrea de Recerca i Innovació
     email: transfer_ari@uoc.edu
     telefon: 934 505 200
 ---
