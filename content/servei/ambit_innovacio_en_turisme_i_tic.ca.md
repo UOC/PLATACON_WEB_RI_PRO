@@ -13,7 +13,7 @@ general:
     - value: desenvolupament local
     - value: competitivitat
 about:
-  - titol: SERVEIS OFERTS EN L'ÀMBIT DE LA INNOVACIÓ EN TURISME I TIC
+  - titol: turisme_serveis
     descripcio: >-
       #### Aplicació de la responsabilitat social i estratègies de cooperació a
       la indústria turística i de l'oci 
