@@ -2,7 +2,7 @@
 title: Digitalització de l'art, cultura i patrimoni
 language: ca
 general:
-  nom: Digitalització de l'art, cultura i patrimoni
+  nom: "ÀMBIT:  Digitalització de l'art, cultura i patrimoni"
   sector: Art, Turisme i Llengües
   img_background: /img/detall_solucions_principal.png
 about:
