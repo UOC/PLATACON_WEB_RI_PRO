@@ -34,4 +34,10 @@ about:
         2. **Aplicacions de Visió per Computador en entorns naturals:** algoritmes aplicables al reconeixement d’objectes en entorns naturals amb aplicacions a tecnologies mòbils (telefonia i tablets)
     titol: Digitalització_serveis
 grups_recerca: []
+contacte:
+  - text: Knowledge Transfer & Entrepreneurship Unit - Àrea de Recerca i Innovació
+    address: Parc Mediterrani de la Tecnologia Av Carl Friedrich Gauss, 5. Edifici
+      B3.  08860 Castelldefels (Barcelona)
+    telefon: "Telèfon: 934 505 200"
+    email: transfer_ari@uoc.edu
 ---
