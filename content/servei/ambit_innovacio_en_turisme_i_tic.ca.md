@@ -1,8 +1,8 @@
 ---
-title: "ÀMBIT:  Innovació en turisme i TIC"
+title: "Àmbit: INNOVACIÓ EN TURISME I TIC"
 language: ca
 general:
-  nom: "ÀMBIT:  Innovació en turisme i TIC"
+  nom: "Àmbit: INNOVACIÓ EN TURISME I TIC"
   img_background: /img/35870472491_cb3a156788_w.jpg
   sector: Art, Turisme i Llengües
   keywords:
