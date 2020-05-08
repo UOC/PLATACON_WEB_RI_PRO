@@ -1,5 +1,5 @@
 ---
-title: Digitalització de l'art, cultura i patrimoni
+title: "ÀMBIT:  Digitalització de l'art, cultura i patrimoni"
 language: ca
 general:
   nom: "ÀMBIT:  Digitalització de l'art, cultura i patrimoni"
