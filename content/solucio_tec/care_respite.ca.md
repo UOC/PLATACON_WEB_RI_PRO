@@ -15,19 +15,16 @@ general:
 about:
   - titol: Care_Respite_descripcio
     descripcio: >-
-      <!--StartFragment-->
-
-
-      El sistema **Care Respite** està format per una càmera vinculada a un programari d’alertes que permet, mitjançant visió artificial, identificar situacions de perill en persones amb dependència, i alertar els cuidadors per tal de posar-hi solució.
+      El sistema **Care Respite** està format per una càmera vinculada a un
+      programari d’alertes que permet, mitjançant visió artificial, identificar
+      situacions de perill en persones amb dependència, i alertar els cuidadors
+      per tal de posar-hi solució.
 
 
       Es tracta d’un sistema fàcil d’instal·lar i configurar: senzillament es col·loca la càmera al lloc que es consideri oportú, se seleccionen les opcions d’avís al dispositiu mòbil i el sistema està llest per a ser utilitzat.
 
 
       [Care Respite](https://www.uoc.edu/portal/es/news/actualitat/2015/135-care-respite.html) permet visualitzar i verificar el motiu de la incidència i comunicar els cuidadors amb la persona dependent, mitjançant l’opció de veu direccional.
-
-
-      <!--EndFragment-->
     video_list:
       - video: 45daHE2EQCM
 aspectes_innovadors:
