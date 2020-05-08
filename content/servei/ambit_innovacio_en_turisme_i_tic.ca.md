@@ -15,8 +15,13 @@ general:
 about:
   - titol: turisme_serveis
     descripcio: >-
-      #### Aplicació de la responsabilitat social i estratègies de cooperació a
-      la indústria turística i de l'oci 
+      Els serveis oferts pels grups de recerca i els investigadors en aquest
+      àmbit són els següents:
+
+
+
+
+      #### Aplicació de la responsabilitat social i estratègies de cooperació a la indústria turística i de l'oci
 
 
       Suport en la millora de la oferta, l'estudi i l'experiència turística a través del desenvolupament de projectes que en millorin la sostenibilitat i cooperació entre els actors implicats:
@@ -27,9 +32,7 @@ about:
       2. Estudis per a la identificació, disseny i avaluació de **projectes de cooperació en turisme**, fent especial èmfasi en la variable gènere i sosteniblitat.
 
 
-
-
-      #### Plans estratègics per a destinacions turístiques i desenvolupament del territori 
+      #### Plans estratègics per a destinacions turístiques i desenvolupament del territori
 
 
       Definició de plans estratègics i innovadors pel desenvolupament turístic i d'oci a través d'estudis dinàmics i experimentals combinant teoria de les ciències socials i investigació empírica:
