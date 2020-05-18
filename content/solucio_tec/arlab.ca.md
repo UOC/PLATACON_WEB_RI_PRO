@@ -14,7 +14,7 @@ general:
       address: http://in3.uoc.edu/opencms_in3/opencms/webs/projectes/realitat_augmentada/ca/index.html
 about:
   - descripcio: >-
-      ***Realitat augmentada***(RA) és el terme que s’utilitza per a definir la
+      ***Realitat augmentada*** (RA) és el terme que s’utilitza per a definir la
       imatge que es pot veure a través d’un dispositiu tecnològic (telèfon
       intel·ligent, tauleta...), directament o indirecta, d’un **entorn físic**
       del món **real**, **combinat** amb **elements virtuals** (vídeo, àudio,
