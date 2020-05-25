@@ -15,10 +15,9 @@ general:
 about:
   - titol: eLearnCourt_descripcio
     descripcio: >-
-      <!--StartFragment-->
-
-
-      eLearnCOURT és un entorn virtual multiidioma per a la formació pràctica de les diferents modalitats de resolució de conflictes. El seu objectiu és l’aprenentatge d’habilitats relacionades amb la mediació i l’arbitratge.
+      eLearnCOURT és un entorn virtual multiidioma per a la formació pràctica de
+      les diferents modalitats de resolució de conflictes. El seu objectiu és
+      l’aprenentatge d’habilitats relacionades amb la mediació i l’arbitratge.
 
 
       Aquesta eina integra diferents espais de treball en línia, tant síncrons com asíncrons, on es porta a terme un pràcticum en el qual els estudiants, organitzats en equips, assumeixen els rols de reclamants, reclamats, mediadors, conciliadors i àrbitres, respectivament, i resolen un cas real.
@@ -36,9 +35,6 @@ about:
       * Desenvolupin habilitats de treball en equip i coordinació d’esforços.
 
       * Millorin les seves competències amb la resolució amistosa dels conflictes.
-
-
-      <!--EndFragment-->
     video_list:
       - video: S-G4ei63Sqg
 aspectes_innovadors:
