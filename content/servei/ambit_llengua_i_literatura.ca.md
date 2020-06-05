@@ -94,7 +94,6 @@ grups_recerca:
     description: Literatura Catalana, Món Editorial i Societat
     url: https://transfer.research.uoc.edu/ca/licmes.html
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/84/image/1576237395373
-  - {}
 contacte:
   - text: Knowledge Transfer & Entrepreneurship  Unit - Àrea de Recerca i Innovació
     email: transfer_ari@uoc.edu
