@@ -18,10 +18,10 @@ general:
 about:
   - titol: SpeakApps_descripcio
     descripcio: >-
-      <!--StartFragment-->
-
-
-      SpeakApps representa una solució innovadora per a l’ensenyament d’idiomes amb eines i materials en línia dissenyats específicament perquè els estudiants d’idiomes puguin practicar i millorar les competències orals en l’aprenentatge d’una llengua. SpeakApps consta de quatre eines:
+      SpeakApps representa una solució innovadora per a l’ensenyament d’idiomes
+      amb eines i materials en línia dissenyats específicament perquè els
+      estudiants d’idiomes puguin practicar i millorar les competències orals en
+      l’aprenentatge d’una llengua. SpeakApps consta de quatre eines:
 
 
       * Langblog: audioblog/videoblog pensat per a l’aprenentatge amb activitats orals.
@@ -37,9 +37,6 @@ about:
 
 
       A més, la comunitat de SpeakApps, dirigida a professors de llengües, desenvolupadors de tecnologies d’aprenentatge i tot tipus d’institucions relacionades amb l’ensenyament de llengües, promou la contribució i l’intercanvi de continguts, serveis i pedagogies per a l’ensenyament de llengües.
-
-
-      <!--EndFragment-->
     video_list:
       - video: UeYcUb2vOLw
 aspectes_innovadors:
