@@ -1,0 +1,3818 @@
+
+
+[
+	
+	
+		{		  
+		
+		"type" : "add",
+		"id" : "9bf6b28b261bc7a671a93ebbe13969b5",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "alfa",
+
+			"name" : "SpeakApps",
+			"text_breu" : "Eines i activitats per a l’aprenentatge oral de les llengües",
+			"eslogan" : "Faig una prova",
+			"imatge_url" : "/img/0a5e3d8399408516a201716607daee9dc776694d.png",
+			"centre" : "Estudis",
+			"sector" : "Educació - eLearning",
+			"logo_url": "/img/speakapplogo.png",
+			
+				
+					
+				
+					
+				
+				
+				"keywords": ["lorem","ipsum"],
+			
+			
+				
+					
+				
+				
+				"xarxes_address": ["http://speakapps.rdi.uoc.edu/"],
+			
+
+			"about_title": "Sobre alfa",
+			"about_descripcio": "SpeakApps representa una solució innovadora per a l’ensenyament d’idiomes amb eines i materials en línia dissenyats específicament perquè els estudiants d’idiomes puguin practicar i millorar les competències orals en l’aprenentatge d’una llengua.  SpeakApps consta de quatre eines: \n\n* Langblog: audioblog/videoblog pensat per a l’aprenentatge amb activitats orals.  \n* Tandem: eina que permet als estudiants realitzar activitats per parelles que fomentin la pràctica oral. Distribueix materials en temps real per a potenciar la interacció entre els estudiants.\n* Videochat: eina que permet fer sessions de videoconferència amb fins a sis persones, que facilita als estudiants organitzar i enregistrar sessions sense la presència del professor i permet al professor escoltar i avaluar les intervencions individuals de cada participant.\n* Open Educational Resources (OER): eina de creació i edició d’activitats i materials per a l’ensenyament d’idiomes en línia que inclou un repositori de materials amb llicència Creative Commons.  Les eines poden integrar-se fàcilment en qualsevol plataforma educativa compatible amb l’estàndard LTI d’IMS Global.\\\n\nA més, la comunitat de SpeakApps, dirigida a professors de llengües, desenvolupadors de tecnologies d’aprenentatge i tot tipus d’institucions relacionades amb l’ensenyament de llengües, promou la contribució i l’intercanvi de continguts, serveis i pedagogies per a l’ensenyament de llengües.",
+
+			
+			
+				"asp_innov_title": "Aspectes innovadors SpeakApps",
+				"asp_innov_descripcio": "SpeakApps permet dur a terme activitats per a la pràctica oral d’una llengua en línia, que tradicionalment s’han realitzat presencialment: alumnes i professors poden interactuar de manera flexible, fàcil i intuïtiva, simplificant les interfícies i unificant formats. Això millora l’experiència educativa, ja que centra els esforços en l’aprenentatge i evita la dispersió en l’ús de la tecnologia.\n\nS’ha comprovat que amb l’ús de SpeakApps:\n\n* Els alumnes augmenten el sentiment de pertinença de grup, tenen més motivació i s’incrementa la qualitat de l’aprenentatge d’habilitats de la parla.\n* Els professors disposen d’eines i recursos més potents per a promoure i avaluar la pràctica oral de llengües entre els alumnes.\n\nSpeakApps ha estat guardonat amb la medalla de plata a la convocatòria dels premis Learning Impact 2014, organitzats per l’IMS Global Learning Consortium, una entitat sense ànim de lucre que vol impulsar el creixement i l’impacte de les tecnologies d’aprenentatge en l’ensenyament superior.",
+				"app_title": "Aplicacions",
+				"app_descripcio": "SpeakApps està inicialment pensat per a l’ensenyament de llengües a distància, però també es pot fer servir com a reforç de la pràctica oral en models presencials o mixtos. La UOC ofereix una sèrie de serveis perquè les entitats interessades puguin treure el màxim profit de SpeakApps:\n\n* Servei d’integració en la plataforma educativa de l’entitat.\n* Servei SAAS (accés a les eines al núvol en cas de no disposar de plataforma educativa).\n* Suport tècnic (per a problemes en la instal·lació, per a manteniment, etc.).\n* Suport pedagògic (adaptació d’activitats a ensenyament en línia).\n* Formació (eines SpeakApps, ensenyament virtual, etc.).",
+			
+			
+			
+			
+			
+			
+				
+					
+				
+					
+				
+
+				
+				"investigadors": ["Creus Quinteros, Amalia Susana","Prado Fonts, Carles"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["SpeakApps"],
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				"contacts_address": ["Adreça"],
+				"contacts_phone": ["12345"],
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/ca/solucio_tec/alfa.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "8f645ba7d551a9dcf137a10451f5c6a7",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "ARLab",
+
+			"name" : "ARLab",
+			"text_breu" : "ARLab: Creació d'experiències de Realitat Augmentada",
+			"eslogan" : " ",
+			"imatge_url" : "/img/arlab.jpg",
+			"centre" : "Estuids",
+			"sector" : "Economia, empresa i TIC",
+			
+			
+			
+				
+					
+				
+				
+				"xarxes_address": ["http://in3.uoc.edu/opencms_in3/opencms/webs/projectes/realitat_augmentada/ca/index.html"],
+			
+
+			"about_title": "Realitat Augmentada",
+			"about_descripcio": "***Realitat augmentada***(RA) és el terme que s’utilitza per a definir la imatge que es pot veure a través d’un dispositiu tecnològic (telèfon intel·ligent, tauleta...), directament o indirecta, d’un **entorn físic** del món **real**, **combinat** amb **elements virtuals** (vídeo, àudio, imatges, animacions 3D, webs) per a la creació d’una realitat mixta en temps real.\n\nLa realitat augmentada no és una **tecnologia**nova, però sí **emergent**. L’avenç tecnològic, la presència creixent de telèfons amb connexió a internet i la cultura del nou consumidor estan assentant aquesta tecnologia, que **permet infinitat de possibilitats**.",
+
+			
+			
+				"asp_innov_title": "aplicació",
+				"asp_innov_descripcio": "L’aplicació de la realitat augmentada proporciona els beneficis següents:\n\n* **Incrementa** el **compromís** i la **interacció** amb l’**usuari** i proporciona una experiència més rica.\n* Incrementa el **valor percebut** dels productes i les marques per part dels usuaris.\n* És una tecnologia **mòbil**i**personal** i, per tant, summament **accessible** a un mercat amb una alta taxa de penetració de dispositius mòbils.\n* És una alternativa econòmica de comunicació.\n* Permet tenir a l’abast una **anàlisi detallada** sobre els **usuaris/consumidors**.",
+				"app_title": "Aplicació",
+				"app_descripcio": "La realitat augmentada pot aplicar-se a tots els sectors productius. L’experiència de la UOC se centra en la creació d’experiències de RA per als àmbits de l’educació, la cultura, el turisme i la publicitat. Alguns exemples d’aplicacions en aquests àmbits són: \n\n**Educació**\n\n* Contextualització i aclariment de conceptes en llibres de text: \n\n  * Incloure vídeos o models 3D interactius que expliquin de forma clara algun concepte. Incloure aplicacions interactives que serveixin per a la pràctica d’un tema i puguin ser o complementar els deures.\n  * Contextualització històrica/cultural/social en sortides escolars: Crear rutes educatives enriquides amb continguts digitals com ara vídeos, models 3D, llocs web, etc. \n\n**Cultura i publicitat** \n\n* Dinamitzar visites a museus, centres culturals i exposicions, i donar-hi publicitat, mitjançant el reconeixement d’imatges associant informació digital a obres d’art, restes arqueològiques, catàlegs en paper, catàlegs digitals, fulls de mà, anuncis, aparadors, etc.\n* Proporcionar informació addicional d’espectacles i esdeveniments, facilitant informació en passar per davant de teatres, sales de cinema i locals, o en enfocar amb el mòbil una banderola o un cartell publicitari.\n\n**Turisme** \n\n* Enriquir paisatges, patrimoni cultural, rutes turístiques o punts d’interès, i donar-hi publicitat, mitjançant la geolocalització, associant informació digital a un conjunt qualsevol de punts geogràfics o amb el reconeixement d’imatges .\n* Convertir les visites en gimcanes per a fomentar que el turista acabi les rutes i visiti tots els punts d’interès de la ruta.\n* Viatjar en el temps: poder veure una zona ambientada en una època determinada.\n\n  Clients:\n\n  \\- Aplicació realitat augmentada en el Cosmo Caixa\n\n  \\- El model educatiu de la UOC amb realitat augmentada\n\n  \\- Visites immobiliàries virtuals amb Solvia",
+			
+			
+			
+			
+			
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/ca/solucio_tec/arlab.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "851ec8bea37f75acf726276b725bc266",
+		"fields" : {
+
+			"idioma": "es",
+			"title": "ARLab",
+
+			"name" : "ARLab: Creación de experiencias de realidad aumentada",
+			"text_breu" : "ARLab: Creación de experiencias de realidad aumentada",
+			
+			"imatge_url" : "/img/arlab.jpg",
+			"centre" : "Estuids",
+			"sector" : "Economía, empresa y TIC",
+			
+			
+			
+				
+					
+				
+				
+				"xarxes_address": ["http://in3.uoc.edu/opencms_in3/opencms/webs/projectes/realitat_augmentada/ES/index.html"],
+			
+
+			"about_title": "ARLab_descripcion",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\n***Realidad aumentada***(RA) es el término que se utiliza para definir la imagen que se puede ver a través de un dispositivo tecnológico (teléfono inteligente, tableta…), directa o indirectamente, de un**entorno físico**del mundo**real**,**combinado**con**elementos virtuales**(vídeo, audio, imágenes, animaciones 3D, webs) para la creación de una realidad mixta en tiempo real.\n\nLa realidad aumentada no es una**tecnología**nueva, pero sí**emergente**. El avance tecnológico, la presencia creciente de teléfonos con conexión a internet y la cultura del nuevo consumidor están asentando esta tecnología, que**permite infinidad de posibilidades**.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+				"asp_innov_title": "ARLab_aspectos",
+				"asp_innov_descripcio": "\u003c!--StartFragment--\u003e\n\nLa aplicación de la realidad aumentada proporciona los beneficios siguientes:\n\n•**Incrementa**el**compromiso**y la**interacción**con el**usuario**y proporciona una experiencia más rica.\n\n• Incrementa el**valor percibido**de los productos y las marcas por parte de los usuarios.\n\n• Es una tecnología**móvil**y**personal**y, por tanto, sumamente**accesible**en un mercado con una alta tasa de penetración de dispositivos móviles.\n\n• Es una alternativa económica de comunicación.\n\n• Permite tener al alcance un**análisis detallado**sobre los**usuarios/consumidores**.\n\n\u003c!--EndFragment--\u003e",
+				"app_title": "ARLab_aplicaciones",
+				"app_descripcio": "\u003c!--StartFragment--\u003e\n\nLa**realidad aumentada**puede aplicarse a todos los sectores productivos. La experiencia de la UOC se centra en la creación de experiencias de RA para los ámbitos de la**educación**, la**cultura**, el**turismo**y la**publicidad**. Algunos ejemplos de aplicaciones en estos ámbitos son:\n\n**• Educación:**\n\no Contextualización y aclaración de conceptos en libros de texto:\n\n\\- Incluir vídeos o modelos 3D interactivos que expliquen de forma clara algún concepto.\n\n\\- Incluir aplicaciones interactivas que sirvan para la práctica de un tema y puedan ser o complementar los deberes.\n\no Contextualización histórica/cultural/social en salidas escolares:\n\n\\- Crear rutas educativas enriquecidas con contenidos digitales como vídeos, modelos 3D, sitios web, etc.\n\n**• Cultura y publicidad:**\n\no Dinamizar y publicitar visitas a museos, centros culturales y exposiciones mediante el reconocimiento de imágenes asociando información digital en obras de arte, restos arqueológicos, catálogos en papel, catálogos digitales, octavillas, anuncios, escaparates, etc.\n\no Proporcionar información adicional de espectáculos y eventos, facilitando información al pasar por delante de teatros, salas de cine y locales, o al enfocar con el móvil una banderola o cartel publicitario.\n\n**• Turismo:**\n\no Enriquecer y publicitar paisajes, patrimonio cultural, rutas turísticas o puntos de interés mediante la geolocalización, asociando información digital a un conjunto cualquiera de puntos geográficos o con el reconocimiento de imágenes .\n\no Convertir las visitas en gincanas para fomentar que el turista termine las rutas y visite todos los puntos de interés de la ruta.\n\no Viajar en el tiempo: poder ver una zona ambientada en una época determinada.\n\no Ofrecer descuentos promocionales por medio del reconocimiento de imágenes.\n\n\u003c!--EndFragment--\u003e\n\n\n\nClientes: \n\n\u003c!--StartFragment--\u003e\n\n\\- Experiencia de realidad aumentada sobre el cráneo del Triceratops expuesto en el CosmoCaixa\n\n\\- Modelo educativo de la UOC con realidad aumentada\n\n\\- Visitas inmobiliarias virtuales con Solvia\n\n\n\n\u003c!--StartFragment--\u003e",
+			
+			
+			
+			
+			
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/es/solucio_tec/arlab.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "29cc3c820b927ae507c65340198887b3",
+		"fields" : {
+
+			"idioma": "en",
+			"title": "ARTLab",
+
+			"name" : "ARTLab",
+			"text_breu" : "ARLab: Creation of Augmented Reality experiences",
+			
+			"imatge_url" : "/img/arlab.jpg",
+			"centre" : "Estuids",
+			"sector" : "Economy, business and ICT",
+			
+			
+			
+				
+					
+				
+				
+				"xarxes_address": ["http://in3.uoc.edu/opencms_in3/opencms/webs/projectes/realitat_augmentada/EN/index.html"],
+			
+
+			"about_title": "ARTLab_desc_en",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\nAugmented reality (AR) is the term used to define the direct or indirect viewing through a technology device (smartphone, tablet, etc.) of a physical environment of the real world, combined with virtual elements (video, audio, images, 3D animations, websites) for the creation of a mixed reality in real time.\\\nAugmented reality is not a new technology but an emerging one. Advances in technology, the growing presence of telephones with an Internet connection and the new consumer culture are laying the basis for this technology, which offers endless possibilities.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+				"asp_innov_title": "ARTLAB_iinovation",
+				"asp_innov_descripcio": "\u003c!--StartFragment--\u003e\n\nThe use of augmented reality provides the following benefits:\\\n• It increases the commitment and interaction with the user and provides a richer experience.\\\n• It increases the users' perceived value of products and brands.\\\n• It is a mobile and personal technology and is therefore highly accessible in a market with a high level of penetration of mobile devices.\\\n• It is an economical communication alternative.\\\n• It offers detailed analysis regarding the users/consumers.\n\n\u003c!--EndFragment--\u003e",
+				"app_title": "ARTLab_applications",
+				"app_descripcio": "\u003c!--StartFragment--\u003e\n\nAugmented reality can be applied to all productive sectors. The experience of the UOC centres in the creation of AR experiences for the fields of education, culture, tourism and advertising. Some examples of applications in these fields are:\\\n• Education:\\\no Contextualization and clarification of concepts in text books:\\\n- Include videos or interactive 3D models that explain a concept clearly.\\\n- Include interactive apps that help practise a subject and that can comprise or complement homework.\\\no Historical / cultural / social contextualization on school trips:\\\n- Create educational routes enriched with digital content such as videos, 3D models, web pages, etc.\\\n• Culture and advertising:\\\no Animate and advertise visits to museums, arts centres and exhibitions through image recognition, associating digital information with works of art, archaeological remains, paper catalogues, digital catalogues, programmes, advertisements, window displays, etc.\\\no Provide additional information about shows and events, offering information when passing in front of theatres, cinemas and premises or when pointing the mobile at a banner or advertising poster.\\\n• Tourism:\\\no Enhance and advertise landscapes, cultural heritage, tourist trails or points of interest through geolocation, associating digital information with any set of geographical points or using image recognition.\\\no Turn tours into treasure hunts to foster the tourist completing the trail and visiting all the points of interest on the route.\\\no Time travel: to be able to see an area set in a specific era.\\\no Offer promotional discounts through image recognition.\n\n\u003c!--EndFragment--\u003e\n\n\u003c!--StartFragment--\u003e\n\nThe services offered by the UOC in the area of AR are geared towards organizations and small and medium businesses (SME) in the fields of culture, tourism, education and advertising wishing to approach users or customers using new communication channels, making the most of the popularity of mobile devices.\n\n\u003c!--EndFragment--\u003e\n\n\n\nClients:\n\n\\- \u003c!--StartFragment--\u003e\n\n[\\- **Augmented Reality experience on the skull of a Triceratops at the CosmoCaixa Museum**](https://www.youtube.com/watch?v=z0QueSx6J0o\u0026feature=emb_title)\n\nIn this case, an augmented reality experience has been developed for viewing an animated 3D model of a Triceratops with photo-realistic quality based on recognition of the skull exhibited at CosmoCaixa, the Obra Social \"la Caixa\" Science Museum. To view this model, visitors use a smartphone or a tablet.\n\nThe goal was to leverage the possibilities offered by current mobile technology to enrich the exhibition with educational content. Given the good results obtained with this project, CosmoCaixa has decided to continue working with the UOC to create new experiences with other items exhibited at the museum.\n\n[\\- **The UOC's educational model with augmented reality:**](https://www.youtube.com/watch?v=V060nGTsq7s\u0026feature=emb_title)\n\n\u003c!--StartFragment--\u003e\n\nThe goal of this project was to innovate in the communication on \"What it's like to study at the UOC\", targeting future students in particular and, in general, anyone who contacts the UOC's centres, using augmented reality technology. This video shows a report on the UOC's educational model and augmented reality broadcast on EL 9 TV in December 2013.\n\nThe UOC's centres are places that are often the future student's first contact with the UOC to find out how studying is done (educational model), what is studied (contents) and with what means (Virtual Campus and classrooms). Efficiently communicating these aspects to the visitor at the centre is one way of accurately showing what the UOC is and delping the future student in his or her decision to enrol, as well as representing the UOC's image in the territory. Given its function as a cradle for new technologies, any communication made by the UOC with respect to how, what and by what means must necessarily be innovative and attractive.\n\n\u003c!--EndFragment--\u003e\n\n**\\- [Virtual property tours with Solvia:](https://www.youtube.com/watch?v=xJo5DTu4uKo\u0026feature=emb_title)**\n\nThe goal was to offer innovative solutions for promoting Solvia Inmobiliaria's housing stock. These solutions included a Kinect device for navigating with the human body inside a 3D model of a property, a virtual tour using a touch screen to view real 360º graphic material of a dwelling, and interactive print solutions using graphic resources and catalogues.\n\nVisitors to the stand ad BCN Meeting Point 2015 were able to benefit from improved views of the properties for sale using a variety of Augmented Reality techniques. Furthermore, the stand's visitors were offered the possibility of enjoying this experience with tablets provided to them or using their own personal mobile devices connected to the stand's Wi-Fi.\n\n\u003c!--EndFragment--\u003e\n\n\u003c!--EndFragment--\u003e",
+			
+			
+			
+			
+			
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/en/solucio_tec/arlab.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "15706c35037b0fd0f8da005856f24a87",
+		"fields" : {
+
+			"idioma": "en",
+			"title": "ARTLab",
+
+			"name" : "ARTLab",
+			"text_breu" : "ARLab: Creation of Augmented Reality experiences",
+			
+			"imatge_url" : "/img/arlab.jpg",
+			"centre" : "Estuids",
+			"sector" : "Economy, business and ICT",
+			
+			
+			
+				
+					
+				
+				
+				"xarxes_address": ["http://in3.uoc.edu/opencms_in3/opencms/webs/projectes/realitat_augmentada/EN/index.html"],
+			
+
+			"about_title": "ARTLab_desc_en",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\nAugmented reality (AR) is the term used to define the direct or indirect viewing through a technology device (smartphone, tablet, etc.) of a physical environment of the real world, combined with virtual elements (video, audio, images, 3D animations, websites) for the creation of a mixed reality in real time.\\\nAugmented reality is not a new technology but an emerging one. Advances in technology, the growing presence of telephones with an Internet connection and the new consumer culture are laying the basis for this technology, which offers endless possibilities.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+				"asp_innov_title": "ARTLAB_iinovation",
+				"asp_innov_descripcio": "\u003c!--StartFragment--\u003e\n\nThe use of augmented reality provides the following benefits:\\\n• It increases the commitment and interaction with the user and provides a richer experience.\\\n• It increases the users' perceived value of products and brands.\\\n• It is a mobile and personal technology and is therefore highly accessible in a market with a high level of penetration of mobile devices.\\\n• It is an economical communication alternative.\\\n• It offers detailed analysis regarding the users/consumers.\n\n\u003c!--EndFragment--\u003e",
+				"app_title": "ARTLab_applications",
+				"app_descripcio": "\u003c!--StartFragment--\u003e\n\nAugmented reality can be applied to all productive sectors. The experience of the UOC centres in the creation of AR experiences for the fields of education, culture, tourism and advertising. Some examples of applications in these fields are:\\\n• Education:\\\no Contextualization and clarification of concepts in text books:\\\n- Include videos or interactive 3D models that explain a concept clearly.\\\n- Include interactive apps that help practise a subject and that can comprise or complement homework.\\\no Historical / cultural / social contextualization on school trips:\\\n- Create educational routes enriched with digital content such as videos, 3D models, web pages, etc.\\\n• Culture and advertising:\\\no Animate and advertise visits to museums, arts centres and exhibitions through image recognition, associating digital information with works of art, archaeological remains, paper catalogues, digital catalogues, programmes, advertisements, window displays, etc.\\\no Provide additional information about shows and events, offering information when passing in front of theatres, cinemas and premises or when pointing the mobile at a banner or advertising poster.\\\n• Tourism:\\\no Enhance and advertise landscapes, cultural heritage, tourist trails or points of interest through geolocation, associating digital information with any set of geographical points or using image recognition.\\\no Turn tours into treasure hunts to foster the tourist completing the trail and visiting all the points of interest on the route.\\\no Time travel: to be able to see an area set in a specific era.\\\no Offer promotional discounts through image recognition.\n\n\u003c!--EndFragment--\u003e\n\n\u003c!--StartFragment--\u003e\n\nThe services offered by the UOC in the area of AR are geared towards organizations and small and medium businesses (SME) in the fields of culture, tourism, education and advertising wishing to approach users or customers using new communication channels, making the most of the popularity of mobile devices.\n\n\u003c!--EndFragment--\u003e\n\n\n\nClients:\n\n\\- \u003c!--StartFragment--\u003e\n\n[\\- **Augmented Reality experience on the skull of a Triceratops at the CosmoCaixa Museum**](https://www.youtube.com/watch?v=z0QueSx6J0o\u0026feature=emb_title)\n\nIn this case, an augmented reality experience has been developed for viewing an animated 3D model of a Triceratops with photo-realistic quality based on recognition of the skull exhibited at CosmoCaixa, the Obra Social \"la Caixa\" Science Museum. To view this model, visitors use a smartphone or a tablet.\n\nThe goal was to leverage the possibilities offered by current mobile technology to enrich the exhibition with educational content. Given the good results obtained with this project, CosmoCaixa has decided to continue working with the UOC to create new experiences with other items exhibited at the museum.\n\n[\\- **The UOC's educational model with augmented reality:**](https://www.youtube.com/watch?v=V060nGTsq7s\u0026feature=emb_title)\n\n\u003c!--StartFragment--\u003e\n\nThe goal of this project was to innovate in the communication on \"What it's like to study at the UOC\", targeting future students in particular and, in general, anyone who contacts the UOC's centres, using augmented reality technology. This video shows a report on the UOC's educational model and augmented reality broadcast on EL 9 TV in December 2013.\n\nThe UOC's centres are places that are often the future student's first contact with the UOC to find out how studying is done (educational model), what is studied (contents) and with what means (Virtual Campus and classrooms). Efficiently communicating these aspects to the visitor at the centre is one way of accurately showing what the UOC is and delping the future student in his or her decision to enrol, as well as representing the UOC's image in the territory. Given its function as a cradle for new technologies, any communication made by the UOC with respect to how, what and by what means must necessarily be innovative and attractive.\n\n\u003c!--EndFragment--\u003e\n\n**\\- [Virtual property tours with Solvia:](https://www.youtube.com/watch?v=xJo5DTu4uKo\u0026feature=emb_title)**\n\nThe goal was to offer innovative solutions for promoting Solvia Inmobiliaria's housing stock. These solutions included a Kinect device for navigating with the human body inside a 3D model of a property, a virtual tour using a touch screen to view real 360º graphic material of a dwelling, and interactive print solutions using graphic resources and catalogues.\n\nVisitors to the stand ad BCN Meeting Point 2015 were able to benefit from improved views of the properties for sale using a variety of Augmented Reality techniques. Furthermore, the stand's visitors were offered the possibility of enjoying this experience with tablets provided to them or using their own personal mobile devices connected to the stand's Wi-Fi.\n\n\u003c!--EndFragment--\u003e\n\n\u003c!--EndFragment--\u003e",
+			
+			
+			
+			
+			
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/en/solucio_tec/artlab.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "b1c65febee5d62d6cd1df62ddc65fd7c",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "Audio Watermarking System",
+
+			"name" : "Audio Watermarking System",
+			
+			"eslogan" : "Nou sistema de marcatge d’àudio per a publicitat i protecció de continguts. Una eina eficaç per a protegir, sincronitzar i controlar el contingut emès, que millora la seguretat, la participació del client i l’anàlisi.",
+			"imatge_url" : "/img/audio_watermarking_imatge.jpg",
+			"centre" : "IN3",
+			"sector" : "Indústria 4.0",
+			
+			
+			
+
+			"about_title": "Audio watermarking_cat",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\n**Patent nº. PCT/EP2013/074971**\n\n**Patent nº. US 15/039,666**\n\n**Patent nº. EP13799269**\n\nData de prioritat: 28/11/13\n\n\u003c!--EndFragment--\u003e\n\nUna marca d’aigua d’àudio és una seqüència de bits incrustats en un senyal d’àudio transmès (televisió, ràdio o internet). Són imperceptibles per als sentits humans i només poden ser detectats per dispositius com ara telèfons intel·ligents o tauletes. Una marca d’aigua conté identificadors únics tant de la part d’àudio d’on s’ha extret la marca com de la font de distribució en què es pot acreditar el contingut.\n\nLa solució que hem trobat té dos aspectes innovadors: primer, l’ús del domini de Fourier, i segon, l’ús del domini de temps i de freqüència durant la incrustació.\n\nEl nostre sistema té els avantatges següents:\n\n1. Recuperació en temps real de marques d’aigua incrustades fins i tot a distàncies superiors a sis metres del transmissor d’àudio (altres aplicacions d’última generació només poden recuperar fins a una distància d’1,5 metres).\n2. Alta fidelitat i recuperació eficaç fins i tot en condicions adverses, que permeten superar les distorsions de transmissió i el soroll de fons.\n3. Una millor sincronització de temps entre emissor i receptor, de manera que el contingut ocult arriba a l’objectiu en el temps previst.\n4. Alta capacitat (més de 1.000 bits per segon).\n5. No cal accés a internet perquè els usuaris executin el sistema.\n\n\u003c!--EndFragment--\u003e\n\n\u003c!--StartFragment--\u003e\n\n*Amb el suport d’**[ACCIÓ - Agència per la Competitivitat de l’Empresa (Generalitat de Catalunya)](http://www.accio.gencat.cat/ca/inici)***\n\n![](/img/logo_accio_petit.jpg)\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+			
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Megías Jiménez, David"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Knowledge, Transfer \u0026 Entrepreneurship"],
+				"contacts_email": ["transfer_ari@uoc.edu "],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "patent",
+			"url" : "/ca/patent/audio_watermarking_system.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "eaf62824d2cc7b66e70a3803ff4d545b",
+		"fields" : {
+
+			"idioma": "en",
+			"title": "Audio Watermarking System",
+
+			"name" : "Audio Watermarking System",
+			
+			"eslogan" : "New audio watermarking system for advertising and content protection. A robust tool for protecting, synchronizing and monitoring broadcasted content, improving security, customer engagement and analytics.",
+			"imatge_url" : "/img/audio_watermarking_imatge.jpg",
+			"centre" : "IN3",
+			"sector" : "Industry 4.0",
+			
+			
+			
+
+			"about_title": "Audio watermarking_eng",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\n**Patent nº. PCT/EP2013/074971**  \n\n**Patent nº. US 15/039,666** \n\n**Patent nº. EP13799269**\n\nPriority date: 28/11/13\n\nAn audio watermark is a sequence of bits embedded in a streamed audio signal (TV, radio or internet). They are imperceptible to the human senses and are only picked up by devices such as smartphones or tablets. A watermark contains unique identifiers of both the portion of the audio from which the mark was extracted and the distribution source to which the content can be credited.\n\nWe have come up with a solution with **two innovative aspects**: first, the use of the Fourier domain, and second, the use of the time and frequency domains during the embedding.\n\nOur system has the following **advantages**:\n\n1. Real-time recovery of embedded watermarks even at distances over 6 metres from the audio transmitter (other state-of-the-art applications can only recover at distances up to 1.5 metres).\n2. High fidelity and robust recovery even under very difficult conditions, overcoming broadcasting distortions and background noise.\n3. Better time synchronization between emitter and receiver, so the hidden content reaches its target at the right time.\n4. High capacity (over 1000 bits per second).\n5. No internet access needed for users to run the system.\n\n\u003c!--EndFragment--\u003e\n\n\u003c!--StartFragment--\u003e\n\n***Supported by[ACCIÓ – Agency for Business Competitiveness](http://catalonia.com/)***\n\n![](/img/logo_accio_petit.jpg)\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+			
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Megías Jiménez, David"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Knowledge, Transfer \u0026 Entrepreneurship"],
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "patent",
+			"url" : "/en/patent/audio_watermarking_system.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "364efcca8cbfeb4da445ce62a2223c2b",
+		"fields" : {
+
+			"idioma": "es",
+			"title": "Audio Watermarking System",
+
+			"name" : "Audio Watermarking System",
+			
+			"eslogan" : "Nuevo sistema de marcaje de audio para publicidad y protección de contenidos Una herramienta eficaz para proteger, sincronizar y controlar el contenido emitido, que mejora la seguridad, la participación del cliente y el análisis. ",
+			"imatge_url" : "/img/audio_watermarking_imatge.jpg",
+			"centre" : "IN3",
+			"sector" : "industria 4.0",
+			
+			
+			
+
+			"about_title": "Audio watermarking_es",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\n**Patent nº. PCT/EP2013/074971**\n\n**Patent nº. US 15/039,666**\n\n**Patent nº. EP13799269**\n\nFecha de prioridad: 28/11/13\n\n\u003c!--EndFragment--\u003e\n\nUna marca de agua de audio es una secuencia de bits incrustados en una señal de audio transmitida (televisión, radio o internet). Son imperceptibles para los sentidos humanos y solo pueden ser detectados por dispositivos como teléfonos inteligentes o tabletas. Una marca de agua contiene identificadores únicos tanto de la parte de audio de la que se ha extraído la marca como de la fuente de distribución en la que se puede acreditar el contenido.\n\nLa solución que hemos encontrado tiene **dos aspectos innovadores**: primero, el uso del dominio de Fourier, y segundo, el uso del dominio de tiempo y de frecuencia durante la incrustación.\n\nNuestro sistema presenta las **ventajas** siguientes:\n\n1. Recuperación en tiempo real de marcas de agua incrustadas incluso a distancias superiores a seis metros del transmisor de audio (otras aplicaciones de última generación solo pueden recuperar hasta una distancia de 1,5 metros).\n2. Alta fidelidad y recuperación eficaz incluso en condiciones adversas, que permiten superar las distorsiones de transmisión y el ruido de fondo.\n3. Una mejor sincronización de tiempo entre emisor y receptor, de manera que el contenido oculto llega al objetivo en el tiempo previsto.\n4. Alta capacidad (más de 1.000 bits por segundo).\n5. No hace falta acceso a internet para que los usuarios ejecuten el sistema.\n\n\u003c!--EndFragment--\u003e\n\n\n\n\u003c!--StartFragment--\u003e\n\n*Con el apoyo de**[ACCIÓ - Agència per la Competitivitat de l’Empresa (Generalitat de Catalunya)](http://www.accio.gencat.cat/ca/inici)***\n\n![](/img/logo_accio_petit.jpg)\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+			
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Megías Jiménez, David"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Knowledge, Transfer \u0026 Entrepreneurship"],
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "patent",
+			"url" : "/es/patent/audio_watermarking_system.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "c72518be15c72076f6c06d259a7cde83",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "Care Respite",
+
+			"name" : "Care Respite",
+			
+			"eslogan" : "Un mètode implementat per ordinador i un sistema per al monitoratge remot d’un usuari, i un programa informàtic que implementa el mètode",
+			"imatge_url" : "/img/imatge_sistema_carerespite.jpg",
+			"centre" : "Estuids",
+			"sector" : "Salut - eHealth",
+			"logo_url": "/img/care_respite_logo.jpg",
+			
+			
+				
+					
+				
+				
+				"xarxes_address": ["http://www.care-respite.com/"],
+			
+
+			"about_title": "Care Respite_cat",
+			"about_descripcio": "**Patent no. EP14382294**\n\nData de prioritat: 31/07/14\n\n**Titularitat: Compartida: CVC, ACCEPLAN, UB, UAB i UOC**\n\n\u003c!--StartFragment--\u003e\n\nAquesta invenció ofereix una alternativa a l’estat de la qüestió anterior, amb l’objectiu de proporcionar un mètode i un sistema per fer el monitoratge remot d’un usuari. A més, és capaç de treballar amb usuaris no identificats i, per tant, no té la necessitat d’utilitzar les dades històriques dels usuaris.\\\nAquesta invenció fa referència a tres elements:\n\n* un mètode implementat per ordinador per al monitoratge remot d’un usuari,\n* un sistema per a implementar el mètode,\n* un programa d’ordinador per a implementar els passos de processament del mètode.\n\nEl mètode inclou: (1) adquirir dades d’usuari multimodals relacionades amb un usuari supervisat utilitzant una càmera de profunditat en una zona de vigilància local; (2) analitzar, per mitjans de processament, les dades per a identificar un estat de l’usuari (caminant, assegut, dret, ajagut, mirant la TV, dormint o a terra); i (3) presentar l’estat i la informació que tingui associada en un mitjà informàtic remot, com ara un telèfon intel·ligent o una tauleta.\\\nEl mètode duu a terme els passos següents:\n\n* i) Detecta l’usuari supervisat.\n* ii) Duu a terme el reconeixement de l’usuari.\n* iii) Detecta les articulacions de l’esquelet de l’usuari.\n* iv) Realitza, amb els mitjans de processament esmentats, la identificació de l’estat de l’usuari analitzant, almenys, les articulacions de l’esquelet detectades al pas iii) juntament amb el moviment i la geometria 3D.\n\nAquests mitjans de processament s’implementen en un mitjà informàtic local connectat a una càmera de profunditat. La detecció es duu a terme utilitzant dades d’imatges en color i informació de profunditat.\\\nEls mitjans informàtics remots estan adaptats per a establir una comunicació bidireccional amb el mitjà informàtic local, la qual cosa permet que una persona autoritzada pugui controlar, configurar i actualitzar les opcions de funcionament del mitjà informàtic local. El telèfon intel·ligent o la tauleta han de tenir instal·lada una aplicació de programari per poder dur a terme el control i la configuració autoritzats. L’aplicació també permet posar avisos i veure l’usuari en una pantalla del dispositiu.\\\nUn altre element de la invenció és un programa informàtic que inclou instruccions de codi que, quan s’executen en un ordinador, implementen tots els passos del mètode del primer element de la invenció, llevat dels d’adquisició de dades d’usuari multimodals.\n\n\u003c!--EndFragment--\u003e\n\n![](/img/care_respite_esquema.jpg)",
+
+			
+			
+			
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Baró Solé, Xavier"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Knowledge, Transfer \u0026 Entrepreneurship "],
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "patent",
+			"url" : "/ca/patent/care_respite.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "212bb450bef814a2a48c6183573f4368",
+		"fields" : {
+
+			"idioma": "en",
+			"title": "Care Respite",
+
+			"name" : "Care Respite",
+			
+			"eslogan" : "A computer-implemented method and a system for remotely monitoring a user, and a computer program product implementing the method",
+			"imatge_url" : "/img/imatge_sistema_carerespite.jpg",
+			"centre" : "Estuids",
+			"sector" : "eHealth",
+			"logo_url": "/img/care_respite_logo.jpg",
+			
+			
+				
+					
+				
+				
+				"xarxes_address": ["http://www.care-respite.com/"],
+			
+
+			"about_title": "Care Respite_en_pat",
+			"about_descripcio": "**Patent nº. EP14382294**\n\nPriority date: 31/07/14\n\n**Shared Titularity:  CVC, ACCEPLAN, UB, UAB i UOC**\n\n\u003c!--StartFragment--\u003e\n\nThis invention offers an alternative to the previous state of the art, with the purpose of providing a method and a system for remotely monitoring a user, which is capable of working with unidentified users, and thus without the need to use users' historic data.\n\nThe invention relates to three aspects:\n\n* a computer-implemented method for remotely monitoring a user.\n* a system to implement the method.\n* a computer program to implement the processing steps of the method.\n\nThe method comprises: \n\n(1) acquiring multi-modal user data related to a monitored user using a depth camera in a local surveillance area; \n\n(2) analysing, by processing means, the data to identify user status (walking, sitting, standing, lying down, watching TV, sleeping and/or falling); and \n\n(3) presenting the status and information associated therewith, to a remote computing means, such as a smartphone or a tablet.\n\nThe method includes the following steps:\n\ni) detecting the monitored user,\n\nii) performing recognition of the user,\n\niii) detecting user skeleton joint points, and\n\niv) identifying the user's status, using said processing means, by analysing at least the skeleton joint points detected in step iii) and also movement and 3D geometry.\n\nSaid processing means are implemented in local computing means connected to a depth camera. The detection is performed using colour image data and depth information.\n\n\\\nThe remote computing means are adapted for establishing bidirectional communication with the local computing means, to allow an authorized person to control, configure and upgrade the operation settings of the local computing means. The smartphone or tablet should have a software application installed to perform the authorized control and configuration. The application also enables alarms to be set and shows the user in a display of the device.\n\nThe last aspect of the invention relates to a computer program product, which includes code instructions that, when executed in a computer, implement all the steps of the method of the first aspect of the invention, except for that of acquiring multi-modal user data.\n\n\u003c!--EndFragment--\u003e\n\n![](/img/care_respite_esquema.jpg)",
+
+			
+			
+			
+			
+			
+			
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Knowledge, Transfer \u0026 Entrepreneurship "],
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "patent",
+			"url" : "/en/patent/care_respite.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "71614659db6dd50ba66a974947192a5c",
+		"fields" : {
+
+			"idioma": "es",
+			"title": "Care Respite",
+
+			"name" : "Care Respite",
+			
+			"eslogan" : "Un método implementado por ordenador y un sistema para la monitorización remota de un usuario, y un programa informático que implementa el método",
+			"imatge_url" : "/img/imatge_sistema_carerespite.jpg",
+			"centre" : "Estuids",
+			"sector" : "Salud - eHealth",
+			"logo_url": "/img/care_respite_logo.jpg",
+			
+			
+				
+					
+				
+				
+				"xarxes_address": ["http://www.care-respite.com/"],
+			
+
+			"about_title": "Care Respite_es",
+			"about_descripcio": "**Patente nº. EP14382294**\n\nFecha de prioridad: 31/07/14\n\n**Titularidad: Compartida: CVC, ACCEPLAN, UB, UAB i UOC**\n\nEsta invención ofrece una alternativa al estado de la cuestión anterior, con el objetivo de proporcionar un método y un sistema para realizar la monitorización remota de un usuario. Además, es capaz de trabajar con usuarios no identificados y, por tanto, no tiene la necesidad de utilizar los datos históricos de los usuarios. Esta invención hace referencia a tres elementos:\n\n* un método implementado por ordenador para la monitorización remota de un usuario, \n* un sistema para implementar el método, \n* un programa de ordenador para implementar los pasos de procesamiento del método.\n\n\nEl método incluye: \n\n(1) adquirir datos de usuario multimodales relacionados con un usuario supervisado utilizando una cámara de profundidad en una zona de vigilancia local; \n\n(2) analizar, por medios de procesamiento, los datos para identificar un estado del usuario (caminando, sentado, de pie, acostado, mirando la TV, durmiendo o en el suelo); y \n\n(3) presentar el estado y la información que tenga asociada en un medio informático remoto, como un teléfono inteligente o una tableta.\n\n\nEl método lleva a cabo los pasos siguientes:\n\ni) Detecta al usuario supervisado. \n\nii) Lleva a cabo el reconocimiento del usuario.\niii) Detecta las articulaciones del esqueleto del usuario.\niv) Realiza, con los medios de procesamiento mencionados, la identificación del estado del usuario analizando, al menos, las articulaciones del esqueleto detectadas en el paso iii) junto con el movimiento y la geometría 3D.\n\n\nEstos medios de procesamiento se implementan en un medio informático local conectado a una cámara de profundidad. La detección se lleva a cabo utilizando datos de imágenes en color e información de profundidad. \n\nLos medios informáticos remotos están adaptados para establecer una comunicación bidireccional con el medio informático local, lo que permite que una persona autorizada pueda controlar, configurar y actualizar las opciones de funcionamiento del medio informático local. El teléfono inteligente o la tableta deben tener instalada una aplicación de software para poder llevar a cabo el control y la configuración autorizados. La aplicación también permite poner avisos y ver al usuario en una pantalla del dispositivo.\n\nOtro elemento de la invención es un programa informático que incluye instrucciones de código que, cuando se ejecutan en un ordenador, implementan todos los pasos del método del primer elemento de la invención, salvo los de adquisición de datos de usuario multimodales.\n\n![](/img/care_respite_esquema.jpg)",
+
+			
+			
+			
+			
+			
+			
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Knowledge, Transfer \u0026 Entrepreneurship "],
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "patent",
+			"url" : "/es/patent/care_respite.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "a2f29c2e8efc601c4d956adf84694158",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "Care Respite",
+
+			"name" : "Care Respite",
+			"text_breu" : "Care Respite: Sistema de salut electrònica (ehealth) de monitoratge remot de persones dependents per a la millora de les condicions laborals dels cuidadors",
+			
+			"imatge_url" : "/img/imatge_sistema_carerespite.jpg",
+			"centre" : "Estuids",
+			"sector" : "Salut - eHealth",
+			
+			
+			
+				
+					
+				
+				
+				"xarxes_address": ["http://www.care-respite.com/"],
+			
+
+			"about_title": "Care_Respite_descripcio",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\nEl sistema **Care Respite** està format per una càmera vinculada a un programari d’alertes que permet, mitjançant visió artificial, identificar situacions de perill en persones amb dependència, i alertar els cuidadors per tal de posar-hi solució.\n\nEs tracta d’un sistema fàcil d’instal·lar i configurar: senzillament es col·loca la càmera al lloc que es consideri oportú, se seleccionen les opcions d’avís al dispositiu mòbil i el sistema està llest per a ser utilitzat.\n\n[Care Respite](https://www.uoc.edu/portal/es/news/actualitat/2015/135-care-respite.html) permet visualitzar i verificar el motiu de la incidència i comunicar els cuidadors amb la persona dependent, mitjançant l’opció de veu direccional.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+				"asp_innov_title": "CareRespite_aspectes",
+				"asp_innov_descripcio": "\u003c!--StartFragment--\u003e\n\nCare Respite ofereix als cuidadors de persones en situació de dependència una millora en la distribució del seu temps d’atenció, ja que els cuidadors poden fer altres tasques amb la tranquil·litat de poder verificar la situació de la persona dependent en qualsevol moment. A més, saben que rebran un avís en cas que es produeixi una situació de perill. Care Respite permet aquesta optimització del temps de dedicació i garanteix que la persona dependent estarà permanentment atesa.\n\nA més, és un sistema adaptable a qualsevol dispositiu mòbil amb possibilitat d’enviar avisos a diversos dispositius receptors.\n\nD’altra banda, és un sistema no invasiu que preserva la intimitat de les persones amb dependència i la de les persones que les acompanyen.\n\n\u003c!--EndFragment--\u003e",
+				"app_title": "CareRespite_aplicacions",
+				"app_descripcio": "\u003c!--StartFragment--\u003e\n\nCare Respite és un sistema pensat per al sector de la salut tant en l’àmbit privat com en el públic.\n\nCare Respite està protegit mitjançant una **sol·licitud de patent europea** amb el títol «A computer-implemented method and a system for remotely monitoring a user, and a computer program product implementing the method» i amb data de prioritat 31 de juliol del 2014.\n\n\u003c!--EndFragment--\u003e",
+			
+			
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Baró Solé, Xavier"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/ca/solucio_tec/care_respite.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "b7a2747a8670df434ed463f830b433d0",
+		"fields" : {
+
+			"idioma": "en",
+			"title": "Care Respite",
+
+			"name" : "Care Respite",
+			"text_breu" : "Care Respite: e-Health dependent people remote monitoring system to improve the working conditions of carers",
+			
+			"imatge_url" : "/img/imatge_sistema_carerespite.jpg",
+			"centre" : "Estuids",
+			"sector" : "eHealth",
+			"logo_url": "/img/imatge_sistema_carerespite.jpg",
+			
+			
+				
+					
+				
+				
+				"xarxes_address": ["http://www.care-respite.com/"],
+			
+
+			"about_title": "CareRespite_description",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\nThe CARE RESPITE system is comprised of a camera linked to alert software that uses artificial vision to identify dangerous situations for dependent people and alert the carers so they can respond.\n\nIt is a system that is easy to install and configure: you simply place the camera in the most appropriate position, select the alert options on the mobile device and the system is ready for use.\n\nCARE RESPITE allows the reason for the incident to be viewed and checked and for the carers to communicate with the dependent person using the directional voice option.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+				"asp_innov_title": "CareRespite_innovation",
+				"asp_innov_descripcio": "\u003c!--StartFragment--\u003e\n\nCARE RESPITE offers carers of dependent people an improvement in allocating their time, as they can do other tasks with the peace of mind of being able to check on the status of the dependent person any time. They will also know that they will get an alert should any dangerous situation arise. CARE RESPITE enables this time optimization, ensuring that the dependent person will be cared for constantly.\n\nIt is also a system that is adaptable to any mobile device with the option of sending alerts to various receiver devices.\n\nFinally, it is a non-invasive system that preserves the privacy of dependent people and the people accompanying them.\n\n\u003c!--EndFragment--\u003e",
+				"app_title": "CareRespite_applications",
+				"app_descripcio": "\u003c!--StartFragment--\u003e\n\nCare Respite is a system designed for the**healthcare sector**in both the private and the public sphere.\n\nCARE RESPITE is protected by a**European patent**application entitled “A computer-implemented method and a system for remotely monitoring a user, and a computer program product implementing the method” with priority date**31 July 2014**.\n\n\u003c!--EndFragment--\u003e",
+			
+			
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Baró Solé, Xavier"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				
+				"contacts_email": ["trasnfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/en/solucio_tec/care_respite.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "f1a2a480bac5ee72191b1b04bebfb08f",
+		"fields" : {
+
+			"idioma": "es",
+			"title": "CareRespite",
+
+			"name" : "Care Respite",
+			"text_breu" : "Care Respite: Sistema de salud electrónica (ehealth) de monitorización remota de personas dependientes para la mejora de las condiciones laborales de los cuidadores",
+			
+			"imatge_url" : "/img/imatge_sistema_carerespite.jpg",
+			"centre" : "Estuids",
+			"sector" : "Salud - eHealth",
+			
+			
+			
+
+			"about_title": "CareRespite_descripcion",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\nEl sistema **[Care Respite](https://www.uoc.edu/portal/es/news/actualitat/2015/135-care-respite.html)** está formado por una cámara vinculada a un software de alertas que permite, mediante visión artificial, identificar situaciones de peligro en personas con dependencia, y alertar a los cuidadores para poner solución.\n\nSe trata de un sistema fácil de instalar y configurar: sencillamente se coloca la cámara en el lugar que se considere oportuno, se seleccionan las opciones de aviso en el dispositivo móvil y el sistema está listo para ser utilizado.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+				"asp_innov_title": "CareRespite_aspectos",
+				"asp_innov_descripcio": "\u003c!--StartFragment--\u003e\n\nCare Respite ofrece a los cuidadores de personas en situación de dependencia una mejora en la distribución de su tiempo de atención, ya que los cuidadores pueden hacer otras tareas con la tranquilidad de poder verificar la situación de la persona dependiente en cualquier momento.\n\nAdemás, saben que recibirán un aviso en caso de que se produzca una situación de peligro.\n\nCare Respite permite esta optimización del tiempo de dedicación y garantiza que la persona dependiente estará permanentemente atendida.\n\n\u003c!--EndFragment--\u003e",
+				"app_title": "Carerespite_aplicaciones",
+				"app_descripcio": "\u003c!--StartFragment--\u003e\n\nCare Respite es un sistema pensado para el sector de la salud tanto en el ámbito privado como en el público.\n\nCare Respite está protegido mediante una **solicitud de patente europea** con el título «A computer-implemented method and a system for remotely monitoring a user, and a computer program product implementing the method» y con fecha de prioridad 31 de julio del 2014.\n\n\u003c!--EndFragment--\u003e",
+			
+			
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Baró Solé, Xavier"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				
+				"contacts_email": ["trasnfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/es/solucio_tec/care_respite.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "ada4904805bba6755e16a63e51ef5aa5",
+		"fields" : {
+
+			"idioma": "es",
+			"title": "CareRespite",
+
+			"name" : "Care Respite",
+			"text_breu" : "Care Respite: Sistema de salud electrónica (ehealth) de monitorización remota de personas dependientes para la mejora de las condiciones laborales de los cuidadores",
+			
+			"imatge_url" : "/img/imatge_sistema_carerespite.jpg",
+			"centre" : "Estuids",
+			"sector" : "Salud - eHealth",
+			
+			
+			
+
+			"about_title": "CareRespite_descripcion",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\nEl sistema **[Care Respite](https://www.uoc.edu/portal/es/news/actualitat/2015/135-care-respite.html)** está formado por una cámara vinculada a un software de alertas que permite, mediante visión artificial, identificar situaciones de peligro en personas con dependencia, y alertar a los cuidadores para poner solución.\n\nSe trata de un sistema fácil de instalar y configurar: sencillamente se coloca la cámara en el lugar que se considere oportuno, se seleccionan las opciones de aviso en el dispositivo móvil y el sistema está listo para ser utilizado.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+				"asp_innov_title": "CareRespite_aspectos",
+				"asp_innov_descripcio": "\u003c!--StartFragment--\u003e\n\nCare Respite ofrece a los cuidadores de personas en situación de dependencia una mejora en la distribución de su tiempo de atención, ya que los cuidadores pueden hacer otras tareas con la tranquilidad de poder verificar la situación de la persona dependiente en cualquier momento.\n\nAdemás, saben que recibirán un aviso en caso de que se produzca una situación de peligro.\n\nCare Respite permite esta optimización del tiempo de dedicación y garantiza que la persona dependiente estará permanentemente atendida.\n\n\u003c!--EndFragment--\u003e",
+				"app_title": "Carerespite_aplicaciones",
+				"app_descripcio": "\u003c!--StartFragment--\u003e\n\nCare Respite es un sistema pensado para el sector de la salud tanto en el ámbito privado como en el público.\n\nCare Respite está protegido mediante una **solicitud de patente europea** con el título «A computer-implemented method and a system for remotely monitoring a user, and a computer program product implementing the method» y con fecha de prioridad 31 de julio del 2014.\n\n\u003c!--EndFragment--\u003e",
+			
+			
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Baró Solé, Xavier"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				
+				"contacts_email": ["trasnfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/es/solucio_tec/carerespite.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "69180408737f900284d35b184ef48284",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "Digitalització de l'art, cultura i patrimoni",
+
+			"name" : "Digitalització de l'art, cultura i patrimoni",
+			
+			
+			"imatge_url" : "/img/detall_solucions_principal.png",
+			
+			"sector" : "Art, Turisme i Llengües",
+			
+			
+			
+
+			"about_title": "Digitalització_serveis",
+			"about_descripcio": "\n\n\n\n* **Estudis de la cultura digital a la societat** \n\n *\\    Descripció*\n\n* **Assessorament en l'ús de les tecnologies digitals a les indústries i patrimoni culturals**\n\n  *Descripció*\n* **Desenvolupament d'aplicacions tecnològiques per a la indústria cultural** \n\n  *Descripció*",
+
+			
+			
+			
+				
+				
+				
+				
+			
+			
+			
+			
+			
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "servei",
+			"url" : "/ca/servei/digitalitzacio_de_lart_cultura_i_patrimoni.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "161365706ebb01f5d5bbaaed8193a6bf",
+		"fields" : {
+
+			"idioma": "es",
+			"title": "Docencia no presencial de emergencia",
+
+			"name" : "Docencia no presencial de emergencia",
+			"text_breu" : "Docencia no presencial de emergencia: recursos impartidos en línea por profesorado de la UOC",
+			
+			"imatge_url" : "/img/ig_es.jpg",
+			"centre" : "Estuids",
+			"sector" : "Educación - eLearning",
+			
+			
+			
+
+			"about_title": "Cuerpo texto",
+			"about_descripcio": "En situaciones excepcionales que impiden el normal funcionamiento de las instituciones y centros educativos presenciales -como ha sido el caso de la crisis de la COVID19-, estos pueden verse obligados a tener que adaptar rápidamente la actividad pedagógica en un entorno virtual. Es lo que se conoce como docencia no presencial de emergencia (Emergency Remote Teaching en inglés).\n\nCon una respuesta ágil y basada en estrategias flexibles, se facilita la actividad docente de forma remota gracias al uso de las nuevas tecnologías. El objetivo es garantizar, en lo posible, el aprendizaje de los estudiantes en situaciones imprevistas de carácter temporal.\n\nEn una situación excepcional como la que estamos viviendo a nivel global, hemos creado la plataforma **[Docencia no presencial de emergencia](https://www.uoc.edu/portal/es/coronavirus/docencia-emergencia/index.html)**, en la que ofrecemos nuestra experiencia y conocimiento para que el profesorado pueda adaptarse, en la medida de lo posible, a una enseñanza no presencial de emergencia. Se trata de una plataforma virtual para **ayudar al profesorado en esta tarea mediante estrategias y recursos breves**, con un enfoque práctico e interactivo, para poder seguir impartiendo clases en esta situación de emergencia aplicando las bases de los mejores modelos de enseñanza en línea.\n\nLos recursos se ofrecen a partir de webinars de una hora impartidos en línea para profesores de la UOC sobre temas de interés para la enseñanza en línea. Impartidos en tiempo real, con fecha y horario específico: ponente y asistentes se conectan al mismo tiempo a una plataforma virtual, pudiendo compartir dudas y consultas en tiempo real a través de un chat disponible para los participantes.\n\nLa plataforma da respuesta a aspectos como los siguientes:\n\n* ¿Qué hay que tener en cuenta antes de comenzar a impartir tu docencia en remoto?\n* ¿Cómo diseñar las clases?\n* ¿Cómo interaccionar y motivar a los estudiantes en el proceso de aprendizaje en remoto?\n* ¿Cómo interaccionan y motivo los estudiantes?\n* ¿Cómo evaluar el estudiantado?\n* ¿Cómo enseño en línea según los ámbitos curriculares?",
+
+			
+			
+				
+				
+				
+				
+			
+			
+			
+			
+			
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				
+				"contacts_email": ["area_ri@uoc.edu"],
+				"contacts_address": ["https://www.uoc.edu/portal/es/coronavirus/docencia-emergencia/index.html"],
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/es/solucio_tec/docencia_no_presencial_de_emergencia.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "0d55fdfd4d4a31f796a0a7739d3f875f",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "Docència no presencial emergència",
+
+			"name" : "Docència no presencial d'emergència",
+			"text_breu" : "Docència no presencial d'emergència: recursos impartits en línia per professorat de la UOC",
+			
+			"imatge_url" : "/img/ig_es.jpg",
+			"centre" : "Estuids",
+			"sector" : "Educació - eLearning",
+			
+			
+			
+
+			"about_title": "Cos text",
+			"about_descripcio": "En situacions excepcionals que impedeixen el normal funcionament de les institucions i centres educatius presencials -com ha estat el cas de la crisi de la COVID19-, aquests poden veure's obligats a haver d'adaptar ràpidament l'activitat pedagògica a un entorn virtual. És el que es coneix com a docència no presencial d'emergència (Emergency Remote Teaching en anglès).\n\nAmb una resposta àgil i basada en estratègies flexibles, es facilita l'activitat docent de forma remota gràcies a l'ús de les noves tecnologies. L'objectiu és garantir, en la mesura possible, l'aprenentatge de l'estudiant en situacions imprevistes de caràcter temporal.\n\nEn una situació excepcional com la que estem vivint a nivell global, hem creat la plataforma **[Docència no presencial d'emergència](https://www.uoc.edu/portal/ca/coronavirus/docencia-emergencia/index.html)**, en la què oferim la nostra experiència i coneixement per a que el professorat pugui adaptar-se, en la mesura del possible, a un ensenyament no presencial d'emergència. Es tracta d'una plataforma virtual per **ajudar al professorat en aquesta tasca mitjançant estratègies i recursos breus**, amb un enfocament pràctic i interactiu, per a poder continuar impartint classes en aquesta situació d'emergència aplicant les bases dels millors models d'ensenyament en línia.\n\nEls recursos s'ofereixen a partir de webinars d’una hora impartits en línia per professorat de la UOC sobre temes d’interès per a l'ensenyament en línia. Impartits en temps real, amb data i horari específic: ponent i assistents es connecten alhora a una plataforma virtual , podent compartir dubtes i consultes en temps real a través d'un xat disponible per als participants.\n\nLa plataforma dona resposta a aspectes com els següents:\n\n* Què cal tenir en compte abans de començar a impartir la teva docència en remot?\n* Com dissenyar les classes?\n* Com interaccionar i motivar l'estudiant en el procés d'aprenentatge en remot?\n* Com interacciono i motivo l'estudiant?\n* Com avaluar l'estudiant?\n* Com ensenyo en línia segons els àmbits curriculars?",
+
+			
+			
+				
+				
+				
+				
+			
+			
+			
+			
+			
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				
+				"contacts_email": ["area_ri@uoc.edu"],
+				"contacts_address": ["https://www.uoc.edu/portal/ca/coronavirus/docencia-emergencia/index.html"],
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/ca/solucio_tec/docencia_no_presencial_emergencia.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "36b78f3b850f554d00174fe1c84ea73c",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "Dret digital",
+
+			"name" : "Dret digital",
+			"text_breu" : "4",
+			
+			"imatge_url" : "/img/Netflix-novembre_2296580513_65049896_651x366.jpg",
+			"centre" : "Estudis",
+			"sector" : "Dret i governança",
+			
+			
+			
+
+			"about_title": "Dret digital- Servei",
+			"about_descripcio": "\n\nEls serveis es concreten en:\n\n* Implicacions jurídiques derivades de l tecnologia\n* Programes de prevenció del delicte\n* Fiscalitat i prestacions socials\n\n\n\n#### Implicacions jurídiques derivades de la tecnologia\n\n\u003c!--StartFragment--\u003e\n\nLes dades són part de les nostres maneres actuals de conèixer el món i de donar-hi sentit. Les històries personals i col·lectives interactuen amb la lògica de dades; les dades personals, les dades massives, les dades intel·ligents, les tecnologies biodigitals i la intel·ligència artificial provoquen temporalitats subjectives i col·lectives que redefineixen qüestions públiques i privades i la responsabilitat ètica.\n\n\u003c!--EndFragment--\u003e\n\n#### Programes de prevenció del delicte\n\nLes dades són part de les nostres maneres actuals de conèixer el món i de donar-hi sentit. Les històries personals i col·lectives interactuen amb la lògica de dades; les dades personals, les dades massives, les dades intel·ligents, les tecnologies biodigitals i la intel·ligència artificial provoquen temporalitats subjectives i col·lectives que redefineixen qüestions públiques i privades i la responsabilitat ètica.\n\n\n\n#### Fiscalitat i prestacions socials\n\nLes dades són part de les nostres maneres actuals de conèixer el món i de donar-hi sentit. Les històries personals i col·lectives interactuen amb la lògica de dades; les dades personals, les dades massives, les dades intel·ligents, les tecnologies biodigitals i la intel·ligència artificial provoquen temporalitats subjectives i col·lectives que redefineixen qüestions públiques i privades i la responsabilitat ètica.",
+
+			
+			
+			
+				"casos_exit_title": "Dret casos d'exit",
+				"casos_exit_descripcio": "Les dades són part de les nostres maneres actuals de conèixer el món i de donar-hi sentit. Les històries personals i col·lectives interactuen amb la lògica de dades; les dades personals, les dades massives, les dades intel·ligents, les tecnologies biodigitals i la intel·ligència artificial provoquen temporalitats subjectives i col·lectives que redefineixen qüestions públiques i privades i la responsabilitat ètica.",
+				
+				"casos_exit_url_success": " ",
+			
+			
+			
+			
+				
+					
+						
+					
+				
+				
+				"grups": ["CareNet"],
+			
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["ARI"],
+				"contacts_email": ["retewrtwet"],
+				
+				"contacts_phone": ["5554364"],
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "servei",
+			"url" : "/ca/servei/dret_digital.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "cc7b813d5528fcc4c66b5265825ad3f3",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "eLearnCOURT",
+
+			"name" : "eLearnCOURT",
+			"text_breu" : "eLearnCOURT: Eina per a l’aprenentatge en línia de la negociació, la mediació, la conciliació i l’arbitratge",
+			
+			"imatge_url" : "/img/eleancourt_1.jpg",
+			"centre" : "Estuids",
+			"sector" : "Educació - eLearning",
+			"logo_url": "/img/elearncourtlogo.jpg",
+			
+			
+				
+					
+				
+				
+				"xarxes_address": ["http://in3.uoc.edu/opencms_in3/opencms/webs/projectes/elearncourt/ca/index.html"],
+			
+
+			"about_title": "eLearnCourt_descripcio",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\neLearnCOURT és un entorn virtual multiidioma per a la formació pràctica de les diferents modalitats de resolució de conflictes. El seu objectiu és l’aprenentatge d’habilitats relacionades amb la mediació i l’arbitratge.\n\nAquesta eina integra diferents espais de treball en línia, tant síncrons com asíncrons, on es porta a terme un pràcticum en el qual els estudiants, organitzats en equips, assumeixen els rols de reclamants, reclamats, mediadors, conciliadors i àrbitres, respectivament, i resolen un cas real.\n\nEl pràcticum d’eLearnCOURT consisteix en la resolució d’un cas real mitjançant la simulació en línia d’un procés de resolució de conflictes, que assegura l’adquisició de competències professionals imprescindibles en aquest àmbit. eLearnCOURT aconsegueix que els estudiants:\n\n* Posin en pràctica les tècniques de negociació, mediació, conciliació i arbitratge.\n* Abordin la resolució d’un cas real sobre la base del seu criteri.\n* Adquireixin habilitats i destreses en la conducció d’un litigi.\n* Desenvolupin habilitats de treball en equip i coordinació d’esforços.\n* Millorin les seves competències amb la resolució amistosa dels conflictes.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+				"asp_innov_title": "eLearnCourt_aspectes",
+				"asp_innov_descripcio": "\u003c!--StartFragment--\u003e\n\nOfereix als alumnes la possibilitat d’experimentar un cas pràctic real de resolució de conflictes, tal com trobaran en la seva carrera professional.\n\nÉs una eina multiidioma i multiplataforma.\n\nGràcies a la seva flexibilitat, s’adapta a nombroses realitats educatives. K6\n\n\u003c!--EndFragment--\u003e",
+				"app_title": "eLearnCourt_aplicacions",
+				"app_descripcio": "\u003c!--StartFragment--\u003e\n\n\u003c!--StartFragment--\u003e\n\neLearnCOURT és una eina pensada per a entitats dedicades a l’educació superior que imparteixin formacions en l’àmbit de la mediació i la resolució de conflictes.\n\n\u003c!--EndFragment--\u003e és una eina particularment idònia per a la realització de cursos de postgrau amb continguts relacionats amb la mediació i l’arbitratge, màsters de resolució de conflictes en línia (RCL), cursos d’actualització i formació contínua dels experts.\n\n\u003c!--EndFragment--\u003e\n\n\u003c!--StartFragment--\u003e\n\nEls clients potencials d’eLearnCOURT són:\n\n• Centres de formació privada i pública en mediació i arbitratge.\n\n• Col·legis d’advocats.\n\n• Associacions i entitats d’experts en mediació, conciliació i arbitratge.\n\n• Universitats i escoles universitàries que vulguin introduir en el seu portafoli estudis de mediació i arbitratge o que vulguin estendre’ls a la pràctica en línia.\n\n\u003c!--EndFragment--\u003e",
+			
+			
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Vilalta Nicuesa, Aura Esther"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/ca/solucio_tec/elearncourt.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "6f13c3fbb2a3b5cc95a4e033e493fb62",
+		"fields" : {
+
+			"idioma": "en",
+			"title": "eLearnCOURT",
+
+			"name" : "eLearnCOURT",
+			"text_breu" : "eLearnCOURT: Tool for the online learning of negotiation, mediation, conciliation and arbitration.",
+			
+			"imatge_url" : "/img/eleancourt_1.jpg",
+			"centre" : "Estuids",
+			"sector" : "Education - eLearning",
+			"logo_url": "/img/elearncourtlogo.jpg",
+			
+			
+				
+					
+				
+				
+				"xarxes_address": ["http://in3.uoc.edu/opencms_in3/opencms/webs/projectes/elearncourt/en/index.html"],
+			
+
+			"about_title": "eLearnCourt_descripcio",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\neLearnCOURT is a multi-language virtual environment for the practical training in the various forms of conflict resolution. Its aim is the learning of skills related to mediation and arbitration.\n\nThe tool integrates different online work spaces, both synchronous and asynchronous, where a practicum is carried out in which the students, organized in groups, take on the roles of claimants, defendants, mediators, conciliators and arbitrators, respectively, and resolve a real case.\n\nThe eLearnCOURT Practicum consists of resolving a real case through the online simulation of a conflict resolution process, ensuring the acquisition of the essential professional skills in this field. eLearnCOURT ensures that students:\n\n* Put negotiation, mediation, conciliation and arbitration techniques into practice.\n* Tackle the resolution of a real case on the basis of their judgement.\n* Acquire skills and abilities in conducting a lawsuit.\n* Develop teamwork and coordination skills.\n* Improve their skills with the peaceful resolution of conflicts.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+				"asp_innov_title": "eLearnCourt_innovation",
+				"asp_innov_descripcio": "\u003c!--StartFragment--\u003e\n\nIt offers students the opportunity to experience a real practical conflict resolution case such as they will find in their professional career.\\\nIt is a multi-language and multi-platform tool.\\\nThanks to its flexibility, it adapts to numerous educational situations. \n\n\u003c!--EndFragment--\u003e",
+				"app_title": "eLearnCourt_applications",
+				"app_descripcio": "\u003c!--StartFragment--\u003e\n\neLearnCOURT is a tool designed for higher education institutions that teach in the field of mediation and conflict resolution.\n\n\u003c!--EndFragment--\u003e\n\n\u003c!--StartFragment--\u003e\n\neLearnCOURT is a particularly suitable tool for postgraduate courses with content related to mediation and arbitration, ODR master's, refresher courses and continuous training for experts.\n\n\u003c!--EndFragment--\u003e",
+			
+			
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Vilalta Nicuesa, Aura Esther"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/en/solucio_tec/elearncourt.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "8b7417b87792c2f92cb7a8d0ab54916f",
+		"fields" : {
+
+			"idioma": "es",
+			"title": "eLearnCourt",
+
+			"name" : "eLearnCOURT",
+			"text_breu" : "eLearnCOURT: Herramienta para el aprendizaje en línea de la negociación, la mediación, la conciliación y el arbitraje",
+			
+			"imatge_url" : "/img/eleancourt_1.jpg",
+			
+			"sector" : "Educación - eLearning",
+			"logo_url": "/img/elearncourtlogo.jpg",
+			
+			
+				
+					
+				
+				
+				"xarxes_address": ["http://in3.uoc.edu/opencms_in3/opencms/webs/projectes/elearncourt/es/index.html"],
+			
+
+			"about_title": "eLearCourt_descripcion",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\neLearnCOURT es un entorno virtual multiidioma para la formación práctica de las diferentes modalidades de resolución de conflictos. Su objetivo es el aprendizaje de habilidades relacionadas con la mediación y el arbitraje.\n\nEsta herramienta integra diferentes espacios de trabajo en línea, tanto síncronos como asíncronos, donde se lleva a cabo un prácticum en el que los estudiantes, organizados en equipos, asumen los roles de reclamantes, reclamados, mediadores, conciliadores y árbitros, respectivamente, y resuelven un caso real.\n\nEl prácticum de eLearnCOURT consiste en la resolución de un caso real mediante la simulación en línea de un proceso de resolución de conflictos, que asegura la adquisición de competencias profesionales imprescindibles en este ámbito. eLearnCOURT consigue que los estudiantes:\n\n* Pongan en práctica las técnicas de negociación, mediación, conciliación y arbitraje.\n* Aborden la resolución de un caso real basándose en su criterio.\n* Adquieran habilidades y destrezas en la conducción de un litigio.\n* Desarrollen habilidades de trabajo en equipo y coordinación de esfuerzos.\n* Mejoren sus competencias con la resolución amistosa de los conflictos.\n\n\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+				"asp_innov_title": "eLearCourt_aspectos",
+				"asp_innov_descripcio": "\u003c!--StartFragment--\u003e\n\neLearnCOURT es una herramienta pensada para entidades dedicadas a la educación superior que impartan formaciones en el ámbito de la mediación y la resolución de conflictos.\n\n\u003c!--EndFragment--\u003e\n\n\u003c!--StartFragment--\u003e\n\nOfrece a los alumnos la posibilidad de experimentar un caso práctico real de resolución de conflictos, tal y como encontrarán en su carrera profesional.\n\nEs una herramienta multiidioma y multiplataforma.\n\nGracias a su flexibilidad, se adapta a numerosas realidades educativas. K6\n\n\u003c!--EndFragment--\u003e",
+				"app_title": "eLearCourt_aplicaciones",
+				"app_descripcio": "\u003c!--StartFragment--\u003e\n\neLearnCOURT es una herramienta particularmente idónea para la realización de cursos de postgrado con contenidos relacionados con la mediación y el arbitraje, másteres de resolución de conflictos en línea (RCL), cursos de actualización y formación continua de los expertos.\n\n\u003c!--EndFragment--\u003e",
+			
+			
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Vilalta Nicuesa, Aura Esther"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/es/solucio_tec/elearncourt.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "6b225ca1326ca4848913bf3deba55beb",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "epsilon",
+
+			"name" : "Patent epsilonx",
+			"text_breu" : "Subtítol epsilon",
+			"eslogan" : "Slogan",
+			"imatge_url" : "/img/ods_1.png",
+			"centre" : "Estudis",
+			"sector" : "Indústria 4.0",
+			"logo_url": "/img/speakapplogo.png",
+			
+			
+
+			
+			
+
+			
+			
+			
+			
+			
+			
+			
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "patent",
+			"url" : "/ca/patent/epsilon.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "18a8ba53066bda123dc3231a060b0cda",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "gamma",
+
+			"name" : "Gamma",
+			"text_breu" : "text gamma",
+			"eslogan" : "Eslògan gamma",
+			"imatge_url" : "/img/marvin-meyer-syto3xs06fu-unsplash.jpg",
+			
+			"sector" : "Salut - eHealth",
+			"logo_url": "/img/speakapplogo.png",
+			
+				
+					
+				
+					
+				
+				
+				"keywords": ["key","word"],
+			
+			
+				
+					
+				
+				
+				"xarxes_address": ["twitter.com/UOCuniversitat"],
+			
+
+			"about_title": "Sobre spin off gamma",
+			"about_descripcio": "Pulvinar mattis nunc sed blandit libero volutpat sed cras ornare. Viverra tellus in hac habitasse platea dictumst vestibulum. Justo eget magna fermentum iaculis eu non diam. A iaculis at erat pellentesque adipiscing commodo elit. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus. At elementum eu facilisis sed odio morbi. Commodo nulla facilisi nullam vehicula ipsum. Tellus rutrum tellus pellentesque eu tincidunt. Ipsum dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Ultrices tincidunt arcu non sodales neque sodales. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam. Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Nibh nisl condimentum id venenatis a condimentum vitae sapien. Tellus in metus vulputate eu. Sed odio morbi quis commodo odio. Et pharetra pharetra massa massa ultricies.\n\n![](/img/131-mesures-igualtat-genere-bandera.png)",
+
+			
+			
+			
+				"casos_exit_title": "CAs 1",
+				"casos_exit_descripcio": "Ut venenatis tellus in metus vulputate eu. Consectetur adipiscing elit pellentesque habitant. Augue interdum velit euismod in. Sit amet cursus sit amet dictum sit amet. Risus commodo viverra maecenas accumsan lacus. Facilisis volutpat est velit egestas dui id ornare arcu. Augue eget arcu dictum varius duis at. Eu scelerisque felis imperdiet proin fermentum leo vel orci porta. Eget arcu dictum varius duis at consectetur lorem donec massa. Mattis molestie a iaculis at erat pellentesque adipiscing. Quis viverra nibh cras pulvinar. Habitant morbi tristique senectus et. Vitae et leo duis ut. Ligula ullamcorper malesuada proin libero nunc consequat interdum.\n\n![](/img/131-mesures-igualtat-genere-bandera.png)",
+				"casos_exit_img": "/img/241-projectes-estatals-recerca-logo.jpg",
+				"casos_exit_url_success": "http://webri.albira.io/ca/index.html",
+			
+			
+				"productes_serveis_titol": "productes serveis spin off gamma",
+				"productes_serveis_descripcio": "Ut venenatis tellus in metus vulputate eu. Consectetur adipiscing elit pellentesque habitant. Augue interdum velit euismod in. Sit amet cursus sit amet dictum sit amet. Risus commodo viverra maecenas accumsan lacus. Facilisis volutpat est velit egestas dui id ornare arcu. Augue eget arcu dictum varius duis at. Eu scelerisque felis imperdiet proin fermentum leo vel orci porta. Eget arcu dictum varius duis at consectetur lorem donec massa. Mattis molestie a iaculis at erat pellentesque adipiscing. Quis viverra nibh cras pulvinar. Habitant morbi tristique senectus et. Vitae et leo duis ut. Ligula ullamcorper malesuada proin libero nunc consequat interdum.",
+				"clients_title": "Client",
+				"clients_descripcio": "Ut venenatis tellus in metus vulputate eu. Consectetur adipiscing elit pellentesque habitant. Augue interdum velit euismod in. Sit amet cursus sit amet dictum sit amet. Risus commodo viverra maecenas accumsan lacus. Facilisis volutpat est velit egestas dui id ornare arcu. Augue eget arcu dictum varius duis at. Eu scelerisque felis imperdiet proin fermentum leo vel orci porta. Eget arcu dictum varius duis at consectetur lorem donec massa. Mattis molestie a iaculis at erat pellentesque adipiscing. Quis viverra nibh cras pulvinar. Habitant morbi tristique senectus et. Vitae et leo duis ut. Ligula ullamcorper malesuada proin libero nunc consequat interdum.",
+			
+			
+			
+				
+					
+						
+					
+				
+				
+				"grups": ["MeL"],
+			
+			
+				
+					
+				
+					
+				
+
+				
+				"investigadors": ["Marco Simó, Josep Maria","Cobarsí Morales, Josep"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Pere","Pere"],
+				"contacts_email": ["e@mail.com","e@mail.com"],
+				"contacts_address": ["adreça ","adreça "],
+				"contacts_phone": ["123456789","123456789"],
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "spin_off",
+			"url" : "/ca/spin_off/gamma.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "6451f8c5d7b05f1b603558c992b9e56c",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "HSS – Hybrid Self – Scheduled protocol",
+
+			"name" : "HSS – Hybrid Self – Scheduled protocol",
+			
+			"eslogan" : "Fes que la teva xarxa IoT tingui un rendiment de fins el 99% amb estalvi energètic, fins i tot amb una configuració dinàmica i transmissions a ràfegues.",
+			"imatge_url" : "/img/hss_imatge_repetidor.png",
+			"centre" : "Estuids",
+			"sector" : "Indústria 4.0",
+			
+			
+			
+
+			"about_title": "HSS_Hybrid_ca",
+			"about_descripcio": "**Patent nº. PCT/EP2013/061296**\n\nData de prioritat: 31/05/13\n\n\n\n\u003c!--StartFragment--\u003e\n\nHSS és un nou protocol MAC híbrid de baix consum per a enviar i rebre dades en xarxes de comunicacions sense fil M2M. Per a evitar col·lisions en les transmissions de dades, els nodes s’organitzen en un sistema de cues distribuït en dues de separades. Aquest sistema simplifica la tasca del node coordinador de la xarxa i estalvia infraestructures en la creació I la distribució de nodes.\n\nHSS també incorpora un mecanisme de salt de freqüència per a reduir els efectes de la propagació multicamí i les interferències de xarxes adjacents.\n\nHSS té la capacitat de crear i actualitzar dinàmicament la planificació de la xarxa assolint eficiències de fins el 99%. El rendiment del protocol HSS és independent del nombre de nodes de la xarxa. A més, és fins a un 20% més eficient energèticament que altres protocols d’accés aleatori, com ara el *Frame slotted ALOHA*.\n\nHSS és l’alternativa perfecta per a escenaris de recopilació de dades amb transmissions a ràfegues i un nombre de nodes dinàmic.\n\nHSS ofereix els avantatges següents:\n\n* Augmenta l’eficiència de la xarxa fins a un 99% gràcies a l’eliminació de les col·lisions de paquets de dades distribuint nodes en un sistema de doble cua.\n* Estalvia infraestructura en xarxes de nodes dinàmics, ja que no requereix cap mecanisme de planificació.\n* L’eficiència de la xarxa no depèn del nombre de nodes que tingui.\n* Redueix el consum d’energia en comparació amb els actuals protocols MAC de xarxa aleatòria.\n* Contraresta els efectes de la propagació multicamí i les interferències de xarxes veïnes gràcies a un mecanisme de salt de freqüència.\n\nLa tecnologia HSS està protegida per una sol·licitud de patent internacional titulada «Method and apparatus for sending and receiving data in a machine-to-machine wireless network» (Mètode i sistema per a enviar i rebre dades de màquina a màquina en una xarxa sense fil).\n\n\u003c!--EndFragment--\u003e\n\n\u003c!--StartFragment--\u003e\n\n*Amb el suport d’**[ACCIÓ - Agència per la Competitivitat de l’Empresa (Generalitat de Catalunya)](http://www.accio.gencat.cat/ca/inici)***\n\n![](/img/logo_accio_petit.jpg)\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+			
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Vilajosana Guillén, Xavier"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Knowledge, Transfer \u0026 Entrepreneurship"],
+				"contacts_email": ["transfer_ari@uoc.edu "],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "patent",
+			"url" : "/ca/patent/hss_hybrid_self_scheduled_protocol.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "80f6ea628f3f60976af8e09e8cda7b9d",
+		"fields" : {
+
+			"idioma": "en",
+			"title": "HSS-Hybrid Self-Scheduled Protocol",
+
+			"name" : "HSS-Hybrid Self-Scheduled Protocol",
+			
+			"eslogan" : "Allow your IoT network perform with energy savings of up to 99%, even with a dynamic configuration and bursty data traffic.",
+			"imatge_url" : "/img/hss_imatge_repetidor.png",
+			"centre" : "Estuids",
+			"sector" : "Industry 4.0",
+			
+			
+			
+
+			"about_title": "HSS-Hybrid_en",
+			"about_descripcio": "**Patent no. PCT/EP2013/061296**\n\nPriority date: 31/05/13\n\n\n\n\u003c!--StartFragment--\u003e\n\nHSS is a novel, low-power hybrid MAC for sending and receiving data in a wireless M2M communication network. In order to prevent collisions when sending data transmissions, nodes are organized in a distributed queuing system with two separate queues. This queuing system simplifies the network coordinator node’s task, saving infrastructure for creation and distribution of transmission planning.\n\nHSS also incorporates a channel-hopping mechanism to reduce the effects of multipath propagation and interference from adjacent networks.\n\nHSS is able to dynamically build and update a network schedule, achieving efficiencies of up to 99%. HSS performance is independent from the number of nodes in the network. Furthermore, it is up to 20% more energy efficient than other random-access protocols, such as Frame Slotted ALOHA (FSA).\n\nHSS is the perfect alternative for data collection scenarios where the traffic is bursty and the number of nodes is dynamic.\n\nHSS provides the following advantages:\n\n* Increases network efficiency by up to 99% due to the elimination of data packet collisions, by distributing nodes in a double queuing system\n* Saves on infrastructure in dynamic node networks as no planning mechanism is needed\n* Network efficiency does not depend on the number of nodes in the network\n* Reduces energy consumption compared to current random network MAC protocols\n* Counteracts the effects of multipath propagation and neighbouring network interferences with a frequency-hopping mechanism\n\nHSS technology is protected by the “Method and apparatus for sending and receiving data in a machine-to-machine wireless network” international patent application.\n\n\u003c!--EndFragment--\u003e\n\n\n\n\u003c!--StartFragment--\u003e\n\n***Supported by [ACCIÓ – Agency for Business Competitiveness](http://catalonia.com/)***\n\n![](/img/logo_accio_petit.jpg)\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+			
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Vilajosana Guillén, Xavier"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Knowledge, Transfer \u0026 Entrepreneurship"],
+				"contacts_email": ["transfer_ari@uoc.edu "],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "patent",
+			"url" : "/en/patent/hss-hybrid_self-scheduled_protocol.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "b92c6367b102d03c561d619962d428e7",
+		"fields" : {
+
+			"idioma": "es",
+			"title": "HSS_Hybrid",
+
+			"name" : "HSS_Hybrid Self-Scheduled Protocol",
+			
+			"eslogan" : "Haz que tu red IoT tenga un rendimiento de hasta el 99% de ahorro de energía, incluso con una configuración dinámica y transmisiones a ráfagas.",
+			"imatge_url" : "/img/hss_imatge_repetidor.png",
+			"centre" : "Estuids",
+			"sector" : "industria 4.0",
+			
+			
+			
+
+			"about_title": "HSS-Hybrid_es",
+			"about_descripcio": "Patente nº. PCT/EP2013/061296\n\nFecha de prioridad: 31/05/13\n\n\n\n\u003c!--StartFragment--\u003e\n\nHSS es un nuevo protocolo MAC híbrido de bajo consumo para enviar y recibir datos en redes de comunicaciones inalámbricas M2M. Para evitar colisiones en las transmisiones de datos, los nodos se organizan en un sistema de colas formado por dos colas separadas. Este sistema simplifica la tarea del nodo coordinador de la red y ahorra infraestructuras en la creación y distribución de nodos.\n\nHSS también incorpora un mecanismo de salto de frecuencia para reducir los efectos de la propagación multicamino y las interferencias de redes adyacentes.\n\nHSS tiene la capacidad de crear y actualizar dinámicamente la planificación de la red alcanzando eficiencias de hasta el 99%. El rendimiento del protocolo HSS es independiente del número de nodos de la red. Además, es hasta un 20 % más eficiente energéticamente que otros protocolos de acceso aleatorio, como el*Frame slotted ALOHA.*\n\nHSS es la alternativa perfecta para escenarios de recopilación de datos con tráfico de datos con transmisiones a ráfagas y un número de nodos dinámico.\n\nHSS ofrece las siguientes ventajas:\n\n* Aumenta la eficiencia de la red hasta un 99 % gracias a la eliminación de las colisiones de paquetes de datos distribuyendo nodos en un sistema de doble cola.\n* Ahorra infraestructura en redes de nodos dinámicos, ya que no requiere ningún mecanismo de planificación.\n* La eficiencia de la red no depende del número de nodos de la misma.\n* Reduce el consumo de energía en comparación con los actuales protocolos MAC de red aleatoria.\n* Contrarresta los efectos de la propagación multicamino y las interferencias de redes vecinas gracias a un mecanismo de salto de frecuencia.\n\nLa tecnología HSS está protegida por una solicitud de patente internacional titulada «Method and apparatus for sending and receiving data in a machine-to-machine wireless network» (Método y sistema para enviar y recibir datos máquina a máquina en una red inalámbrica).\n\n\u003c!--EndFragment--\u003e\n\n\u003c!--StartFragment--\u003e\n\n\n\n*Con el apoyo de**[ACCIÓ - Agència per la Competitivitat de l’Empresa (Generalitat de Catalunya)](http://www.accio.gencat.cat/ca/inici)***\n\n![](/img/logo_accio_petit.jpg)\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+			
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Vilajosana Guillén, Xavier"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Knowledge, Transfer \u0026 Entrepreneurship"],
+				"contacts_email": ["transfer_ari@uoc.edu "],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "patent",
+			"url" : "/es/patent/hss_hybrid.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "fd3419026926de95685969a9b4749395",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "Innovació en Turisme i TIC",
+
+			"name" : "Innovació en Turisme i TIC",
+			"text_breu" : "2",
+			
+			"imatge_url" : "/img/science-in-hd-fanudwgjqbg-unsplash.jpg",
+			"centre" : "e-Health Center",
+			"sector" : "Art, Turisme i Llengües",
+			
+			
+			
+
+			"about_title": "Innovació i turism-sobre el servei",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\nLes dades són part de les nostres maneres actuals de conèixer el món i de donar-hi sentit. Les històries personals i col·lectives interactuen amb la lògica de dades; les dades personals, les dades massives, les dades intel·ligents, les tecnologies biodigitals i la intel·ligència artificial provoquen temporalitats subjectives i col·lectives que redefineixen qüestions públiques i privades i la responsabilitat ètica.\n\n\u003c!--EndFragment--\u003e\n\n\n\n* Aplicació de la responsabilitat social i estratègies de planificació\n* Plans estratègics per a destinacions turístiques",
+
+			
+			
+			
+				
+				
+				
+				
+			
+			
+			
+			
+				
+					
+				
+				
+			
+			
+				
+					
+				
+					
+				
+
+				
+				"investigadors": ["Cobarsí Morales, Josep","Busquets Alemany, Anna"],
+			
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "servei",
+			"url" : "/ca/servei/innovacio_en_turisme_i_tic.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "8d793997691919621ea075e1947b3648",
+		"fields" : {
+
+			
+			"title": "iot",
+
+			"name" : "iot",
+			
+			
+			"imatge_url" : "/img/x20190326-iot-in-five-years2-1.jpg.pagespeed.ic.jkhmNWwrQd.jpg",
+			"centre" : "Estudis",
+			"sector" : "Societat en xarxa",
+			
+			
+				
+					
+				
+				
+				"keywords": ["key"],
+			
+			
+
+			"about_title": "Go long ways with iot",
+			"about_descripcio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi tristique senectus et netus et malesuada fames ac turpis. Suspendisse potenti nullam ac tortor vitae purus faucibus. Vel eros donec ac odio. Duis at consectetur lorem donec. Rutrum quisque non tellus orci ac. Libero enim sed faucibus turpis in. Libero enim sed faucibus turpis in eu mi bibendum. Ut morbi tincidunt augue interdum velit euismod. Augue eget arcu dictum varius duis at consectetur lorem donec. Sed libero enim sed faucibus turpis in. Egestas sed sed risus pretium.",
+
+			
+			
+				
+				
+				
+				
+			
+			
+			
+			
+			
+				
+					
+						
+					
+				
+				
+				"grups": ["MEDIACCIONS"],
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Creus Quinteros, Amalia Susana"],
+			
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/ca/solucio_tec/iot.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "28b92335d2bc06ef2c7011cfef7379ed",
+		"fields" : {
+
+			"idioma": "en",
+			"title": "L@b Home",
+
+			"name" : "L@b Home: Electronic circuit assembly and measurement system",
+			
+			
+			"imatge_url" : "/img/labhome_1.jpg",
+			"centre" : "Estuids",
+			"sector" : "Education - eLearning",
+			"logo_url": "/img/logo_labhome.png",
+			
+			
+
+			"about_title": "L@b Home_en",
+			"about_descripcio": "**Patent no. U201230432**\n\nPriority date: 23/04/12\n\n\n\n\u003c!--StartFragment--\u003e\n\nThis innovation refers to an assembly and measurement system and has applications in the circuit electronics technical sector. An example of its application are electronic circuits, which are assembled in teaching laboratories to study different devices and assemblies.\\\nMore specifically, the system is a hardware platform that, when connected to a PC, offers the functions of a traditional electronics laboratory at a low cost: circuit assembly, testing, use of signal measurement or acquisition procedures, etc.\\\nThis platform presents the following elements:\n\n* power module, with two switched sources and a multiplicity of linear regulators, connected to the feeder;\n* a micro-controller, with two analogue input channels and one analogue output channel, with connection to the computer and the power module;\n* a memory connected to the micro-controller;\n* a signal generation module connected to the analogue output channel of the micro-controller and to the user module;\n* a signal capture module connected to the two analogue input channels of the micro-controller and to the user module;\n* a user module with an insertion circuit board that allows the user to assemble electronic circuits and with connections to the signal capture module, the signal generation module and the power module.\n\nThis system constitutes an advance in electronic circuit assembly and measurement systems for the academic sphere. The advantages offered by this equipment are:\n\n1. It satisfactorily solves the existing problem relating to the compulsory nature of combining external elements for measurements or other functions.\n2. Reduced cost: existing equipment today has a cost that prohibits its use in educational institutions.\n3. It avoids the restrictions posed by the compulsory nature of proprietary software.\n4. It allows student mobility due to its small size.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+			
+			
+			
+			
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Knowledge, Transfer \u0026 Entrepreneurship"],
+				"contacts_email": ["transfer_ari@uoc.edu "],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "patent",
+			"url" : "/en/patent/l_b_home.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "d333e3c415be1ff28151ffd2a7568614",
+		"fields" : {
+
+			"idioma": "es",
+			"title": "L@b Home",
+
+			"name" : "L@b Home: Sistema de montaje y medición de circuitos electrónicos",
+			
+			
+			"imatge_url" : "/img/labhome_1.jpg",
+			"centre" : "Estuids",
+			"sector" : "Educación - eLearning",
+			"logo_url": "/img/logo_labhome.png",
+			
+			
+
+			"about_title": "L@b Home_es",
+			"about_descripcio": "**Patent nº. U201230432**\n\nFecha de prioridad: 23/04/12\n\n\u003c!--StartFragment--\u003e\n\nLa presente invención se refiere a un sistema para el montaje y medición y tiene aplicación en el sector técnico de la electrónica de circuitos. Un ejemplo de aplicación de la misma son los circuitos electrónicos que se montan en laboratorios docentes para el estudio de diferentes dispositivos y montajes.\\\nMás concretamente, el sistema es una plataforma hardware que, conectada a un PC, permite tener, a bajo coste, las funcionalidades propias de un laboratorio tradicional de electrónica: montaje de circuitos, testeo, utilización de procedimientos de medida o adquisición de señal, etc.\\\nEsta plataforma presenta los siguientes elementos:\n\n* Módulo de alimentación, con dos fuentes conmutadas y una multitud de reguladores lineales, conectado al alimentador.\n* Un microcontrolador, con dos canales de entrada analógicos y un canal de salida analógico, con conexión al ordenador y el módulo de alimentación.\n* Una memoria conectada al microcontrolador.\n* Un módulo de generación de señal conectado al canal de salida analógico del microcontrolador y el módulo de usuario.\n* Un módulo de captura de señal conectado a los dos canales de entrada analógicos del microcontrolador y el módulo de usuario.\n* Un módulo de usuario con una placa de inserción que permite al usuario montar circuitos electrónicos y con conexiones al módulo de captura de señal, el módulo de generación de señal y el módulo de alimentación.\n\nEste sistema constituye un avance en los sistemas de montaje y medición de circuitos electrónicos para el ámbito académico. Las ventajas que este equipo presenta son:\n\n1. Resuelve de forma satisfactoria la problemática existente relacionada con la obligatoriedad de combinar elementos externos para las medidas u otras funciones.\n2. Presenta un coste reducido: los equipos existentes actualmente tienen un coste que imposibilita su uso en organismos educativos.\n3. Evita las restricciones que plantea la obligatoriedad de software propietario.\n4. Permite la movilidad del estudiante gracias a su reducido tamaño.\n\n\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+			
+			
+			
+			
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Knowledge, Transfer \u0026 Entrepreneurship"],
+				"contacts_email": ["transfer_ari@uoc.edu "],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "patent",
+			"url" : "/es/patent/l_b_home.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "91fc671b4f2a6aa8000749109f12e5fa",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "L@bHome",
+
+			"name" : "L@b Home- Sistema de muntatge i mesurament de circuits electrònics",
+			
+			
+			"imatge_url" : "/img/labhome_1.jpg",
+			"centre" : "Estuids",
+			"sector" : "Educació - eLearning",
+			"logo_url": "/img/logo_labhome.png",
+			
+			
+
+			"about_title": "L@b Home_cat",
+			"about_descripcio": "**Patent nº. U201230432**\n\nData de prioritat: 23/04/12\n\n\u003c!--StartFragment--\u003e\n\nAquesta invenció fa referència a un sistema per al muntatge i el mesurament, i té aplicació en el sector tècnic de l’electrònica de circuits. Un exemple d’aplicació són els circuits electrònics que es munten en laboratoris docents per a l’estudi de diversos dispositius i muntatges.\\\nMés concretament, el sistema és una plataforma de maquinari que, connectada a un PC, permet tenir, a baix cost, les funcionalitats pròpies d’un laboratori tradicional d’electrònica: muntatge de circuits, verificació, utilització de procediments de mesurament o adquisició de senyal, etc.\\\nAquesta plataforma presenta els elements següents:\n\n* Mòdul d’alimentació, amb dues fonts commutades i una multitud de reguladors lineals, connectat a l’alimentador.\n* Un microcontrolador, amb dos canals d’entrada analògics i un canal de sortida analògic, amb connexió a l’ordinador i al mòdul d’alimentació.\n* Una memòria connectada al microcontrolador.\n* Un mòdul de generació de senyal connectat al canal de sortida analògic del microcontrolador i al mòdul d’usuari.\n* Un mòdul de captura de senyal connectat als dos canals d’entrada analògics del microcontrolador i al mòdul d’usuari.\n* Un mòdul d’usuari amb una placa d’inserció que permet a l’usuari muntar circuits electrònics i amb connexions al mòdul de captura de senyal, al mòdul de generació de senyal i al mòdul d’alimentació.\n\nAquest sistema constitueix un avenç en els sistemes de muntatge i mesurament de circuits electrònics per a l’àmbit acadèmic. Els avantatges que aquest equip presenta són:\n\n1. Resol de manera satisfactòria la problemàtica existent relacionada amb l’obligatorietat de combinar elements externs per a les mesures o altres funcions.\n2. Presenta un cost reduït: els equips existents actualment tenen un cost que n’impossibilita l’ús en organismes educatius.\n3. Evita les restriccions que planteja l’obligatorietat de programari propietari.\n4. Permet la mobilitat de l’estudiant gràcies a la seva mida reduïda.\n\n\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+			
+			
+			
+			
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Knowledge, Transfer \u0026 Entrepreneurship"],
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "patent",
+			"url" : "/ca/patent/l_bhome.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "6aa42bb57db4bc102256919b985db886",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "Lab@Home",
+
+			"name" : "Lab@Home",
+			"text_breu" : "Lab@Home: Eina per a l’ensenyament a distància de les competències d’electrònica analògica bàsica",
+			
+			"imatge_url" : "/img/labhome_1.jpg",
+			"centre" : "Estuids",
+			"sector" : "Educació - eLearning",
+			"logo_url": "/img/logo_labhome.png",
+			
+			
+
+			"about_title": "Lab@Home_descripcio",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\nEina per a l’ensenyament a distància de les competències d’electrònica analògica bàsica. Comprèn una placa d’instrumentació electrònica amb connectivitat a un PC i un programari associat per a la seva gestió.[ ](mailto:Lab@Home)\n\n**[Lab@Home](http://transfer.rdi.uoc.edu/ca/casos/labhome-ladaptacio-de-la-tecnologia-cobrir-una-necessitat-docent-fruit-de-la-collaboracio)** permet que l’estudiant aprengui, de manera pràctica, el disseny i muntatge de circuits electrònics i la utilització dels aparells de generació de senyals propis d’un laboratori d’electrònica, amb els quals podrà alimentar els circuits i prendre mesures amb un multímetre i un oscil·loscopi.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+				"asp_innov_title": "Lab@Home_aspectes",
+				"asp_innov_descripcio": "\u003c!--StartFragment--\u003e\n\nAquesta solució constitueix un laboratori d’electrònica analògica portàtil i de baix cost. Per tant, es pot aplicar a l’aprenentatge en línia de les competències d’electrònica bàsica (disseny i muntatge de circuits electrònics i utilització d’aparells de generació de senyals i mesurament propis d’un laboratori) que s’adquireixen en l’ensenyament presencial.\n\nA més, la seva autonomia aporta a la formació presencial la possibilitat d’optimitzar el temps de pràctica al laboratori, la qual cosa permet que l’ensenyament pugui adequar-se als diferents ritmes d’aprenentatge dels estudiants.\n\n\u003c!--EndFragment--\u003e",
+				"app_title": "Lab@Home_aplicacions",
+				"app_descripcio": "\u003c!--StartFragment--\u003e\n\nLa present solució es dirigeix al sector de l’educació. Està pensat per als centres d’ensenyament que imparteixin continguts d’electrònica analògica i digital.\n\n\u003c!--EndFragment--\u003e\n\n\u003c!--StartFragment--\u003e\n\nAquesta solució està protegida mitjançant el **model d’utilitat espanyol ES1077336**. Té per títol: «Sistema de montaje y medición de circuitos electrónicos».\n\n\u003c!--EndFragment--\u003e\n\nClients:\n\nEntre els clients d’aquesta eina hi ha centres d’educació de diversos tipus: centres de formació professional, centres d’educació secundària i universitats.\n\nClients:\n\n\u003c!--StartFragment--\u003e\n\nEntre els clients d’aquesta eina hi ha centres d’educació de diversos tipus: centres de formació professional, centres d’educació secundària i universitats.\n\n\u003c!--EndFragment--\u003e",
+			
+			
+			
+			
+			
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/ca/solucio_tec/lab_home.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "1ab3e09f5dfbbde8cd483a9480b01f92",
+		"fields" : {
+
+			"idioma": "en",
+			"title": "Lab@Home",
+
+			"name" : "Lab@Home",
+			"text_breu" : "Lab@Home: Tool for the distance teaching of basic analogue electronics skills.",
+			
+			"imatge_url" : "/img/labhome_1.jpg",
+			"centre" : "Estuids",
+			"sector" : "Education - eLearning",
+			"logo_url": "/img/logo_labhome.png",
+			
+			
+
+			"about_title": "Lab@Home_description",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\nTool for the distance teaching of basic analogue electronics skills. It comprises an electronic instrumentation board with PC connectivity and associated software to manage it.[Lab@Home](mailto:Lab@Home)allows the student to learn, through practice, the design and assembly of electronic circuits and the use of the signal generation apparatus of an electronics laboratory, with which they will be able to power the circuits and take measurements with a multimeter and an oscilloscope.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+				"asp_innov_title": "Lab@Home_innovation",
+				"asp_innov_descripcio": "\u003c!--StartFragment--\u003e\n\nThe solution constitutes a low-cost portable analogue electronics laboratory. It can, then, be applied to the online learning of the basic electronics skills (design and assembly of electronic circuits and the use of the signal generation apparatus of an electronics laboratory) that are acquired in on-site education.\n\nIn addition, its autonomy enables on-site teaching to optimize laboratory practice time, which means it can be tailored to students' different learning paces.\n\n\u003c!--EndFragment--\u003e",
+				"app_title": "Lab@Home_applications",
+				"app_descripcio": "\u003c!--StartFragment--\u003e\n\nThis solution is aimed at the**education sector**. It is designed for educational institutions that teach analogue and digital electronics content.\n\n\u003c!--EndFragment--\u003e\n\n\u003c!--StartFragment--\u003e\n\nThe solution is protected by Spanish utility model ES1077336. It is entitled: \"Electronic circuit assembly and measurement system\".\n\n\u003c!--EndFragment--\u003e\n\n\u003c!--StartFragment--\u003e\n\nClients: \n\nCustomers of this tool include different types of educational institution: vocational training schools, secondary schools and universities.\n\n\u003c!--EndFragment--\u003e",
+			
+			
+			
+			
+			
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/en/solucio_tec/lab_home.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "1421d0a7bf1203e4aac45b1ab81953ac",
+		"fields" : {
+
+			"idioma": "es",
+			"title": "Lab@Home",
+
+			"name" : "Lab@Home",
+			"text_breu" : "Lab@Home: Herramienta para la enseñanza a distancia de las competencias de electrónica analógica básica",
+			
+			"imatge_url" : "/img/labhome_1.jpg",
+			"centre" : "Estuids",
+			"sector" : "Educación - eLearning",
+			"logo_url": "/img/logo_labhome.png",
+			
+			
+
+			"about_title": "Lab@Home_descripcion",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\nHerramienta para la enseñanza a distancia de las competencias de electrónica analógica básica. Incluye una placa de instrumentación electrónica con conectividad a un PC y un software asociado para su gestión.[](mailto:Lab@Home)\n\n**[Lab@Home ](http://transfer.rdi.uoc.edu/es/casos/labhome-la-adaptacion-de-la-tecnologia-para-cubrir-una-necesidad-docente-fruto-de-la)**permite que el estudiante aprenda, de forma práctica, el diseño y montaje de circuitos electrónicos y la utilización de los aparatos de generación de señales propios de un laboratorio de electrónica, con los que podrá alimentar los circuitos y tomar medidas con un multímetro y un osciloscopio.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+				"asp_innov_title": "Lab@Home_aspectos",
+				"asp_innov_descripcio": "\u003c!--StartFragment--\u003e\n\nEsta solución constituye un laboratorio de electrónica analógica portátil y de bajo coste. Por lo tanto, se puede aplicar al aprendizaje en línea de las competencias de electrónica básica (diseño y montaje de circuitos electrónicos y utilización de aparatos de generación de señales y medición propios de un laboratorio) que se adquieren en la enseñanza presencial.\n\nAdemás, su autonomía aporta a la formación presencial la posibilidad de optimizar el tiempo de práctica en el laboratorio, lo que permite que la enseñanza pueda adecuarse a los diferentes ritmos de aprendizaje de los estudiantes.\n\n\u003c!--EndFragment--\u003e",
+				"app_title": "Lab@Home_aplicaciones",
+				"app_descripcio": "\u003c!--StartFragment--\u003e\n\nLa presente solución se dirige al sector de la educación. Está pensado para los centros de enseñanza que impartan contenidos de electrónica analógica y digital.\n\n\u003c!--EndFragment--\u003e\n\n\u003c!--StartFragment--\u003e\n\nEsta solución está protegida mediante el **modelo de utilidad español ES1077336.** Tiene por título: «Sistema de montaje y medición de circuitos electrónicos».\n\n\u003c!--EndFragment--\u003e\n\nClientes:\n\n\u003c!--StartFragment--\u003e\n\nEntre los clientes de esta herramienta encontramos centros de educación de varios tipos: centros de formación profesional, centros de educación secundaria y universidades.\n\n\u003c!--EndFragment--\u003e",
+			
+			
+			
+			
+			
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/es/solucio_tec/lab_home.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "bc5a1151c3357468282230534a911c3d",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "LLengua i literatura",
+
+			"name" : "LLengua i literatura",
+			"text_breu" : "3",
+			
+			"imatge_url" : "/img/Processo-Ies-pintures-Guerrero-Medina_2392570730_69360801_651x366.jpg",
+			"centre" : "Estudis",
+			"sector" : "Art, Turisme i Llengües",
+			
+			
+			
+
+			"about_title": "llengua i literat-Sobre el servei",
+			"about_descripcio": "Els serveis es concreten en:\n\n* Usos i representacions geogràfiques en lityeratura\n* Estudis i assessorament per a la industria del llibre\n* Estudis de l'Àsia Oriental\n* Desenvolupament de solucions tecnològiques pel processament automàtic del llenguatge",
+
+			
+			
+			
+				
+				
+				
+				
+			
+			
+			
+			
+				
+					
+						
+					
+				
+				
+				"grups": ["VICRIM"],
+			
+			
+				
+					
+				
+					
+				
+
+				
+				"investigadors": ["Garcia Alsina, Montserrat","Busquets Alemany, Anna"],
+			
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "servei",
+			"url" : "/ca/servei/llengua_i_literatura.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "27f33c6cd491e730cd8b09b949c77caf",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "min",
+
+			"name" : "test",
+			
+			
+			"imatge_url" : "/img/marvin-meyer-syto3xs06fu-unsplash.jpg",
+			"centre" : "Estudis",
+			"sector" : "Educació - eLearning",
+			
+			
+			
+				
+					
+				
+					
+				
+					
+				
+				
+				"xarxes_address": ["https://www.facebook.com/UOC.universitat","https://www.instagram.com/uocuniversitat/?hl=en","https://www.google.com"],
+			
+
+			
+			
+
+			
+			
+				
+				
+				
+				
+			
+			
+			
+			
+			
+			
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/ca/solucio_tec/min.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "0cdfa11c1b04b2de2abda9f0e8bbe2bc",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "OPEN EVIDENCE",
+
+			"name" : " Open Evidence",
+			"text_breu" : "Recerca i consultoria que es troba a la intersecció de la tecnologia i la societat",
+			"eslogan" : "Apliquem informació sobre ciències socials i del comportament, proporcionant als governs i organitzacions investigacions que fonamenten decisions informades sobre evidències per afrontar alguns dels principals reptes del món.",
+			"imatge_url" : "/img/35870472491_cb3a156788_w.jpg",
+			
+			"sector" : "Salut - eHealth",
+			"logo_url": "/img/logo_openevidence.jpg",
+			
+				
+					
+				
+					
+				
+				
+				"keywords": ["eSalut","Dades"],
+			
+			
+				
+					
+				
+					
+				
+					
+				
+				
+				"xarxes_address": ["https://open-evidence.com/","https://twitter.com/OpenEvidence","https://www.facebook.com/pg/OpenEvidence/posts/"],
+			
+
+			"about_title": "Open Evidence_cat",
+			"about_descripcio": "Open Evidence és una empresa sorgida de la Universitat Oberta de Catalunya que treballa en l’àmbit de la consultoria. \n\nEls professionals d’Open Evidence són professors, investigadors i consultors amb més de vint anys d’experiència en la recerca aplicada i la consultoria.\n\n**Els trets diferenciadors de la seva activitat són:**\n\n* Metodologies i dissenys presentats i compartits en obert: el disseny de recerca i les metodologies aplicades per l’empresa són sempre transparents, verificables i compartides en obert amb els seus clients i amb la comunitat d’investigadors i professionals mitjançant processos de consulta i de validació.\n* Caixes negres obertes: Open Evidence obre les «caixes negres» de models empírics complexos i de tècniques sofisticades d’econometria i d’estadística per a garantir que els resultats de les seves anàlisis de dades i les seves simulacions de modelització són fàcils de fer servir i d’entendre.\n* Oberts a la innovació i el compromís de les parts interessades: l’enfocament no és mai tecnocràtic ni vertical, sinó que mira d’incloure perspectives i coneixements de totes les parts interessades, per mitjà de processos de consulta i de compromís col·laboratiu oberts i en línia.",
+
+			
+			
+			
+				
+				
+				
+				
+			
+			
+				"productes_serveis_titol": "Open Evidence_serveis",
+				"productes_serveis_descripcio": "\n\nDestaquen projectes en els àmbits següents:\n\n\\\n**Projectes de neuroeconomia/neuromàrqueting:**\n\n* Estudi sobre jocs d’apostes en línia i mesures adequades per a la protecció dels consumidors d’aquests serveis.\n* Avaluació d’opcions d’etiquetatge de vehicles pel que fa al CO2 i a la informació per al consumidor.\n* Estudi de l’etiquetatge i l’empaquetament del tabac.\n* Estudi de l’impacte del màrqueting en mitjans socials, jocs en línia i aplicacions mòbils sobre la conducta infantil.\n\n**Projectes de salut electrònica:**\n\n* Desplegament de benchmarking sobre salut electrònica entre metges de primària.\n* Atenció integrada a regions europees.\n* Estudi d’indicadors d’innovació i de cost-efectivitat en salut electrònica.\n\n**Innovació Oberta:**\n\n* Innovació Oberta de la Fundació Jaume Bofill.\n* Suport especialitzat en l’avaluació de la Iniciativa Kublai.\n\n**Economia del coneixement - dades massives (big data):**\n\n* Mercat de dades europeu.\n* Estudi sobre l’ús de tecnologies socials en petites i mitjanes empreses.",
+				"clients_title": "Open Evidence_clients",
+				"clients_descripcio": "\u003c!--StartFragment--\u003e\n\nOpen Evidence s’adreça al sector públic i privat d’àmbit internacional. Entre els seus clients hi ha organismes com la Comissió Europea; entitats sense ànim de lucre, com la Fundació Jaume Bofill, i institucions públiques, com el Departament de Desenvolupament i Cohesió Econòmica (Ministeri de Foment, Itàlia).\n\n\u003c!--EndFragment--\u003e",
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Lupiáñez Villanueva, Francisco"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Open Evidence"],
+				"contacts_email": ["info@open-evidence.com"],
+				"contacts_address": ["Carrer Almogàvers, 165 08018 Barcelona, Spain"],
+				"contacts_phone": ["(+34) 696 21 36 79"],
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "spin_off",
+			"url" : "/ca/spin_off/open_evidence.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "4ec028df467a32773f9b7eba24314365",
+		"fields" : {
+
+			"idioma": "en",
+			"title": "OPEN EVIDENCE",
+
+			"name" : "OPEN EVIDENCE",
+			"text_breu" : "Research and consulting at the intersection of technology and society",
+			
+			"imatge_url" : "/img/35870472491_cb3a156788_w.jpg",
+			
+			"sector" : "Economy, business and ICT",
+			"logo_url": "/img/logo_openevidence.jpg",
+			
+				
+					
+				
+					
+				
+				
+				"keywords": ["eHealth","Data"],
+			
+			
+				
+					
+				
+					
+				
+					
+				
+				
+				"xarxes_address": ["https://open-evidence.com/","https://twitter.com/OpenEvidence","https://www.facebook.com/pg/OpenEvidence/posts/"],
+			
+
+			"about_title": "Open Evidence_en",
+			"about_descripcio": "Open Evidence is a company that has emerged from the Universitat Oberta de Catalunya, working in consultancy.\n\nOpen Evidence professionals are lecturers, researchers and tutors with over twenty years' experience in applied research and consultancy.\n\nThe differentiating features of their work are:\n\n* METHODOLOGIES AND DESIGNS PRESENTED AND SHARED AS OPEN: the research design and methodologies applied by the company are always transparent, verifiable and shared openly with their customers and the community of researchers and professionals through consultation and validation processes.\n* OPEN BLACK BOXES: Open Evidence opens the \"black boxes\" of complex empirical models and sophisticated econometry and statistics techniques to ensure that the results of its data analysis and modelization simulations are easy to use and understand.\n* OPEN TO INNOVATION AND THE COMMITMENT OF INTERESTED PARTIES: the focus is never technocratic or vertical, but seeks to include perspectives and knowledge from all interested parties through consultation processes and open and online collaborative commitment.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+			
+				
+				
+				
+				
+			
+			
+				"productes_serveis_titol": "Open evidence_services",
+				"productes_serveis_descripcio": "\u003c!--StartFragment--\u003e\n\nProjects in the following fields are of particular interest:\n\n\\\n**NEUROECONOMICS/NEUROMARKETING PROJECTS:**\n\n* Study on online gambling and adequate measures to protect the consumers of these services.\n* Assessing vehicle labelling options regarding CO2 and consumer information.\n* Study on tobacco labelling and packaging.\n* Study on the impact of marketing on social media, online gambling and mobile applications on children's behaviour.\n\n**eHEALTH PROJECTS:**\n\n* Roll-out of eHealth benchmarking among primary healthcare doctors.\n* Integrated care in European regions.\n* Study on innovation and cost-effectiveness indicators in eHealth.\n\n**OPEN INNOVATION:**\n\n* Open Innovation - Fundació Jaume Bofill.\n* Specialist support for assessment of the Kublai Initiative.\n\n**KNOWLEDGE ECONOMY - BIG DATA:**\n\n* European data market.\n* Study on the use of social technologies in small- and medium-sized companies.\n\n\u003c!--EndFragment--\u003e",
+				"clients_title": "Open Evidence_clients",
+				"clients_descripcio": "\u003c!--StartFragment--\u003e\n\nOpen Evidence is aimed at the public and private sector at international level. Its clients include agencies such as the European Commission, non profit-making institutions, such as the Fundació Jaume Bofill, and public institutions, such as the Department of Development and Economic Cohesion (Ministry of Public Works, Italy).\n\n\u003c!--EndFragment--\u003e",
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Lupiáñez Villanueva, Francisco"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Open Evidence"],
+				"contacts_email": ["info@open-evidence.com"],
+				"contacts_address": ["Almogàvers, 165   08018 Barcelona, Spain"],
+				"contacts_phone": ["(+34) 696 21 36 79"],
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "spin_off",
+			"url" : "/en/spin_off/open_evidence.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "d46ab68da4594b5c236f7061f349ddb2",
+		"fields" : {
+
+			"idioma": "es",
+			"title": "OPEN EVIDENCE",
+
+			"name" : "OPEN EVIDENCE",
+			"text_breu" : "Investigación y consultoría que se encuentra en la intersección de la tecnología y la sociedad",
+			
+			"imatge_url" : "/img/35870472491_cb3a156788_w.jpg",
+			
+			"sector" : "Economía, empresa y TIC",
+			"logo_url": "/img/logo_openevidence.jpg",
+			
+				
+					
+				
+					
+				
+				
+				"keywords": ["eSalud","Datos"],
+			
+			
+				
+					
+				
+					
+				
+					
+				
+				
+				"xarxes_address": ["https://open-evidence.com/","https://twitter.com/OpenEvidence","https://www.facebook.com/pg/OpenEvidence/posts/"],
+			
+
+			"about_title": "Open Evidence_es",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\nOpen Evidence es una empresa surgida de la Universitat Oberta de Catalunya que trabaja en el ámbito de la consultoría\n\nLos profesionales de Open Evidence son profesores, investigadores y consultores con más de veinte años de experiencia en la investigación aplicada y la consultoría.\n\nLos rasgos diferenciadores de su actividad son:\n\n* Metodologías y diseños presentados y compartidos en abierto: el diseño de investigación y las metodologías aplicadas por la empresa son siempre transparentes, verificables y compartidas en abierto con sus clientes y con la comunidad de investigadores y profesionales mediante procesos de consulta y de validación.\n* Cajas negras abiertas: Open Evidence abre las «cajas negras» de modelos empíricos complejos y de técnicas sofisticadas de econometría y estadística para garantizar que los resultados de sus análisis de datos y sus simulaciones de modelización son fáciles de usar y de entender.\n* Abiertos a la innovación y el compromiso de las partes interesadas: el enfoque no es nunca tecnocrático ni vertical, sino que intenta incluir perspectivas y conocimientos de todas las partes interesadas, mediante procesos de consulta y compromiso colaborativo abiertos y en línea.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+			
+				
+				
+				
+				
+			
+			
+				"productes_serveis_titol": "Open Evidence_productos_servicios",
+				"productes_serveis_descripcio": "\u003c!--StartFragment--\u003e\n\nDestacan proyectos en los siguientes ámbitos:\n\n\\\n**Proyectos de neuroeconomía/neuromarketing:**\n\n* Estudio sobre juegos de apuestas en línea y medidas adecuadas para la protección de los consumidores de estos servicios.\n* Evaluación de opciones de etiquetado de vehículos con respecto al CO22 y a la información para el consumidor.\n* Estudio del etiquetado y el empaquetado del tabaco.\n* Estudio del impacto del marketing en medios sociales, juegos en línea y aplicaciones móviles sobre la conducta infantil.\n\n**Proyectos de salud electrónica:**\n\n* Despliegue de benchmarking sobre salud electrónica entre médicos de primaria.\n* Atención integrada en regiones europeas.\n* Estudio de indicadores de innovación y de coste-efectividad en salud electrónica.\n\n**Innovación Abierta:**\n\n* Innovación Abierta de la Fundación Jaume Bofill.\n* Soporte especializado en la evaluación de la Iniciativa Kublai.\n\n**Economía del conocimiento - macrodatos (big data):**\n\n* Mercado de datos europeo.\n* Estudio sobre el uso de tecnologías sociales en pequeñas y medianas empresas.\n\n\n\n\u003c!--EndFragment--\u003e",
+				"clients_title": "Open Evidence_clientes",
+				"clients_descripcio": "\u003c!--StartFragment--\u003e\n\nOpen Evidence se dirige al sector público y privado de ámbito internacional. Entre sus clientes encontramos organismos como la Comisión Europea; entidades sin ánimo de lucro, como la Fundación Jaume Bofill, e instituciones públicas, como el Departamento de Desarrollo y Cohesión Económica (Ministerio de Fomento, Italia).\n\n\u003c!--EndFragment--\u003e",
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Lupiáñez Villanueva, Francisco"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Open Evidence"],
+				"contacts_email": ["info@open-evidence.com"],
+				"contacts_address": ["Calle Almogàvers, 165 08018 Barcelona, Spain"],
+				"contacts_phone": ["(+34) 696 21 36 79"],
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "spin_off",
+			"url" : "/es/spin_off/open_evidence.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "d149a79312c416a745d03be583c1838f",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "pi",
+
+			"name" : "Servei Pi",
+			"text_breu" : "Sub Pi",
+			
+			"imatge_url" : "/img/x20190326-iot-in-five-years2-1.jpg.pagespeed.ic.jkhmNWwrQd.jpg",
+			"centre" : "IN3",
+			"sector" : "Salut - eHealth",
+			
+			
+			
+
+			
+			
+
+			
+			
+			
+				
+				
+				
+				
+			
+			
+			
+			
+			
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "servei",
+			"url" : "/ca/servei/pi.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "47c218ff5ea872bbef2013c8ad082134",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "Smart Logistics",
+
+			"name" : "Smart Logistics",
+			
+			"eslogan" : "Smart Logistics: Integració d’algorismes metaheurístics amb resultats de simulació per a generar solucions pseudoòptimes en la presa de decisions en problemes complexos en condicions d’incertesa",
+			"imatge_url" : "/img/35163823714_5988ddfcaa_w.jpg",
+			"centre" : "Estuids",
+			"sector" : "Economia, empresa i TIC",
+			
+			
+			
+				
+					
+				
+				
+				"xarxes_address": ["http://dpcs.uoc.edu/wordpress/"],
+			
+
+			"about_title": "Smart Logistics",
+			"about_descripcio": "Smart Logistics aplica la tecnologia simheuristics, una família d’algorismes híbrids que combinen la simulació amb tècniques metaheurístiques, per tal de resoldre eficientment problemes complexos en la presa de decisions en condicions d’incertesa.\n\nAmb la integració de la gran capacitat d’optimització d’algorismes metaheurístics i la flexibilitat de simulació s’aconsegueix una metodologia molt potent, flexible i relativament fàcil d’implementar que, després d’una sintonització correcta, pot generar solucions pseudoòptimes per a aplicacions de la vida real i per a problemes de gran escala en escenaris d’incertesa..",
+
+			
+			
+				"asp_innov_title": "Aspe",
+				"asp_innov_descripcio": "L’aplicació de la tecnologia permet obtenir solucions que proporcionin:\n\n* una reducció dels temps de procés i, en conseqüència,\n* una reducció de costos.\n\nEn l’àmbit específic de les ciutats intel·ligents, l’optimització també implica:\n\n* una reducció de la despesa pública (redistribuint l’estalvi en altres partides del pressupost municipal),\n* una millora ambiental (contaminació atmosfèrica, acústica, etc.),\n* una millora en la gestió dels espais (aparcaments, etc.),\n* una reducció del trànsit, etc.",
+				"app_title": "text",
+				"app_descripcio": "Aquesta tecnologia es pot aplicar a qualsevol indústria on hi hagi una necessitat d’optimització de processos amb la finalitat d’obtenir una reducció de costos (monetaris, ambientals, etc.). Exemples d’àrees en les quals es pot implementar són: logística, transport, producció, finances, telecomunicacions, mobilitat i ciutats intel·ligents (smart cities).\n\nCentrant-nos en l’àmbit de les ciutats intel·ligents, Smart Logistics pot aplicar-se a la gestió de la recollida de residus sòlids urbans. La tecnologia, combinada amb diferents dispositius de traçabilitat i de mesurament, permet desenvolupar un enfocament dinàmic de la recollida de residus. Tenir informació en temps real sobre els nivells de reposició dels contenidors es pot utilitzar per a optimitzar la planificació de gestió de residus i, per tant, millorar els temps de càrrega i descàrrega, amb la consegüent traducció en una reducció dels costos associats, de l’impacte ambiental, dels nivells de trànsit, etc.\n\nAltres àrees que es poden beneficiar de la tecnologia, dins de l’àmbit de les ciutats intel·ligents són: la planificació de la mobilitat urbana, la gestió dinàmica del trànsit, la planificació del transport públic, les dinàmiques en gestió d’aparcaments, etc.",
+			
+			
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Juan Perez, Angel Alejandro"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/ca/solucio_tec/smart_logistics.ca-copy.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "e196128940aba9d823e8ade1b441bab8",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "Smart Logistics",
+
+			"name" : "Smart Logistics",
+			
+			"eslogan" : "Smart Logistics: Integració d’algorismes metaheurístics amb resultats de simulació per a generar solucions pseudoòptimes en la presa de decisions en problemes complexos en condicions d’incertesa",
+			"imatge_url" : "/img/35163823714_5988ddfcaa_w.jpg",
+			"centre" : "Estuids",
+			"sector" : "Economia, empresa i TIC",
+			
+			
+			
+				
+					
+				
+				
+				"xarxes_address": ["http://dpcs.uoc.edu/wordpress/"],
+			
+
+			"about_title": "Smart Logistics",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\nSmart Logistics aplica la tecnologia simheuristics, una família d’algorismes híbrids que combinen la simulació amb tècniques metaheurístiques, per tal de resoldre eficientment problemes complexos en la presa de decisions en condicions d’incertesa.\n\nAmb la integració de la gran capacitat d’optimització d’algorismes metaheurístics i la flexibilitat de simulació s’aconsegueix una metodologia molt potent, flexible i relativament fàcil d’implementar que, després d’una sintonització correcta, pot generar solucions pseudoòptimes per a aplicacions de la vida real i per a problemes de gran escala en escenaris d’incertesa.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+				"asp_innov_title": "Aspe",
+				"asp_innov_descripcio": "L’aplicació de la tecnologia permet obtenir solucions que proporcionin:\n\n* una reducció dels temps de procés i, en conseqüència,\n* una reducció de costos.\n\nEn l’àmbit específic de les ciutats intel·ligents, l’optimització també implica:\n\n* una reducció de la despesa pública (redistribuint l’estalvi en altres partides del pressupost municipal),\n* una millora ambiental (contaminació atmosfèrica, acústica, etc.),\n* una millora en la gestió dels espais (aparcaments, etc.),\n* una reducció del trànsit, etc.",
+				"app_title": "text",
+				"app_descripcio": "Aquesta tecnologia es pot aplicar a qualsevol indústria on hi hagi una necessitat d’optimització de processos amb la finalitat d’obtenir una reducció de costos (monetaris, ambientals, etc.). Exemples d’àrees en les quals es pot implementar són: logística, transport, producció, finances, telecomunicacions, mobilitat i ciutats intel·ligents (smart cities).\n\nCentrant-nos en l’àmbit de les ciutats intel·ligents, Smart Logistics pot aplicar-se a la gestió de la recollida de residus sòlids urbans. La tecnologia, combinada amb diferents dispositius de traçabilitat i de mesurament, permet desenvolupar un enfocament dinàmic de la recollida de residus. Tenir informació en temps real sobre els nivells de reposició dels contenidors es pot utilitzar per a optimitzar la planificació de gestió de residus i, per tant, millorar els temps de càrrega i descàrrega, amb la consegüent traducció en una reducció dels costos associats, de l’impacte ambiental, dels nivells de trànsit, etc.\n\nAltres àrees que es poden beneficiar de la tecnologia, dins de l’àmbit de les ciutats intel·ligents són: la planificació de la mobilitat urbana, la gestió dinàmica del trànsit, la planificació del transport públic, les dinàmiques en gestió d’aparcaments, etc.",
+			
+			
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Juan Perez, Angel Alejandro"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/ca/solucio_tec/smart_logistics.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "ddfaa2b501643653d4d674f9176810c1",
+		"fields" : {
+
+			"idioma": "en",
+			"title": "Smart Logistics",
+
+			"name" : "Smart Logistics",
+			"text_breu" : "Smart Logistics: Integration of metaheuristic algorithms with simulation results to generate pseudo-optimum solutions in decision-making in complex problems under conditions of uncertainty",
+			
+			"imatge_url" : "/img/35163823714_5988ddfcaa_w.jpg",
+			"centre" : "IN3",
+			"sector" : "Economy, business and ICT",
+			"logo_url": "/img/35163823714_5988ddfcaa_w.jpg",
+			
+			
+				
+					
+				
+				
+				"xarxes_address": ["http://dpcs.uoc.edu/wordpress/"],
+			
+
+			"about_title": "Smart_des_eng",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\nSmart Logistics applies simheuristics technology, a family of hybrid algorithms that combine simulation with metaheuristic techniques to solve efficiently complex problems in decision-making under conditions of uncertainty.\\\n\\\nWith the integration of the large optimization capacity of metaheuristic algorithms and the flexibility of simulation, a very powerful, flexible and relatively easily implemented methodology is achieved, which, after proper synchronization, can generate pseudo-optimum solutions for real-life applications and for large-scale problems in scenarios of uncertainty.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+				"asp_innov_title": "Smarts_innovation",
+				"asp_innov_descripcio": "\u003c!--StartFragment--\u003e\n\nThe application of the technology allows solutions to be obtained that provide:\n\n* a reduction in process times and, consequently,\n* a reduction in costs.\n\nIn the specific field of smart cities, optimization also entails:\n\n* a reduction in public spending (redistributing the saving in other items in the municipal budget),\n* environmental improvement (atmospheric pollution, noise pollution, etc.),\n* an improvement in the management of spaces (car parks, etc.),\n* a reduction in traffic, etc.\n\n\u003c!--EndFragment--\u003e",
+				"app_title": "Smart_applications",
+				"app_descripcio": "\u003c!--StartFragment--\u003e\n\n![](http://transfer.rdi.uoc.edu/sites/default/files/styles/node_full-300x220/public/results/captura_de_pantalla_2015-09-16_a_les_16.24.33.png?itok=rHOGNbn7)\n\n[http://openthoughtsmarter.blog...](http://openthoughtsmarter.blogs.uoc.edu/simheuristics-a-new-smart-tool-for-a-complex-world/)\n\n##### Contact\n\ntransfer_ari@uoc.edu\n\nSmart Logistics applies simheuristics technology, a family of hybrid algorithms that combine simulation with metaheuristic techniques to solve efficiently complex problems in decision-making under conditions of uncertainty.\\\n\\\nWith the integration of the large optimization capacity of metaheuristic algorithms and the flexibility of simulation, a very powerful, flexible and relatively easily implemented methodology is achieved, which, after proper synchronization, can generate pseudo-optimum solutions for real-life applications and for large-scale problems in scenarios of uncertainty.\n\n#### [Market](http://transfer.rdi.uoc.edu/en/technological-solution/smart-logistics-integracio-dalgorismes-metaheuristics-amb-resultats-de#collapseOne)\n\n#### [Innovation](http://transfer.rdi.uoc.edu/en/technological-solution/smart-logistics-integracio-dalgorismes-metaheuristics-amb-resultats-de#collapseTwo)\n\nThe application of the technology allows solutions to be obtained that provide:\n\n* a reduction in process times and, consequently,\n* a reduction in costs.\n\nIn the specific field of smart cities, optimization also entails:\n\n* a reduction in public spending (redistributing the saving in other items in the municipal budget),\n* environmental improvement (atmospheric pollution, noise pollution, etc.),\n* an improvement in the management of spaces (car parks, etc.),\n* a reduction in traffic, etc.\n\n#### [Applications](http://transfer.rdi.uoc.edu/en/technological-solution/smart-logistics-integracio-dalgorismes-metaheuristics-amb-resultats-de#collapseFour)\n\nThis technology can be applied to any industry where there is a need for process optimization with the aim of obtaining cost reductions (monetary, environmental, etc.). Examples of areas in which it can be rolled out are: logistics, transport, production, finances, telecommunication, mobility and smart cities.\\\n\\\nIf we look at the field of smart cities, Smart Logistics can be applied to urban solid waste collection management. The technology, in combination with various traceability and measuring devices, enables a dynamic waste collection focus to be developed. Having real-time information about the replacement levels of dumpsters can be used to optimize waste management planning and therefore improve loading and unloading times, with the subsequent translation into a reduction of the associated costs , environmental impact, traffic levels, etc.\\\n\\\nOther areas that could benefit from the technology in the field of smart cities are: urban mobility planning, dynamic traffic management, public transport planning, car park management dynamics, etc.\n\n\u003c!--EndFragment--\u003e\n\n\u003c!--StartFragment--\u003e\n\nThe type of algorithms generated using this technology is especially suitable for small and medium-sized enterprises (SME), that cannot afford a department to manage decision-taking in logistics and transport, providing them with a powerful tool to enable them to be more competitive in the market.\\\n\\\nIn the field of smart cities the technology would be suited to all businesses that provide operations and maintenance services, transport services, etc. in towns and cities.\n\n\u003c!--EndFragment--\u003e",
+			
+			
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Juan Perez, Angel Alejandro"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/en/solucio_tec/smart_logistics.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "744e900844e994140c1625bc2830ea32",
+		"fields" : {
+
+			"idioma": "es",
+			"title": "Smart Logistics",
+
+			"name" : "Smart Logistics",
+			"text_breu" : "Integración de algoritmos metaheurísticos con resultados de simulación para generar soluciones pseudoóptimas en la toma de decisiones en problemas complejos en condiciones de incertidumbre",
+			
+			"imatge_url" : "/img/35163823714_5988ddfcaa_w.jpg",
+			"centre" : "IN3",
+			"sector" : "Economía, empresa y TIC",
+			
+			
+			
+				
+					
+				
+				
+				"xarxes_address": ["http://dpcs.uoc.edu/wordpress/"],
+			
+
+			"about_title": "Smart Logistics_des",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\nSmart Logistics aplica la tecnología simheuristics, una familia de algoritmos híbridos que combinan la simulación con técnicas metaheurísticas, para resolver eficientemente problemas complejos en la toma de decisiones en condiciones de incertidumbre.\n\nCon la integración de la gran capacidad de optimización de algoritmos metaheurísticos y la flexibilidad de simulación se consigue una metodología muy potente, flexible y relativamente fácil de implementar que, tras una correcta sintonización, puede generar soluciones pseudoóptimas para aplicaciones de la vida real y para problemas de gran escala en escenarios de incertidumbre.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+				"asp_innov_title": "Smart_aspectos",
+				"asp_innov_descripcio": "\u003c!--StartFragment--\u003e\n\nLa aplicación de la tecnología permite obtener soluciones que proporcionen:\n\n* una reducción de los tiempos de proceso y, en consecuencia,\n* una reducción de costes.\n\nEn el ámbito específico de las ciudades inteligentes, la optimización también implica:\n\n* una reducción del gasto público (redistribuyendo el ahorro en otras partidas del presupuesto municipal),\n* una mejora ambiental (contaminación atmosférica, acústica, etc.),\n* una mejora en la gestión de los espacios (aparcamientos, etc.),\n* una reducción del tráfico, etc.\n\n\u003c!--EndFragment--\u003e",
+				"app_title": "Smart_apli",
+				"app_descripcio": "\u003c!--StartFragment--\u003e\n\nEsta tecnología se puede aplicar a cualquier industria en la que exista una necesidad de optimización de procesos con el fin de obtener una reducción de costes (monetarios, ambientales, etc.). Ejemplos de áreas en las que se puede implementar: logística, transporte, producción, finanzas, telecomunicaciones, movilidad y ciudades inteligentes (smart cities).\n\nCentrándonos en el ámbito de las ciudades inteligentes, Smart Logistics puede aplicarse a la gestión de la recogida de residuos sólidos urbanos. La tecnología, combinada con diferentes dispositivos de trazabilidad y medición, permite desarrollar un enfoque dinámico de la recogida de residuos. Disponer de información en tiempo real sobre los niveles de reposición de los contenedores se puede utilizar para optimizar la planificación de gestión de residuos y, por tanto, mejorar los tiempos de carga y descarga, con la consiguiente traducción en una reducción de los costes asociados, del impacto ambiental, de los niveles de tráfico, etc.\n\nOtras áreas que se pueden beneficiar de la tecnología, dentro del ámbito de las ciudades inteligentes son: la planificación de la movilidad urbana, la gestión dinámica del tráfico, la planificación del transporte público, las dinámicas en gestión de aparcamientos, etc.\n\n\u003c!--EndFragment--\u003e\n\n\u003c!--StartFragment--\u003e\n\n![](http://transfer.rdi.uoc.edu/sites/default/files/styles/node_full-300x220/public/results/captura_de_pantalla_2015-09-16_a_les_16.24.33.png?itok=rHOGNbn7)\n\n[http://openthoughtsmarter.blog...](http://openthoughtsmarter.blogs.uoc.edu/simheuristics-a-new-smart-tool-for-a-complex-world/)\n\n##### Contacto\n\ntransfer_ari@uoc.edu\n\nSmart Logistics aplica la tecnología simheuristics, una familia de algoritmos híbridos que combinan la simulación con técnicas metaheurísticas, para resolver eficientemente problemas complejos en la toma de decisiones en condiciones de incertidumbre.\n\nCon la integración de la gran capacidad de optimización de algoritmos metaheurísticos y la flexibilidad de simulación se consigue una metodología muy potente, flexible y relativamente fácil de implementar que, tras una correcta sintonización, puede generar soluciones pseudoóptimas para aplicaciones de la vida real y para problemas de gran escala en escenarios de incertidumbre.\n\n#### [Mercado Objetivo](http://transfer.rdi.uoc.edu/es/soluciones-tecnologicas/smart-logistics-integracio-dalgorismes-metaheuristics-amb-resultats-de#collapseOne)\n\nEl tipo de algoritmos generados con esta tecnología es especialmente adecuado para las pequeñas y medianas empresas (PYME), que no se pueden permitir un departamento para gestionar la toma de decisiones en la logística y el transporte, proporcionándoles una herramienta poderosa para ser más competitivos en el mercado.\n\nEn el campo de las ciudades inteligentes, la tecnología sería adecuada para todas las empresas que proporcionan servicios de operaciones y mantenimiento, de transporte, etc., a los municipios.\n\n\u003c!--EndFragment--\u003e",
+			
+			
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Juan Perez, Angel Alejandro"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/es/solucio_tec/smart_logistics.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "0093ddf3c0771ed6babb3814f6bd0d58",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "SMARTCLOCKS",
+
+			"name" : "SMARTCLOCKS",
+			
+			"eslogan" : "Fes que les teves xarxes IoT estiguin perfectament sincronitzades eliminant fonts de temps externes (GPS) i comunicacions dedicades a la sincronització",
+			"imatge_url" : "/img/logo_petit_smartclock.jpg",
+			"centre" : "Estuids",
+			"sector" : "Indústria 4.0",
+			
+			
+			
+
+			"about_title": "Smartclocks_cat",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\n**Patent nº. PCT/EP2016/067541**\n\nData de prioritat: 22/07/16\n\nSMARTCLOCKS és un nou mètode, de baix cost i de baix consum energètic que ajusta els rellotges dels dispositius sense fils per a garantir una millor precisió de la sincronització —fins a deu vegades superior a les actuals solucions d’alta precisió— i també un 30% menys de consum d’energia.\n\nSMARTCLOCKS té la capacitat d’ajustar el rellotge a una referència amb una compensació de deriva basada en la caracterització tèrmica del dispositiu. El mecanisme es basa en el reajustament esporàdic del rellotge a font de referència temporal combinat amb la predicció adaptativa de l’índex de deriva i la compensació automàtica mitjançant dues taules de correcció.\n\nSMARTCLOCKS manté una sincronització molt precisa sense cap font de temps externa ni comunicacions dedicades per a sincronitzar dispositius.\n\nSMARTCLOCKS és la solució perfecta per a escenaris de recopilació de dades en què són essencials una sincronització precisa i la reducció del consum energètic.\n\nSMARTCLOCKS ofereix els avantatges següents:\n\n* És fins a 10 vegades més precís que les actuals solucions de sincronizació d’alta precisió\n* Minimitza la sobrecàrrega de comunicació causada pels problemes de sincronització.\n* Optimitza la fiabilitat de la xarxa TDMA amb un 100% d’eficiència.\n* Consumeix un 30% menys energia.\n\nLa tecnologia SMARTCLOCKS està protegida per una sol·licitud de patent internacional titulada «Correcció de deriva en una xarxa sense fil».\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+			
+			
+			
+			
+			
+				
+					
+				
+					
+				
+
+				
+				"investigadors": ["Vilajosana Guillén, Xavier","Adelantado Freixer, Ferran"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Knowledge, Transfer \u0026 Entrepreneurship"],
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "patent",
+			"url" : "/ca/patent/smartclocks.ca-copy.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "7abfcdd84c153dfaf660aa3ef7f6fd90",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "SMARTCLOCKS",
+
+			"name" : "SMARTCLOCKS",
+			"text_breu" : "Fes que les teves xarxes IoT estiguin perfectament sincronitzades eliminant fonts de temps externes (GPS) i comunicacions dedicades a la sincronització",
+			"eslogan" : "eslogan obligatori?",
+			"imatge_url" : "/img/logo_petit_smartclock_.jpg",
+			"centre" : "IN3",
+			"sector" : "Economia, empresa i TIC",
+			"logo_url": "/img/logo_petit_smartclock_.jpg",
+			
+			
+
+			"about_title": "Smartclocks",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\nSMARTCLOCKS és un nou mètode, de baix cost i de baix consum energètic que **ajusta els rellotges dels dispositius sense fils per a garantir una millor precisió de la sincronització** —fins a deu vegades superior a les actuals solucions d’alta precisió— i també un 30% menys de consum d’energia.\n\nSMARTCLOCKS té la capacitat d’ajustar el rellotge a una referència amb una compensació de deriva basada en la caracterització tèrmica del dispositiu. El mecanisme es basa en el reajustament esporàdic del rellotge a font de referència temporal combinat amb la predicció adaptativa de l’índex de deriva i la compensació automàtica mitjançant dues taules de correcció.\n\nSMARTCLOCKS manté una sincronització molt precisa sense cap font de temps externa ni comunicacions dedicades per a sincronitzar dispositius.\n\nSMARTCLOCKS és la solució perfecta per a escenaris de recopilació de dades en què són essencials una sincronització precisa i la reducció del consum energètic.\n\nSMARTCLOCKS ofereix els avantatges següents:\n\n* És fins a 10 vegades més precís que les actuals solucions de sincronizació d’alta precisió\n* Minimitza la sobrecàrrega de comunicació causada pels problemes de sincronització.\n* Optimitza la fiabilitat de la xarxa TDMA amb un 100% d’eficiència.\n* Consumeix un 30% menys energia.\n\nLa tecnologia SMARTCLOCKS està protegida per una sol·licitud de patent internacional titulada «Correcció de deriva en una xarxa sense fil».\n\n\u003c!--EndFragment--\u003e\n\n\u003c!--StartFragment--\u003e\n\n***Patent no. PCT/EP2016/067541***\n\n***Titularitat: UOC***\n\n***Data de prioritat: 22/07/16***",
+
+			
+			
+			
+			
+			
+			
+				
+					
+						
+					
+				
+				
+				"grups": ["GADE"],
+			
+			
+				
+					
+				
+					
+				
+					
+				
+					
+				
+
+				
+				"investigadors": ["Marco Simó, Josep Maria","Cobarsí Morales, Josep","Busquets Alemany, Anna","Andreu Barrachina, Llorenç"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Knowledge, transfer \u0026entrepreneurship"],
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				"contacts_phone": ["93 93 9 3"],
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "patent",
+			"url" : "/ca/patent/smartclocks.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "6e25a6bceee5a6a5de76ac97fe15c026",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "SMARTCLOCKS",
+
+			"name" : "SMARTCLOCKS",
+			"text_breu" : "Fes que les teves xarxes IoT estiguin perfectament sincronitzades eliminant fonts de temps externes (GPS) i comunicacions dedicades a la sincronització",
+			"eslogan" : "eslogan obligatori?",
+			"imatge_url" : "/img/logo_petit_smartclock_.jpg",
+			"centre" : "IN3",
+			"sector" : "Economia, empresa i TIC",
+			"logo_url": "/img/logo_petit_smartclock_.jpg",
+			
+			
+
+			"about_title": "Smartclocks",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\nSMARTCLOCKS és un nou mètode, de baix cost i de baix consum energètic que **ajusta els rellotges dels dispositius sense fils per a garantir una millor precisió de la sincronització** —fins a deu vegades superior a les actuals solucions d’alta precisió— i també un 30% menys de consum d’energia.\n\nSMARTCLOCKS té la capacitat d’ajustar el rellotge a una referència amb una compensació de deriva basada en la caracterització tèrmica del dispositiu. El mecanisme es basa en el reajustament esporàdic del rellotge a font de referència temporal combinat amb la predicció adaptativa de l’índex de deriva i la compensació automàtica mitjançant dues taules de correcció.\n\nSMARTCLOCKS manté una sincronització molt precisa sense cap font de temps externa ni comunicacions dedicades per a sincronitzar dispositius.\n\nSMARTCLOCKS és la solució perfecta per a escenaris de recopilació de dades en què són essencials una sincronització precisa i la reducció del consum energètic.\n\nSMARTCLOCKS ofereix els avantatges següents:\n\n* És fins a 10 vegades més precís que les actuals solucions de sincronizació d’alta precisió\n* Minimitza la sobrecàrrega de comunicació causada pels problemes de sincronització.\n* Optimitza la fiabilitat de la xarxa TDMA amb un 100% d’eficiència.\n* Consumeix un 30% menys energia.\n\nLa tecnologia SMARTCLOCKS està protegida per una sol·licitud de patent internacional titulada «Correcció de deriva en una xarxa sense fil».\n\n\u003c!--EndFragment--\u003e\n\n\u003c!--StartFragment--\u003e\n\n***Patent no. PCT/EP2016/067541***\n\n***Titularitat: UOC***\n\n***Data de prioritat: 22/07/16***",
+
+			
+			
+			
+			
+			
+			
+				
+					
+						
+					
+				
+				
+				"grups": ["GADE"],
+			
+			
+				
+					
+				
+					
+				
+					
+				
+					
+				
+
+				
+				"investigadors": ["Marco Simó, Josep Maria","Cobarsí Morales, Josep","Busquets Alemany, Anna","Andreu Barrachina, Llorenç"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Knowledge, transfer \u0026entrepreneurship"],
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				"contacts_phone": ["93 93 9 3"],
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "patent",
+			"url" : "/ca/patent/smartclocks.ca_1.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "fc48463c677c0a069e59b0550c03e47b",
+		"fields" : {
+
+			"idioma": "en",
+			"title": "SMARTCLOCKS",
+
+			"name" : "SMARTCLOCKS",
+			
+			"eslogan" : "It keeps your IoT networks perfectly synchronized, eliminating external time sources (GPS) and dedicated communications to synchronize.",
+			"imatge_url" : "/img/logo_petit_smartclock.jpg",
+			"centre" : "Estuids",
+			"sector" : "Industry 4.0",
+			
+			
+			
+
+			"about_title": "Smartclocks_en",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\n**Patent no. PCT/EP2016/067541**\n\nPriority date: 22/07/16\n\nSMARTCLOCKS is a novel, low-cost and energy-efficient method that aligns the clocks of wireless devices to guarantee improved synchronization accuracy by up to 10 times when compared to the current high-accuracy solutions while using 30% less energy.\n\nSMARTCLOCKS is able to align clocks to a reference with a drift compensation based on the device’s thermal characterization. It relies on sporadic clock realignment to a time source reference combined with adaptive drift rate prediction and automatic compensation using two correction tables.\n\nSMARTCLOCKS maintains highly accurate synchronization without any external time source or dedicated communications to synchronize devices.\n\nSMARTCLOCKS is the perfect solution for data collection scenarios where accurate synchronization and a reduction of energy consumption are vital.\n\nSMARTCLOCKS provides the following advantages:\n\n* Improves current high-accuracy synchronization solutions by up to 10 times\n* Minimizes communication overhead caused by synchronization problems\n* Optimizes TDMA network reliability with 100% efficiency\n* Consumes 30% less power\n\nSMARTCLOCKS technology is protected by the “Drift correction in a wireless network” international patent application.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+			
+			
+			
+			
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Knowledge, Transfer \u0026 Entrepreneurship "],
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "patent",
+			"url" : "/en/patent/smartclocks.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "e6d9ba478346d575d046628a6a7ae5a7",
+		"fields" : {
+
+			"idioma": "es",
+			"title": "SMARTCLOCKS",
+
+			"name" : "SMARTCLOCKS",
+			
+			"eslogan" : "Haz que tus redes IoT estén perfectamente sincronizadas eliminando fuentes de tiempo externas (GPS) y comunicaciones dedicadas a la sincronización.",
+			"imatge_url" : "/img/logo_petit_smartclock.jpg",
+			"centre" : "Estuids",
+			"sector" : "industria 4.0",
+			
+			
+			
+
+			"about_title": "Smartclocks_es",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\n**Patente nº. PCT/EP2016/067541**\n\nFecha de prioridad: 22/07/16\n\nSMARTCLOCKS es un nuevo método, de bajo coste y de bajo consumo energético que ajusta los relojes de los dispositivos inalámbricos para garantizar una mejor precisión de la sincronización —hasta diez veces superior a las actuales soluciones de alta precisión— así como un 30 % menos de consumo de energía.\n\nSMARTCLOCKS tiene la capacidad de ajustar el reloj a una referencia con una compensación de deriva basada en la caracterización térmica del dispositivo. El mecanismo se basa en el reajuste esporádico del reloj a una fuente de referencia temporal combinado con la predicción adaptativa del índice de deriva y la compensación automática mediante dos tablas de corrección.\n\nSMARTCLOCKS mantiene una sincronización muy precisa sin ninguna fuente de tiempo externa ni comunicaciones dedicadas para sincronizar dispositivos.\n\nSMARTCLOCKS es la solución perfecta para escenarios de recopilación de datos en los que son esenciales una sincronización precisa y la reducción del consumo energético.\n\nSMARTCLOCKS ofrece las siguientes ventajas:\n\n* Es hasta 10 veces más preciso que las actuales soluciones de sincronización de alta precisión.\n* Minimiza la sobrecarga de comunicación causada por los problemas de sincronización.\n* Optimiza la fiabilidad de la red TDMA con un 100 % de eficiencia.\n* Consume un 30 % menos energía.\n\nLa tecnología SMARTCLOCKS está protegida por una solicitud de patente internacional titulada «Corrección de deriva en una red inalámbrica».\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+			
+			
+			
+			
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Knowledge, Transfer \u0026 Entrepreneurship "],
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "patent",
+			"url" : "/es/patent/smartclocks.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "b2471dbbe2b23259853ee7c31999bd87",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "SpeakApps",
+
+			"name" : "SpeakApps",
+			"text_breu" : "SpeakApps: eines i activitats per a l’aprenentatge oral de les llengües",
+			
+			"imatge_url" : "/img/speakapps.png",
+			"centre" : "Estuids",
+			"sector" : "Educació - eLearning",
+			"logo_url": "/img/speakapplogo.png",
+			
+			
+				
+					
+				
+					
+				
+					
+				
+				
+				"xarxes_address": ["http://www.speakapps.eu/ca/","https://twitter.com/speakapps","https://www.youtube.com/user/SpeakApps"],
+			
+
+			"about_title": "SpeakApps_descripcio",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\nSpeakApps representa una solució innovadora per a l’ensenyament d’idiomes amb eines i materials en línia dissenyats específicament perquè els estudiants d’idiomes puguin practicar i millorar les competències orals en l’aprenentatge d’una llengua. SpeakApps consta de quatre eines:\n\n* Langblog: audioblog/videoblog pensat per a l’aprenentatge amb activitats orals.\n* Tandem: eina que permet als estudiants realitzar activitats per parelles que fomentin la pràctica oral. Distribueix materials en temps real per a potenciar la interacció entre els estudiants.\n* Videochat: eina que permet fer sessions de videoconferència amb fins a sis persones, que facilita als estudiants organitzar i enregistrar sessions sense la presència del professor i permet al professor escoltar i avaluar les intervencions individuals de cada participant.\n* Open Educational Resources (OER): eina de creació i edició d’activitats i materials per a l’ensenyament d’idiomes en línia que inclou un repositori de materials amb llicència Creative Commons.\n\nLes eines poden integrar-se fàcilment en qualsevol plataforma educativa compatible amb l’estàndard LTI d’IMS Global.\n\nA més, la comunitat de SpeakApps, dirigida a professors de llengües, desenvolupadors de tecnologies d’aprenentatge i tot tipus d’institucions relacionades amb l’ensenyament de llengües, promou la contribució i l’intercanvi de continguts, serveis i pedagogies per a l’ensenyament de llengües.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+				"asp_innov_title": "SpeakApps_aspectes",
+				"asp_innov_descripcio": "\u003c!--StartFragment--\u003e\n\nSpeakApps permet dur a terme activitats per a la pràctica oral d’una llengua en línia, que tradicionalment s’han realitzat presencialment: alumnes i professors poden interactuar de manera flexible, fàcil i intuïtiva, simplificant les interfícies i unificant formats. Això millora l’experiència educativa, ja que centra els esforços en l’aprenentatge i evita la dispersió en l’ús de la tecnologia.\n\nS’ha comprovat que amb l’ús de SpeakApps:\n\n* Els alumnes augmenten el sentiment de pertinença de grup, tenen més motivació i s’incrementa la qualitat de l’aprenentatge d’habilitats de la parla.\n* Els professors disposen d’eines i recursos més potents per a promoure i avaluar la pràctica oral de llengües entre els alumnes.\n\nSpeakApps ha estat guardonat amb la medalla de plata a la convocatòria dels premis Learning Impact 2014, organitzats per l’IMS Global Learning Consortium, una entitat sense ànim de lucre que vol impulsar el creixement i l’impacte de les tecnologies d’aprenentatge en l’ensenyament superior.\n\n\u003c!--EndFragment--\u003e",
+				"app_title": "SpeakApps_aplicacions",
+				"app_descripcio": "\u003c!--StartFragment--\u003e\n\nSpeakApps està inicialment pensat per a l’ensenyament de llengües a distància, però també es pot fer servir com a reforç de la pràctica oral en models presencials o mixtos. La UOC ofereix una sèrie de serveis perquè les entitats interessades puguin treure el màxim profit de SpeakApps:\n\n* Servei d’integració en la plataforma educativa de l’entitat.\n* Servei SAAS (accés a les eines al núvol en cas de no disposar de plataforma educativa).\n* Suport tècnic (per a problemes en la instal·lació, per a manteniment, etc.).\n* Suport pedagògic (adaptació d’activitats a ensenyament en línia).\n* Formació (eines SpeakApps, ensenyament virtual, etc.).\n\n\u003c!--EndFragment--\u003e\n\n\u003c!--StartFragment--\u003e\n\nSpeakApps s’adreça especialment a entitats del sector educatiu dedicades a l’ensenyament de llengües, com escoles i centres d’ensenyament d’idiomes, universitats i centres d’educació a distància que imparteixen idiomes.\n\n#### \\\n\u003c!--EndFragment--\u003e",
+			
+			
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Appel, Marie Christine"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/ca/solucio_tec/speakapps.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "ff2fb7331ef7b043a65a91a5f18a1991",
+		"fields" : {
+
+			"idioma": "en",
+			"title": "SpeakApps",
+
+			"name" : "SpeakApps",
+			"text_breu" : "SpeakApps: Tools and activities for oral language learning",
+			
+			"imatge_url" : "/img/speakapps.png",
+			"centre" : "Estuids",
+			"sector" : "Education - eLearning",
+			"logo_url": "/img/speakapplogo.png",
+			
+				
+					
+				
+				
+				"keywords": ["eLearning"],
+			
+			
+				
+					
+				
+					
+				
+					
+				
+				
+				"xarxes_address": ["http://www.speakapps.eu/","https://twitter.com/speakapps","https://www.youtube.com/user/SpeakApps?reload=9"],
+			
+
+			"about_title": "SpeakApps_desc_eng",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\nSpeakApps represents an innovative language teaching solution with online tools and materials designed specifically for language students to be able to practise and improve oral skills when learning a language. SpeakApps consists of four tools:\n\n* Langblog: Audio/Videoblog designed for oral activity learning\n* Tandem: Tool that enables students to carry out pair work to foster oral practice. It distributes materials in real time to enhance interaction between the students.\n* Videochat: Tool that allows videoconferencing sessions with up to six people, helping the students organize and record sessions without the teacher present and allowing the teacher to listen to and assess the individual interventions of each participant.\n* Open Educational Resources (OER): Online language teaching activities and materials creation and editing tool that includes a repository of materials with a Creative Commons licence.\n\nThe four tools can easily be integrated into any educational platform compatible with the IMS LTI standard.\n\nIn addition, the SpeakApps Community, aimed at language teachers, learning technologies developers and all types of language learning-related institutions, promotes the contribution and exchange of language teaching contents, services and teaching methodologies.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+				"asp_innov_title": "SpeakApps_innovation",
+				"asp_innov_descripcio": "\u003c!--StartFragment--\u003e\n\nSpeakApps allows activities to be done for online oral language practice that have traditionally been done in person: students and teachers can interact flexibly, easily and intuitively, simplifying interfaces and unifying formats. This improves the education experience, focusing efforts on learning and avoiding dispersion in the use of the technology.\\\n\\\nIt has been shown that by using SpeakApps:\n\n* students have a greater feeling of belonging to a group, they are more motivated and the quality of speaking skills learning increases.\n* teachers have more powerful tools and resources to promote and assess oral language practice among the students.\n\nSpeakApps was awarded the silver medal in the Learning Impact 2014 awards, organized by the[IMS Global Learning Consortium](http://www.imsglobal.org/), a non profit-making organization that seeks to promote the growth and impact of learning technologies in higher education.\n\n\u003c!--EndFragment--\u003e",
+				"app_title": "SpeakApps_applications",
+				"app_descripcio": "\u003c!--StartFragment--\u003e\n\nSpeakApps is initially designed for distance language teaching, but it can also be used as oral language reinforcement in on-site or blended models. The UOC offers a series of services so that interested institutions can get the most out of SpeakApps:\n\n* Integration service on the institution's education platform.\n* SAAS service (access to tools in the cloud if the institution does not have an education platform).\n* Technical support (for installation problems, maintenance, etc.).\n* Educational support (adaptation of activities to online teaching).\n* Training (SpeakApps tools, e-teaching, etc.).\n\n\u003c!--EndFragment--\u003e\n\n\u003c!--StartFragment--\u003e\n\nSpeakApps is especially aimed at institutions in the education sector working in language teaching, such as schools and language learning centres, universities and distance education centres that teach languages.\n\n\u003c!--EndFragment--\u003e",
+			
+			
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Appel, Marie Christine"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/en/solucio_tec/speakapps.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "ca475832df254c739bd28b2b4848f5bf",
+		"fields" : {
+
+			"idioma": "es",
+			"title": "SpeakApps",
+
+			"name" : "SpeakApps",
+			"text_breu" : "SpeakApps: herramientas y actividades para el aprendizaje oral de las lenguas",
+			
+			"imatge_url" : "/img/speakapps.png",
+			"centre" : "Estuids",
+			"sector" : "Educación - eLearning",
+			"logo_url": "/img/speakapplogo.png",
+			
+			
+				
+					
+				
+					
+				
+					
+				
+				
+				"xarxes_address": ["http://www.speakapps.eu/es/","https://twitter.com/speakapps","https://www.youtube.com/user/SpeakApps"],
+			
+
+			"about_title": "SpeakApps_descripcion",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\nSpeakApps representa una solución innovadora para la enseñanza de idiomas con herramientas y materiales en línea diseñados específicamente para que los estudiantes de idiomas puedan practicar y mejorar las competencias orales en el aprendizaje de una lengua. SpeakApps consta de cuatro herramientas:\n\n* Langblog: audioblog/videoblog pensado para el aprendizaje con actividades orales.\n* Tandem: herramienta que permite a los estudiantes realizar actividades por parejas que fomenten la práctica oral. Distribuye materiales en tiempo real para potenciar la interacción entre los estudiantes.\n* Videochat: herramienta que permite hacer sesiones de videoconferencia con hasta seis personas, que facilita a los estudiantes organizar y registrar sesiones sin la presencia del profesor y permite al profesor escuchar y evaluar las intervenciones individuales de cada participante.\n* Open Educational Resources (OER): herramienta de creación y edición de actividades y materiales para la enseñanza de idiomas en línea que incluye un repositorio de materiales con licencia Creative Commons.\n\nLas herramientas pueden integrarse fácilmente en cualquier plataforma educativa compatible con el estándar LTI de IMS Global.\n\nAdemás, la comunidad de SpeakApps, dirigida a profesores de lenguas, desarrolladores de tecnologías de aprendizaje y todo tipo de instituciones relacionadas con la enseñanza de lenguas, promueve la contribución y el intercambio de contenidos, servicios y pedagogías para la enseñanza de lenguas.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+				"asp_innov_title": "SpeakApps_aspectos",
+				"asp_innov_descripcio": "\u003c!--StartFragment--\u003e\n\nSpeakApps permite llevar a cabo actividades para la práctica oral de una lengua en línea, que tradicionalmente se han realizado presencialmente: alumnos y profesores pueden interactuar de manera flexible, fácil e intuitiva, simplificando las interfaces y unificando formatos. Esto mejora la experiencia educativa, ya que centra sus esfuerzos en el aprendizaje y evita la dispersión en el uso de la tecnología.\n\nSe ha comprobado que con el uso de SpeakApps:\n\n* Los alumnos aumentan el sentimiento de pertenencia de grupo, están más motivados y se incrementa la calidad del aprendizaje de habilidades del habla.\n* Los profesores disponen de herramientas y recursos más potentes para promover y evaluar la práctica oral de lenguas entre los alumnos.\n\nSpeakApps ha sido galardonado con la medalla de plata en la convocatoria de los premios Learning Impact 2014, organizados por el IMS Global Learning Consortium, una entidad sin ánimo de lucro que quiere impulsar el crecimiento y el impacto de las tecnologías de aprendizaje en la enseñanza superior.\n\n\u003c!--EndFragment--\u003e",
+				"app_title": "SpeakApps_aplicaciones",
+				"app_descripcio": "\u003c!--StartFragment--\u003e\n\nSpeakApps está inicialmente pensado para la enseñanza de lenguas a distancia, pero también se puede utilizar como refuerzo de la práctica oral en modelos presenciales o mixtos. La UOC ofrece una serie de servicios para que las entidades interesadas puedan sacar el máximo provecho de SpeakApps:\n\n* Servicio de integración en la plataforma educativa de la entidad.\n* Servicio SAAS (acceso a las herramientas en la nube en caso de no disponer de plataforma educativa).\n* Soporte técnico (para problemas en la instalación, mantenimiento, etc.).\n* Apoyo pedagógico (adaptación de actividades en enseñanza en línea).\n* Formación (herramientas SpeakApps, enseñanza virtual, etc.).\n\n\u003c!--EndFragment--\u003e\n\n\u003c!--StartFragment--\u003e\n\nSpeakApps se dirige especialmente a entidades del sector educativo dedicadas a la enseñanza de lenguas, como escuelas y centros de enseñanza de idiomas, universidades y centros de educación a distancia que imparten idiomas.\n\n\u003c!--EndFragment--\u003e\n\nClientes:\n\n\u003c!--StartFragment--\u003e\n\nLa[Escuela de Lenguas de la UOC](http://www.uoc.edu/portal/ca/escola-de-llengues/index.html)utiliza las herramientas en los cursos de idiomas que ofrece, donde más de ocho mil alumnos por semestre usan SpeakApps.\n\n\u003c!--EndFragment--\u003e",
+			
+			
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Appel, Marie Christine"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/es/solucio_tec/speakapps.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "f67345002e2fa2604707776a65d2d9b4",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "test1",
+
+			"name" : "test1",
+			
+			
+			"imatge_url" : "/img/131-mesures-igualtat-genere-bandera.png",
+			"centre" : "e-Learn Center",
+			"sector" : "Salut - eHealth",
+			
+			
+			
+
+			
+			
+
+			
+			
+				
+				
+				
+				
+			
+			
+			
+			
+			
+			
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/ca/solucio_tec/test1.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "bdb31755e2445f32778c25748cc2e6b4",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "test2",
+
+			"name" : "test1",
+			
+			
+			"imatge_url" : "/img/131-mesures-igualtat-genere-bandera.png",
+			"centre" : "e-Learn Center",
+			"sector" : "Salut - eHealth",
+			
+			
+			
+
+			
+			
+
+			
+			
+				
+				
+				
+				
+			
+			
+			
+			
+			
+			
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/ca/solucio_tec/test2.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "774c33b2a49a37ec472fc53e89612a24",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "test6",
+
+			"name" : "test6",
+			
+			
+			"imatge_url" : "/img/131-mesures-igualtat-genere-bandera.png",
+			"centre" : "e-Health Center",
+			"sector" : "Salut - eHealth",
+			
+			
+			
+
+			
+			
+
+			
+			
+				
+				
+				
+				
+			
+			
+			
+			
+			
+				
+					
+				
+				
+			
+			
+				
+					
+				
+
+				
+			
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "solucio_tec",
+			"url" : "/ca/solucio_tec/test5.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "893e55a81a5a64550131b93e14c9cf66",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "Video Watermarking System",
+
+			"name" : "Video Watermarking System",
+			
+			"eslogan" : "És reversible el teu sistema de marcatge de vídeo? La nostra solució en temps real garanteix la transmissió i l’emmagatzematge de contingut multimèdia sense alterar la velocitat de transferència de dades o el contingut visible per al públic.",
+			"imatge_url" : "/img/video_watermarking_system.png",
+			"centre" : "IN3",
+			"sector" : "Indústria 4.0",
+			
+			
+			
+
+			"about_title": "Video Watermarking_Descripció",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\n**Patent nº. PCT/EP2017/057426**\n\nData de prioritat: 29/03/17\n\nUna marca d’aigua de vídeo és una seqüència de bits incrustats en un senyal de vídeo. Són imperceptibles per als sentits humans i només poden ser detectats per dispositius com ara telèfons intel·ligents o tauletes. Una marca d’aigua conté identificadors únics tant de la part de vídeo d’on s’ha extret la marca com de la font de distribució en què es pot acreditar el contingut.\n\nEl nostre enfocament innovador és la millor manera de combatre la manipulació i la falsificació. A més, ofereix un bon equilibri entre capacitat, transparència i velocitat de transferència de bits, amb múltiples avantatges:\n\n* Reversibilitat total, ja que el contingut original es pot recuperar completament i amb facilitat.\n* Sense distorsions del contingut.\n* Més robustesa, ja que el flux de dades ocult està encriptat mitjançant diverses tecles.\n* Processos d’extracció en temps real, perquè només es requereix la descodificació entròpica, no la descompressió total del vídeo.\n* Alteració mínima de la velocitat de transferència de bits de vídeo.\n\nMés fiabilitat, ja que s’evita el risc de perdre la marca d’aigua a causa de la compressió.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+			
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Megías Jiménez, David"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Knowledge, Transfer \u0026 Entrepreneurship"],
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "patent",
+			"url" : "/ca/patent/video_watermarking_system.ca-copy.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "ba5c7f7d5ec5cb54485ab94be1750390",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "Video Watermarking System",
+
+			"name" : "Video Watermarking System",
+			"text_breu" : "És reversible el teu sistema de marcatge de vídeo? ",
+			"eslogan" : "La nostra solució en temps real garanteix la transmissió i l’emmagatzematge de contingut multimèdia sense alterar la velocitat de transferència de dades o el contingut visible per al públic.",
+			"imatge_url" : "/img/video_watermaking.png",
+			"centre" : "IN3",
+			"sector" : "Economia, empresa i TIC",
+			
+			
+			
+
+			"about_title": "Sobre la patent",
+			"about_descripcio": "Patent no. PCT/EP2017/057426\n\n\u003c!--EndFragment--\u003e\u003c!--StartFragment--\u003e\n\nUna marca d’aigua de vídeo és una seqüència de bits incrustats en un senyal de vídeo. Són imperceptibles per als sentits humans i només poden ser detectats per dispositius com ara telèfons intel·ligents o tauletes. Una marca d’aigua conté identificadors únics tant de la part de vídeo d’on s’ha extret la marca com de la font de distribució en què es pot acreditar el contingut.\n\nEl nostre enfocament innovador és la millor manera de combatre la manipulació i la falsificació. A més, ofereix un bon equilibri entre capacitat, transparència i velocitat de transferència de bits, amb múltiples avantatges:\n\n* Reversibilitat total, ja que el contingut original es pot recuperar completament i amb facilitat.\n* Sense distorsions del contingut.\n* Més robustesa, ja que el flux de dades ocult està encriptat mitjançant diverses tecles.\n* Processos d’extracció en temps real, perquè només es requereix la descodificació entròpica, no la descompressió total del vídeo.\n* Alteració mínima de la velocitat de transferència de bits de vídeo.\n\nMés fiabilitat, ja que s’evita el risc de perdre la marca d’aigua a causa de la compressió.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+			
+			
+			
+			
+			
+				
+					
+				
+					
+				
+
+				
+				"investigadors": ["Caballé Llobet, Santi","Baraza Sánchez, Xavier"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Knowledge, Transfer\u0026 Entrepreneurship"],
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "patent",
+			"url" : "/ca/patent/video_watermarking_system.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "6b9dce4b143a846276d162b09b385684",
+		"fields" : {
+
+			"idioma": "en",
+			"title": "Video Watermarking System",
+
+			"name" : "Video Watermarking System",
+			
+			"eslogan" : "Is your video watermarking system reversible? Our real-time solution secures the transmission and storage of multimedia content without altering the data transfer rate or the content seen by viewers.",
+			"imatge_url" : "/img/video_watermarking_system.png",
+			"centre" : "IN3",
+			"sector" : "Industry 4.0",
+			
+			
+			
+
+			"about_title": "Video Watermarking_Description",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\n**Patent nº. PCT/EP2017/057426**\n\nPriority date: 29/03/17\n\nA video watermark is a sequence of bits embedded in a video signal. They are imperceptible to the human senses and are only detected by devices such as smartphones or tablets. A watermark contains unique identifiers of both the portion of the video[](\u003c\u003e)from which the mark was extracted and the distribution source to which the content can be credited.\n\nOur innovative approach is the best way to fight tampering and counterfeiting. Moreover, it provides a trade-off between capacity, transparency and bit rate, with multiple advantages:\n\n* Total reversibility, as the original content can easily be fully restored.\n* Zero distortion of the content.\n* Greater robustness, as the hidden stream is encrypted using several keys.\n* Real-time extraction processes, since only entropy decoding is required, not total decompression of the video.\n* Minimum alteration of the video bit rate.\n\nGreater reliability, since the risk of losing the watermark due to compression is avoided.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+			
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Megías Jiménez, David"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Knowledge, Transfer \u0026 Entrepreneurship "],
+				"contacts_email": ["trasnfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "patent",
+			"url" : "/ca/patent/video_watermarking_system.en-copy.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "4d2862b06a87c4887376dbf7ba554f77",
+		"fields" : {
+
+			"idioma": "en",
+			"title": "Video Watermarking System",
+
+			"name" : "Video Watermarking System",
+			"text_breu" : "Is your video watermarking system reversible?",
+			"eslogan" : "Our real-time solution secures the transmission and storage of multimedia content without altering the data transfer rate or the content seen by viewers.",
+			"imatge_url" : "/img/video_watermarking_system.png",
+			"centre" : "IN3",
+			"sector" : "Economia, empresa i TIC",
+			"logo_url": "/img/video_watermarking_system.png",
+			
+			
+
+			"about_title": "Prova titol patent",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\nA video watermark is a sequence of bits embedded in a video signal. They are imperceptible to the human senses and are only detected by devices such as smartphones or tablets. A watermark contains unique identifiers of both the portion of the video[](\u003c\u003e)from which the mark was extracted and the distribution source to which the content can be credited.\n\nOur innovative approach is the best way to fight tampering and counterfeiting. Moreover, it provides a trade-off between capacity, transparency and bit rate, with multiple advantages:\n\n* Total reversibility, as the original content can easily be fully restored.\n* Zero distortion of the content.\n* Greater robustness, as the hidden stream is encrypted using several keys.\n* Real-time extraction processes, since only entropy decoding is required, not total decompression of the video.\n* Minimum alteration of the video bit rate.\n\nGreater reliability, since the risk of losing the watermark due to compression is avoided.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+			
+			
+			
+			
+			
+				
+					
+				
+					
+				
+
+				
+				"investigadors": ["Caballé Llobet, Santi","Baraza Sánchez, Xavier"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Knowledge, transfer\u0026 entrepreneurship"],
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "patent",
+			"url" : "/en/patent/video_watermarking_system.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "019a5b3bc3e9ddf1e1caeac3a53dfd9c",
+		"fields" : {
+
+			"idioma": "es",
+			"title": "Video Watermarking System",
+
+			"name" : "Video Watermarking System",
+			
+			"eslogan" : "¿Es reversible tu sistema de marcaje de vídeo? Nuestra solución en tiempo real garantiza la transmisión y el almacenamiento de contenido multimedia sin alterar la velocidad de transferencia de datos o el contenido visible para el público.",
+			"imatge_url" : "/img/video_watermarking_system.png",
+			"centre" : "IN3",
+			"sector" : "industria 4.0",
+			
+			
+			
+
+			"about_title": "Video Watermarking_Descripcion",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\n**Patente nº. PCT/EP2017/057426**\n\nFecha de prioridad: 29/03/17\n\nUna marca de agua de vídeo es una secuencia de bits incrustados en una señal de vídeo. Son imperceptibles para los sentidos humanos y solo pueden ser detectados por dispositivos como teléfonos inteligentes o tabletas. Una marca de agua contiene identificadores únicos tanto de la parte de vídeo de la que se ha extraído la marca como de la fuente de distribución en la que se puede acreditar el contenido.\n\nNuestro enfoque innovador es la mejor manera de combatir la manipulación y la falsificación. Además, ofrece un buen equilibrio entre capacidad, transparencia y velocidad de transferencia de bits, con múltiples ventajas:\n\n* Reversibilidad total, ya que el contenido original se puede recuperar completamente y con facilidad.\n* Sin distorsiones del contenido.\n* Más robustez, ya que el flujo de datos oculto está encriptado mediante varias teclas.\n* Procesos de extracción en tiempo real, porque solo se requiere la descodificación entrópica, no la descompresión total del vídeo.\n* Alteración mínima de la velocidad de transferencia de bits de vídeo.\n\nMás fiabilidad, ya que se evita el riesgo de perder la marca de agua debido a la compresión.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+			
+			
+			
+			
+			
+				
+					
+				
+
+				
+				"investigadors": ["Megías Jiménez, David"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Knowledge, Transfer \u0026 Entrepreneurship "],
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "patent",
+			"url" : "/ca/patent/video_watermarking_system.es-copy.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "99585917fc717c6b9c83dfffcc98043b",
+		"fields" : {
+
+			"idioma": "es",
+			"title": "Video Watermarking System",
+
+			"name" : "Video Watermarking System",
+			"text_breu" : "Video Watermarking System",
+			"eslogan" : "¿Es reversible tu sistema de marcaje de vídeo? Nuestra solución en tiempo real garantiza la transmisión y el almacenamiento de contenido multimedia sin alterar la velocidad de transferencia de datos o el contenido visible para el público.",
+			"imatge_url" : "/img/video_watermarking_system.png",
+			"centre" : "IN3",
+			"sector" : "Economia, empresa i TIC",
+			"logo_url": "/img/video_watermarking_system.png",
+			
+			
+
+			"about_title": "Sobre la patente",
+			"about_descripcio": "Patente no. PCT/EP2017/057426\n\n\n\n\u003c!--StartFragment--\u003e\n\nUna marca de agua de vídeo es una secuencia de bits incrustados en una señal de vídeo. Son imperceptibles para los sentidos humanos y solo pueden ser detectados por dispositivos como teléfonos inteligentes o tabletas. Una marca de agua contiene identificadores únicos tanto de la parte de vídeo de la que se ha extraído la marca como de la fuente de distribución en la que se puede acreditar el contenido.\n\nNuestro enfoque innovador es la mejor manera de combatir la manipulación y la falsificación. Además, ofrece un buen equilibrio entre capacidad, transparencia y velocidad de transferencia de bits, con múltiples ventajas:\n\n* Reversibilidad total, ya que el contenido original se puede recuperar completamente y con facilidad.\n* Sin distorsiones del contenido.\n* Más robustez, ya que el flujo de datos oculto está encriptado mediante varias teclas.\n* Procesos de extracción en tiempo real, porque solo se requiere la descodificación entrópica, no la descompresión total del vídeo.\n* Alteración mínima de la velocidad de transferencia de bits de vídeo.\n\nMás fiabilidad, ya que se evita el riesgo de perder la marca de agua debido a la compresión.\n\n\u003c!--EndFragment--\u003e",
+
+			
+			
+			
+			
+			
+			
+			
+				
+					
+				
+					
+				
+
+				
+				"investigadors": ["Caballé Llobet, Santi","Baraza Sánchez, Xavier"],
+			
+			
+				
+				
+				
+				
+					
+					
+					
+					
+				
+				"contacts_name": ["Knowledge, transfer\u0026 entrepreneurship Unit"],
+				"contacts_email": ["transfer_ari@uoc.edu"],
+				
+				
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "patent",
+			"url" : "/es/patent/video_watermarking_system.html"
+		}
+	}
+		,{		  
+		
+		"type" : "add",
+		"id" : "9ae0b88a24e92d020ff534e7261a7178",
+		"fields" : {
+
+			"idioma": "ca",
+			"title": "Ús i tractament de dades",
+
+			"name" : "Ús i tractament de dades",
+			"text_breu" : "b",
+			
+			"imatge_url" : "/img/35870472491_cb3a156788_w.jpg",
+			"centre" : "Estudis",
+			"sector" : "Societat en xarxa",
+			
+			
+			
+
+			"about_title": "Us i tractament-servei",
+			"about_descripcio": "\u003c!--StartFragment--\u003e\n\nEls mètodes qualitatius i etnogràfics són la base de referència a partir de la qual despleguem el nostre enfocament de recerca. Els mètodes no són simplement eines per a descriure les pràctiques d’avui dia, sinó per a promoure una producció de coneixement localitzada i personificada per tal de copsar la complexitat i els fenòmens emergents i subdeterminats.\n\nExplorem els mètodes participatius com el disseny obert i l’etnografia del disseny com a eines conceptuals i procedimentals per a investigar allò contemporani i per a una cointervenció responsable en el món.\n\n\u003c!--EndFragment--\u003e\n\n* Alfabetització lúdico-digital\n* Co-creació i directoris de producció creativa\n* Consum de la comunicació i informació digitalitzada\n* Big data aplicat a la ciutat",
+
+			
+			
+			
+				
+				
+				
+				
+			
+			
+			
+			
+				
+					
+						
+					
+				
+				
+				"grups": ["EdOnline"],
+			
+			
+			
+			"content" : "transfer",
+			"content_encoding" : "utf-8",
+			"content_type" : "servei",
+			"url" : "/ca/servei/us_i_tractament_de_dades.html"
+		}
+	} 
+]
