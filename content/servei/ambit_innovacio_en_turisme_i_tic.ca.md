@@ -30,6 +30,8 @@ about:
       * Estudis per a la identificació, disseny i avaluació de **projectes de cooperació en turisme**, fent especial èmfasi en la variable gènere i sosteniblitat.
 
 
+
+
       #### 2. Plans estratègics per a destinacions turístiques i desenvolupament del territori
 
 
