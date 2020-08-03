@@ -11,9 +11,7 @@ about:
       àmbit són els següents:
 
 
-
-
-      **Estudis de la cultura digital a la societat**
+      **1. Estudis de la cultura digital a la societat**
 
 
       Estudi de la cultura digital, analitzant les transformacions de diferents pràctiques (cinema, art, joc, fotografia, periodisme, etc) en entorns tecnològics (xarxes socials, webs, YouTube i altres mitjans).  
@@ -24,9 +22,7 @@ about:
       * Identificació de **nous models de negoci** derivats dels canvis culturals.
 
 
-
-
-      **Assessorament en l'ús de les tecnologies digitals a les indústries i patrimoni culturals**
+      **2. Assessorament en l'ús de les tecnologies digitals a les indústries i patrimoni culturals**
 
 
       * Identificació, conceptualització i creació de projectes aplicant les TIC per al sector cultural.
@@ -37,9 +33,7 @@ about:
         4. Creació, procediments d'ús i criteris de qualitat de **recursos educatius** amb contingut en línea de patrimoni cultural
         5. Estudi dels **nous models de patrimoni** en la societat digital i l'ús d'eines mèdia aplicades al patrimoni (ús de xarxes socials aplicades als museus, concepte de museu 2.0).
 
-
-
-      **Desenvolupament d'aplicacions tecnològiques per a la indústria cultural**
+      **3. Desenvolupament d'aplicacions tecnològiques per a la indústria cultural**
 
 
       * Invenció d'aplicacions per a institucions, empreses i entitats per  a la creació, gestió i producció d'elements culturals. Ús de tecnologies disruptives com visió per computadors, reconeixement d'objectes i escenes i intel•ligència artificial amb implicacions emocionals entre d'altres.
