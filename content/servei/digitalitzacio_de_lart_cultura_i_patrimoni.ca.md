@@ -6,11 +6,13 @@ general:
   sector: Art, Turisme i Llengües
   img_background: /img/detall_solucions_principal.png
   keywords:
-    - value: Narrativa
+    - value: narrativa
     - value: transmedia
     - value: producció de continguts
     - value: patrimoni cultural
     - value: avaluació recursos digitals
+    - value: museu 2.0
+    - value: storytelling digital
 about:
   - descripcio: >-
       Els serveis oferts pels grups de recerca i els investigadors en aquest
