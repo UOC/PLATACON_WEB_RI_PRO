@@ -5,6 +5,12 @@ general:
   nom: "Àmbit:  DIGITALITZACIÓ DE L'ART, CULTURA I PATRIMONI"
   sector: Art, Turisme i Llengües
   img_background: /img/detall_solucions_principal.png
+  keywords:
+    - value: Narrativa
+    - value: transmedia
+    - value: producció de continguts
+    - value: patrimoni cultural
+    - value: avaluació recursos digitals
 about:
   - descripcio: >-
       Els serveis oferts pels grups de recerca i els investigadors en aquest
