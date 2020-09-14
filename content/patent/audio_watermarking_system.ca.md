@@ -29,9 +29,6 @@ about:
       Data de prioritat: 28/11/13
 
 
-      <!--EndFragment-->
-
-
       Una marca d’aigua d’àudio és una seqüència de bits incrustats en un senyal d’àudio transmès (televisió, ràdio o internet). Són imperceptibles per als sentits humans i només poden ser detectats per dispositius com ara telèfons intel·ligents o tauletes. Una marca d’aigua conté identificadors únics tant de la part d’àudio d’on s’ha extret la marca com de la font de distribució en què es pot acreditar el contingut.
 
 
@@ -52,13 +49,11 @@ about:
       5. No cal accés a internet perquè els usuaris executin el sistema.
 
 
-      <!--EndFragment-->
 
 
-      <!--StartFragment-->
 
 
-      *Amb el suport d’**[ACCIÓ - Agència per la Competitivitat de l’Empresa (Generalitat de Catalunya)](http://www.accio.gencat.cat/ca/inici)***
+      \*Amb el suport d’**[ACCIÓ - Agència per la Competitivitat de l’Empresa (Generalitat de Catalunya)](http://www.accio.gencat.cat/ca/inici)***
 
 
       ![](/img/logo_accio_petit.jpg)
