@@ -23,7 +23,7 @@ about:
       àmbit són els següents: 
 
 
-      #### Usos i representacions geogràfiques en literatura i cinema
+      #### 1. Usos i representacions geogràfiques en literatura i cinema
 
 
       Estudi de la història literària analitzant processos, llocs i actors literaris a una escala local i global:
@@ -34,7 +34,7 @@ about:
       * Estudi dels **entorns globals** i períodes històrics a través de la **novel·la i la literatura.**
 
 
-      #### Estudis i assessorament per a la Indústria del llibre
+      #### 2.  Estudis i assessorament per a la Indústria del llibre
 
 
       Estudis de la dimensió social del de la disciplina literària (millora de l'entesa del seu consum, connexió de la literatura amb el món acadèmic, promoció de la lectura, etc.) i suport en la creació literària digital:
@@ -49,7 +49,7 @@ about:
       * Estudi de les veus subalternes (els relats dels immigrants, els refugiats i les víctimes de conflictes) segons una visió de contingut textual i segons les publicacions editorials.
 
 
-      #### Estudis de l'Àsia Oriental
+      #### 3. Estudis de l'Àsia Oriental
 
 
       Anàlisi de fenòmens culturals, intel·lectuals, artístics i literaris relacionats amb l'Àsia Oriental.
@@ -64,7 +64,7 @@ about:
       * Anàlisi de **representacions de l’Àsia Oriental en els mitjans** d’Occident (literatura, cinema, publicitat, etc.)
 
 
-      #### Desenvolupament d’aplicacions tecnològiques i tècniques pel processament automàtic del llenguatge, l'anàlisi del discurs i el suport a la traducció
+      #### 4. Desenvolupament d’aplicacions tecnològiques i tècniques pel processament automàtic del llenguatge, l'anàlisi del discurs i el suport a la traducció
 
 
       Tecnologies i processaments automatitzats de dades lingüístiques amb finalitats didàctiques i per la millora de la comprensió i traducció de textos.
@@ -78,7 +78,7 @@ about:
 grups_recerca:
   - id: "6102"
     name: ALTER
-    description: Crisi, alteritat i representació..
+    description: Crisi, alteritat i representació.
     url: https://transfer.research.uoc.edu/ca/alter.html
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/61/image/1576236141533
   - id: "8402"
