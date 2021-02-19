@@ -45,6 +45,9 @@ about:
       * Implementació de les **TIC i estratègies d'innovació en el desenvolupament turístic**, tant per destinacions com per empreses.
 
       * Recerca i assessorament sobre la vinculació entre el **turisme i el desenvolupament local i sectorial,** fent especial èmfasi en creació de capital social, sostenibilitat i responsabilitat i en la promoció del territori
+casos_exit:
+  - titol: prova prova prova
+    descripcio: prova prova prova
 grups_recerca:
   - id: "3602"
     name: NOUTUR
