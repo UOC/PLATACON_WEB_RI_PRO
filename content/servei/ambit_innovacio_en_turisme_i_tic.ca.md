@@ -46,7 +46,16 @@ about:
 
       * Recerca i assessorament sobre la vinculació entre el **turisme i el desenvolupament local i sectorial,** fent especial èmfasi en creació de capital social, sostenibilitat i responsabilitat i en la promoció del territori
 grups_recerca:
-  - {}
+  - id: "3602"
+    name: NOUTUR
+    description: Noves perspectives en turisme i oci
+    url: https://transfer.research.uoc.edu/ca/noutur.html
+    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/36/image/1594109415142
+investigadors:
+  - id: "41753102"
+    name: Gomis López, Joan Miquel
+    url: https://talent.uoc.edu/ca/joan-miquel-gomis-lopez.html
+    url_img: https://talent.uoc.edu/img/api/pdi/417531/image/1594631350879
 contacte:
   - text: "Knowledge, Transfer & Entrepreneurship Unit . Àrea de Recerca i Innovació
       "
