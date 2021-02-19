@@ -86,6 +86,16 @@ grups_recerca:
     description: Literatura Catalana, Món Editorial i Societat
     url: https://transfer.research.uoc.edu/ca/licmes.html
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/84/image/1576237395373
+  - id: "8702"
+    name: GlobaLS
+    description: Estudis Literaris Globals
+    url: https://transfer.research.uoc.edu/ca/globals.html
+    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/87/image/1594200495286
+investigadors:
+  - id: "15199402"
+    name: Viu Roig, Marta
+    url: https://talent.uoc.edu/ca/marta-viu-roig.html
+    url_img: https://talent.uoc.edu/img/api/pdi/151994/image/1601558853054
 contacte:
   - text: Knowledge Transfer & Entrepreneurship  Unit - Àrea de Recerca i Innovació
     email: transfer_ari@uoc.edu
