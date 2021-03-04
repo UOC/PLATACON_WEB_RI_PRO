@@ -30,8 +30,6 @@ about:
       * Estudis per a la identificació, disseny i avaluació de **projectes de cooperació en turisme**, fent especial èmfasi en la variable gènere i sosteniblitat.
 
 
-
-
       #### 2. Plans estratègics per a destinacions turístiques i desenvolupament del territori
 
 
@@ -45,6 +43,8 @@ about:
       * Implementació de les **TIC i estratègies d'innovació en el desenvolupament turístic**, tant per destinacions com per empreses.
 
       * Recerca i assessorament sobre la vinculació entre el **turisme i el desenvolupament local i sectorial,** fent especial èmfasi en creació de capital social, sostenibilitat i responsabilitat i en la promoció del territori
+
+        fdvdfgdsfgdfsg
 casos_exit:
   - titol: prova prova prova
     descripcio: prova prova prova
