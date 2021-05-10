@@ -108,6 +108,12 @@ aplicacions:
 
 
       <!--EndFragment-->
+grups_recerca:
+  - id: "2602"
+    name: KISON
+    description: K-riptography and Information Security for Open Networks
+    url: https://transfer.research.uoc.edu/ca/kison.html
+    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/26/image/1594286715997
 investigadors:
   - id: "22479602"
     name: Megías Jiménez, David
