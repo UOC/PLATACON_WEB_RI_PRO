@@ -75,10 +75,14 @@ var UOCSearchEngine = {
 				} else {
 					var items=data.hits.hit;
 					var result="<div class='card-in-acordeon'><div class='row'>";
+					let groupsFound=false;
 					for (var i = 0; i < items.length; i++) {
-						result+=UOCSearchEngine.getResultMarkup(items[i], i);
+						let response=UOCSearchEngine.getResultMarkup(items[i], i);
+						result+=response;
+						if(response) groupsFound=true;
 					}
 					result+="</div></div>";
+					if(!groupsFound) result="<p style='font-style:italic'>"+literals.results.noresults[getCurrentLanguage()]+"</p>";
 					targetElement.html(result);
 				}
 			}
