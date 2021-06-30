@@ -5,7 +5,7 @@ general:
   sector: Educació - eLearning
   img_background: /img/imagen_tecnologies_immersives.jpg
   keywords:
-    - value: Solucions immersives
+    - value: solucions immersives
     - value: realitat augmentada
     - value: realitat virutal
     - value: aprenentatge immersiu
@@ -17,7 +17,7 @@ general:
   centre: Estudis
   xarxes:
     - xarxa: web
-      address: https://immersiumstudio.com/
+      address: https://immersiumstudio.com/?lang=ca
   slogan: " Solucions immersives per a educació, cultura, salut i turisme"
 about:
   - descripcio: >-
@@ -33,7 +33,7 @@ about:
       La UOC s'ha especialitzat en la creació d'experiències basades en realitat virtual, augmentada i mixta, especialment en els àmbits de l'educació, la salut, la cultura i el turisme.
     titol: Realitat Augmentada
     video_list:
-      - video: PLDKzJwtPTb2WF
+      - video: PLDKzJwtPTb2WF_byvxXG7426Lfl9FCsaM
 aspectes_innovadors:
   - descripcio: >-
       La recerca i l'aprenentatge constants per proporcionar solucions
