@@ -2,132 +2,70 @@
 title: ARLab
 language: es
 general:
-  nom: "ARLab: Creación de experiencias de realidad aumentada"
-  text_breu: "ARLab: Creación de experiencias de realidad aumentada"
-  img_background: /img/arlab.jpg
-  sector: Economía, empresa y TIC
+  nom: TECNOLOGIES IMMERSIVES
+  text_breu: Aprendizaje inmersivo. Creación de experiencias basadas en realidad
+    virtual, aumentada y mixta para la educación, la cultura, la salud y el
+    turismo.
+  img_background: /img/imagen_tecnologies_immersives.jpg
+  sector: Educación - eLearning
   centre: Estuids
   xarxes:
     - xarxa: web
-      address: http://in3.uoc.edu/opencms_in3/opencms/webs/projectes/realitat_augmentada/ES/index.html
+      address: https://immersiumstudio.com/
+  slogan: Soluciones inmersivas para educación, cultura, salud y turismo
+  keywords:
+    - value: Soluciones inmersivas,
+    - value: realidad aumentada
+    - value: realidad virtual
+    - value: aprendizaje inmersivo
 about:
   - titol: ARLab_descripcion
     descripcio: >-
-      <!--StartFragment-->
+      La realidad aumentada (RA) es una tecnología que permite ampliar la visión
+      del mundo real con información digital (animación 3D, audio, imagen,
+      vídeo, web). Puede aplicarse a todos los sectores productivos y está al
+      alcance de todos a través de teléfonos inteligentes y tablets. Para
+      visualizar estos contenidos digitales se vehiculará a través de un
+      dispositivo móvil y mediante la aplicación de dos técnicas:
+      geolocalización y reconocimiento de imágenes. 
 
 
-      ***Realidad aumentada***(RA) es el término que se utiliza para definir la imagen que se puede ver a través de un dispositivo tecnológico (teléfono inteligente, tableta…), directa o indirectamente, de un**entorno físico**del mundo**real**,**combinado**con**elementos virtuales**(vídeo, audio, imágenes, animaciones 3D, webs) para la creación de una realidad mixta en tiempo real.
-
-
-      La realidad aumentada no es una**tecnología**nueva, pero sí**emergente**. El avance tecnológico, la presencia creciente de teléfonos con conexión a internet y la cultura del nuevo consumidor están asentando esta tecnología, que**permite infinidad de posibilidades**.
-
-
-      <!--EndFragment-->
+      Por otra parte, la realidad virtual (RV) implica la generación de entornos 3D con apariencia real o vídeos 360 que permiten al usuario interactuar a través de un dispositivo (gafas o casco de realidad virtual). La UOC se ha especializado en la creación de experiencias basadas en realidad virtual, aumentada y mixta, especialmente en los ámbitos de la educación, la salud, la cultura y el turismo.
+    video_list:
+      - video: PLDKzJwtPTb2WF
 aspectes_innovadors:
   - titol: ARLab_aspectos
     descripcio: >-
-      <!--StartFragment-->
+      La investigación y el aprendizaje constantes para proporcionar soluciones
+      de vanguardia en el ámbito de las aplicaciones de tecnologías inmersivas
+      es el rasgo diferencial que aporta la UOC a este ámbito y lo hace de la
+      mano de su spin-off Immersium Studio, que fue premiada por la mejor
+      experiencia educativa inmersiva por la Red de Investigación en Aprendizaje
+      Inmerso 2019. 
 
 
-      La aplicación de la realidad aumentada proporciona los beneficios siguientes:
-
-
-      •**Incrementa**el**compromiso**y la**interacción**con el**usuario**y proporciona una experiencia más rica.
-
-
-      • Incrementa el**valor percibido**de los productos y las marcas por parte de los usuarios.
-
-
-      • Es una tecnología**móvil**y**personal**y, por tanto, sumamente**accesible**en un mercado con una alta tasa de penetración de dispositivos móviles.
-
-
-      • Es una alternativa económica de comunicación.
-
-
-      • Permite tener al alcance un**análisis detallado**sobre los**usuarios/consumidores**.
-
-
-      <!--EndFragment-->
+      Immersium és la única corporación europea especializada en formación de vídeo interactivo inmersivo e interactivo y la UOC garantiza la calidad pedagógica de las experiencias inmersivas.
 aplicacions:
   - descripcio: >-
-      <!--StartFragment-->
+      **Active Learning:** especialistas en el aprendizaje inmersivo como una
+      tecnología que permite sumergirse en otro contexto y experimentar
+      sensaciones como la del role playing. Por lo tanto, traslada las personas
+      a contextos físicos relevantes para su aprendizaje y se desarrollan una
+      serie de actividades que les hacen adquirir ciertas competencias. Asimismo
+      se puede aplicar esta tecnología a diferentes ámbitos como el cultural,
+      educación y turismo.
 
 
-      La**realidad aumentada**puede aplicarse a todos los sectores productivos. La experiencia de la UOC se centra en la creación de experiencias de RA para los ámbitos de la**educación**, la**cultura**, el**turismo**y la**publicidad**. Algunos ejemplos de aplicaciones en estos ámbitos son:
-
-
-      **• Educación:**
-
-
-      o Contextualización y aclaración de conceptos en libros de texto:
-
-
-      \- Incluir vídeos o modelos 3D interactivos que expliquen de forma clara algún concepto.
-
-
-      \- Incluir aplicaciones interactivas que sirvan para la práctica de un tema y puedan ser o complementar los deberes.
-
-
-      o Contextualización histórica/cultural/social en salidas escolares:
-
-
-      \- Crear rutas educativas enriquecidas con contenidos digitales como vídeos, modelos 3D, sitios web, etc.
-
-
-      **• Cultura y publicidad:**
-
-
-      o Dinamizar y publicitar visitas a museos, centros culturales y exposiciones mediante el reconocimiento de imágenes asociando información digital en obras de arte, restos arqueológicos, catálogos en papel, catálogos digitales, octavillas, anuncios, escaparates, etc.
-
-
-      o Proporcionar información adicional de espectáculos y eventos, facilitando información al pasar por delante de teatros, salas de cine y locales, o al enfocar con el móvil una banderola o cartel publicitario.
-
-
-      **• Turismo:**
-
-
-      o Enriquecer y publicitar paisajes, patrimonio cultural, rutas turísticas o puntos de interés mediante la geolocalización, asociando información digital a un conjunto cualquiera de puntos geográficos o con el reconocimiento de imágenes .
-
-
-      o Convertir las visitas en gincanas para fomentar que el turista termine las rutas y visite todos los puntos de interés de la ruta.
-
-
-      o Viajar en el tiempo: poder ver una zona ambientada en una época determinada.
-
-
-      o Ofrecer descuentos promocionales por medio del reconocimiento de imágenes.
-
-
-      <!--EndFragment-->
-
-
-
-
-      Clientes: 
-
-
-      <!--StartFragment-->
-
-
-      \- Experiencia de realidad aumentada sobre el cráneo del Triceratops expuesto en el CosmoCaixa
-
-
-      \- Modelo educativo de la UOC con realidad aumentada
-
-
-      \- Visitas inmobiliarias virtuales con Solvia
-
-
-
-
-      <!--StartFragment-->
+      **Salud:** mediante las experiencias inmersivas se pueden optimizar varios procesos y actividades relacionados con los servicios sanitarios, tales como la formación de profesionales de la salud, la mejora de la empatía y de la relación médico-paciente, y la reducción de la percepción del dolor crónico o agudo. Esto nos ofrece altas potencialidades, especialmente en el ámbito de la formación de profesionales médicos, para que podamos reducir a cero las consecuencias negativas de los errores cometidos en periodos formativos, al tiempo que este error se convierte automáticamente en una oportunidad de hacerlo mejor en la vida real.
     titol: ARLab_aplicaciones
-    video_list:
-      - video: z0QueSx6J0o
-      - video: xJo5DTu4uKo
-      - video: V060nGTsq7s
-investigadors:
-  - {}
+    video_list: []
+grups_recerca:
+  - id: "3602"
+    name: NOUTUR
+    description: Noves perspectives en turisme i oci
+    url: https://transfer.research.uoc.edu/ca/noutur.html
+    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/36/image/1594109415142
+investigadors: []
 contacte:
   - text: ""
     email: transfer_ari@uoc.edu
