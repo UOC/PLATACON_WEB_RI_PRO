@@ -2,88 +2,72 @@
 title: ARLab
 language: ca
 general:
-  centre: Estuids
-  img_background: /img/arlab.jpg
+  sector: Educació - eLearning
+  img_background: /img/imagen_tecnologies_immersives.jpg
+  keywords:
+    - value: Solucions immersives
+    - value: realitat augmentada
+    - value: realitat virutal
+    - value: aprenentatge immersiu
   logo: ""
-  nom: ARLab
-  sector: Economia, empresa i TIC
-  slogan: " "
-  text_breu: "ARLab: Creació d'experiències de Realitat Augmentada"
+  nom: "TECNOLOGIES IMMERSIVES "
+  text_breu: Aprenentatge immersiu. Creació d'experiències basades en realitat
+    virtual, augmentada i mixta per a l’educació, la cultura, la salut i el
+    turisme.
+  centre: Estudis
   xarxes:
     - xarxa: web
-      address: http://in3.uoc.edu/opencms_in3/opencms/webs/projectes/realitat_augmentada/ca/index.html
+      address: https://immersiumstudio.com/
+  slogan: " Solucions immersives per a educació, cultura, salut i turisme"
 about:
   - descripcio: >-
-      ***Realitat augmentada*** (RA) és el terme que s’utilitza per a definir la
-      imatge que es pot veure a través d’un dispositiu tecnològic (telèfon
-      intel·ligent, tauleta...), directament o indirecta, d’un **entorn físic**
-      del món **real**, **combinat** amb **elements virtuals** (vídeo, àudio,
-      imatges, animacions 3D, webs) per a la creació d’una realitat mixta en
-      temps real.
+      La realitat augmentada (RA) és una tecnologia que permet ampliar la visió
+      del món real amb informació digital (animació 3D, àudio, imatge, vídeo,
+      web). Pot aplicar-se a tots els sectors productius i està a l'abast de
+      tothom a través de telèfons intel·ligents i tauletes. 
 
 
-      La realitat augmentada no és una **tecnologia**nova, però sí **emergent**. L’avenç tecnològic, la presència creixent de telèfons amb connexió a internet i la cultura del nou consumidor estan assentant aquesta tecnologia, que **permet infinitat de possibilitats**.
+      Per visualitzar aquests continguts digitals es vehicularà a través d'un dispositiu mòbil i per mitjà de l'aplicació de dues tècniques: geolocalització i reconeixement d'imatges. Per altra banda, la realitat virtual (RV) implica la generació d'entorns 3D amb apariència real o vídeos 360 que permeten a l'usuari interactuar a través d'un dispositiu (ulleres o casc de realitat virtual). 
+
+
+      La UOC s'ha especialitzat en la creació d'experiències basades en realitat virtual, augmentada i mixta, especialment en els àmbits de l'educació, la salut, la cultura i el turisme.
     titol: Realitat Augmentada
+    video_list:
+      - video: PLDKzJwtPTb2WF
 aspectes_innovadors:
   - descripcio: >-
-      L’aplicació de la realitat augmentada proporciona els beneficis següents:
+      La recerca i l'aprenentatge constants per proporcionar solucions
+      d’avantguarda en l’àmbit de les aplicacions de tecnologies immersives és
+      el tret diferencial que aporta la UOC en aquest àmbit i ho fa de la mà de
+      la seva spin-off Immersium Studio, que va ser premiada per la millor
+      experiència educativa immersiva per la Xarxa de Recerca en Aprenentatge
+      Immersiu 2019. 
 
 
-      * **Incrementa** el **compromís** i la **interacció** amb l’**usuari** i proporciona una experiència més rica.
-
-      * Incrementa el **valor percebut** dels productes i les marques per part dels usuaris.
-
-      * És una tecnologia **mòbil**i**personal** i, per tant, summament **accessible** a un mercat amb una alta taxa de penetració de dispositius mòbils.
-
-      * És una alternativa econòmica de comunicació.
-
-      * Permet tenir a l’abast una **anàlisi detallada** sobre els **usuaris/consumidors**.
+      Immersium és l’única corporació europea especialitzada en formació de vídeo interactiu immersiu i interactiu i la UOC garanteix la qualitat pedagògica de les experiències immersives.
     titol: aplicació
 aplicacions:
   - descripcio: >-
-      La realitat augmentada pot aplicar-se a tots els sectors productius.
-      L’experiència de la UOC se centra en la creació d’experiències de RA per
-      als àmbits de l’educació, la cultura, el turisme i la publicitat. Alguns
-      exemples d’aplicacions en aquests àmbits són: 
+      **Active Learning:** especialistes en l'aprenentatge immersiu com una
+      tecnologia que permet submergir-se en un altre context i experimentar
+      sensacions com la del role playing. Per tant, trasllada les persones a
+      contextos físics rellevants per al seu aprenentatge i es desenvolupen una
+      sèrie d'activitats que fan que adquireixin certes competències. Així
+      mateix, es pot aplicar aquesta tecnologia en diferents àmbits com el
+      cultural, l'educaciò i el turisme. 
 
 
-      **Educació**
-
-
-      * Contextualització i aclariment de conceptes en llibres de text: 
-
-        * Incloure vídeos o models 3D interactius que expliquin de forma clara algun concepte. Incloure aplicacions interactives que serveixin per a la pràctica d’un tema i puguin ser o complementar els deures.
-        * Contextualització històrica/cultural/social en sortides escolars: Crear rutes educatives enriquides amb continguts digitals com ara vídeos, models 3D, llocs web, etc. 
-
-      **Cultura i publicitat** 
-
-
-      * Dinamitzar visites a museus, centres culturals i exposicions, i donar-hi publicitat, mitjançant el reconeixement d’imatges associant informació digital a obres d’art, restes arqueològiques, catàlegs en paper, catàlegs digitals, fulls de mà, anuncis, aparadors, etc.
-
-      * Proporcionar informació addicional d’espectacles i esdeveniments, facilitant informació en passar per davant de teatres, sales de cinema i locals, o en enfocar amb el mòbil una banderola o un cartell publicitari.
-
-
-      **Turisme** 
-
-
-      * Enriquir paisatges, patrimoni cultural, rutes turístiques o punts d’interès, i donar-hi publicitat, mitjançant la geolocalització, associant informació digital a un conjunt qualsevol de punts geogràfics o amb el reconeixement d’imatges .
-
-      * Convertir les visites en gimcanes per a fomentar que el turista acabi les rutes i visiti tots els punts d’interès de la ruta.
-
-      * Viatjar en el temps: poder veure una zona ambientada en una època determinada.
-
-        Clients:
-
-        \- Aplicació realitat augmentada en el Cosmo Caixa
-
-        \- El model educatiu de la UOC amb realitat augmentada
-
-        \- Visites immobiliàries virtuals amb Solvia
+      **Salut:** mitjançant les experiències immersives es poden optimitzar diversos processos i activitats relacionats amb els serveis sanitaris, com ara la formació de professionals de la salut, la millora de l’empatia i de la relació metge-pacient i la reducció de la percepció del dolor crònic o agut. Això ens ofereix altes potencialitats, especialment en l’àmbit de la formació de professionals mèdics, perquè podem reduir a zero les conseqüències negatives dels errors comesos en períodes formatius, alhora que aquest error es converteix automàticament en una oportunitat de fer-ho millor en la vida real.
     titol: Aplicació
-    video_list:
-      - video: z0QueSx6J0o
-      - video: xJo5DTu4uKo
-      - video: V060nGTsq7s
+    video_list: []
+grups_recerca:
+  - id: "3602"
+    name: NOUTUR
+    description: Noves perspectives en turisme i oci
+    url: https://transfer.research.uoc.edu/ca/noutur.html
+    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/36/image/1594109415142
+investigadors:
+  - {}
 contacte:
   - video: F9MD_IgBiMc
     email: transfer_ari@uoc.edu
