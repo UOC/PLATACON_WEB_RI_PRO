@@ -14,7 +14,7 @@ general:
       address: https://immersiumstudio.com/
   slogan: Soluciones inmersivas para educación, cultura, salud y turismo
   keywords:
-    - value: Soluciones inmersivas,
+    - value: soluciones inmersivas,
     - value: realidad aumentada
     - value: realidad virtual
     - value: aprendizaje inmersivo
@@ -32,7 +32,7 @@ about:
 
       Por otra parte, la realidad virtual (RV) implica la generación de entornos 3D con apariencia real o vídeos 360 que permiten al usuario interactuar a través de un dispositivo (gafas o casco de realidad virtual). La UOC se ha especializado en la creación de experiencias basadas en realidad virtual, aumentada y mixta, especialmente en los ámbitos de la educación, la salud, la cultura y el turismo.
     video_list:
-      - video: PLDKzJwtPTb2WF
+      - video: crzPTBwphbw
 aspectes_innovadors:
   - titol: ARLab_aspectos
     descripcio: >-
