@@ -10,10 +10,10 @@ general:
   centre: Estuids
   xarxes:
     - xarxa: web
-      address: https://immersiumstudio.com/
+      address: https://immersiumstudio.com/?lang=en
   slogan: Immersive solutions for education, culture, health and tourism
   keywords:
-    - value: Immersive solutions
+    - value: immersive solutions
     - value: augmented reality
     - value: virtual reality
     - value: immersive learning
@@ -33,7 +33,7 @@ about:
 
       The UOC specializes in the creation of experiences based on virtual, augmented and mixed reality, especially in the scope of education, health, culture and tourism.
     video_list:
-      - video: PLDKzJwtPTb2WF
+      - video: crzPTBwphbw
 aspectes_innovadors:
   - titol: ARTLAB_iinovation
     descripcio: The UOC is constantly learning and conducting research to provide
