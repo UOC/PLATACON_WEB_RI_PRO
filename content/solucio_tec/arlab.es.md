@@ -21,16 +21,16 @@ general:
 about:
   - titol: ARLab_descripcion
     descripcio: >-
-      La realidad aumentada (RA) es una tecnología que permite ampliar la visión
-      del mundo real con información digital (animación 3D, audio, imagen,
-      vídeo, web). Puede aplicarse a todos los sectores productivos y está al
-      alcance de todos a través de teléfonos inteligentes y tablets. Para
-      visualizar estos contenidos digitales se vehiculará a través de un
+      La **realidad aumentada (RA)** es una tecnología que permite ampliar la
+      visión del mundo real con información digital (animación 3D, audio,
+      imagen, vídeo, web). Puede aplicarse a todos los sectores productivos y
+      está al alcance de todos a través de teléfonos inteligentes y tablets.
+      Para visualizar estos contenidos digitales se vehiculará a través de un
       dispositivo móvil y mediante la aplicación de dos técnicas:
       geolocalización y reconocimiento de imágenes. 
 
 
-      Por otra parte, la realidad virtual (RV) implica la generación de entornos 3D con apariencia real o vídeos 360 que permiten al usuario interactuar a través de un dispositivo (gafas o casco de realidad virtual). La UOC se ha especializado en la creación de experiencias basadas en realidad virtual, aumentada y mixta, especialmente en los ámbitos de la educación, la salud, la cultura y el turismo.
+      Por otra parte, la **realidad virtual (RV)** implica la generación de entornos 3D con apariencia real o vídeos 360 que permiten al usuario interactuar a través de un dispositivo (gafas o casco de realidad virtual). La UOC se ha especializado en la creación de experiencias basadas en realidad virtual, aumentada y mixta, especialmente en los ámbitos de la educación, la salud, la cultura y el turismo.
     video_list:
       - video: crzPTBwphbw
 aspectes_innovadors:
