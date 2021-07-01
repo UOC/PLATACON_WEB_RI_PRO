@@ -21,17 +21,20 @@ general:
   slogan: " Solucions immersives per a educació, cultura, salut i turisme"
 about:
   - descripcio: >-
-      La realitat augmentada (RA) és una tecnologia que permet ampliar la visió
-      del món real amb informació digital (animació 3D, àudio, imatge, vídeo,
-      web). Pot aplicar-se a tots els sectors productius i està a l'abast de
-      tothom a través de telèfons intel·ligents i tauletes. 
+      La **realitat augmentada (RA**) és una tecnologia que permet ampliar la
+      visió del món real amb informació digital (animació 3D, àudio, imatge,
+      vídeo, web). Pot aplicar-se a tots els sectors productius i està a l'abast
+      de tothom a través de telèfons intel·ligents i tauletes. Per visualitzar
+      aquests continguts digitals es vehicularà a través d'un dispositiu mòbil i
+      per mitjà de l'aplicació de dues tècniques: geolocalització i
+      reconeixement d'imatges. 
 
 
-      Per visualitzar aquests continguts digitals es vehicularà a través d'un dispositiu mòbil i per mitjà de l'aplicació de dues tècniques: geolocalització i reconeixement d'imatges. Per altra banda, la realitat virtual (RV) implica la generació d'entorns 3D amb apariència real o vídeos 360 que permeten a l'usuari interactuar a través d'un dispositiu (ulleres o casc de realitat virtual). 
+      Per altra banda, la **realitat virtual (RV)** implica la generació d'entorns 3D amb apariència real o vídeos 360 que permeten a l'usuari interactuar a través d'un dispositiu (ulleres o casc de realitat virtual). 
 
 
       La UOC s'ha especialitzat en la creació d'experiències basades en realitat virtual, augmentada i mixta, especialment en els àmbits de l'educació, la salut, la cultura i el turisme.
-    titol: Realitat Augmentada
+    titol: ArLab_descripcio
     video_list:
       - video: crzPTBwphbw
 aspectes_innovadors:
@@ -45,7 +48,7 @@ aspectes_innovadors:
 
 
       Immersium és l’única corporació europea especialitzada en formació de vídeo interactiu immersiu i interactiu i la UOC garanteix la qualitat pedagògica de les experiències immersives.
-    titol: aplicació
+    titol: ArLab_innovacio
 aplicacions:
   - descripcio: >-
       **Active Learning:** especialistes en l'aprenentatge immersiu com una
@@ -58,7 +61,7 @@ aplicacions:
 
 
       **Salut:** mitjançant les experiències immersives es poden optimitzar diversos processos i activitats relacionats amb els serveis sanitaris, com ara la formació de professionals de la salut, la millora de l’empatia i de la relació metge-pacient i la reducció de la percepció del dolor crònic o agut. Això ens ofereix altes potencialitats, especialment en l’àmbit de la formació de professionals mèdics, perquè podem reduir a zero les conseqüències negatives dels errors comesos en períodes formatius, alhora que aquest error es converteix automàticament en una oportunitat de fer-ho millor en la vida real.
-    titol: Aplicació
+    titol: ArLab_aplicacions
     video_list: []
 grups_recerca:
   - id: "3602"
