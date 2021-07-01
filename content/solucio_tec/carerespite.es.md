@@ -14,25 +14,11 @@ general:
     mejora las herramientas de apoyo de los cuidadores.
   logo: /img/logo_carerespite.jpeg
   keywords:
-    - value: Salud digital
+    - value: salud digital
     - value: e-health
     - value: visión artificial
     - value: dependencia
 about:
-  - titol: CareRespite_descripcion
-    descripcio: >-
-      <!--StartFragment-->
-
-
-      El sistema **[Care Respite](https://www.uoc.edu/portal/es/news/actualitat/2015/135-care-respite.html)** está formado por una cámara vinculada a un software de alertas que permite, mediante visión artificial, identificar situaciones de peligro en personas con dependencia, y alertar a los cuidadores para poner solución.
-
-
-      Se trata de un sistema fácil de instalar y configurar: sencillamente se coloca la cámara en el lugar que se considere oportuno, se seleccionan las opciones de aviso en el dispositivo móvil y el sistema está listo para ser utilizado.
-
-
-      <!--EndFragment-->
-    video_list:
-      - video: 45daHE2EQCM
   - descripcio: >-
       Care Respite permite visualizar y verificar el motivo de la incidencia y
       comunicar a los cuidadores con la persona dependiente, mediante la opción
@@ -40,7 +26,9 @@ about:
 
 
       Se trata de un sistema de fácil instalación y configuración: se coloca la cámara en el lugar que se considere oportuno y se seleccionan las opciones de aviso en el dispositivo móvil y el sistema está listo para ser utilizado.
-    titol: CareRespite
+    titol: CareRespite_descripcion
+    docs_rels:
+      - file: /img/fitxa_carerespite_cast_.pdf
 aspectes_innovadors:
   - titol: CareRespite_aspectos
     descripcio: >-
