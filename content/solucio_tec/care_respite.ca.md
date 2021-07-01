@@ -15,7 +15,7 @@ general:
     programari d’alertes que permet, mitjançant visió artificial, identificar
     situacions de perill en persones amb dependència, i alertar els cuidadors
     per tal de posar-hi solució. "
-  centre: Estuids
+  centre: Estudis
   xarxes:
     - xarxa: web
       address: http://www.care-respite.com/
