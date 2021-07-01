@@ -2,62 +2,56 @@
 title: Care Respite
 language: en
 general:
-  nom: Care Respite
-  text_breu: "Care Respite: e-Health dependent people remote monitoring system to
-    improve the working conditions of carers"
   sector: eHealth
-  centre: Estuids
+  img_background: /img/imatge_sistema_carerespite.jpg
+  keywords:
+    - value: eHealth
+    - value: artificial vision
+    - value: dependence
   logo: /img/imatge_sistema_carerespite.jpg
+  nom: Care Respite
+  text_breu: "The Care Respite system is made up of a camera linked to alert
+    software that uses artificial vision to identify dangerous situations for
+    dependent people and alert their carers so they can respond. "
+  centre: Estuids
   xarxes:
     - xarxa: web
       address: http://www.care-respite.com/
-  img_background: /img/imatge_sistema_carerespite.jpg
+  slogan: A remote eHealth monitoring system for dependent people that improves
+    the support tools of carers.
 about:
   - titol: CareRespite_description
     descripcio: >-
-      <!--StartFragment-->
+      Care Respite allows carers to view and verify the reason for an incident
+      and contact the dependent person via its directional voice option. 
 
 
-      The CARE RESPITE system is comprised of a camera linked to alert software that uses artificial vision to identify dangerous situations for dependent people and alert the carers so they can respond.
-
-
-      It is a system that is easy to install and configure: you simply place the camera in the most appropriate position, select the alert options on the mobile device and the system is ready for use.
-
-
-      CARE RESPITE allows the reason for the incident to be viewed and checked and for the carers to communicate with the dependent person using the directional voice option.
-
-
-      <!--EndFragment-->
+      The system is easy to install and configure, only requiring the camera to be placed in a suitable location and the notification options to be selected in the mobile device to be ready to use.
     video_list: []
+    docs_rels:
+      - file: /img/fitxa_carerespite_eng_.pdf
 aspectes_innovadors:
-  - titol: CareRespite_innovation
+  - titol: CareRespite_aspects
     descripcio: >-
-      <!--StartFragment-->
+      Care Respite offers the carers of dependent people the opportunity to
+      improve how they organize their time. This system makes it possible for
+      them to optimize their time, allowing them to carry out other tasks with
+      the peace of mind of being able to check on the dependent person at any
+      time and knowing that they will receive an alert in the event of any
+      danger. 
 
 
-      CARE RESPITE offers carers of dependent people an improvement in allocating their time, as they can do other tasks with the peace of mind of being able to check on the status of the dependent person any time. They will also know that they will get an alert should any dangerous situation arise. CARE RESPITE enables this time optimization, ensuring that the dependent person will be cared for constantly.
-
-
-      It is also a system that is adaptable to any mobile device with the option of sending alerts to various receiver devices.
-
-
-      Finally, it is a non-invasive system that preserves the privacy of dependent people and the people accompanying them.
-
-
-      <!--EndFragment-->
+      Using Care Respite optimizes their care time, guaranteeing that the dependent person will never be neglected. The system can be adapted to any mobile device and can send alerts to multiple recipients. It is a non-invasive system that does not encroach on the privacy of the dependent person or their companions.
 aplicacions:
   - titol: CareRespite_applications
-    descripcio: >-
-      <!--StartFragment-->
-
-
-      Care Respite is a system designed for the**healthcare sector**in both the private and the public sphere.
-
-
-      CARE RESPITE is protected by a**European patent**application entitled “A computer-implemented method and a system for remotely monitoring a user, and a computer program product implementing the method” with priority date**31 July 2014**.
-
-
-      <!--EndFragment-->
+    descripcio: This monitoring system is ideal for day centres, retirement homes,
+      hospitals and, especially, for private use by carers of dependent people.
+grups_recerca:
+  - id: "5702"
+    name: SUNAI
+    description: Scene understanding and artificial intelligence lab
+    url: https://transfer.research.uoc.edu/ca/sunai.html
+    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/57/image/1594206271178
 investigadors:
   - id: "63980502"
     name: Baró Solé, Xavier
