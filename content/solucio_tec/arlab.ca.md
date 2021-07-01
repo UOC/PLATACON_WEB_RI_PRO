@@ -10,7 +10,7 @@ general:
     - value: realitat virutal
     - value: aprenentatge immersiu
   logo: ""
-  nom: "TECNOLOGIES IMMERSIVES "
+  nom: Tecnologies Immersives
   text_breu: Aprenentatge immersiu. Creació d'experiències basades en realitat
     virtual, augmentada i mixta per a l’educació, la cultura, la salut i el
     turisme.
