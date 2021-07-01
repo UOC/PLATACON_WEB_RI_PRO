@@ -2,7 +2,7 @@
 title: ARLab
 language: es
 general:
-  nom: TECNOLOGIES IMMERSIVES
+  nom: Tecnologies Immersives
   text_breu: Aprendizaje inmersivo. Creación de experiencias basadas en realidad
     virtual, aumentada y mixta para la educación, la cultura, la salud y el
     turismo.
