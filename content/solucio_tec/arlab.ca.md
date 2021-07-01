@@ -33,7 +33,7 @@ about:
       La UOC s'ha especialitzat en la creació d'experiències basades en realitat virtual, augmentada i mixta, especialment en els àmbits de l'educació, la salut, la cultura i el turisme.
     titol: Realitat Augmentada
     video_list:
-      - video: PLDKzJwtPTb2WF_byvxXG7426Lfl9FCsaM
+      - video: crzPTBwphbw
 aspectes_innovadors:
   - descripcio: >-
       La recerca i l'aprenentatge constants per proporcionar solucions
