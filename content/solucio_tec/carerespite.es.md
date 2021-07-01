@@ -2,22 +2,25 @@
 title: CareRespite
 language: es
 general:
-  nom: Care Respite
-  text_breu: El sistema Care Respite está formado por una cámara vinculada a un
-    software de alertas que permite, mediante visión artificial, identificar
-    situaciones de peligro en personas con dependencia, y alertar a los
-    cuidadores para que se pueda poner solución.
-  img_background: /img/imagen_carerespite.jpeg
   sector: Salud - eHealth
-  centre: Estuids
-  slogan: Sistema e-health de monitorización remota de personas dependientes que
-    mejora las herramientas de apoyo de los cuidadores.
-  logo: /img/logo_carerespite.jpeg
+  img_background: /img/imagen_carerespite.jpeg
   keywords:
     - value: salud digital
     - value: e-health
     - value: visión artificial
     - value: dependencia
+  logo: /img/logo_carerespite.jpeg
+  nom: Care Respite
+  text_breu: El sistema Care Respite está formado por una cámara vinculada a un
+    software de alertas que permite, mediante visión artificial, identificar
+    situaciones de peligro en personas con dependencia, y alertar a los
+    cuidadores para que se pueda poner solución.
+  centre: Estuids
+  xarxes:
+    - xarxa: web
+      address: http://www.care-respite.com/
+  slogan: Sistema e-health de monitorización remota de personas dependientes que
+    mejora las herramientas de apoyo de los cuidadores.
 about:
   - descripcio: >-
       Care Respite permite visualizar y verificar el motivo de la incidencia y
