@@ -37,7 +37,13 @@ aspectes_innovadors:
       y de bajo coste, los elementos básicos de un laboratorio de electrónica: 
 
 
-      \- Protoboard sobre la que montar los circuitos. - Fuentes de alimentación. - Aparatos de medición (generador de funciones y osciloscopio digital). - Componentes de conmutación y comportamiento manualmente variable (interruptor, pulsador y potenciómetro multivuelta). 
+      * Protoboard sobre la que montar los circuitos. 
+
+      * Fuentes de alimentación. 
+
+      * Aparatos de medición (generador de funciones y osciloscopio digital). 
+
+      * Componentes de conmutación y comportamiento manualmente variable (interruptor, pulsador y potenciómetro multivuelta). 
 
 
       Además, el control por software desde el ordenador de las funcionalidades de los aparatos de medida incluidos en la placa es independiente del lenguaje de programación o plataforma software que se quiera emplear para hacerlo.
