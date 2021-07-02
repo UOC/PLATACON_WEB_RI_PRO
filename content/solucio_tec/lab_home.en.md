@@ -33,11 +33,16 @@ aspectes_innovadors:
   - titol: Lab@Home_innovation
     descripcio: >-
       Lab@Home is hardware that integrates the basic elements of an electronics
-      laboratory on a single, small-scale, low-cost board: - protoboard upon
-      which to assemble the circuits - power sources - measuring devices
-      (function generator and digital oscilloscope) - manually variable
-      switching and behaviour components (switch, push-button and multiturn
-      potentiometer). 
+      laboratory on a single, small-scale, low-cost board: 
+
+
+      * protoboard upon which to assemble the circuits 
+
+      * power sources 
+
+      * measuring devices (function generator and digital oscilloscope) 
+
+      * manually variable switching and behaviour components (switch, push-button and multiturn potentiometer). 
 
 
       Moreover, the computer software control of the functionalities of the measuring devices included on the board is independent of the programming language or software platform to be used.
