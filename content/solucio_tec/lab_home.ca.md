@@ -31,15 +31,21 @@ about:
       \- Mòdul d’alimentació, amb dues fonts commutades i una multitud de reguladors lineals, connectat a l’alimentador. - Un microcontrolador, amb dos canals d’entrada analògics i un canal de sortida analògic, amb connexió a l’ordinador i al mòdul d’alimentació. - Una memòria connectada al microcontrolador. - Un mòdul de generació de senyal connectat al canal de sortida analògic del microcontrolador i al mòdul d’usuari. - Un mòdul de captura de senyal connectat als dos canals d’entrada analògics del microcontrolador i al mòdul d’usuari. - Un mòdul d’usuari amb una placa d’inserció que permet a l’usuari muntar circuits electrònics i amb connexions al mòdul de captura de senyal, al mòdul de generació de senyal i al mòdul d’alimentació. Aquest sistema constitueix un avenç en els sistemes de muntatge i mesurament de circuits electrònics per a l’àmbit acadèmic.
 aspectes_innovadors:
   - descripcio: >-
-      [Lab@Home és un hardware que integra, en una única placa de grandària
-      reduïda i de baix cost, els elements bàsics d’un laboratori d’electrònica:
-      ](mailto:Lab@Home%20%C3%A9s%20un%20hardware%20que%20integra,%20en%20una%20%C3%BAnica%20placa%20de%20grand%C3%A0ria%20redu%C3%AFda%20i%20de%20baix%20cost,%20els%20elements%20b%C3%A0sics%20d%E2%80%99un%20laboratori%20d%E2%80%99electr%C3%B2nica:%20-%20Protoboard%20sobre%20la%20qual%20muntar%20els%20circuits.-%20Fonts%20d%E2%80%99alimentaci%C3%B3.-%20Aparells%20de%20mesura%20(generador%20de%20funcions%20i%20oscil%C2%B7loscopi%20digital).-%20Components%20de%20commutaci%C3%B3%20i%20comportament%20manualment%20variable%20(interruptor,%20polsador%20i%20potenci%C3%B2metre%20multivolta).%20A%20m%C3%A9s,%20el%20control%20per%20software%20des%20de%20l%E2%80%99ordinador%20de%20les%20funcionalitats%20dels%20aparells%20de%20mesura%20inclosos%20a%20la%20placa%20%C3%A9s%20independent%20del%20llenguatge%20de%20programaci%C3%B3%20o%20plataforma%20software%20que%20es%20vulgui%20emprar%20per%20fer-ho.)
+      Lab@Home és un hardware que integra, en una única placa de grandària
+      reduïda i de baix cost, els elements bàsics d’un laboratori
+      d’electrònica: 
 
 
-      [\- Protoboard sobre la qual muntar els circuits. - Fonts d’alimentació. - Aparells de mesura (generador de funcions i oscil·loscopi digital). - Components de commutació i comportament manualment variable (interruptor, polsador i potenciòmetre multivolta). ](mailto:Lab@Home%20%C3%A9s%20un%20hardware%20que%20integra,%20en%20una%20%C3%BAnica%20placa%20de%20grand%C3%A0ria%20redu%C3%AFda%20i%20de%20baix%20cost,%20els%20elements%20b%C3%A0sics%20d%E2%80%99un%20laboratori%20d%E2%80%99electr%C3%B2nica:%20-%20Protoboard%20sobre%20la%20qual%20muntar%20els%20circuits.-%20Fonts%20d%E2%80%99alimentaci%C3%B3.-%20Aparells%20de%20mesura%20(generador%20de%20funcions%20i%20oscil%C2%B7loscopi%20digital).-%20Components%20de%20commutaci%C3%B3%20i%20comportament%20manualment%20variable%20(interruptor,%20polsador%20i%20potenci%C3%B2metre%20multivolta).%20A%20m%C3%A9s,%20el%20control%20per%20software%20des%20de%20l%E2%80%99ordinador%20de%20les%20funcionalitats%20dels%20aparells%20de%20mesura%20inclosos%20a%20la%20placa%20%C3%A9s%20independent%20del%20llenguatge%20de%20programaci%C3%B3%20o%20plataforma%20software%20que%20es%20vulgui%20emprar%20per%20fer-ho.)
+      * Protoboard sobre la qual muntar els circuits. 
+
+      * Fonts d’alimentació. 
+
+      * Aparells de mesura (generador de funcions i oscil·loscopi digital). 
+
+      * Components de commutació i comportament manualment variable (interruptor, polsador i potenciòmetre multivolta). 
 
 
-      [A més, el control per software des de l’ordinador de les funcionalitats dels aparells de mesura inclosos a la placa és independent del llenguatge de programació o plataforma software que es vulgui emprar per fer-ho.](mailto:Lab@Home%20%C3%A9s%20un%20hardware%20que%20integra,%20en%20una%20%C3%BAnica%20placa%20de%20grand%C3%A0ria%20redu%C3%AFda%20i%20de%20baix%20cost,%20els%20elements%20b%C3%A0sics%20d%E2%80%99un%20laboratori%20d%E2%80%99electr%C3%B2nica:%20-%20Protoboard%20sobre%20la%20qual%20muntar%20els%20circuits.-%20Fonts%20d%E2%80%99alimentaci%C3%B3.-%20Aparells%20de%20mesura%20(generador%20de%20funcions%20i%20oscil%C2%B7loscopi%20digital).-%20Components%20de%20commutaci%C3%B3%20i%20comportament%20manualment%20variable%20(interruptor,%20polsador%20i%20potenci%C3%B2metre%20multivolta).%20A%20m%C3%A9s,%20el%20control%20per%20software%20des%20de%20l%E2%80%99ordinador%20de%20les%20funcionalitats%20dels%20aparells%20de%20mesura%20inclosos%20a%20la%20placa%20%C3%A9s%20independent%20del%20llenguatge%20de%20programaci%C3%B3%20o%20plataforma%20software%20que%20es%20vulgui%20emprar%20per%20fer-ho.)
+      A més, el control per software des de l’ordinador de les funcionalitats dels aparells de mesura inclosos a la placa és independent del llenguatge de programació o plataforma software que es vulgui emprar per fer-ho.
     titol: Lab@Home_aspectes
 aplicacions:
   - titol: Lab@Home_aplicacions
