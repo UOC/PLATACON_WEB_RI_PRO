@@ -2,17 +2,22 @@
 title: Smart Logistics
 language: ca
 general:
-  centre: Estuids
-  img_background: /img/35163823714_5988ddfcaa_w.jpg
+  sector: Societat en xarxa
+  img_background: /img/imagen_smartlogistics.jpg
+  keywords:
+    - value: smart cities
+    - value: indústria 4.0
+    - value: solucions intel·ligents
+    - value: algorismes híbrids
+  logo: ""
   nom: Smart Logistics
-  sector: Economia, empresa i TIC
-  slogan: "Smart Logistics: Integració d’algorismes metaheurístics amb resultats
-    de simulació per a generar solucions pseudoòptimes en la presa de decisions
-    en problemes complexos en condicions d’incertesa"
-  text_breu: ""
-  xarxes:
-    - address: http://dpcs.uoc.edu/wordpress/
-      xarxa: web
+  text_breu: Smartlogistics, algorismes híbrids que combinen la simulació amb
+    tècniques metaheurístiques per abordar eficientment la presa de decisions
+    complexes.
+  centre: IN3
+  xarxes: []
+  slogan: Solucions intel·ligents en àrees com la logística, el transport i les
+    smart cities.
 about:
   - descripcio: >-
       Smart Logistics aplica la tecnologia simheuristics, una família
