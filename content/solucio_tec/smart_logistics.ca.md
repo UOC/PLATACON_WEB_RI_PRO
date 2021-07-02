@@ -3,7 +3,7 @@ title: Smart Logistics
 language: ca
 general:
   sector: Societat en xarxa
-  img_background: /img/imagen_smartlogistics.jpg
+  img_background: /img/imagen_smartlogistics_2.jpg
   keywords:
     - value: smart cities
     - value: indústria 4.0
@@ -20,49 +20,54 @@ general:
     smart cities.
 about:
   - descripcio: >-
-      Smart Logistics aplica la tecnologia simheuristics, una família
-      d’algorismes híbrids que combinen la simulació amb tècniques
-      metaheurístiques, per tal de resoldre eficientment problemes complexos en
-      la presa de decisions en condicions d’incertesa.
+      **Smartlogistics** és una nova família d'algorismes híbrids que combina la
+      simulació amb tècniques metaheurístiques, amb la finalitat d'abordar
+      eficientment la presa de decisions complexes. 
 
 
-      Amb la integració de la gran capacitat d’optimització d’algorismes metaheurístics i la flexibilitat de simulació s’aconsegueix una metodologia molt potent, flexible i relativament fàcil d’implementar que, després d’una sintonització correcta, pot generar solucions pseudoòptimes per a aplicacions de la vida real i per a problemes de gran escala en escenaris d’incertesa..
-    titol: Smart Logistics
+      **Smartlogistics** ofereix solucions intel·ligents per als problemes complexos de la vida real en àrees com la logística, el transport, la producció, la distribució i la computació distribuïda i paral·lela (inclosa la computació en el núvol) combinant diferents tècniques, com ara: anàlisi de dades, simulació per ordinador i metaheurístiques.
+    titol: Smart Logistics_descripcio
 aspectes_innovadors:
   - descripcio: >-
-      L’aplicació de la tecnologia permet obtenir solucions que proporcionin:
+      La tecnologia Smartlogistics constitueix una eina potent que combina
+      algorismes metaheurístics amb la simulació, facilitant els aspectes
+      següents:
 
 
-      * una reducció dels temps de procés i, en conseqüència,
+      * La ràpida **generació de valor afegit** en el desenvolupament de nous usos i aplicacions.
 
-      * una reducció de costos.
+      * La **gestió de processos altament personalitzables**, plenament adaptats a les necessitats específiques de cada client i aplicació.
 
-
-      En l’àmbit específic de les ciutats intel·ligents, l’optimització també implica:
-
-
-      * una reducció de la despesa pública (redistribuint l’estalvi en altres partides del pressupost municipal),
-
-      * una millora ambiental (contaminació atmosfèrica, acústica, etc.),
-
-      * una millora en la gestió dels espais (aparcaments, etc.),
-
-      * una reducció del trànsit, etc.
-    titol: Aspe
+      * La **integració de tècniques metaheurístiques** amb simulació en una metodologia molt potent i flexible que permet optimitzar serveis i processos en escenaris dinàmics i amb incertesa.
+    titol: Smart Logistics_aspectes
 aplicacions:
   - descripcio: >-
-      Aquesta tecnologia es pot aplicar a qualsevol indústria on hi hagi una
-      necessitat d’optimització de processos amb la finalitat d’obtenir una
-      reducció de costos (monetaris, ambientals, etc.). Exemples d’àrees en les
-      quals es pot implementar són: logística, transport, producció, finances,
-      telecomunicacions, mobilitat i ciutats intel·ligents (smart cities).
+      Aquesta metodologia pot ser aplicada a qualsevol sector industrial o de
+      serveis en el qual sigui necessària l'optimització i la millora de
+      processos i sistemes complexos sota escenaris variables.
 
 
-      Centrant-nos en l’àmbit de les ciutats intel·ligents, Smart Logistics pot aplicar-se a la gestió de la recollida de residus sòlids urbans. La tecnologia, combinada amb diferents dispositius de traçabilitat i de mesurament, permet desenvolupar un enfocament dinàmic de la recollida de residus. Tenir informació en temps real sobre els nivells de reposició dels contenidors es pot utilitzar per a optimitzar la planificació de gestió de residus i, per tant, millorar els temps de càrrega i descàrrega, amb la consegüent traducció en una reducció dels costos associats, de l’impacte ambiental, dels nivells de trànsit, etc.
+      **Aplicacions en l'àmbit del transport i la logística:** 
 
 
-      Altres àrees que es poden beneficiar de la tecnologia, dins de l’àmbit de les ciutats intel·ligents són: la planificació de la mobilitat urbana, la gestió dinàmica del trànsit, la planificació del transport públic, les dinàmiques en gestió d’aparcaments, etc.
-    titol: text
+      * Optimització de rutes de flotes de vehicles.
+
+      * Optimització de la gestió logística de mercaderies. 
+
+
+      **Aplicacions en l'àmbit de les smart cities:**
+
+
+      * Optimització de rutes per a la recollida intel·ligent de residus urbans.
+
+      * Optimització de rutes per a la prestació de serveis als ciutadans.
+    titol: Smart Logistics_aplicacions
+grups_recerca:
+  - id: "6302"
+    name: ICSO
+    description: Internet Computing & Systems Optimization
+    url: https://transfer.research.uoc.edu/ca/icso.html
+    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/63/image/1594283737757
 investigadors:
   - id: "19984102"
     name: Juan Perez, Angel Alejandro
