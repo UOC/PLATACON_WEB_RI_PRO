@@ -23,7 +23,20 @@ about:
       This tool allows electronics students to learn hands-on about the design and assembly of electronic circuits and the use of the signal generation devices found in an electronics laboratory. 
 
 
-      The platform consists of the following elements: - Power supply module, with two switched-mode power supplies and numerous linear regulators, connected to the power supply. - A microcontroller, with two analogue input channels and an analogue output channel, with connection to the computer and the power supply module. - A memory connected to the microcontroller. - A signal generation module connected to the analogue output channel of the microcontroller and to the user module. - A signal capturing module connected to the two analogue input channels of the microcontroller and to the user module. - A user module with a breadboard to allow the user to assemble electronic circuits with connections to the signal capturing module, the signal generation module and the power supply module.
+      The platform consists of the following elements: 
+
+
+      * Power supply module, with two switched-mode power supplies and numerous linear regulators, connected to the power supply. 
+
+      * A microcontroller, with two analogue input channels and an analogue output channel, with connection to the computer and the power supply module. 
+
+      * A memory connected to the microcontroller. 
+
+      * A signal generation module connected to the analogue output channel of the microcontroller and to the user module. 
+
+      * A signal capturing module connected to the two analogue input channels of the microcontroller and to the user module. 
+
+      * A user module with a breadboard to allow the user to assemble electronic circuits with connections to the signal capturing module, the signal generation module and the power supply module.
 
        This system is a step forward in electronic circuit assembly and measuring systems for academic use.
     video_list:
