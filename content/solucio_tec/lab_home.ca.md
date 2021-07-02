@@ -11,7 +11,8 @@ general:
   logo: /img/logo_labhome.png
   slogan: Lab@Home, el teu laboratori d'electrònica a casa.
   keywords:
-    - value: Laboratori d'electrònica e-learning
+    - value: "Laboratori d'electrònica "
+    - value: e-learning
 about:
   - video_list:
       - video: yE6Jovu_HI
