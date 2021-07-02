@@ -28,7 +28,20 @@ about:
       La plataforma comprèn els elements següents:
 
 
-      \- Mòdul d’alimentació, amb dues fonts commutades i una multitud de reguladors lineals, connectat a l’alimentador. - Un microcontrolador, amb dos canals d’entrada analògics i un canal de sortida analògic, amb connexió a l’ordinador i al mòdul d’alimentació. - Una memòria connectada al microcontrolador. - Un mòdul de generació de senyal connectat al canal de sortida analògic del microcontrolador i al mòdul d’usuari. - Un mòdul de captura de senyal connectat als dos canals d’entrada analògics del microcontrolador i al mòdul d’usuari. - Un mòdul d’usuari amb una placa d’inserció que permet a l’usuari muntar circuits electrònics i amb connexions al mòdul de captura de senyal, al mòdul de generació de senyal i al mòdul d’alimentació. Aquest sistema constitueix un avenç en els sistemes de muntatge i mesurament de circuits electrònics per a l’àmbit acadèmic.
+      * Mòdul d’alimentació, amb dues fonts commutades i una multitud de reguladors lineals, connectat a l’alimentador. 
+
+      * Un microcontrolador, amb dos canals d’entrada analògics i un canal de sortida analògic, amb connexió a l’ordinador i al mòdul d’alimentació. 
+
+      * Una memòria connectada al microcontrolador. 
+
+      * Un mòdul de generació de senyal connectat al canal de sortida analògic del microcontrolador i al mòdul d’usuari. 
+
+      * Un mòdul de captura de senyal connectat als dos canals d’entrada analògics del microcontrolador i al mòdul d’usuari. 
+
+      * Un mòdul d’usuari amb una placa d’inserció que permet a l’usuari muntar circuits electrònics i amb connexions al mòdul de captura de senyal, al mòdul de generació de senyal i al mòdul d’alimentació. 
+
+
+      Aquest sistema constitueix un avenç en els sistemes de muntatge i mesurament de circuits electrònics per a l’àmbit acadèmic.
 aspectes_innovadors:
   - descripcio: >-
       Lab@Home és un hardware que integra, en una única placa de grandària
