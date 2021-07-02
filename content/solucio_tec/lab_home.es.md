@@ -23,7 +23,20 @@ about:
       Esta herramienta permite que estudiantes de electrónica aprendan, de manera práctica, el diseño y montaje de circuitos electrónicos y también la utilización de aparatos de generación de señales propias de un laboratorio de electrónica. 
 
 
-      La plataforma comprende los siguientes elementos: - Módulo de alimentación, con dos fuentes conmutadas y una multitud de reguladores lineales, conectado al alimentador. - Un microcontrolador, con dos canales de entrada analógicos y un canal de salida analógico, con conexión al ordenador y al módulo de alimentación. - Una memoria conectada al microcontrolador. - Un módulo de generación de señal conectado al canal de salida analógico del microcontrolador y el módulo de usuario. - Un módulo de captura de señal conectado a los dos canales de entrada analógicos del microcontrolador y el módulo de usuario. - Un módulo de usuario con una placa de inserción que permite al usuario montar circuitos electrónicos y con conexiones al módulo de captura de señal, el módulo de generación de señal y el módulo de alimentación. 
+      La plataforma comprende los siguientes elementos: 
+
+
+      * Módulo de alimentación, con dos fuentes conmutadas y una multitud de reguladores lineales, conectado al alimentador. 
+
+      * Un microcontrolador, con dos canales de entrada analógicos y un canal de salida analógico, con conexión al ordenador y al módulo de alimentación. 
+
+      * Una memoria conectada al microcontrolador. 
+
+      * Un módulo de generación de señal conectado al canal de salida analógico del microcontrolador y el módulo de usuario. 
+
+      * Un módulo de captura de señal conectado a los dos canales de entrada analógicos del microcontrolador y el módulo de usuario.  
+
+      * Un módulo de usuario con una placa de inserción que permite al usuario montar circuitos electrónicos y con conexiones al módulo de captura de señal, el módulo de generación de señal y el módulo de alimentación. 
 
 
       Este sistema constituye un avance en los sistemas de montaje y medición de circuitos electrónicos para el ámbito académico.
