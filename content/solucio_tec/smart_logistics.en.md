@@ -2,62 +2,76 @@
 title: Smart Logistics
 language: en
 general:
+  sector: Network society
+  img_background: /img/imagen_smartlogistics.jpg
+  keywords:
+    - value: Smart cities
+    - value: Industry 4.0
+    - value: Smart solutions
+    - value: Hybrid algorithms
+  logo: /img/imagen_smartlogistics_2.jpg
   nom: Smart Logistics
-  text_breu: "Smart Logistics: Integration of metaheuristic algorithms with
-    simulation results to generate pseudo-optimum solutions in decision-making
-    in complex problems under conditions of uncertainty"
-  sector: Economy, business and ICT
+  text_breu: Smartlogistics, hybrid algorithms that combine simulation with
+    metaheuristic techniques to efficiently make complex decisions.
   centre: IN3
-  logo: /img/35163823714_5988ddfcaa_w.jpg
   xarxes:
     - xarxa: web
       address: http://dpcs.uoc.edu/wordpress/
-  img_background: /img/35163823714_5988ddfcaa_w.jpg
+  slogan: "Smart solutions in areas like logistics, transport and smart cities. "
 about:
   - descripcio: >-
-      <!--StartFragment-->
+      **Smartlogistics** is a new family of hybrid algorithms that combine
+      simulation with metaheuristic techniques to efficiently make complex
+      decisions. 
 
 
-      Smart Logistics applies simheuristics technology, a family of hybrid algorithms that combine simulation with metaheuristic techniques to solve efficiently complex problems in decision-making under conditions of uncertainty.\
-
-      \
-
-      With the integration of the large optimization capacity of metaheuristic algorithms and the flexibility of simulation, a very powerful, flexible and relatively easily implemented methodology is achieved, which, after proper synchronization, can generate pseudo-optimum solutions for real-life applications and for large-scale problems in scenarios of uncertainty.
-
-
-      <!--EndFragment-->
+      Smartlogistics offers **smart solutions** to complex problems in real life in areas such as logistics, transport, production and distributed and parallel computing (including cloud computing), combining data analysis, computer simulation and metaheuristic techniques, among others.
     titol: Smart_des_eng
 aspectes_innovadors:
   - titol: Smarts_innovation
     descripcio: >-
-      <!--StartFragment-->
+      Smartlogistics technology consists of a powerful tool that **combines
+      metaheuristic** algorithms with simulation, facilitating the following
+      aspects:
 
 
-      The application of the technology allows solutions to be obtained that provide:
+      \- The rapid generation of **added value** in the development of new uses and applications. 
 
 
-      * a reduction in process times and, consequently,
-
-      * a reduction in costs.
+      \- The management of highly customizable processes that are fully adapted to the specific needs of each client and application.
 
 
-      In the specific field of smart cities, optimization also entails:
-
-
-      * a reduction in public spending (redistributing the saving in other items in the municipal budget),
-
-      * environmental improvement (atmospheric pollution, noise pollution, etc.),
-
-      * an improvement in the management of spaces (car parks, etc.),
-
-      * a reduction in traffic, etc.
-
-
-      <!--EndFragment-->
+      \- The integration of metaheuristic techniques with simulation in an extremely powerful and flexible methodology that enables the optimization of services and processes in dynamic and uncertain scenarios.
 aplicacions:
   - titol: Smart_applications
     descripcio: >-
-      <!--StartFragment-->
+      
+
+      This methodology can be applied to **any industrial or service sector** in which it is necessary to optimize and improve complex processes and systems in variable scenarios. Applications in transport and logistics:
+
+
+      \- Optimization of **vehicle fleet routes.** 
+
+
+      \- Optimization of goods logistics management. Applications in smart cities: 
+
+
+      \- Optimization of routes for the smart collection of urban waste. 
+
+
+      \- Optimization of **routes for the provision** of public services.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
       ![](http://transfer.rdi.uoc.edu/sites/default/files/styles/node_full-300x220/public/results/captura_de_pantalla_2015-09-16_a_les_16.24.33.png?itok=rHOGNbn7)
@@ -133,6 +147,12 @@ aplicacions:
 
 
       <!--EndFragment-->
+grups_recerca:
+  - id: "6302"
+    name: ICSO
+    description: Internet Computing & Systems Optimization
+    url: https://transfer.research.uoc.edu/ca/icso.html
+    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/63/image/1594283737757
 investigadors:
   - id: "19984102"
     name: Juan Perez, Angel Alejandro
