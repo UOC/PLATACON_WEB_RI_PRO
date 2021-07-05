@@ -39,7 +39,7 @@ about:
 
       \- Open Educational Resources: **eina d’edició d’activitats i materials** per a l’ensenyament de llengües en línia. Aquesta eina compta amb un repositori d’activitats i materials amb la possibilitat de fer voltis per diferents criteris (idiomes, tipologies d’activitats, etc.)
     video_list:
-      - video: UeYcUb2vOLw
+      - video: https://www.youtube.com/watch?v=Amif-_UhI4I&feature=emb_logo
 aspectes_innovadors:
   - titol: SpeakApps_aspectes
     descripcio: >-
