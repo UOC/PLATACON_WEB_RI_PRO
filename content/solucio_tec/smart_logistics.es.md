@@ -3,77 +3,76 @@ title: Smart Logistics
 language: es
 general:
   nom: Smart Logistics
-  text_breu: Integración de algoritmos metaheurísticos con resultados de
-    simulación para generar soluciones pseudoóptimas en la toma de decisiones en
-    problemas complejos en condiciones de incertidumbre
-  sector: Economía, empresa y TIC
+  text_breu: Smartlogistics, algoritmos híbridos que combinan la simulación con
+    técnicas metaheurísticas para abordar eficientemente la toma de decisiones
+    complejas.
+  sector: Sociedad en red
   centre: IN3
   xarxes:
     - xarxa: web
       address: http://dpcs.uoc.edu/wordpress/
-  img_background: /img/35163823714_5988ddfcaa_w.jpg
+  img_background: /img/imagen_smartlogistics_2.jpg
+  slogan: Soluciones inteligentes en áreas como la logística, el transporte y las
+    smart cities.
+  keywords:
+    - value: Smart cities
+    - value: industria 4.0
+    - value: soluciones inteligentes
+    - value: algoritmos híbridos
 about:
   - descripcio: >-
-      <!--StartFragment-->
+      **Smartlogistics** es una nueva familia de algoritmos híbridos que combina
+      la simulación con técnicas metaheurísticas, con el fin de abordar
+      eficientemente la toma de decisiones complejas. 
 
 
-      Smart Logistics aplica la tecnología simheuristics, una familia de algoritmos híbridos que combinan la simulación con técnicas metaheurísticas, para resolver eficientemente problemas complejos en la toma de decisiones en condiciones de incertidumbre.
-
-
-      Con la integración de la gran capacidad de optimización de algoritmos metaheurísticos y la flexibilidad de simulación se consigue una metodología muy potente, flexible y relativamente fácil de implementar que, tras una correcta sintonización, puede generar soluciones pseudoóptimas para aplicaciones de la vida real y para problemas de gran escala en escenarios de incertidumbre.
-
-
-      <!--EndFragment-->
+      Smartlogistics **ofrece soluciones inteligentes** para los problemas complejos de la vida real en áreas como la logística, el transporte, la producción, la distribución y la computación distribuida y paralela (incluyendo computación en la nube) combinando diferentes técnicas, que incluyen: análisis de datos, simulación por ordenador y metaheurísticas.
     titol: Smart Logistics_des
 aspectes_innovadors:
   - titol: Smart_aspectos
     descripcio: >-
-      <!--StartFragment-->
+      La **tecnología Smartlogistics** constituye una herramienta potente que
+      combina algoritmos metaheurísticos con la simulación, facilitando los
+      siguientes aspectos: 
 
 
-      La aplicación de la tecnología permite obtener soluciones que proporcionen:
+      \- La rápida **generación de valor** añadido en el desarrollo de nuevos usos y aplicaciones. 
 
 
-      * una reducción de los tiempos de proceso y, en consecuencia,
-
-      * una reducción de costes.
+      \- La gestión de procesos altamente personalizables, plenamente **adaptados a las necesidades** específicas de cada cliente y aplicación. 
 
 
-      En el ámbito específico de las ciudades inteligentes, la optimización también implica:
-
-
-      * una reducción del gasto público (redistribuyendo el ahorro en otras partidas del presupuesto municipal),
-
-      * una mejora ambiental (contaminación atmosférica, acústica, etc.),
-
-      * una mejora en la gestión de los espacios (aparcamientos, etc.),
-
-      * una reducción del tráfico, etc.
-
-
-      <!--EndFragment-->
+      \- La integración de técnicas metaheurísticas con simulación en una metodología muy potente y flexible que permite optimizar servicios y **procesos en escenarios dinámicos** y con incertidumbre.
 aplicacions:
   - titol: Smart_apli
     descripcio: >-
-      <!--StartFragment-->
+      Esta metodología puede ser aplicada **a cualquier sector industrial** o de
+      servicios en el que sea necesaria la optimización y mejora de procesos y
+      sistemas complejos bajo escenarios variables. Aplicaciones en el **ámbito
+      del transporte y la logística:**
 
 
-      Esta tecnología se puede aplicar a cualquier industria en la que exista una necesidad de optimización de procesos con el fin de obtener una reducción de costes (monetarios, ambientales, etc.). Ejemplos de áreas en las que se puede implementar: logística, transporte, producción, finanzas, telecomunicaciones, movilidad y ciudades inteligentes (smart cities).
+      \- Optimización de rutas de flotas de vehículos. 
 
 
-      Centrándonos en el ámbito de las ciudades inteligentes, Smart Logistics puede aplicarse a la gestión de la recogida de residuos sólidos urbanos. La tecnología, combinada con diferentes dispositivos de trazabilidad y medición, permite desarrollar un enfoque dinámico de la recogida de residuos. Disponer de información en tiempo real sobre los niveles de reposición de los contenedores se puede utilizar para optimizar la planificación de gestión de residuos y, por tanto, mejorar los tiempos de carga y descarga, con la consiguiente traducción en una reducción de los costes asociados, del impacto ambiental, de los niveles de tráfico, etc.
+      \- Optimización de la gestión logística de mercancías. Aplicaciones en el ámbito de las smart cities:
 
 
-      Otras áreas que se pueden beneficiar de la tecnología, dentro del ámbito de las ciudades inteligentes son: la planificación de la movilidad urbana, la gestión dinámica del tráfico, la planificación del transporte público, las dinámicas en gestión de aparcamientos, etc.
+      \- Optimización de rutas para la **recogida inteligente** de residuos urbanos.
 
 
-      <!--EndFragment-->
+      \- Optimización de rutas para la prestación de servicios a los ciudadanos.
 
 
-      <!--StartFragment-->
+
+
+
+
 
 
       ![](http://transfer.rdi.uoc.edu/sites/default/files/styles/node_full-300x220/public/results/captura_de_pantalla_2015-09-16_a_les_16.24.33.png?itok=rHOGNbn7)
+
+
 
 
       [http://openthoughtsmarter.blog...](http://openthoughtsmarter.blogs.uoc.edu/simheuristics-a-new-smart-tool-for-a-complex-world/)
@@ -101,6 +100,12 @@ aplicacions:
 
 
       <!--EndFragment-->
+grups_recerca:
+  - id: "6302"
+    name: ICSO
+    description: Internet Computing & Systems Optimization
+    url: https://transfer.research.uoc.edu/ca/icso.html
+    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/63/image/1594283737757
 investigadors:
   - id: "19984102"
     name: Juan Perez, Angel Alejandro
