@@ -73,4 +73,7 @@ investigadors:
     name: Oliver Gonzàlez, Antoni
     url: https://talent.uoc.edu/ca/antoni-oliver-gonzalez.html
     url_img: https://talent.uoc.edu/img/api/pdi/405413/image/1607007534178
+contacte:
+  - email: "transfer_ari@uoc.edu     "
+    video: F9MD_IgBiMc
 ---
