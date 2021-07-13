@@ -6,7 +6,7 @@ general:
   text_breu: SCC, Sistema de Computación de Componentes
   slogan: SCC, dispositivo para crear circuitos electrónicos reales, no simulados,
     de forma remota.
-  img_background: /img/image_01_explica.jpeg
+  img_background: /img/imagen_scc.jpeg
   sector: Educación - eLearning
   centre: Estuids
   keywords:
