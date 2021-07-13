@@ -5,7 +5,7 @@ general:
   nom: SCC
   text_breu: SCC, Component Computing System
   slogan: SCC, a device to remotely create non-simulated electronic circuits.
-  img_background: /img/image_01_explica.jpeg
+  img_background: /img/imagen_scc.jpeg
   sector: Education - eLearning
   keywords:
     - value: Circuit switching
