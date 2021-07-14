@@ -19,24 +19,6 @@ about:
       <!--StartFragment-->
 
 
-      **Los servicios que ofrecen los grupos de investigación e investigadores en este campo son los siguientes:**
-
-
-      * **Nuevos modelos de datos y plataformas de macrodatos.**
-
-      * **Software inteligente.**
-
-      * **Aplicaciones de macrodatos (big data) para ciudades inteligentes (smart cities).**
-
-      * **Aplicaciones sociales de big data.** 
-
-
-      <!--EndFragment-->
-
-
-      <!--StartFragment-->
-
-
       **Descripción** 
 
 
@@ -63,13 +45,13 @@ about:
       **Nuestros servicios**
 
 
-      * Nuevos modelos de datos y plataformas de big data. Integración de datos a gran escala y de tecnologías heterogéneas (móviles, drones, sensores ambientales…) que facilitan una extracción eficiente del conocimiento de procesos. Estas plataformas big data incorporan modelos de Business Intelligence que conectan los datos a la toma de decisiones y las tecnologías MapReduce, consiguiendo un procesamiento de los datos paralelizado y distribuido. 
+      * **Nuevos modelos de datos y plataformas de big data**. Integración de datos a gran escala y de tecnologías heterogéneas (móviles, drones, sensores ambientales…) que facilitan una extracción eficiente del conocimiento de procesos. Estas plataformas big data incorporan modelos de Business Intelligence que conectan los datos a la toma de decisiones y las tecnologías MapReduce, consiguiendo un procesamiento de los datos paralelizado y distribuido. 
 
-      * Software inteligente. Desarrollo y optimización de software para el análisis dinámico o inteligente de grandes cantidades de datos y orientada a la optimización de la logística, la producción y el rendimiento económico industrial y social.
+      * **Software inteligente.** Desarrollo y optimización de software para el análisis dinámico o inteligente de grandes cantidades de datos y orientada a la optimización de la logística, la producción y el rendimiento económico industrial y social.
 
-      * Aplicaciones de macrodatos para ciudades inteligentes. Estudios urbanos teóricos y aplicados, que parten del análisis de grandes volúmenes de datos provenientes de variables de entorno y que permiten la modelización de escenarios o la construcción de herramientas predictivas. Estas soluciones abordan contextos urbanos como por ejemplo las dinámicas de tráfico, la gestión del espacio público o la del medio ambiente, entre otros.
+      * **Aplicaciones de macrodatos para ciudades inteligentes**. Estudios urbanos teóricos y aplicados, que parten del análisis de grandes volúmenes de datos provenientes de variables de entorno y que permiten la modelización de escenarios o la construcción de herramientas predictivas. Estas soluciones abordan contextos urbanos como por ejemplo las dinámicas de tráfico, la gestión del espacio público o la del medio ambiente, entre otros.
 
-      * Aplicaciones sociales de big data. Análisis de grandes volúmenes de datos mediante herramientas de ciencia social computacional y que permiten modelar escenarios productivos y de consumo para optimizar la producción y venta de productos y servicios.
+      * **Aplicaciones sociales de big data.** Análisis de grandes volúmenes de datos mediante herramientas de ciencia social computacional y que permiten modelar escenarios productivos y de consumo para optimizar la producción y venta de productos y servicios.
 
 
       <!--EndFragment-->
