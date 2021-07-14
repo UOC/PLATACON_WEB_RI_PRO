@@ -19,21 +19,6 @@ about:
       <!--StartFragment-->
 
 
-      **Els serveis oferts pels grups de recerca i els investigadors en aquest àmbit són els següents:**
-
-
-      * **Nous models de dades i plataformes de dades massives.**
-
-      * **Programari intel·ligent.**
-
-      * **Aplicacions de dades massives (big data) per a ciutats intel·ligents (smart cities).**
-
-      * **Aplicacions socials de big data.** 
-
-
-      <!--EndFragment-->
-
-
       <!--StartFragment-->
 
 
@@ -63,13 +48,13 @@ about:
       **Els nostres serveis**
 
 
-      * Nous models de dades i plataformes de big data. Integració de dades a gran escala i de tecnologies heterogènies (mòbils, drons, sensors ambientals…) que faciliten una extracció eficient del coneixement de processos. Aquestes plataformes big data incorporen models de Business Intelligence que connecten les dades a la presa de decisions i les tecnologies MapReduce, tot aconseguint un processament de les dades paral·lelitzat i distribuït. 
+      * **Nous models de dades i plataformes de big data.** Integració de dades a gran escala i de tecnologies heterogènies (mòbils, drons, sensors ambientals…) que faciliten una extracció eficient del coneixement de processos. Aquestes plataformes big data incorporen models de Business Intelligence que connecten les dades a la presa de decisions i les tecnologies MapReduce, tot aconseguint un processament de les dades paral·lelitzat i distribuït. 
 
-      * Programari intel·ligent. Desenvolupament i optimització de software per a l'anàlisi dinàmica o intel·ligent de grans quantitats de dades i orientada a l'optimització de la logística, la producció i el rendiment econòmic industrial i social.
+      * **Programari intel·ligent.** Desenvolupament i optimització de software per a l'anàlisi dinàmica o intel·ligent de grans quantitats de dades i orientada a l'optimització de la logística, la producció i el rendiment econòmic industrial i social.
 
-      * Aplicacions de dades massives per a ciutats intel·ligents. Estudis urbans teòrics i aplicats, que parteixen de l'anàlisi de grans volums de dades provinents de variables d'entorn i que permeten la modelització d'escenaris o la construcció d'eines predictives. Aquestes solucions aborden contextos urbans com ara les dinàmiques de trànsit, la gestió de l'espai públic o la del medi ambient, entre d'altres.
+      * **Aplicacions de dades massives per a ciutats intel·ligents.** Estudis urbans teòrics i aplicats, que parteixen de l'anàlisi de grans volums de dades provinents de variables d'entorn i que permeten la modelització d'escenaris o la construcció d'eines predictives. Aquestes solucions aborden contextos urbans com ara les dinàmiques de trànsit, la gestió de l'espai públic o la del medi ambient, entre d'altres.
 
-      * Aplicacions socials de big data. Anàlisi de grans volums de dades mitjançant eines de ciència social computacional i que permeten modelar escenaris productius i de consum per optimitzar la producció i venda de productes i serveis.
+      * **Aplicacions socials de big data**. Anàlisi de grans volums de dades mitjançant eines de ciència social computacional i que permeten modelar escenaris productius i de consum per optimitzar la producció i venda de productes i serveis.
 
 
       <!--EndFragment-->
