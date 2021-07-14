@@ -108,4 +108,24 @@ about:
 
 
       <!--EndFragment-->
+grups_recerca:
+  - id: "9802"
+    name: ADaS
+    description: Applied Data Science Lab
+    url: https://transfer.research.uoc.edu/ca/adas.html
+    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/98/image/1622190089096
+  - id: "7902"
+    name: CoSIN3
+    description: Complex Systems @ IN3
+    url: https://transfer.research.uoc.edu/ca/cosin3.html
+    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/79/image/1593670827408
+  - id: "6302"
+    name: ICSO
+    description: Internet Computing & Systems Optimization
+    url: https://transfer.research.uoc.edu/ca/icso.html
+    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/63/image/1594283737757
+contacte:
+  - email: transfer_ari@uoc.edu
+    video: F9MD_IgBiMc
+    text: Knowledge Transfer & Entrepreneurship
 ---
