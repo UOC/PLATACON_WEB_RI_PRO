@@ -19,24 +19,6 @@ about:
       <!--StartFragment-->
 
 
-      **The services offered in this field by research groups and researchers are as follows:**
-
-
-      * **New data models and big data platforms.**
-
-      * **Smart software.**
-
-      * **Big data applications for smart cities.**
-
-      * **Social applications of big data.** 
-
-
-      <!--EndFragment-->
-
-
-      <!--StartFragment-->
-
-
       **Description** 
 
 
@@ -63,13 +45,13 @@ about:
       **Our services**
 
 
-      * New data models and big data platforms. Integration of large-scale data and heterogeneous technologies (e.g. mobile phones, drones, environmental sensors) to facilitate the efficient extraction of knowledge from processes. These big data platforms include business intelligence models that connect data to decision-making and MapReduce technologies, achieving the parallel and distributed processing of data. 
+      * **New data models and big data platforms**. Integration of large-scale data and heterogeneous technologies (e.g. mobile phones, drones, environmental sensors) to facilitate the efficient extraction of knowledge from processes. These big data platforms include business intelligence models that connect data to decision-making and MapReduce technologies, achieving the parallel and distributed processing of data. 
 
-      * Smart software. Development and optimization of software for the dynamic and/or smart analysis of large amounts of data to optimize logistics, production and social and industrial economic performance.
+      * **Smart software.** Development and optimization of software for the dynamic and/or smart analysis of large amounts of data to optimize logistics, production and social and industrial economic performance.
 
-      * Big data applications for smart cities. Theoretical and applied urban studies based on analysing large amounts of data from environmental variables that make it possible to model scenarios and/or produce predictive tools. These solutions address urban contexts such as, among others, traffic dynamics, the management of public spaces and the environment.
+      * **Big data applications for smart cities.** Theoretical and applied urban studies based on analysing large amounts of data from environmental variables that make it possible to model scenarios and/or produce predictive tools. These solutions address urban contexts such as, among others, traffic dynamics, the management of public spaces and the environment.
 
-      * Social applications of big data. Analysing large volumes of data by means of computational social science tools that make it possible to model production and consumption scenarios to optimize the production and sale of products and services.
+      * **Social applications of big data.** Analysing large volumes of data by means of computational social science tools that make it possible to model production and consumption scenarios to optimize the production and sale of products and services.
 
 
       <!--EndFragment-->
