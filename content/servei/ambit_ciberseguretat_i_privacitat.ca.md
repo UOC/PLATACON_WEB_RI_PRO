@@ -17,22 +17,6 @@ about:
       <!--StartFragment-->
 
 
-      **Els serveis oferts pels grups de recerca i els investigadors en aquest àmbit són els següents:**
-
-
-      * **Ciberseguretat.**
-
-      * **Protecció de continguts i de la privadesa dels usuaris.** 
-
-      * **Seguretat i privadesa de les xarxes.**
-
-
-      <!--EndFragment-->
-
-
-      <!--StartFragment-->
-
-
       **Descripció**
 
 
