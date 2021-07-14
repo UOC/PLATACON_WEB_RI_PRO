@@ -2,7 +2,7 @@
 title: BIG DATA PER A UNA SOCIETAT SENSORITZADA
 language: ca
 general:
-  nom: BIG DATA PER A UNA SOCIETAT SENSORITZADA
+  nom: "Àmbit: BIG DATA PER A UNA SOCIETAT SENSORITZADA"
   sector: Indústria 4.0
   keywords:
     - value: big data
