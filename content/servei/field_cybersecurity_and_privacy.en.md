@@ -30,19 +30,14 @@ about:
       * To develop tailor-made systems and services to anticipate and address threats in electronic communications and public digital information systems.
 
 
-       
-
-
       **Our services**
 
 
-      * Cybersecurity. Prevention, detection, investigation and creation of tools in response to incidents or threats on electronic communication networks and public information systems.
+      * **Cybersecurity.** Prevention, detection, investigation and creation of tools in response to incidents or threats on electronic communication networks and public information systems.
 
-      * User privacy and content protection. Watermarking and encryption systems for the secure storage and transmission of multimedia information and data.
+      * **User privacy and content protection**. Watermarking and encryption systems for the secure storage and transmission of multimedia information and data.
 
-      * Network privacy and security. Development of tailor-made solutions based on network type (e.g. peer-to-peer, ad hoc, sensors and RFID, online social or vehicular networks, IoT, etc.).
-
-
+      * **Network privacy and security.** Development of tailor-made solutions based on network type (e.g. peer-to-peer, ad hoc, sensors and RFID, online social or vehicular networks, IoT, etc.).
 
 
       **Our value**
@@ -59,8 +54,6 @@ about:
 
 
       <!--StartFragment-->
-
-
 
 
       **Who is it aimed at?**
