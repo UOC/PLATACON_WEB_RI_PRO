@@ -16,22 +16,6 @@ about:
       <!--StartFragment-->
 
 
-      **Los servicios que ofrecen los grupos de investigación e investigadores en este campo son los siguientes:**
-
-
-      * **Ciberseguridad.**
-
-      * **Protección de contenidos y de la privacidad de los usuarios.** 
-
-      * **Seguridad y privacidad de las redes.**
-
-
-      <!--EndFragment-->
-
-
-      <!--StartFragment-->
-
-
       **Descripción**
 
 
@@ -59,8 +43,6 @@ about:
       * **Protección de contenidos y de la privacidad de los usuarios**. Sistemas de marcaje y encriptación para la transmisión y almacenamiento seguro de datos e información multimedia.
 
       * **Seguridad y privacidad de las redes**. Desarrollo de soluciones a medida en función del tipo de red (peer-to-peer, ad hoc, sensores y RFID, sociales en línea, vehiculares, IoT...).
-
-
 
 
       **Nuestro valor**
