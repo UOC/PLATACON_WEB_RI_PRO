@@ -19,16 +19,16 @@ about:
       <!--StartFragment-->
 
 
-      Los servicios que ofrecen los grupos de investigación e investigadores en este campo son los siguientes:
+      **Los servicios que ofrecen los grupos de investigación e investigadores en este campo son los siguientes:**
 
 
-      * Nuevos modelos de datos y plataformas de macrodatos.
+      * **Nuevos modelos de datos y plataformas de macrodatos.**
 
-      * Software inteligente.
+      * **Software inteligente.**
 
-      * Aplicaciones de macrodatos (big data) para ciudades inteligentes (smart cities).
+      * **Aplicaciones de macrodatos (big data) para ciudades inteligentes (smart cities).**
 
-      * Aplicaciones sociales de big data. 
+      * **Aplicaciones sociales de big data.** 
 
 
       <!--EndFragment-->
