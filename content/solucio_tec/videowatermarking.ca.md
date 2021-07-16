@@ -10,7 +10,7 @@ general:
   img_background: /img/imagen_videowatermarking.jpeg
   sector: Societat en xarxa
   centre: IN3
-  logo: /img/audio_watermarking_imatge.jpg
+  logo: /img/logo_watervideo.png
   keywords:
     - value: TIC
     - value: ciberseguretat
