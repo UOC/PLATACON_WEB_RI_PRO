@@ -84,6 +84,10 @@ investigadors:
     name: López Costa, Marta
     url: https://talent.uoc.edu/ca/marta-lopez-costa.html
     url_img: https://talent.uoc.edu/img/api/pdi/914930/image/1620037995681
+  - id: "64121102"
+    name: Casanovas Bayo, Maria
+    url: https://talent.uoc.edu/ca/maria-casanovas-bayo.html
+    url_img: https://talent.uoc.edu/img/api/pdi/641211/image/1626420331304
 contacte:
   - email: "transfer_ari@uoc.edu   "
     video: F9MD_IgBiMc
