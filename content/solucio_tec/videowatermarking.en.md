@@ -16,6 +16,7 @@ general:
     - value: smart cities
     - value: watermark
     - value: advertising
+  logo: /img/logo_watervideo.png
 about:
   - descripcio: >-
       This video watermarking technology **adds a robust,** imperceptible
