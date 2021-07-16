@@ -10,9 +10,9 @@ general:
     - value: dependence
   logo: /img/imatge_sistema_carerespite.jpg
   nom: Care Respite
-  text_breu: "The Care Respite system is made up of a camera linked to alert
-    software that uses artificial vision to identify dangerous situations for
-    dependent people and alert their carers so they can respond. "
+  text_breu: The Care Respite system is made up of a camera linked to alert
+    software to identify dangerous situations for dependent people and alert
+    their carers.
   centre: Estuids
   xarxes:
     - xarxa: web
@@ -22,8 +22,12 @@ general:
 about:
   - titol: CareRespite_description
     descripcio: >-
-      Care Respite allows carers to view and verify the reason for an incident
-      and contact the dependent person via its directional voice option. 
+      The **Care Respite** system is made up of a camera linked to alert
+      software that uses artificial vision to identify dangerous situations for
+      dependent people and alert their carers so they can respond. 
+
+
+      Care Respite allows carers to view and verify the reason for an incident and contact the dependent person via its directional voice option. 
 
 
       The system is easy to install and configure, only requiring the camera to be placed in a suitable location and the notification options to be selected in the mobile device to be ready to use.
