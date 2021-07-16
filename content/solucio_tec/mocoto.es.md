@@ -68,6 +68,11 @@ grups_recerca:
     description: Scene understanding and artificial intelligence lab
     url: https://transfer.research.uoc.edu/ca/sunai.html
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/57/image/1594206271178
+investigadors:
+  - id: "88961402"
+    name: Merino Arranz, David
+    url: https://talent.uoc.edu/ca/david-merino-arranz.html
+    url_img: https://talent.uoc.edu/img/api/pdi/889614/image/1626419643829
 contacte:
   - email: "transfer_ari@uoc.edu   "
     video: F9MD_IgBiMc
