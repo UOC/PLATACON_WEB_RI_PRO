@@ -3,7 +3,7 @@ title: OPEN EVIDENCE
 language: en
 general:
   nom: OPEN EVIDENCE
-  text_breu: Research and consulting at the intersection of technology and society
+  text_breu: Social & Behavioural Science
   img_background: /img/imatge_open_evidence_2021.jpg
   sector: Network society
   keywords:
@@ -20,6 +20,7 @@ general:
     - xarxa: facebook
       address: https://www.facebook.com/pg/OpenEvidence/posts/
   logo: /img/logo_blanc_open_evidence.png
+  slogan: Social & Behavioural Science
 about:
   - titol: Open Evidence_en
     descripcio: >-
