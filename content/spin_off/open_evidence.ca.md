@@ -12,12 +12,8 @@ general:
   logo: /img/logo_blanc_open_evidence.png
   nom: " Open Evidence"
   sector: Societat en xarxa
-  slogan: Apliquem informació sobre ciències socials i del comportament,
-    proporcionant als governs i organitzacions investigacions que fonamenten
-    decisions informades sobre evidències per afrontar alguns dels principals
-    reptes del món.
-  text_breu: Recerca i consultoria que es troba a la intersecció de la tecnologia
-    i la societat
+  slogan: Ciències socials i del comportament
+  text_breu: Ciències socials i del comportament
   xarxes:
     - address: https://open-evidence.com/
       xarxa: web
