@@ -4,11 +4,14 @@ language: en
 general:
   nom: OPEN EVIDENCE
   text_breu: Research and consulting at the intersection of technology and society
-  img_background: /img/35870472491_cb3a156788_w.jpg
-  sector: Economy, business and ICT
+  img_background: /img/imatge_open_evidence_2021.jpg
+  sector: Network society
   keywords:
-    - value: eHealth
-    - value: Data
+    - value: Social & Behavioural Science
+    - value: Big Data Analytics
+    - value: Experimental Evidence
+    - value: Policy Recommendations
+    - value: Impact Assessment
   xarxes:
     - xarxa: web
       address: https://open-evidence.com/
@@ -16,25 +19,17 @@ general:
       address: https://twitter.com/OpenEvidence
     - xarxa: facebook
       address: https://www.facebook.com/pg/OpenEvidence/posts/
-  logo: /img/logo_openevidence.jpg
+  logo: /img/logo_blanc_open_evidence.png
 about:
   - titol: Open Evidence_en
     descripcio: >-
-      Open Evidence is a company that has emerged from the Universitat Oberta de
-      Catalunya, working in consultancy.
+      <!--StartFragment-->
 
 
-      Open Evidence professionals are lecturers, researchers and tutors with over twenty years' experience in applied research and consultancy.
+      Open Evidence is a research and consulting firm that designs and conducts studies on Social & Behavioural Sciences and Big Data Analytics. Open Evidence aims to improve the social and economic impact of public policies or operational performance in private business. 
 
 
-      The differentiating features of their work are:
-
-
-      * METHODOLOGIES AND DESIGNS PRESENTED AND SHARED AS OPEN: the research design and methodologies applied by the company are always transparent, verifiable and shared openly with their customers and the community of researchers and professionals through consultation and validation processes.
-
-      * OPEN BLACK BOXES: Open Evidence opens the "black boxes" of complex empirical models and sophisticated econometry and statistics techniques to ensure that the results of its data analysis and modelization simulations are easy to use and understand.
-
-      * OPEN TO INNOVATION AND THE COMMITMENT OF INTERESTED PARTIES: the focus is never technocratic or vertical, but seeks to include perspectives and knowledge from all interested parties through consultation processes and open and online collaborative commitment.
+      The spin-off was founded by Francisco Lupiañez, a researcher from the Open Evidence Group, in 2013, based on its know-how and state-of-the-art research related to understanding and predicting human behaviour, that often has several biases, and can even be irrational. At this point, the spin-off firm has contributed with real evidence to dozens of large-scale projects led by different public bodies, including the European Commission.
 
 
       <!--EndFragment-->
@@ -44,47 +39,22 @@ productes_serveis:
       <!--StartFragment-->
 
 
-      Projects in the following fields are of particular interest:
+      **MONITORING, EVALUATION AND IMPACT ASSESSMENTS:** In-house logical flow models that tackle problems by linking them to their underlying causes, and estimate the effect of a range of options. 
 
 
-      \
-
-      **NEUROECONOMICS/NEUROMARKETING PROJECTS:**
+      **DESK RESEARCH AND SYSTEMATIC REVIEWS:** Scientific research protocols, including keywords and database selection, based on state-of-the-art knowledge in multiple topics. BEHAVIOURAL 
 
 
-      * Study on online gambling and adequate measures to protect the consumers of these services.
-
-      * Assessing vehicle labelling options regarding CO2 and consumer information.
-
-      * Study on tobacco labelling and packaging.
-
-      * Study on the impact of marketing on social media, online gambling and mobile applications on children's behaviour.
+      **EXPERIMENTS:** Decade-long expertise in designing and conducting experiments to understand and predict human behaviour. 
 
 
-      **eHEALTH PROJECTS:**
+      **ONLINE SURVEYS:** Extensive experience in sampling strategies and questionnaires that apply social and cognitive psychology and statistical expertise. 
 
 
-      * Roll-out of eHealth benchmarking among primary healthcare doctors.
-
-      * Integrated care in European regions.
-
-      * Study on innovation and cost-effectiveness indicators in eHealth.
+      **MODELLING:** Specific know-how on extrapolation of results to macro level, to estimate the net effect of actions on company, economy and society, including business scenarios and case analysis. 
 
 
-      **OPEN INNOVATION:**
-
-
-      * Open Innovation - Fundació Jaume Bofill.
-
-      * Specialist support for assessment of the Kublai Initiative.
-
-
-      **KNOWLEDGE ECONOMY - BIG DATA:**
-
-
-      * European data market.
-
-      * Study on the use of social technologies in small- and medium-sized companies.
+      **POLICY RECOMMENDATION REPORTING AND DRAWING:** Specific visualization techniques, multi-criteria analysis, gap analysis, policy reviews and open consultations.
 
 
       <!--EndFragment-->
@@ -94,18 +64,57 @@ clients:
       <!--StartFragment-->
 
 
-      Open Evidence is aimed at the public and private sector at international level. Its clients include agencies such as the European Commission, non profit-making institutions, such as the Fundació Jaume Bofill, and public institutions, such as the Department of Development and Economic Cohesion (Ministry of Public Works, Italy).
+      More than 70 projects for public institutions at both international and national level, for example: the European Commission, the European Parliament, several European agencies (EIGE, CHAFEA)
 
 
       <!--EndFragment-->
+casos_exit:
+  - descripcio: >-
+      <!--StartFragment-->
+
+
+      **A. TOBACCO LABELLING FOR THE COMMISSION:** 
+
+
+      * EU regulation of health warnings on tobacco products implemented after our project. 
+
+      * Based on RCT (Randomized Control Trial) methodology. 
+
+      * Conducted on a sample of 8000 European citizens, in 10 Member States. 
+
+      * Results included emotional nudges. 
+
+
+
+
+      **B. ONLINE GAMBLING FOR THE COMMISSION:** 
+
+
+      * Led to recommendations to Member States for the protection of consumers from online gambling services. 
+
+      * Based on a lab and an online experiment simulating an online gambling platform. 
+
+      * Conducted on a sample of 7000 subjects across Europe. 
+
+      * Results developed emotional nudges.
+
+
+      <!--EndFragment-->
+    titol: Open evidence_succes
+grups_recerca:
+  - id: "6602"
+    name: OpenEvidence
+    description: Open Evidence Research Group
+    url: https://transfer.research.uoc.edu/ca/openevidence.html
+    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/66/image/1594111453905
 investigadors:
   - id: "39288202"
     name: Lupiáñez Villanueva, Francisco
     url: https://talent.uoc.edu/ca/francisco-lupianez-villanueva.html
     url_img: https://talent.uoc.edu/img/api/pdi/392882/image/1588172709040
 contacte:
-  - text: Open Evidence
-    address: Almogàvers, 165   08018 Barcelona, Spain
-    telefon: (+34) 696 21 36 79
+  - text: Open Evidence - Francisco Lupiañez
+    address: Pujades 51-55, B-45 08005 Barcelona, Spain
+    telefon: ""
     email: info@open-evidence.com
 ---
