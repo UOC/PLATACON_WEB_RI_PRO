@@ -2,7 +2,7 @@
 title: DRET, INTERNET I TIC
 language: es
 general:
-  nom: DRET, INTERNET I TIC
+  nom: "DRET, INTERNET I TIC "
   text_breu: Te asesoramos en el derecho de las TIC e internet
   img_background: /img/a_imatge_verda_sense_logo.jpg
   sector: Derecho y gobernanza
