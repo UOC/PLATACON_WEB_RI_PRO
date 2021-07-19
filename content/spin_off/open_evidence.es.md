@@ -3,8 +3,7 @@ title: OPEN EVIDENCE
 language: es
 general:
   nom: OPEN EVIDENCE
-  text_breu: Investigación y consultoría que se encuentra en la intersección de la
-    tecnología y la sociedad
+  text_breu: Ciencias sociales y del comportamiento
   img_background: /img/imatge_open_evidence_2021.jpg
   sector: Sociedad en red
   logo: /img/logo_blanc_open_evidence.png
@@ -21,6 +20,7 @@ general:
       address: https://twitter.com/OpenEvidence
     - xarxa: facebook
       address: https://www.facebook.com/pg/OpenEvidence/posts/
+  slogan: Ciencias sociales y del comportamiento
 about:
   - titol: Open Evidence_es
     descripcio: >-
