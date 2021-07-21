@@ -3,86 +3,91 @@ title: INTERNET OF EVERYTHING
 language: ca
 general:
   nom: INTERNET OF EVERYTHING
-  text_breu: Por una industria digitalizada y conectada al futuro.
+  text_breu: Per una indústria digitalitzada i connectada al futur.
   sector: Indústria 4.0
   keywords:
-    - value: Automatización
-    - value: digitalización
+    - value: Automatització
+    - value: digitalització
     - value: industria 4.0
     - value: internet of things
     - value: internet of everything
-    - value: sistemas ciberfísicos
+    - value: sistemas ciberfísics
     - value: digital-twin
-    - value: mantenimiento predictivo
-    - value: comunicaciones inalámbricas
-    - value: bajo consumo
+    - value: mantenimient predictiu
+    - value: comunicacions sense fils
+    - value: baix consumo
   img_background: /img/a_imatge_verda_sense_logo.jpg
 about:
   - descripcio: >-
-      **Descripción**
+      
+
+      **Descripció**
 
 
-      Desarrollamos herramientas y soluciones a medida para la conexión inteligente e inalámbrica de máquinas y personas, contribuyendo a la mejora y flexibilización de la producción en la industria 4.0 y la digitalización de servicios. Somos expertos en:
+      **Desenvolupem eines i solucions a mida per a la connexió intel·ligent** i sense fils de màquines i persones, contribuint a la millora i flexibilització de la producció en la indústria 4.0 i la digitalització de serveis. Som experts en:
 
 
-      * **Desarrollar tecnologías de comunicación** para dispositivos conectados en ciudades (smart cities), en carreteras y grandes infraestructuras, en la industria, en redes domésticas o en las redes de comunicaciones.
+      * Desenvolupar tecnologies de comunicació per a dispositius connectats en ciutats (smart cities), en carreteres i grans infraestructures, a la indústria, a xarxes domèstiques o a les xarxes de comunicacions.
 
-      * **Integrar sistemas ciberfísicos** en la nube y a lo largo de toda la cadena industrial: diseño, fabricación, distribución y uso.
+      * Integrar sistemes ciberfísics al núvol i al llarg de tota la cadena industrial: disseny, fabricació, distribució i ús.
 
-      * Desarrollar modelos dinámicos de datos y **sistemas de inteligencia** contextual para la automatización, la flexibilización y el control en tiempo real de procesos industriales y logísticos.
+      * **Desenvolupar models dinàmics de dades i sistemes d'intel·ligència** contextual per a l'automatització, la flexibilització i el control a temps real de processos industrials i logístics.
 
-      * Desarrollar sistemas a medida de **geolocalización** vía comunicación IoT satelital.
+      * Desenvolupar sistemes a mida de geolocalització via comunicació IoT satel·lital.
 
-      * **Crear redes** distribuidas seguras y eficientes que pueden combinar distintas tecnologías.
+      * Crear xarxes distribuïdes segures i eficients que poden combinar diferents tecnologies.
 
-      * Evaluar de forma dinámica el uso y la **gestión de recursos** (dispositivos y energéticos) para hacer un uso eficiente.
-
-
-      #### Nuestros servicios
+      * Avaluar de manera dinàmica l'ús i la gestió de recursos (dispositius i energètics) per fer-ne un ús eficient.
 
 
-      * Automatización de procesos industriales. Soluciones inteligentes para la optimización de líneas de producción y mejora del mantenimiento de equipos.
-
-      * Protocolos de comunicación seguros y eficientes para redes inalámbricas. Desarrollo de sistemas de conexión inalámbricos a medida que dan una respuesta eficiente a los retos de la fabricación y logística distribuida y flexible, a la vez que aseguran la protección de datos y de la propiedad industrial. 
-
-      * Sistemas de **posicionamiento locales y globales.** Desarrollos a medida mediante tecnologías de comunicación satelitales o de radio que permiten conectar activos y equipos industriales a nivel local y global.
-
-      * **Integración inteligente** de sistemas y aplicaciones tecnológicas en la industria 4.0. Desarrollos tecnológicos a medida para integrar equipos y plataformas digitales industriales que utilizan tecnologías heterogéneas.
-
-      * Optimización del uso y gestión de los recursos. Sistemas dinámicos de análisis de datos distribuidos que permiten medir el uso de los recursos en tiempo real y definir intervenciones para sacar el máximo rendimiento, hacer mantenimiento predictivo o reducir su **consumo energético.**
+      #### Els nostres serveis
 
 
-      #### Nuestro valor
+      * Automatització de processos industrials. Solucions intel·ligents per a l'optimització de línies de producció i millora del manteniment d'equipaments.
 
-        1. Hemos desarrollado **sistemas de mantenimiento predictivos** para el sector de la refrigeración                                                                    industrial.
+      * Protocols de comunicació segurs i eficients per a xarxes sense fils. Desenvolupament de sistemes de connexió sense fils a mesura que donen una resposta eficient als reptes de la fabricació i logística distribuïda i flexible, alhora que asseguren la protecció de dades i de la propietat industrial. 
 
-      2. Hemos creado SmartClocks, un protocolo de comunicación que permite la sincronización        automática de dispositivos en redes IoT sin necesidad de fuentes de tiempos externas (GPS) ni comunicaciones dedicadas, y que es **energéticamente eficiente.** 
+      * Sistemes de posicionament locals i globals. Desenvolupaments a mida mitjançant tecnologies de comunicació satel·litals o de ràdio que permeten connectar actius i equipaments industrials a escala local i global.
+
+      * Integració intel·ligent de sistemes i aplicacions tecnològiques en la indústria 4.0. Desenvolupaments tecnològics a mida per integrar equipaments i plataformes digitals industrials que fan ús de tecnologies heterogènies.
+
+      * Optimització de l'ús i gestió dels recursos. Sistemes dinàmics d'anàlisi de dades distribuïdes que permeten mesurar l'ús dels recursos en temps real i definir intervencions per tal de treure'n el màxim rendiment, fer manteniment predictiu o reduir el seu consum energètic.
 
 
+      #### El nostre valor
 
 
-      3. Hemos desarrollado la tecnología WILD, que detecta la humedad y la fuga de líquidos de forma automática en cadenas de producción, almacenes o espacios de construcción gracias a una **tecnología inalámbrica, de bajo coste y sin baterías.** 
+      1. #### Hem desenvolupat sistemes de manteniment predictius per al sector de la refrigeració industrial.
 
 
 
 
-      4. Hemos colaborado con la industria en el desarrollo de plataformas en abierto para facilitar la **automatización** de procesos industriales. 
+      2. Hem creat SmartClocks, un protocol de comunicació que permet la sincronització automàtica de dispositius en xarxes IoT sense necessitat de fonts de temps externes (GPS) ni comunicacions dedicades, i que és energèticament eficient. 
 
 
 
 
-      5. Desde el año 2000, el Internet Interdisciplinary Institute (IN3) es nuestro centro de referencia en I&I, y se dirige al desarrollo de **soluciones tecnológicas** arraigadas en la era digital y al estudio de internet y de los efectos de la interacción entre las tecnologías digitales y la actividad humana. 
+      3. Hem desenvolupat la tecnologia WILD, que detecta la humitat i la fuga de líquids de forma automàtica en cadenes de producció, magatzems o espais de construcció gràcies a una tecnologia sense fils, de baix cost i sense bateries. 
 
 
 
 
-      #### A quién se dirige
+      4. Hem col·laborat amb la indústria en el desenvolupament de plataformes en obert per facilitar l'automatització de processos industrials. 
 
 
-      Industrias, cualquier sector, con procesos de **diseño, fabricación y logística digital** automatizados o distribuidos.
 
 
-      Administraciones y otras organizaciones de servicio público que fomentan o despliegan intervenciones digitales de smart city
+      5. Des de l'any 2000, l'Internet Interdisciplinary Institute (IN3) és el nostre centre de referència en R&I, el qual està adreçat al desenvolupament de solucions tecnològiques arrelades en l'era digital i a l'estudi d'internet i dels efectes de la interacció entre les tecnologies digitals i l'activitat humana. 
+
+
+
+
+      #### A qui va dirigit
+
+
+      * #### Indústries, de qualsevol sector, amb processos de disseny, fabricació i logística digital automatitzats o distribuïts.
+
+      * #### Administracions i altres organitzacions de servei públic que fomenten o despleguen intervencions digitals de smart city.
     titol: SOBRE EL SERVEI
 grups_recerca:
   - id: "7702"
