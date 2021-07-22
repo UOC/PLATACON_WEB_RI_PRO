@@ -2,69 +2,69 @@
 title: "SALUD E INTERVENCIÓN SOCIAL "
 language: en
 general:
-  nom: "SALUD E INTERVENCIÓN SOCIAL "
-  text_breu: "Por una salud al alcance de todos. "
+  nom: "HEALTH AND SOCIAL INTERVENTION "
+  text_breu: "For health that is accessible to all. "
   img_background: /img/a_imatge_verda_sense_logo.jpg
   sector: eHealth
   keywords:
-    - value: Salud
-    - value: intervención social
-    - value: nutrición
-    - value: psicología
-    - value: logopedia
-    - value: educación social
+    - value: health
+    - value: social intervention
+    - value: nutrition
+    - value: psychology
+    - value: speech therapy
+    - value: social education
 about:
   - descripcio: >-
       
 
-      **Salud e intervención social**
+      **Health and Social Intervention**
 
 
-      La salud y la mejora de la calidad de vida de las personas que sufren dolencias es un reto social complejo que hay que abordar desde una perspectiva abierta con un conocimiento experto y con todas las herramientas a nuestro alcance. 
+      The health and improved **quality of life of people** suffering from illness is a complex social challenge that we must approach from an open perspective with expert knowledge and all the tools at our disposal. 
 
 
-      En la UOC disponemos de soluciones basadas en la investigación y la innovación con el objetivo final de generar un impacto positivo en la salud y la calidad de vida de todos los ciudadanos en ámbitos como la nutrición y los trastornos alimentarios, la psicología y la neurociencia cognitiva, la logopedia y los trastornos de lenguaje, o la gestión de situaciones críticas. También ofrecemos servicios de acción socioeducativa y práctica profesional de la educación social.
+      The UOC has research and innovation-based solutions whose ultimate aim is to make a positive impact on the health and quality of life of every member of the public in fields such as nutrition and eating disorders, psychology and cognitive neuroscience, speech therapy and language disorders, and the management of critical situations, among others. We also offer services relating to socio-educational action and the professional practice of social education.
 
 
-      **Nuestros servicios**
+      **Our services**
 
 
-      * Nutrición y trastornos alimentarios. Asesoramos en la definición de programas de alimentación saludable y actividad física, mediante el uso de la salud electrónica y las TIC, en especial para abordar las dolencias crónicas como el sobrepeso. También analizamos la evolución de los patrones y los comportamientos alimentarios desde una perspectiva sociocultural.
+      * Nutrition and eating disorders. We **provide advice** on the definition of healthy eating and physical activity programmes, using e-health and ICT, particularly for the purpose of addressing chronic disease such as overweight. We also analyse the evolution of eating patterns and behaviours from a sociocultural point of view.
 
-      * Neurociencia cognitiva. Asesoramos y ofrecemos apoyo metodológico en el diseño de intervenciones neuropsicológicas clínicas con técnicas de estimulación cerebral no invasivas. 
+      * Cognitive neuroscience. We provide advice and methodological support in the design of clinical neuropsychological interventions using non-invasive brain stimulation techniques. 
 
-      * Logopedia y trastornos del lenguaje. Asesoramos en la implementación de evidencias científicas en los modelos de intervención y detección precoz en el ámbito de la logopedia y en la estimulación para recuperación del lenguaje en niños con TEL.
+      * **Speech and language** therapy and language disorders. We provide advice on the practical application of scientific evidence in intervention and early detection models in the field of speech therapy and language recovery stimulation in children with SLI.
 
-      * Gestión de situaciones críticas. Asesoramiento en experiencias y gestión emocional del duelo así como el análisis del impacto de las nuevas tecnologías en este ámbito.
+      * **Critical situation** management. We provide advice on experiences and emotional management of grief, as well as analysing the impact of new technologies in this area.
 
-      * Redes inclusivas de asistencia. Desarrollamos metodologías de participación inclusivas para el diseño de tecnologías, servicios y políticas de cuidado. También realizamos estudios sobre nuevas formas de acción colectiva y apoyo social en el campo del envejecimiento, la discapacidad y las dolencias crónicas.
+      * **Inclusive care networks**. We develop inclusive participation methods for the design of care policies, services and technologies. We also conduct studies on new forms of group action and social support in the fields of ageing, disability and chronic illness.
 
-      * Psicología jurídica. Asesoramiento y formación en materia de prevención e intervención en ámbitos afines a la psicología jurídica tanto en empresas privadas como públicas.
+      * **Legal psychology.** We provide prevention and intervention advice and training on fields linked to legal psychology for both private and public enterprises.
 
-      * Intervención social. Diseñamos modelos de acción socioeducativa y ofrecemos asesoramiento y consultoría para el desarrollo profesional de la educación social.
-
-
-      **Nuestro valor**
+      * **Social intervention.** We design socio-educational action models and provide advice and consultancy services for professional development in social education.
 
 
-      1. En la UOC aportamos al sistema sociosanitario la experiencia de profesionales especializados, herramientas y aplicaciones basadas en las tecnologías de la información y la comunicación (TIC) para mejorar la calidad de vida de las personas y facilitar el trabajo de la comunidad médico-científica.
-
-      2. Disponemos de grupos de investigación vinculados a los Estudios de Salud y de Psicología y Ciencias de la Educación en varios ámbitos que procuran la mejora del sistema sanitario, de los profesionales y del bienestar de las personas.
-
-      3. El eHealth Center, un centro académico abierto al mundo que tiene como objetivo educar y capacitar a los profesionales y ciudadanos comunes, mediante el uso de tecnologías, para liderar el cambio de paradigma en salud. Centrado en las personas, mediante la investigación, la educación y la orientación, para contribuir al progreso y al bienestar de la sociedad.
+      **Our value**
 
 
-      **A quién se dirige**
+      1. The UOC brings the experience of specialist professionals, tools and applications based on Information and Communication Technologies (ICTs) to the social and healthcare system to improve people's quality of life and facilitate the medical and scientific community's work.
+
+      2. We have Research Groups linked to the Faculties of Health Sciences and Psychology and Education Sciences in a variety of fields that work to improve the healthcare system, its professionals and people's well-being.
+
+      3.  The eHealth Center, an academic centre open to the world whose aim is to educate and train both ordinary citizens and professionals through technology in order to lead the paradigm shift in health. People-centred and using research, education and guidance to contribute to society's progress and well-being.
 
 
-      * Empresas, instituciones y centros en toda la cadena de valor del sector sociosanitario.
+      **Who is it aimed at?**
 
-      * Ciudadanos y personas que sufren varias dolencias o quieren mejorar su bienestar.
 
-      * Administraciones vinculadas a la acción y el desarrollo de la política socioeducativa.
+      * **Companies, institutions and centres** at every stage of the social and healthcare value chain.
 
-      * Profesionales de la educación social.
-    titol: Sobre el Servicio
+      * **The general public** and people suffering from a variety of diseases or wishing to improve their well-being.
+
+      * **Public administrations** linked to action and the development of socio-educational policy.
+
+      * Professionals in the field of social education
+    titol: Our Service
 grups_recerca:
   - id: "3502"
     name: eHealth Lab
