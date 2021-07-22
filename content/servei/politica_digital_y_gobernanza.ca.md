@@ -2,7 +2,7 @@
 title: POLÍTICA DIGITAL Y GOBERNANZA
 language: ca
 general:
-  nom: POLÍTICA DIGITAL Y GOBERNANZA
+  nom: POLÍTICA DIGITAL I GOVERNANÇA
   text_breu: Fem de la tecnologia la millor aliada de la política social.
   img_background: /img/a_imatge_verda_sense_logo.jpg
   sector: Dret i governança
