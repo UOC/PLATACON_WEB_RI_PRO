@@ -68,7 +68,7 @@ about:
       * #### Public administrations and other organizations wishing to carry out participatory processes. 
 
       * #### Non-profit organizations and business associations wishing to promote specific policies and initiatives.
-    titol: The Service
+    titol: Our Service
 grups_recerca:
   - id: "7402"
     name: CNSC
