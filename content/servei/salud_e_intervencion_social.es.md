@@ -6,6 +6,14 @@ general:
   text_breu: "Por una salud al alcance de todos. "
   sector: Salud - eHealth
   img_background: /img/a_imatge_verda_sense_logo.jpg
+  keywords:
+    - value: Salud
+    - value: " intervención social "
+    - value: nutrición
+    - value: psicología
+    - value: logopedia
+    - value: educación social
+  xarxes: []
 about:
   - descripcio: >-
       
