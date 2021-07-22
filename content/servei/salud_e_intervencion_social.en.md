@@ -1,5 +1,5 @@
 ---
-title: "SALUD E INTERVENCIÓN SOCIAL "
+title: "HEALTH AND SOCIAL INTERVENTION  "
 language: en
 general:
   nom: "HEALTH AND SOCIAL INTERVENTION "
