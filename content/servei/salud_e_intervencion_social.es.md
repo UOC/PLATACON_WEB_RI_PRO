@@ -97,6 +97,11 @@ grups_recerca:
     description: Laboratori d'Educació Social
     url: https://transfer.research.uoc.edu/ca/les.html
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/56/image/1594104732405
+  - id: "3202"
+    name: Cognitive NeuroLab
+    description: Cognitive NeuroLab
+    url: https://transfer.research.uoc.edu/ca/cognitive-neurolab.html
+    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/32/image/1594190753763
 contacte:
   - text: "Knowledge Transfer & Entrepreneurship "
     email: " transfer_ari@uoc.edu     "
