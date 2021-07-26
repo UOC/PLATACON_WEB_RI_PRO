@@ -34,19 +34,7 @@ about:
 
        **Aquesta tecnologia també es pot combinar** amb un mecanisme de salt de canal per millorar la robustesa de la xarxa enfront dels efectes negatius de la propagació multicamí i de les interferències, fet que incrementa encara més la millora de l’eficiència energètica.
 
-
-
-
-
-
-
-
-
-
-
-
-
-      ![](/img/logo_accio_petit.jpg)
+      ![]()
 
 
       <!--EndFragment-->
