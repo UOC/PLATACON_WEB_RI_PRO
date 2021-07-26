@@ -3,73 +3,61 @@ title: HSS-Hybrid Self-Scheduled Protocol
 language: en
 general:
   nom: HSS-Hybrid Self-Scheduled Protocol
-  slogan: Allow your IoT network perform with energy savings of up to 99%, even
-    with a dynamic configuration and bursty data traffic.
-  img_background: /img/hss_imatge_repetidor.png
+  slogan: Is your IoT network efficient enough?
+  img_background: /img/imagen_hss.jpeg
   sector: Industry 4.0
   centre: Estuids
+  text_breu: METHOD AND APPARATUS FOR SENDING AND RECEIVING DATA IN A MACHINE TO
+    MACHINE WIRELESS NETWORK
+  keywords:
+    - value: IoT
+    - value: wireless networks
+    - value: sensor networks (WSNs)
 about:
   - titol: HSS-Hybrid_en
     descripcio: >-
-      **Patent no. PCT/EP2013/061296**
+      Patent nº.: EP 3005739 B1 / ES 2742029T3 / DE 60 2013 055 400.5 / EP (GB)
+      3005739 / US 10,142,765 Priority date: 31/05/2013
+
+       HSS **consists of a media access control** (MAC) protocol that takes advantage of the benefits of wireless sensor networks (WSNs) and of radio-frequency identification (RFID) with a deterministic access of the TDMA (time-division multiple access) type with distributed queuing (DQ) and channel hopping (CH). 
+
+      **HSS technology improves on the media access management** available with current protocols. Specifically, the communication system is based on time intervals with the incorporation of two queues for packet management: one for data transmission and the other to avoid collisions.
 
 
-      Priority date: 31/05/13
+      **These queues are virtual and distributed** among all the nodes that form the network, that is, each node of the network knows the current size of the queues and its relative position in each one of them. 
 
 
+      Accordingly, **in addition to the typical data transmission queue,** the nodes use the second queue to solve collision problems: 
 
 
-      <!--StartFragment-->
+      **the nodes are ordered such that in the next time interval** they will only solve the collisions of the first node in the queue, substantially reducing the number of collisions and, therefore, improving the efficiency of the system.
 
+       **Moreover, the fact that the queues are distributed** allows for node mobility without having to support the additional costs of creating and distributing the planning of communications every time there is a change in the configuration of the network. 
 
-      HSS is a novel, low-power hybrid MAC for sending and receiving data in a wireless M2M communication network. In order to prevent collisions when sending data transmissions, nodes are organized in a distributed queuing system with two separate queues. This queuing system simplifies the network coordinator node’s task, saving infrastructure for creation and distribution of transmission planning.
-
-
-      HSS also incorporates a channel-hopping mechanism to reduce the effects of multipath propagation and interference from adjacent networks.
-
-
-      HSS is able to dynamically build and update a network schedule, achieving efficiencies of up to 99%. HSS performance is independent from the number of nodes in the network. Furthermore, it is up to 20% more energy efficient than other random-access protocols, such as Frame Slotted ALOHA (FSA).
-
-
-      HSS is the perfect alternative for data collection scenarios where the traffic is bursty and the number of nodes is dynamic.
-
-
-      HSS provides the following advantages:
-
-
-      * Increases network efficiency by up to 99% due to the elimination of data packet collisions, by distributing nodes in a double queuing system
-
-      * Saves on infrastructure in dynamic node networks as no planning mechanism is needed
-
-      * Network efficiency does not depend on the number of nodes in the network
-
-      * Reduces energy consumption compared to current random network MAC protocols
-
-      * Counteracts the effects of multipath propagation and neighbouring network interferences with a frequency-hopping mechanism
-
-
-      HSS technology is protected by the “Method and apparatus for sending and receiving data in a machine-to-machine wireless network” international patent application.
-
-
-      <!--EndFragment-->
-
-
-
-
-      <!--StartFragment-->
-
-
-      ***Supported by [ACCIÓ – Agency for Business Competitiveness](http://catalonia.com/)***
-
-
-      ![](/img/logo_accio_petit.jpg)
-
-
-      <!--EndFragment-->
+      **This technology can also be combined with a channel** hopping mechanism to improve the robustness of the network in relation to the negative effects of multipath propagation and interferences, further improving energy efficiency.
     video_list:
       - video: Z5bsHSRziV4
     docs_rels:
       - file: /img/brochure_hss_hybrid.pdf
+aspectes_innovadors:
+  - descripcio: >-
+      HSS offers **the following advantages:** 
+
+
+      \- Increases network **efficiency by up to 99%** due to the elimination of data packet collisions by distributing nodes in a double queueing system 
+
+
+      \- **Saves on infrastructure in dynamic** node networks as no planning mechanism is needed 
+
+
+      \- Network **efficiency does not depend** on the number of nodes in the network
+
+
+      \- Reduces **energy consumption compared** to current random network MAC protocols 
+
+
+      \- **Counteracts the effects of multipath** propagation and neighbouring networks' interference thanks to its frequency hopping mechanism
+    titol: HSS_Hybrid_aspects 
 aplicacions:
   - titol: HSS-Hybrid_applications
     descripcio: >-
@@ -98,6 +86,12 @@ aplicacions:
 
 
       <!--EndFragment-->
+grups_recerca:
+  - id: "7702"
+    name: WINE
+    description: Wireless Networks Research Lab
+    url: https://transfer.research.uoc.edu/ca/wine.html
+    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/77/image/1594216262171
 investigadors:
   - id: "42075402"
     name: Vilajosana Guillén, Xavier
