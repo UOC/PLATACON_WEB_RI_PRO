@@ -97,6 +97,10 @@ investigadors:
     name: Vilajosana Guillén, Xavier
     url: https://talent.uoc.edu/ca/xavier-vilajosana-guillen.html
     url_img: https://talent.uoc.edu/img/api/pdi/420754/image/1588231887989
+  - id: "53782102"
+    name: Tuset Peiró, Pere
+    url: https://talent.uoc.edu/ca/pere-tuset-peiro.html
+    url_img: https://talent.uoc.edu/img/api/pdi/537821/image/1621239903960
 contacte:
   - text: Knowledge, Transfer & Entrepreneurship
     email: "transfer_ari@uoc.edu "
