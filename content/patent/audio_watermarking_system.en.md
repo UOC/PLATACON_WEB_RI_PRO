@@ -3,111 +3,101 @@ title: Audio Watermarking System
 language: en
 general:
   nom: Audio Watermarking System
-  slogan: New audio watermarking system for advertising and content protection. A
-    robust tool for protecting, synchronizing and monitoring broadcasted
-    content, improving security, customer engagement and analytics.
-  img_background: /img/audio_watermarking_imatge.jpg
+  slogan: Audio marking system for advertising and reliable content protection
+    even in extreme conditions
+  img_background: /img/imagen_audiowatermarking_1.jpeg
   sector: Industry 4.0
   centre: IN3
+  text_breu: MÉTODO Y APARATO PARA INCRUSTAR Y EXTRAER MARCAS DE AGUA EN UNA SEÑAL
+    DE AUDIO
+  logo: /img/audio_watermarking_imatge.jpg
+  keywords:
+    - value: ICT
+    - value: cyber security
+    - value: smart cities
+    - value: advertising
+    - value: watermark
 about:
   - titol: Audio watermarking_eng
     descripcio: >-
-      <!--StartFragment-->
+      Patent no.: EP 3078024 / ES 2710518T3 / DE 60 2013 046 389.1 /
+      EP(GB)3078024 / US 9,978,382 Priority date: 28/11/2013 
 
 
-      **Patent nº. PCT/EP2013/074971**  
+      Audio Watermarking technology c**onsists of a system for the embedding** and subsequent extraction of audio watermarks in real time for portable devices (smartphone, tablet or computer).
+
+       A watermark contains **unique identifiers of both the portion** of the audio part from which the mark was extracted and the distribution source to which the content can be credited. 
+
+      The technology makes it possible to hide information that is imperceptible to the human ear in audio signals. This information **can be extracted with a smartphone** or tablet. 
 
 
-      **Patent nº. US 15/039,666** 
-
-
-      **Patent nº. EP13799269**
-
-
-      Priority date: 28/11/13
-
-
-      An audio watermark is a sequence of bits embedded in a streamed audio signal (TV, radio or internet). They are imperceptible to the human senses and are only picked up by devices such as smartphones or tablets. A watermark contains unique identifiers of both the portion of the audio from which the mark was extracted and the distribution source to which the content can be credited.
-
-
-      We have come up with a solution with **two innovative aspects**: first, the use of the Fourier domain, and second, the use of the time and frequency domains during the embedding.
-
-
-      Our system has the following **advantages**:
-
-
-      1. Real-time recovery of embedded watermarks even at distances over 6 metres from the audio transmitter (other state-of-the-art applications can only recover at distances up to 1.5 metres).
-
-      2. High fidelity and robust recovery even under very difficult conditions, overcoming broadcasting distortions and background noise.
-
-      3. Better time synchronization between emitter and receiver, so the hidden content reaches its target at the right time.
-
-      4. High capacity (over 1000 bits per second).
-
-      5. No internet access needed for users to run the system.
-
-
-      <!--EndFragment-->
-
-
-      <!--StartFragment-->
-
-
-      ***Supported by[ACCIÓ – Agency for Business Competitiveness](http://catalonia.com/)***
-
-
-      ![](/img/logo_accio_petit.jpg)
-
-
-      <!--EndFragment-->
+      The system developed includes two parts: the watermark embedding system implemented in a standard computer and a **watermark extraction system** in mobile devices and tablets.
     video_list:
       - video: hlrFaaRyDrA
     docs_rels:
       - file: /img/brochure_-_audiowatermarking_system.pdf
+      - file: /img/imagen_audiowatermarking_2.png
 aspectes_innovadors:
   - titol: Audio watermrking_innovation
     descripcio: >-
-      <!--StartFragment-->
+      What **sets Audio Watermarking** aside from other systems is that its
+      embedding is done in the frequency domain (Fourier). 
 
 
-      * Media analytics 
+      Moreover, a resynchronization mark is periodically inserted into the frequency domain.
 
-      * Audience measurements and broadcasting monitoring. 
+       The **third element that the technology incorporates** is a time synchronization signal. Its advantages are as follows: 
 
-      * Measure campaign effectiveness. 
-
-      * Consumer analytics on broadcasting, video on demand or even internet distribution. TV advertising 
-
-      * Connection of TV broadcasts with mobile apps to increase viewer engagement. 
-
-      * Synchronize ads in real time on second screens when a programme or ad is on air. Digital security 
-
-      * Digital rights management (DRM) for video or music on demand. 
-
-      * Another layer of security to detect counterfeiting and piracy. 
-
-      * Authentication and confirmation of genuine content.
+      \- **Real-time recovery of embedded watermarks** even at distances over six metres from the audio transmitter (other latest-generation apps can only recover up to a distance of 1.5 metres).
 
 
-      <!--EndFragment-->
+      \- **High fidelity and effective recovery** even in adverse conditions, overcoming transmission distortions and background noise. - Better time synchronization between emitter and receiver, in such a way that the hidden content reaches the target at the right time
+
+
+      . - **High capacity** (over 1000 bits per second).
+
+
+      \- No internet **access needed** for users to run the system.
 aplicacions:
   - titol: Audio watermarking_applications
     descripcio: >-
-      <!--StartFragment-->
+      Audio Watermarking can have numerous applications, such as marking the
+      authorship of digital content or the inclusion of advertising in the audio
+      signal. 
 
 
-      This patent is aimed at the Information and Communication Technology sector. 
+      **Specifically:**
+
+       Media analytics: 
+
+      \- Audience **measurements and broadcasting** monitoring 
 
 
-      The types of company in which it could be used are: 
+      \- Campaign effectiveness measurement
 
 
-      * Technology providers operating in the audiovisual sector. 
-
-      * Broadcasters.
+      \- **Consumer analytics** on broadcasting, video on demand and even internet distribution Digital security: 
 
 
-      <!--EndFragment-->
+      \- Digital rights **management for video** on demand and music
+
+
+      \- Another layer of security to detect counterfeiting and piracy 
+
+
+      \- Authentication and **confirmation of genuine** content Multimedia advertising:
+
+
+      \- **Connection of television** broadcasts with mobile apps to increase viewer engagement
+
+
+      \- Synchronization with advertising **in real time on second screens** when a programme or advertisement is on air
+grups_recerca:
+  - id: "2602"
+    name: KISON
+    description: K-riptography and Information Security for Open Networks
+    url: https://transfer.research.uoc.edu/ca/kison.html
+    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/26/image/1594286715997
 investigadors:
   - id: "22479602"
     name: Megías Jiménez, David
