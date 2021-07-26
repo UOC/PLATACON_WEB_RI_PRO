@@ -3,111 +3,113 @@ title: Audio Watermarking System
 language: ca
 general:
   nom: Audio Watermarking System
-  text_breu: ""
-  slogan: Nou sistema de marcatge d’àudio per a publicitat i protecció de
-    continguts. Una eina eficaç per a protegir, sincronitzar i controlar el
-    contingut emès, que millora la seguretat, la participació del client i
-    l’anàlisi.
-  img_background: /img/audio_watermarking_imatge.jpg
+  text_breu: MÉTODO Y APARATO PARA INCRUSTAR Y EXTRAER MARCAS DE AGUA EN UNA SEÑAL
+    DE AUDIO
+  slogan: Sistema de marcatge d'àudio per a publicitat i protecció de continguts
+    fiable fins i tot en condicions extremes
+  img_background: /img/imagen_audiowatermarking_1.jpeg
   sector: Indústria 4.0
   centre: IN3
+  logo: /img/audio_watermarking_imatge.jpg
+  keywords:
+    - value: TIC
+    - value: ciberseguretat
+    - value: smart cities
+    - value: marca d'aigua
+    - value: publicitat
 about:
   - titol: Audio watermarking_cat
     descripcio: >-
-      <!--StartFragment-->
+      Patent núm.:EP 3078024 / ES 2710518T3 / DE 60 2013 046 389.1 /
+      EP(GB)3078024 / US 9,978,382 Data de prioritat: 28/11/2013
 
+       La tecnologia **Audio Watermarking consisteix** en un sistema d'incrustació i posterior extracció de  marques d'aigua d'àudio i en temps real per a dispositius lleugers (smartphone, tauleta o ordinador). 
 
-      **Patent nº. PCT/EP2013/074971**
+      Una **marca d’aigua conté identificadors únics** tant de la part d’àudio d’on s’ha extret la marca com de la font de distribució en què es pot acreditar el contingut. La tecnologia permet amagar informació imperceptible per a l’oïda humana en senyals d’àudio.
 
+       Aquesta informació pot ser extreta amb un **telèfon mòbil intel·ligent o una tauleta**.
 
-      **Patent nº. US 15/039,666**
-
-
-      **Patent nº. EP13799269**
-
-
-      Data de prioritat: 28/11/13
-
-
-      Una marca d’aigua d’àudio és una seqüència de bits incrustats en un senyal d’àudio transmès (televisió, ràdio o internet). Són imperceptibles per als sentits humans i només poden ser detectats per dispositius com ara telèfons intel·ligents o tauletes. Una marca d’aigua conté identificadors únics tant de la part d’àudio d’on s’ha extret la marca com de la font de distribució en què es pot acreditar el contingut.
-
-
-      La solució que hem trobat té dos aspectes innovadors: primer, l’ús del domini de Fourier, i segon, l’ús del domini de temps i de freqüència durant la incrustació.
-
-
-      El nostre sistema té els avantatges següents:
-
-
-      1. Recuperació en temps real de marques d’aigua incrustades fins i tot a distàncies superiors a sis metres del transmissor d’àudio (altres aplicacions d’última generació només poden recuperar fins a una distància d’1,5 metres).
-
-      2. Alta fidelitat i recuperació eficaç fins i tot en condicions adverses, que permeten superar les distorsions de transmissió i el soroll de fons.
-
-      3. Una millor sincronització de temps entre emissor i receptor, de manera que el contingut ocult arriba a l’objectiu en el temps previst.
-
-      4. Alta capacitat (més de 1.000 bits per segon).
-
-      5. No cal accés a internet perquè els usuaris executin el sistema.
+       El sistema desenvolupat inclou dues peces: d'una banda, tenim el sistema **d'incrustació de la marca** d’aigua implementat en un ordinador estàndard i, de l’altra, un **sistema d'extracció de la marca** en dispositius mòbils i tauletes.
 
 
 
 
 
 
-      \*Amb el suport d’**[ACCIÓ - Agència per la Competitivitat de l’Empresa (Generalitat de Catalunya)](http://www.accio.gencat.cat/ca/inici)***
 
 
-      ![](/img/logo_accio_petit.jpg)
 
-
-      <!--EndFragment-->
+      ![](/img/imagen_audiowatermarking_2.png)
     docs_rels:
-      - file: /img/brochure_-_audiowatermarking_system.pdf
+      - file: /img/fitxa_audiowatermarking.pdf
     video_list:
       - video: hlrFaaRyDrA
 aspectes_innovadors:
   - titol: Audio watermarking_aspectes
     descripcio: >-
-      <!--StartFragment-->
+      El que fa diferent **Audio Watermarking d’altres ja coneguts** és que la
+      incrustació es fa en el domini freqüencial (Fourier).
+
+       A més, periòdicament s'insereix una marca de resincronització en el domini freqüencial. 
+
+      El tercer element que incorpora la tecnologia és un senyal de sincronització en el temps. 
 
 
-      * Anàlisi de mitjans 
-
-      * Mesures d’audiència i control d’emissions. 
-
-      * Mesura d’efectivitat de campanyes. 
-
-      * Anàlisi del consumidor en transmissions, vídeo segons demanda o fins i tot distribució a internet. Publicitat televisiva 
-
-      * Connexió d’emissions televisives amb aplicacions mòbils per a augmentar la participació de l’espectador. 
-
-      * Sincronització d’anuncis en temps real en segones pantalles quan un programa o anunci s’està emetent. Seguretat digital 
-
-      * Gestió de drets digitals per a vídeo o música segons demanda. 
-
-      * Una capa més de seguretat per a detectar falsificacions i pirateria. 
-
-      * Autenticació i confirmació de contingut original.
+      Els avantatges que **aporta són els següents:** 
 
 
-      <!--EndFragment-->
+      \-**Recuperació en temps real de marques d’aigua incrustades** fins i tot a distàncies superiors a sis metres del transmissor d’àudio (altres aplicacions d’última generació només poden recuperar fins a una distància d’1,5 metres).
+
+
+      \-Alta **fidelitat i recuperació eficaç** fins i tot en condicions adverses, que permeten superar les distorsions de transmissió i el soroll de fons. 
+
+
+      \-Una **millor sincronització de temps entre emissor i receptor**, de manera que el contingut ocult arriba a l’objectiu en el temps previst. 
+
+
+      \-**Alta capacitat** (més de 1.000 bits per segon). 
+
+
+      \-No cal accés a internet perquè els **usuaris executin el sistema**.
 aplicacions:
   - titol: Audio watermarking_aplicacions
     descripcio: >-
-      <!--StartFragment-->
+      Audio Watermarking pot tenir **nombroses aplicacions**, com ara el
+      marcatge de l’autoria de continguts digitals o la inclusió de publicitat
+      al senyal d’àudio.
+
+       En concret:
+
+       Anàlisi de **mitjans de comunicació:** 
+
+      \- Mesures **d’audiència i seguiment** de radiodifusió. 
 
 
-      Aquesta patent està adreçada al sector de les tecnologies de la informació i la comunicació. 
+      \- Mesures de **l'eficàcia de campanyes.** 
 
 
-      Els tipus d’empresa en què es pot utilitzar són: 
+      \-Anàlisi del consumidor sobre difusió, vídeo a la carta o fins i tot distribució per internet. 
 
 
-      * Proveïdors de tecnologia per al sector audiovisual. 
-
-      * Radiodifusió.
+      **Seguretat digital:**
 
 
-      <!--EndFragment-->
+      \- Gestió de drets digitals sobre vídeo a la carta o música. 
+
+
+      \- Increment de la seguretat per detectar la falsificació i la pirateria. 
+
+
+      \- Autenticació i confirmació de contingut genuí. 
+
+
+      **Publicitat multimèdia:** 
+
+
+      \- Connexió **d’emissions de televisió amb aplicacions mòbils** per augmentar la interacció dels espectadors. 
+
+
+      \-**Sincronització amb publicitat** en temps real a les segones pantalles quan un programa o anunci està en antena.
 grups_recerca:
   - id: "2602"
     name: KISON
