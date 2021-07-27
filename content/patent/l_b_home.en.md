@@ -7,73 +7,91 @@ general:
   sector: Education - eLearning
   centre: Estuids
   logo: /img/logo_labhome.png
+  text_breu: DISPOSITIU PER AL MUNTATGE I LA MESURA D'ALMENYS UN CIRCUIT
+    ELECTRÒNIC I PROCEDIMENT, PROGRAMA INFORMÀTIC, SISTEMA I SISTEMA INFORMÀTIC
+    PER CONTROLAR EL DISPOSITIU
+  slogan: Lab@Home, your electronics laboratory at home.
+  keywords:
+    - value: Electronics laboratory
+    - value: e-learning
 about:
   - titol: L@b Home_en
     descripcio: >-
-      **Patent no. U201230432**
+      Patent nº.: ES2636650 B1 Priority date: 04/05/2016 Lab@Home is a platform
+      developed for the teaching of basic analogue electronics skills. 
 
 
-      Priority date: 23/04/12
+      This **tool allows electronics** students to learn hands-on about the design and assembly of electronic circuits and the use of the signal generation devices found in an electronics laboratory.
+
+       The platform consists of **the following elements**:
+
+      \- Power supply module, with two switched-mode power supplies and numerous linear regulators, **connected to the power supply.** 
 
 
+      \- A microcontroller, with two analogue input channels and an analogue output channel, with connection to the computer and the power supply module.
 
 
-      <!--StartFragment-->
+      \- A memory connected to the **microcontroller.** 
 
 
-      This innovation refers to an assembly and measurement system and has applications in the circuit electronics technical sector. An example of its application are electronic circuits, which are assembled in teaching laboratories to study different devices and assemblies.\
-
-      More specifically, the system is a hardware platform that, when connected to a PC, offers the functions of a traditional electronics laboratory at a low cost: circuit assembly, testing, use of signal measurement or acquisition procedures, etc.\
-
-      This platform presents the following elements:
+      \- A **signal generation** module connected to the analogue output channel of the microcontroller and to the user module.
 
 
-      * power module, with two switched sources and a multiplicity of linear regulators, connected to the feeder;
-
-      * a micro-controller, with two analogue input channels and one analogue output channel, with connection to the computer and the power module;
-
-      * a memory connected to the micro-controller;
-
-      * a signal generation module connected to the analogue output channel of the micro-controller and to the user module;
-
-      * a signal capture module connected to the two analogue input channels of the micro-controller and to the user module;
-
-      * a user module with an insertion circuit board that allows the user to assemble electronic circuits and with connections to the signal capture module, the signal generation module and the power module.
+      \- A signal capturing **module connected** to the two analogue input channels of the microcontroller and to the user module. 
 
 
-      This system constitutes an advance in electronic circuit assembly and measurement systems for the academic sphere. The advantages offered by this equipment are:
-
-
-      1. It satisfactorily solves the existing problem relating to the compulsory nature of combining external elements for measurements or other functions.
-
-      2. Reduced cost: existing equipment today has a cost that prohibits its use in educational institutions.
-
-      3. It avoids the restrictions posed by the compulsory nature of proprietary software.
-
-      4. It allows student mobility due to its small size.
-
-
-      <!--EndFragment-->
+      \- A user module with a breadboard to allow the user to assemble electronic circuits with connections to the signal capturing module, the signal generation module and the power supply module. This system is a step forward in electronic circuit assembly and measuring systems for academic use.
 aspectes_innovadors:
   - titol: L@b Home_innovation
     descripcio: >-
-      <!--StartFragment-->
+      Lab@Home **is hardware that integrates** the basic elements of an
+      electronics laboratory on a single, small-scale, low-cost board: 
 
 
-      The utility model consists of a low-cost portable analogue electronics laboratory. It can, then, be applied to the online learning of the basic electronics skills (design and assembly of electronic circuits and the use of the signal generation apparatus of an electronics laboratory) that are acquired in on-site education. In addition, its autonomy enables on-site teaching to optimize laboratory practice time, which means it can be tailored to students' different learning paces.
+      \- protoboard upon **which to assemble the circuits** 
 
 
-      <!--EndFragment-->
+      \- power sources 
+
+
+      \- **measuring devices** (function generator and digital oscilloscope) 
+
+
+      \- manually variable **switching and behaviour components** (switch, push-button and multiturn potentiometer) 
+
+
+      Moreover, the **computer software control** of the functionalities of the measuring devices included on the board is independent of the programming language or software platform to be used.
 aplicacions:
   - titol: L@b Home_applications
     descripcio: >-
-      <!--StartFragment-->
+      This device is a portable, **low-cost analogue electronics** laboratory. 
 
 
-      Lab@Home is aimed at the education sector. It is designed for educational institutions that teach analogue and digital electronics content, including vocational training schools, secondary schools and universities.
+      It can therefore be applied to the online learning of the basic electronics competencies (design and assembly of electronic circuits, and **the use of laboratory signal** generation and measuring devices) normally acquired in classroom-based teaching. 
 
 
-      <!--EndFragment-->
+      **Thanks to its autonomy** it can also be used in the classroom to optimize laboratory practicals, as it enables teaching to be adapted to the various paces at which students learn.
+investigadors:
+  - id: "58351202"
+    name: Cobo Rodríguez, Germán
+    url: https://talent.uoc.edu/ca/german-cobo-rodriguez.html
+    url_img: https://talent.uoc.edu/img/api/pdi/583512/image/1588846666246
+  - id: "39935402"
+    name: Morán Moreno, Jose Antonio
+    url: https://talent.uoc.edu/ca/jose-antonio-moran-moreno.html
+    url_img: https://talent.uoc.edu/img/api/pdi/399354/image/1588847742038
+  - id: "7000061102"
+    name: Santamaria Pérez, Eugènia
+    url: https://talent.uoc.edu/ca/eugenia-santamaria-perez.html
+    url_img: https://talent.uoc.edu/img/api/pdi/70000611/image/1588849761330
+  - id: "58225002"
+    name: García Solórzano, David
+    url: https://talent.uoc.edu/ca/david-garcia-solorzano.html
+    url_img: https://talent.uoc.edu/img/api/pdi/582250/image/1588860613822
+  - id: "64697402"
+    name: Monzo Sánchez, Carlos Manuel
+    url: https://talent.uoc.edu/ca/carlos-manuel-monzo-sanchez.html
+    url_img: https://talent.uoc.edu/img/api/pdi/646974/image/1588861497239
 contacte:
   - text: Knowledge, Transfer & Entrepreneurship
     email: "transfer_ari@uoc.edu "
