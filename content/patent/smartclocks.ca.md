@@ -3,12 +3,11 @@ title: SMARTCLOCKS
 language: ca
 general:
   nom: SMARTCLOCKS
-  slogan: Fes que les teves xarxes IoT estiguin perfectament sincronitzades
-    eliminant fonts de temps externes (GPS) i comunicacions dedicades a la
-    sincronització
+  slogan: La vostra xarxa IoT està sincronitzada?
   img_background: /img/logo_petit_smartclock.jpg
   sector: Indústria 4.0
   centre: Estuids
+  text_breu: DRIFT CORRECTION IN A WIRELESS NETWORK
 about:
   - titol: Smartclocks_cat
     descripcio: >-
