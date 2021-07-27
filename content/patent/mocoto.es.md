@@ -29,7 +29,7 @@ about:
        De esta manera el profesional de la visión podrá **acceder a los datos del paciente** y actualizarlos de manera cómoda y fácil.
     docs_rels:
       - file: /img/fitxa-mocoto.pdf
-    titol: MOLOCO
+    titol: MOLOCO_es
 aspectes_innovadors:
   - descripcio: >-
       \-Incrementa la **accesibilidad a topografías** corneales y las puede
