@@ -33,7 +33,7 @@ about:
       D'aquesta **manera el professional de la visió** podrà accedir a les dades del pacient i actualitzar-les de manera còmoda i fàcil.
     docs_rels:
       - file: /img/fitxa-mocoto_cat_.pdf
-    titol: Mocoto_descripcio
+    titol: Mocoto_ca
 aspectes_innovadors:
   - descripcio: >-
       \-Incrementa **l'accessibilitat a topografies corneals** i les pot
