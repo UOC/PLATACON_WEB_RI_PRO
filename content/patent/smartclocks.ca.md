@@ -4,86 +4,110 @@ language: ca
 general:
   nom: SMARTCLOCKS
   slogan: La vostra xarxa IoT està sincronitzada?
-  img_background: /img/logo_petit_smartclock.jpg
+  img_background: /img/imagen_smartclocks.jpeg
   sector: Indústria 4.0
   centre: Estuids
   text_breu: DRIFT CORRECTION IN A WIRELESS NETWORK
+  keywords:
+    - value: xarxes sense fils
+    - value: baix consum
+    - value: " sincronització"
+    - value: baix cost
+    - value: IoT
 about:
   - titol: Smartclocks_cat
     descripcio: >-
-      <!--StartFragment-->
+      Sol·licitud de patent núm.: PCT/EP2016/067541 / US 16/318,111 /
+      EP16745086.5 Data de prioritat: 22/07/2016
 
+       **SMARTCLOCKS és un mètode de baix cost** i de baix consum energètic que ajusta els rellotges dels dispositius sense fils per garantir una millor precisió de la sincronització (fins a deu vegades superior a les actuals solucions d’alta precisió) i **fins a un 30 % menys de consum d’energia.** 
 
-      **Patent nº. PCT/EP2016/067541**
-
-
-      Data de prioritat: 22/07/16
-
-
-      SMARTCLOCKS és un nou mètode, de baix cost i de baix consum energètic que ajusta els rellotges dels dispositius sense fils per a garantir una millor precisió de la sincronització —fins a deu vegades superior a les actuals solucions d’alta precisió— i també un 30% menys de consum d’energia.
-
-
-      SMARTCLOCKS té la capacitat d’ajustar el rellotge a una referència amb una compensació de deriva basada en la caracterització tèrmica del dispositiu. El mecanisme es basa en el reajustament esporàdic del rellotge a font de referència temporal combinat amb la predicció adaptativa de l’índex de deriva i la compensació automàtica mitjançant dues taules de correcció.
-
-
-      SMARTCLOCKS manté una sincronització molt precisa sense cap font de temps externa ni comunicacions dedicades per a sincronitzar dispositius.
-
-
-      SMARTCLOCKS és la solució perfecta per a escenaris de recopilació de dades en què són essencials una sincronització precisa i la reducció del consum energètic.
-
-
-      SMARTCLOCKS ofereix els avantatges següents:
-
-
-      * És fins a 10 vegades més precís que les actuals solucions de sincronizació d’alta precisió
-
-      * Minimitza la sobrecàrrega de comunicació causada pels problemes de sincronització.
-
-      * Optimitza la fiabilitat de la xarxa TDMA amb un 100% d’eficiència.
-
-      * Consumeix un 30% menys energia.
-
-
-      La tecnologia SMARTCLOCKS està protegida per una sol·licitud de patent internacional titulada «Correcció de deriva en una xarxa sense fil».
-
-
-      <!--EndFragment-->
+      La solució combina la sincronització eventual del rellotge aprofitant transmissions de dades amb una correcció que es **calcula tenint en compte la predicció de la deriva temporal** del dispositiu deguda a la temperatura, basada en la caracterització tèrmica del dispositiu.
     video_list:
       - video: SKJj1810Xtc
+    docs_rels:
+      - file: /img/fitxa_smartclocks.pdf
 aspectes_innovadors:
   - descripcio: >-
-      <!--StartFragment-->
+      SmartClocks ofereix els **avantatges següents:** 
 
 
-      SMARTCLOCKS és una tecnologia que beneficia les empreses de telecomunicacions en general, però especialment les dedicades al disseny de circuits integrats (ASIC) i protocols de comunicació sense fil. 
+      **\-Sincronització automàtica:** estalvieu la sincronització basada en paquets o fonts de temps externes com el GPS.
 
 
-      HSS és una alternativa fiable per a ser utilitzada en xarxes d’àrees esteses de baixa potència (LPWAN), que permeten el que s’anomena internet de les coses (IoT).
+      \-Millora fins a deu vegades les solucions actuals de **sincronització de xarxes** sense fils d’alta precisió (0,1 ppm). 
 
 
-      <!--EndFragment-->
+      \-**Minimitza les despeses de comunicació** a causa de problemes de sincronització. 
+
+
+      \-Optimitza la **fiabilitat de la xarxa** TDMA aconseguint una eficiència del 100 %. 
+
+
+      \-Solució de **baix cost.**
+
+
+      \-**Fins a un 30 %** menys de consum d’energia.
     titol: Smartclocks_aspectes
 aplicacions:
   - titol: Smartclocks_aplicacions
     descripcio: >-
-      <!--StartFragment-->
+      SmartClocks és la **solució perfecta per a escenaris de recollida de
+      dades** quan siguin imprescindibles la sincronització precisa i la
+      reducció del consum d'energia. Qualsevol xarxa sense fils, especialment
+      aquelles amb períodes molt llargs entre enviament de dades a una unitat
+      central (per exemple, LPWAN): 
 
 
-      A qualsevol xarxa sense fil, especialment aquelles amb un nombre de nodes dinàmic que generen trànsit de dades amb intermitències. Aplicacions finals: 
+      **Smart cities:** 
 
 
-      * Gestió de ciutats intel·ligents (mesurament i control de serveis públics com aigua, electricitat, gas, etc., seguretat pública, medi ambient i transport urbà). 
-
-      * Logística i transport (gestió de flotes, gestió intel·ligent del trànsit). 
-
-      * Indústria (procés, cadena de subministrament i monitoratge d’equips). 
-
-      * Agricultura (gestió de plagues, reg intel·ligent). 
-
-      * Salut digital (teleatenció mèdica, monitoratge remot del pacient, etc.).
+      \-Mesura i control de serveis públics (aigua, electricitat, gas, etc.). 
 
 
-      <!--EndFragment-->
+      \-Seguretat pública. 
+
+
+      \-Medi ambient. 
+
+
+      \-Transport urbà.
+
+       **Logística i transport:** 
+
+      \-Gestió de flotes. 
+
+
+      \-Gestió intel·ligent del trànsit.
+
+       **Indústria:** 
+
+      \-Control de processos i operacions.
+
+
+      \-Control de cadenes de subministrament i equipament.
+
+       **Agricultura:**
+
+      \-Gestió de plagues.
+
+
+      \-Regals intel·ligents. 
+
+
+      **Salut electrònica:** 
+
+
+      \-Teleassistència. 
+
+
+      \-Monitoratge remot del pacient.
+grups_recerca:
+  - id: "7702"
+    name: WINE
+    description: Wireless Networks Research Lab
+    url: https://transfer.research.uoc.edu/ca/wine.html
+    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/77/image/1594216262171
 investigadors:
   - id: "42075402"
     name: Vilajosana Guillén, Xavier
@@ -93,6 +117,10 @@ investigadors:
     name: Adelantado Freixer, Ferran
     url: https://talent.uoc.edu/ca/ferran-adelantado-freixer.html
     url_img: https://talent.uoc.edu/img/api/pdi/537246/image/1588234736244
+  - id: "53782102"
+    name: Tuset Peiró, Pere
+    url: https://talent.uoc.edu/ca/pere-tuset-peiro.html
+    url_img: https://talent.uoc.edu/img/api/pdi/537821/image/1621239903960
 contacte:
   - text: Knowledge, Transfer & Entrepreneurship
     video: F9MD_IgBiMc
