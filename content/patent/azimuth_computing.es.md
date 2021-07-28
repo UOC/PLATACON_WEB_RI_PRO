@@ -34,6 +34,8 @@ about:
 
       Esta posibilidad abre un enfoque completamente nuevo **para valorizar la energía respondiendo a las necesidades mundiales,** explotando la distribución y la localidad o incluso trasladando la computación en el lugar donde se produce la energía.
     titol: AZIMUTH COMPUTING_es
+    docs_rels:
+      - file: /img/fitxa-azimuth-computing.pdf
 aspectes_innovadors:
   - descripcio: >-
       Azimuth Computing presenta las siguientes **ventajas en diferentes
