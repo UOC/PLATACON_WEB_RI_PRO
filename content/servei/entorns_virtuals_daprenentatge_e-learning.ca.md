@@ -119,6 +119,11 @@ grups_recerca:
     description: Open Evidence Research Group
     url: https://transfer.research.uoc.edu/ca/openevidence.html
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/66/image/1594111453905
+  - id: "6202"
+    name: Feed2Learn
+    description: Feedback and assessment To Learn in online learning environments
+    url: https://transfer.research.uoc.edu/ca/feed2learn.html
+    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/62/image/1594032673387
 contacte:
   - email: " transfer_ari@uoc.edu  "
     text: "Knowledge Transfer & Entrepreneurship "
