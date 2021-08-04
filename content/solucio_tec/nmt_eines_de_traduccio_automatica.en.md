@@ -2,7 +2,7 @@
 title: NMT, Eines de Traducció Automàtica
 language: en
 general:
-  nom: NMT, Eines de Traducció Automàtica
+  nom: NMT, Machine Translation Tools
   text_breu: NMT, training and customization of machine translation engines based
     on neural networks
   slogan: Have you tried the new machine translation tools?
