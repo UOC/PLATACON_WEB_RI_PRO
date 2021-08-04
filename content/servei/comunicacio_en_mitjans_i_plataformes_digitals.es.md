@@ -2,7 +2,7 @@
 title: COMUNICACIÓ EN MITJANS I PLATAFORMES DIGITALS
 language: es
 general:
-  nom: COMUNICACIÓ EN MITJANS I PLATAFORMES DIGITALS
+  nom: COMUNICACIÓN EN MEDIOS Y PLATAFORMAS DIGITALES
   sector: Sociedad en red
   keywords:
     - value: Medios de comunicación
