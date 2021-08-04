@@ -2,7 +2,7 @@
 title: DRET, INTERNET I TIC
 language: es
 general:
-  nom: "DRET, INTERNET I TIC "
+  nom: "DERECHO, INTERNET Y TIC "
   text_breu: Te asesoramos en el derecho de las TIC e internet
   img_background: /img/a_imatge_verda_sense_logo.jpg
   sector: Derecho y gobernanza
@@ -84,6 +84,11 @@ grups_recerca:
     description: Sistema de justícia penal
     url: https://transfer.research.uoc.edu/ca/vicrim.html
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/64/image/1594190299361
+  - id: "1202"
+    name: TAXBUSINESS
+    description: Fiscalitat, relacions laborals i empresa
+    url: https://transfer.research.uoc.edu/ca/taxbusiness.html
+    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/12/image/1594102969060
 contacte:
   - email: "transfer_ari@uoc.edu "
     text: Knowledge Transfer & Entrepreneurship
