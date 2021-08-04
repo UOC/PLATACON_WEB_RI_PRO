@@ -82,6 +82,11 @@ grups_recerca:
     description: Sistema de justícia penal
     url: https://transfer.research.uoc.edu/ca/vicrim.html
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/64/image/1594190299361
+  - id: "1202"
+    name: TAXBUSINESS
+    description: Fiscalitat, relacions laborals i empresa
+    url: https://transfer.research.uoc.edu/ca/taxbusiness.html
+    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/12/image/1594102969060
 investigadors: []
 contacte:
   - text: "Knowledge Transfer & Entrepreneurship "
