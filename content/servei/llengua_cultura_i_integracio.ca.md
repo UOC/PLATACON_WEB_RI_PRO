@@ -92,11 +92,11 @@ grups_recerca:
     description: Crisi, alteritat i representació
     url: https://transfer.research.uoc.edu/ca/alter.html
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/61/image/1576236141533
-  - id: "6902"
-    name: GRECIL
-    description: Grup de recerca en Cognició i Llenguatge
-    url: https://transfer.research.uoc.edu/ca/grecil.html
-    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/69/image/1588435812349
+  - id: "802"
+    name: GRIAL-UOC
+    description: Grup de recerca en Lingüística Aplicada
+    url: https://transfer.research.uoc.edu/ca/grial-uoc.html
+    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/8/image/1594198022684
   - id: "602"
     name: IDENTICAT
     description: Llengua, cultura i identitat en l'era global
