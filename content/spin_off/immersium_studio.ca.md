@@ -83,7 +83,10 @@ grups_recerca:
     url: https://transfer.research.uoc.edu/ca/noutur.html
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/36/image/1594109415142
 investigadors:
-  - {}
+  - id: "50897202"
+    name: Villarejo Muñoz, Lluís
+    url: https://talent.uoc.edu/ca/lluis-villarejo-munoz.html
+    url_img: https://talent.uoc.edu/img/api/pdi/508972/image/1622796479743
 contacte:
   - text: Luis Villarejo
     address: "Parc UPC – RDIT. Parc Mediterrani de la Tecnologia.  Carrer Esteve
