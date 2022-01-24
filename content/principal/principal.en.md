@@ -3,6 +3,9 @@ title: R&I in UOC
 language: en
 ambits_especialitzacio: 
   - 
+    display_name: "All"
+    value: ""
+  - 
     display_name: "Education and IT"
     value: "Education and IT"
   - 
@@ -122,12 +125,6 @@ centre:
   - 
     display_name: "IN3"
     value: "IN3"
-  - 
-    display_name: "e-Health Center"
-    value: "e-Health Center"
-  - 
-    display_name: "e-Learn Center"
-    value: "e-Learn Center"
   - 
     display_name: "Estudis"
     value: "Estudis"
