@@ -68,7 +68,7 @@ grups_recerca:
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/19/image/1591614546348
   - id: "9502"
     name: AGORA
-    description: "Comunicació per a la Transformació de lEsfera Pública "
+    description: "Comunicació per a la Transformació de l'Esfera Pública "
     url: https://transfer.research.uoc.edu/ca/agora.html
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/95/image/1576706879491
   - id: "902"
