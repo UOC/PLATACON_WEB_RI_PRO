@@ -61,12 +61,7 @@ aplicacions:
        escoles de **llengües privades**, centres d'ensenyament de llengües en general i universitats.
     video_list:
       - video: qkGNSOkfsSI
-grups_recerca:
-  - id: "1302"
-    name: E-ARTSHUM
-    description: Investigadors individuals en Arts i Humanitats
-    url: https://transfer.research.uoc.edu/ca/e-artshum.html
-    url_img: ""
+grups_recerca: []
 investigadors:
   - id: "52711402"
     name: Appel, Marie Christine
