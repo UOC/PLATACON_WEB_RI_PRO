@@ -62,7 +62,11 @@ aplicacions:
     video_list:
       - video: qkGNSOkfsSI
 grups_recerca:
-  - {}
+  - id: "1302"
+    name: E-ARTSHUM
+    description: Investigadors individuals en Arts i Humanitats
+    url: https://transfer.research.uoc.edu/ca/e-artshum.html
+    url_img: ""
 investigadors:
   - id: "52711402"
     name: Appel, Marie Christine
