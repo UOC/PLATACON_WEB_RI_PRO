@@ -19,25 +19,23 @@ general:
   img_background: /img/a_imatge_verda_sense_logo.jpg
 about:
   - descripcio: >-
-      
-
       **Descripció**
 
 
       **Desenvolupem eines i solucions a mida per a la connexió intel·ligent** i sense fils de màquines i persones, contribuint a la millora i flexibilització de la producció en la indústria 4.0 i la digitalització de serveis. Som experts en:
 
 
-      * Desenvolupar tecnologies de comunicació per a dispositius connectats en ciutats (smart cities), en carreteres i grans infraestructures, a la indústria, a xarxes domèstiques o a les xarxes de comunicacions.
+      1. Desenvolupar tecnologies de comunicació per a dispositius connectats en ciutats (smart cities), en carreteres i grans infraestructures, a la indústria, a xarxes domèstiques o a les xarxes de comunicacions.
 
-      * Integrar sistemes ciberfísics al núvol i al llarg de tota la cadena industrial: disseny, fabricació, distribució i ús.
+      2. Integrar sistemes ciberfísics al núvol i al llarg de tota la cadena industrial: disseny, fabricació, distribució i ús.
 
-      * **Desenvolupar models dinàmics de dades i sistemes d'intel·ligència** contextual per a l'automatització, la flexibilització i el control a temps real de processos industrials i logístics.
+      3. **Desenvolupar models dinàmics de dades i sistemes d'intel·ligència** contextual per a l'automatització, la flexibilització i el control a temps real de processos industrials i logístics.
 
-      * Desenvolupar sistemes a mida de geolocalització via comunicació IoT satel·lital.
+      4. Desenvolupar sistemes a mida de geolocalització via comunicació IoT satel·lital.
 
-      * Crear xarxes distribuïdes segures i eficients que poden combinar diferents tecnologies.
+      5. Crear xarxes distribuïdes segures i eficients que poden combinar diferents tecnologies.
 
-      * Avaluar de manera dinàmica l'ús i la gestió de recursos (dispositius i energètics) per fer-ne un ús eficient.
+      6. Avaluar de manera dinàmica l'ús i la gestió de recursos (dispositius i energètics) per fer-ne un ús eficient.
 
 
       #### Els nostres serveis
@@ -57,29 +55,15 @@ about:
       #### El nostre valor
 
 
-      1. #### Hem desenvolupat sistemes de manteniment predictius per al sector de la refrigeració industrial.
-
-
-
+      1. Hem desenvolupat sistemes de manteniment predictius per al sector de la refrigeració industrial.
 
       2. Hem creat SmartClocks, un protocol de comunicació que permet la sincronització automàtica de dispositius en xarxes IoT sense necessitat de fonts de temps externes (GPS) ni comunicacions dedicades, i que és energèticament eficient. 
 
-
-
-
       3. Hem desenvolupat la tecnologia WILD, que detecta la humitat i la fuga de líquids de forma automàtica en cadenes de producció, magatzems o espais de construcció gràcies a una tecnologia sense fils, de baix cost i sense bateries. 
-
-
-
 
       4. Hem col·laborat amb la indústria en el desenvolupament de plataformes en obert per facilitar l'automatització de processos industrials. 
 
-
-
-
       5. Des de l'any 2000, l'Internet Interdisciplinary Institute (IN3) és el nostre centre de referència en R&I, el qual està adreçat al desenvolupament de solucions tecnològiques arrelades en l'era digital i a l'estudi d'internet i dels efectes de la interacció entre les tecnologies digitals i l'activitat humana. 
-
-
 
 
       #### A qui va dirigit
