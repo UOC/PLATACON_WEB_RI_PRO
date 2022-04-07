@@ -111,4 +111,6 @@ investigadors:
     url: https://talent.uoc.edu/ca/jordi-cabot-sagrera.html
     url_img: https://talent.uoc.edu/img/api/pdi/396592/image/1620726503228
   - {}
+contacte:
+  - email: " transfer_ari@uoc.edu"
 ---
