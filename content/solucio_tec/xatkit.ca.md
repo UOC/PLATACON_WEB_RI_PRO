@@ -8,7 +8,7 @@ general:
     - value: Chatbot
     - value: bots intel·ligents
     - value: interfície de conversa
-  logo: /img/logo_xatkit.png
+  logo: /img/logo_xatkit_petit.png
   nom: Xatkit
   text_breu: La plataforma Xatkit et permet crear chatbots de manera àgil i
     senzilla per atendre centenars de consultes automàticament.
