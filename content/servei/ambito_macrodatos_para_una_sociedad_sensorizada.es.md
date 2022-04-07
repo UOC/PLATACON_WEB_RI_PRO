@@ -2,7 +2,7 @@
 title: "Ámbito: MACRODATOS PARA UNA SOCIEDAD SENSORIZADA"
 language: es
 general:
-  nom: "Ámbito: MACRODATOS PARA UNA SOCIEDAD SENSORIZADA"
+  nom: MACRODATOS PARA UNA SOCIEDAD SENSORIZADA
   img_background: /img/a_imatge_verda_sense_logo.jpg
   sector: industria 4.0
   keywords:
