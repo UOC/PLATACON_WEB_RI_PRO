@@ -115,6 +115,6 @@ investigadors:
     url: https://talent.uoc.edu/ca/xavier-vilajosana-guillen.html
     url_img: https://talent.uoc.edu/img/api/pdi/420754/image/1588231887989
 contacte:
-  - email: " transfer_ari@uoc.edu     F9MD_IgBiMc"
-    video: " F9MD_IgBiMc"
+  - email: " transfer_ari@uoc.edu"
+    video: F9MD_IgBiMc
 ---
