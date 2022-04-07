@@ -1,5 +1,5 @@
 ---
-title: ARLab
+title: ARLab- Tecnologies Immersives
 language: ca
 general:
   sector: Educació - eLearning
