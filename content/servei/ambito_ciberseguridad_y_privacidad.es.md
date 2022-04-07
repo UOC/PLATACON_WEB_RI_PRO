@@ -2,7 +2,7 @@
 title: "Àmbito: CIBERSEGURIDAD Y PRIVACIDAD"
 language: es
 general:
-  nom: "Àmbito: CIBERSEGURIDAD Y PRIVACIDAD"
+  nom: CIBERSEGURIDAD Y PRIVACIDAD
   text_breu: Por una digitalización segura para personas y organizaciones.
   img_background: /img/a_imatge_verda_sense_logo.jpg
   sector: industria 4.0
