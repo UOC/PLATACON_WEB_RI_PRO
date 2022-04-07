@@ -39,7 +39,7 @@ about:
       - video: Qv3G7W4pYp4
     docs_rels:
       - file: /img/fitxa-xatkit_cat_.pdf
-    titol: About technology
+    titol: Xatkit_About technology
 aspectes_innovadors:
   - descripcio: >-
       <!--StartFragment-->
@@ -70,7 +70,7 @@ aspectes_innovadors:
       <!--EndFragment-->
     video_list:
       - video: ZaFhbIUqEeg&t
-    titol: Innovative aspects
+    titol: Xatkit_ Innovative aspects
 aplicacions:
   - descripcio: >-
       <!--StartFragment-->
@@ -98,7 +98,7 @@ aplicacions:
 
 
       <!--EndFragment-->
-    titol: Aplications
+    titol: Xatkit_ Aplications
 grups_recerca:
   - id: "7602"
     name: SOM RESEARCH LAB
