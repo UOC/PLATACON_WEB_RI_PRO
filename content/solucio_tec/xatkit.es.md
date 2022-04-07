@@ -10,7 +10,7 @@ general:
   img_background: /img/imagen_xatkit.jpeg
   sector: Sociedad en red
   centre: IN3
-  logo: /img/logo_xatkit.png
+  logo: /img/logo_xatkit_petit.png
   keywords:
     - value: " Chatbot"
     - value: bots inteligentes
