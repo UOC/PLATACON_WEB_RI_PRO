@@ -1,5 +1,5 @@
 ---
-title: ARLab
+title: ARLab-Tecnologies immersives
 language: en
 general:
   nom: Tecnologies Immersives
