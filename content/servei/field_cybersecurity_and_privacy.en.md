@@ -2,7 +2,7 @@
 title: "Field: CYBERSECURITY AND PRIVACY"
 language: en
 general:
-  nom: "Field: CYBERSECURITY AND PRIVACY"
+  nom: CYBERSECURITY AND PRIVACY
   text_breu: For secure digitization for people and organizations.
   img_background: /img/a_imatge_verda_sense_logo.jpg
   sector: Industry 4.0
