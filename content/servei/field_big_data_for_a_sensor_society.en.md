@@ -2,7 +2,7 @@
 title: "Field: BIG DATA FOR A SENSOR SOCIETY"
 language: en
 general:
-  nom: "Field: BIG DATA FOR A SENSOR SOCIETY"
+  nom: BIG DATA FOR A SENSOR SOCIETY
   img_background: /img/a_imatge_verda_sense_logo.jpg
   sector: Industry 4.0
   keywords:
