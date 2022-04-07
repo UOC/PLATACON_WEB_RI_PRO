@@ -113,5 +113,5 @@ investigadors:
   - {}
 contacte:
   - email: " transfer_ari@uoc.edu"
-    video: " F9MD_IgBiMc"
+    video: F9MD_IgBiMc
 ---
