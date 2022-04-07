@@ -2,7 +2,7 @@
 title: "Àmbit: CIBERSEGURETAT I PRIVACITAT"
 language: ca
 general:
-  nom: "Àmbit: CIBERSEGURETAT I PRIVACITAT"
+  nom: CIBERSEGURETAT I PRIVACITAT
   img_background: /img/a_imatge_verda_sense_logo.jpg
   sector: Indústria 4.0
   keywords:
