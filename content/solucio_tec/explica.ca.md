@@ -47,11 +47,10 @@ aspectes_innovadors:
 aplicacions:
   - titol: EXPLICA!_aplicacions
     descripcio: >-
-      **Permetre afegir o eliminar pàgines** a cada un dels projectes i importar
-      arxius PDF a través de Google Drive o Dropbox. 
+      * **Permetre afegir o eliminar pàgines** a cada un dels projectes i
+      importar arxius PDF a través de Google Drive o Dropbox. 
 
-
-      Personalitzar el projecte **canviant la marca d’aigua** per defecte per qualsevol altra imatge.
+      * Personalitzar el projecte **canviant la marca d’aigua** per defecte per qualsevol altra imatge.
 grups_recerca:
   - id: "3602"
     name: NOUTUR
