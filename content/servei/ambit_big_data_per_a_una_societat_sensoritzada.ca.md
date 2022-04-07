@@ -2,7 +2,7 @@
 title: "Àmbit: BIG DATA PER A UNA SOCIETAT SENSORITZADA"
 language: ca
 general:
-  nom: "Àmbit: BIG DATA PER A UNA SOCIETAT SENSORITZADA"
+  nom: BIG DATA PER A UNA SOCIETAT SENSORITZADA
   img_background: /img/a_imatge_verda_sense_logo.jpg
   sector: Indústria 4.0
   keywords:
