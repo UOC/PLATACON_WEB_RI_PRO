@@ -52,9 +52,9 @@ aplicacions:
       hospitals and, especially, for private use by carers of dependent people.
 grups_recerca:
   - id: "5702"
-    name: SUNAI
-    description: Scene understanding and artificial intelligence lab
-    url: https://transfer.research.uoc.edu/ca/sunai.html
+    name: AIWELL
+    description: Artificial Intelligence for Human Well-being
+    url: https://transfer.research.uoc.edu/ca/aiwell.html
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/57/image/1594206271178
 investigadors:
   - id: "63980502"
@@ -62,6 +62,6 @@ investigadors:
     url: https://talent.uoc.edu/ca/xavier-baro-sole.html
     url_img: https://talent.uoc.edu/img/api/pdi/639805/image/1588154058963
 contacte:
-  - email: trasnfer_ari@uoc.edu
+  - email: transfer_ari@uoc.edu
     video: F9MD_IgBiMc
 ---
