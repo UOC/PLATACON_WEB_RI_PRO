@@ -56,6 +56,11 @@ aplicacions:
 
       Una altra característica innovadora és que integra diversos elements, processos i funcionalitats presents en un laboratori d'electrònica tradicional en una única plataforma.
     titol: L@b Home_aplicacions
+investigadors:
+  - id: "64697402"
+    name: Monzo Sánchez, Carlos Manuel
+    url: https://talent.uoc.edu/ca/carlos-manuel-monzo-sanchez.html
+    url_img: https://talent.uoc.edu/img/api/pdi/646974/image/1588861497239
 contacte:
   - address: ""
     text: Knowledge, Transfer & Entrepreneurship
