@@ -27,7 +27,7 @@ centres_home:
   - title: eHealth Center
     description: Centro académico interdisciplinar que genera, transfiere e
       intercambia conocimiento en salud digital.
-    url: https://www.uoc.edu/portal/es/ehealth-center/index.html
+    url: https://research.uoc.edu/portal/es/ehealth-center/index.html
 unesco:
   - value: "11"
     display_name: Lógica
