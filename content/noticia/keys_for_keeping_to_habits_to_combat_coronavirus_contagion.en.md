@@ -1,7 +1,7 @@
 ---
 title: Keys for keeping to habits to combat coronavirus contagion
 language: en
-destacat: true
+destacat: false
 date: 2020-04-22T09:33:18.173Z
 general:
   titol: Keys for keeping to habits to combat coronavirus contagion
