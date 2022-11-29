@@ -16,23 +16,18 @@ sector_productiu:
     value: Education - eLearning
 centres_home:
   - title: Internet Interdisciplinary Institute (IN3)
-    description: A research centre specializing in the study of the internet and the
-      effects of the interaction between digital technologies and human
-      activity.
-    url: https://www.uoc.edu/portal/en/in3/index.html
-  - title: eLearn Center
-    description: Facilitating applied research in e-learning, fostering innovation
-      in this field, and conveying the value of e-learning as essential to the
-      UOC's identity, both inside and outside the university.
-    url: https://www.uoc.edu/portal/en/elearncenter/index.html
+    description: An institute that specializes in studying the internet and the
+      effects of the interaction of digital technologies with human activity.
+    url: https://research.uoc.edu/portal/en/in3/index.html
+  - title: eLearning Innovation Center
+    description: The main mission of this body is to help the UOC's learning model
+      evolve in order to guarantee a unique, high-quality, connected and
+      networked learning experience.
+    url: https://research.uoc.edu/portal/en/elearning-innovation-center/index.html
   - title: eHealth Center
-    description: The eHealth Center is an academic centre open to the world whose
-      goal is to educate and empower professionals and ordinary citizens,
-      through the use of technologies, to lead the paradigm shift in health.
+    description: An interdisciplinary academic centre that generates, transfers and
+      exchanges knowledge in eHealth.
     url: https://www.uoc.edu/portal/en/ehealth-center/index.html
-  - title: Faculties
-    description: See the different programmes on offer
-    url: https://www.uoc.edu/portal/en/universitat/estudis-centres-recerca/index.html
 unesco:
   - value: "11"
     display_name: Logic
@@ -5134,15 +5129,15 @@ infografia:
     number: "51"
     icon: icon--user
   - display_name: Researchers
-    number: 1200
+    number: + 500
     icon: icon--search
   - display_name: Research centres
-    number: 2
+    number: "3"
     icon: icon--lab
   - display_name: Innovative solutions for businesses
-    number: more than 100
+    number: + 100
     icon: icon--pencil
   - display_name: Spin-off
-    number: 3
+    number: "4"
     icon: icon--profile
 ---
