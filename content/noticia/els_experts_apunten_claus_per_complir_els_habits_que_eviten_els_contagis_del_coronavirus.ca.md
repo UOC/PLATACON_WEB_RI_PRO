@@ -2,7 +2,7 @@
 title: Els experts apunten claus per complir els hàbits que eviten els contagis
   del coronavirus
 language: ca
-destacat: true
+destacat: false
 date: 2020-04-22T08:59:51.076Z
 general:
   titol: Els experts apunten claus per complir els hàbits que eviten els contagis
