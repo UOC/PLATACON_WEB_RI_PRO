@@ -2,7 +2,7 @@
 title: Los expertos apuntan claves para cumplir los hábitos que eviten los
   contagios del coronavirus
 language: es
-destacat: true
+destacat: false
 date: 2020-04-22T09:55:14.291Z
 general:
   titol: Los expertos apuntan claves para cumplir los hábitos que eviten los
