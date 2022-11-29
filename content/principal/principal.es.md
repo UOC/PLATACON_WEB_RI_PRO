@@ -5131,18 +5131,18 @@ centre:
     value: Estudis
 infografia:
   - display_name: Grupos de investigación
-    number: "52"
+    number: "51"
     icon: icon--user
   - display_name: Investigadores
-    number: 1200
+    number: + de 500
     icon: icon--search
   - display_name: Centros de investigación
-    number: 2
+    number: "3"
     icon: icon--lab
   - display_name: Soluciones innovadoras para empresas
     number: + de 100
     icon: icon--pencil
   - display_name: Spin-off
-    number: 3
+    number: "4"
     icon: icon--profile
 ---
