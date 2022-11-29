@@ -16,23 +16,18 @@ sector_productiu:
     value: Salut - eHealth
 centres_home:
   - title: Internet Interdisciplinary Institute (IN3)
-    description: Centre de recerca especialitzat en l'estudi d'internet i dels
-      efectes de la interacció de les tecnologies digitals amb l'activitat
-      humana.
-    url: https://www.uoc.edu/portal/ca/in3/index.html
-  - title: eLearn Center
-    description: Facilita la recerca aplicada en e-learning , fomenta la innovació
-      en aquest àmbit i transmet a dins i a fora de la institució el valor de
-      l'e-learning com a element constitutiu de la identitat de la UOC.
-    url: https://www.uoc.edu/portal/ca/elearncenter/index.html
+    description: Especialitzat en l'estudi d'Internet i dels efectes de la
+      interacció de les tecnologies digitals amb l'activitat humana.
+    url: https://research.uoc.edu/portal/ca/in3/index.html
+  - title: eLearning Innovation Center
+    description: Fa evolucionar el model d'aprenentatge de la Universitat per
+      garantir una experiència formativa de qualitat, única, connectada i en
+      xarxa
+    url: https://research.uoc.edu/portal/ca/elearning-innovation-center/index.html
   - title: eHealth Center
-    description: L’eHealth Center és un centre acadèmic obert al món que vol
-      capacitar i apoderar el ciutadà i els professionals mitjançant les
-      tecnologies perquè liderin el canvi de paradigma en salut.
-    url: https://www.uoc.edu/portal/ca/ehealth-center/index.html
-  - title: Estudis
-    description: Consulta els diferents programes que s’hi ofereixen
-    url: https://www.uoc.edu/portal/ca/universitat/estudis-centres-recerca/index.html
+    description: Centre acadèmic transdisciplinari que genera, transfereix i
+      intercanvia coneixement en salud digital.
+    url: https://research.uoc.edu/portal/ca/ehealth-center/index.html
 unesco:
   - value: "11"
     display_name: Lògica
