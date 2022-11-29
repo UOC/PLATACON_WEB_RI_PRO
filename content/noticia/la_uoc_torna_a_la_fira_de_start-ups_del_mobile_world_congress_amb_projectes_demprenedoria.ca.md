@@ -2,7 +2,7 @@
 title: " La UOC torna a la fira de 'start-ups' del Mobile World Congress amb
   projectes d'emprenedoria"
 language: ca
-destacat: true
+destacat: false
 date: 2022-02-23T12:19:19.403Z
 general:
   img: /img/039-4yfn-2022.jpg_944377278.jpg
