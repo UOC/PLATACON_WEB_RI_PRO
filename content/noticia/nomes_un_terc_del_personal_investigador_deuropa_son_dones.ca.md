@@ -1,7 +1,7 @@
 ---
 title: Només un terç del personal investigador d'Europa són dones
 language: ca
-destacat: true
+destacat: false
 date: 2022-05-30T14:03:42.782Z
 general:
   link_extern: https://www.uoc.edu/portal/ca/news/actualitat/2022/134-genere-ciencia.html
