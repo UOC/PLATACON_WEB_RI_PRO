@@ -5131,7 +5131,7 @@ centre:
     value: Estudis
 infografia:
   - display_name: Grupos de investigación
-    number: "51"
+    number: "52"
     icon: icon--user
   - display_name: Investigadores
     number: 1200
