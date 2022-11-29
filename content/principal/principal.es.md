@@ -16,23 +16,18 @@ sector_productiu:
     value: Educación - eLearning
 centres_home:
   - title: Internet Interdisciplinary Institute (IN3)
-    description: Centro de investigación especializado en el estudio de internet y
-      de los efectos de la interacción de las tecnologías digitales con la
-      actividad humana.
-    url: https://www.uoc.edu/portal/es/in3/index.html
-  - title: eLearn Center
-    description: Facilita la investigación aplicada en e-learning, fomenta la
-      innovación en este ámbito y transmite dentro y fuera de la institución el
-      valor del e-learning como elemento constitutivo de la identidad de la UOC.
-    url: https://www.uoc.edu/portal/es/elearncenter/index.html
+    description: Especializado en el estudio de internet y de los efectos de la
+      interacción de las tecnologías digitales con la actividad humana.
+    url: https://research.uoc.edu/portal/es/in3/index.html
+  - title: eLearning Innovation Center
+    description: Hace evolucionar el modelo de aprendizaje de la universidad para
+      garantizar una experiencia formativa de calidad, única, conectada y en
+      red.
+    url: https://research.uoc.edu/portal/es/elearning-innovation-center/index.html
   - title: eHealth Center
-    description: El eHealth Center es un centro académico abierto al mundo que
-      quiere capacitar y empoderar al ciudadano y a los profesionales mediante
-      las tecnologías para que lideren el cambio de paradigma en salud.
+    description: Centro académico interdisciplinar que genera, transfiere e
+      intercambia conocimiento en salud digital.
     url: https://www.uoc.edu/portal/es/ehealth-center/index.html
-  - title: Estudios
-    description: Consulta los diferentes programas que se ofrecen
-    url: https://www.uoc.edu/portal/es/universitat/estudis-centres-recerca/index.html
 unesco:
   - value: "11"
     display_name: Lógica
