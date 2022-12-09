@@ -6,6 +6,7 @@ date: 2022-12-09T11:48:46.249Z
 general:
   titol: La tecnologia immersiva aplicada al món de la salut i l'educació
   img: https://campus.uoc.edu/webapps/intrauoc2/documents/10530/1386376/foto+salut+labs/cb595739-2414-476d-9bbf-141a58e2fc05?t=1669121579789
+  link_extern: ""
 descripcio:
   text: >-
     <!--StartFragment-->
@@ -47,8 +48,6 @@ descripcio:
     Queda clar que es tracta d'una tecnologia de la qual es poden beneficiar àmbits diversos. "La realitat virtual, augmentada i mixta s'utilitza no només en el camp dels gràfics per computador i en la interacció home-computador, sinó que **s'aplica a tota mena de camps, com la psicologia, la neurociència, la medicina i el màrqueting**, entre d'altres", explica **Laura Serra**.
 
 
-    \
-
     <!--StartFragment-->
 
 
@@ -71,8 +70,6 @@ descripcio:
 
 
     Per la seva part, **Xènia Porta** admet que, com a nova estudiant de doctorat, la primera impressió que se n'ha emportat és positiva: "Tot i tractar-se d'una universitat a distància, **són palpables els esforços, tant per part de treballadors i docents com d'estudiants, per mantenir una comunitat unida i ferma**, així com fomentar el treball en xarxa i la col·laboració activa entre persones i departaments. Fa la sensació que **hi ha una molt bona interconnexió i fluïdesa de comunicació entre les diferents àrees** que constitueixen la Universitat." I disposar d'espais físics com un laboratori ha de permetre donar més visibilitat a la feina que s'hi fa. "Crec que amb el temps, l'XR Lab podria **fer més visible el nostre treball a altres departaments de la Universitat i als investigadors de diferents àmbits**", conclou **Konaç**.
-
-
 
 
     <!--EndFragment-->
