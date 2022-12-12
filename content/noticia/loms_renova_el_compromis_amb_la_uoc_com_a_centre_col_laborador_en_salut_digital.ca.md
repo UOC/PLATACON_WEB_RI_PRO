@@ -2,7 +2,7 @@
 title: L'OMS renova el compromís amb la UOC com a centre col·laborador en salut
   digital
 language: ca
-destacat: false
+destacat: true
 date: 2022-12-12T07:57:04.428Z
 general:
   titol: L'OMS renova el compromís amb la UOC com a centre col·laborador en salut
