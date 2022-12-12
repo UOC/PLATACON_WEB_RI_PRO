@@ -2,7 +2,7 @@
 title: La UOC impulsa el seu ecosistema de recerca amb la creació d'un 'hub'
   interdisciplinari al districte tecnològic de Barcelona
 language: ca
-destacat: false
+destacat: true
 date: 2022-12-12T07:59:29.698Z
 general:
   img: https://www.uoc.edu/portal/_resources/common/imatges/sala_de_premsa/noticies/2021/021-hub-recerca-barcelona.jpg_914553990.jpg
