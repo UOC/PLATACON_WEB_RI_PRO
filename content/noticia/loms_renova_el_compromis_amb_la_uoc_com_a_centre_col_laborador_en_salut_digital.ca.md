@@ -26,11 +26,9 @@ descripcio:
 
 
     <!--EndFragment-->
-  entrada: L'**Organització Mundial de la Salut (OMS)** ha renovat la designació
-    dels **[Estudis de Ciències de la Salut
-    (ECS)](https://www.uoc.edu/portal/ca/estudis_arees/ciencies-salut/index.html)** de
-    la UOC com a centre col·laborador en l'àmbit de la **salut digital**. Els
-    Estudis, amb el suport de l'**[eHealth
-    Center](https://www.uoc.edu/portal/ca/ehealth-center/index.html)**, són
-    l'únic centre d'Espanya col·laborador en *e-health* des de l'any 2018.
+  entrada: L'Organització Mundial de la Salut (OMS) ha renovat la designació dels
+    Estudis de Ciències de la Salut (ECS) de la UOC com a centre col·laborador
+    en l'àmbit de la salut digital. Els Estudis, amb el suport de l'eHealth
+    Center, són l'únic centre d'Espanya col·laborador en e-health des de l'any
+    2018.
 ---
