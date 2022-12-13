@@ -3,7 +3,7 @@
     {"display_name" : "Tots", "value" : "Tots"},
     {"display_name" : "Educació i TIC", "value" : "Educació i TIC"}, 
     {"display_name" : "Societat en xarxa", "value" : "Societat en xarxa"}, 
-    {"display_name" : "Salut pública i planetària", "value" : "Salut pública i planetària"}, 
+    {"display_name" : "Salut digital", "value" : "Salut digital"}, 
     {"display_name" : "Altres", "value" : "Altres"}
   ],
 	"ods" : [

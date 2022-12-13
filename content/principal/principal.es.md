@@ -5046,8 +5046,8 @@ ambits_especialitzacio:
     value: Educación y TIC
   - display_name: Sociedad en red
     value: Sociedad en red
-  - display_name: Salud pública i planetaria
-    value: Salud pública i planetaria
+  - display_name: Salud digital
+    value: Salud digital
   - display_name: Otros
     value: Otros
 ods:

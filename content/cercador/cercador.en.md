@@ -3,7 +3,7 @@
 		{"display_name" : "All areas", "value" : "All areas"},
 		{"display_name" : "Education and IT", "value" : "Education and IT"},
 		{"display_name" : "Social networking", "value" : "Social networking"},
-		{"display_name" : "Public and planetary health", "value" : "Internet intelligence technologies"},
+		{"display_name" : "Digital health", "value" : "Digital health"},
 		{"display_name" : "Other", "value" : "Other"}
 	], 
 	"ods" : [
