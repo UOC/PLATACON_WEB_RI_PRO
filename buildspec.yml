@@ -23,28 +23,21 @@ phases:
       - node ./scripts/update-netlify-config.js
       - cd public/ && loose-envify ./admin/main.js > updated-main.js && mv updated-main.js main.js
       - |
-          aws s3api head-object --bucket ${BUCKET_S3} --key ${DEST_FOLDER}/ca/index.json || not_exist=true
+          aws s3api head-object --bucket ${BUCKET_S3} --key ${DEST_FOLDER}/es/index.json || not_exist=true
           if [ $not_exist ]; then
             echo "index.json does not exist"
           else
             echo "index.json exists"
-            aws s3 cp s3://${BUCKET_S3}/${DEST_FOLDER}/ca/index.json ./ca/previous-index.json
+            aws s3 cp s3://${BUCKET_S3}/${DEST_FOLDER}/es/index.json ./previous-index.json
             node ../scripts/create-to-delete-index.js
           fi   
-      - aws s3 cp index.html s3://${BUCKET_S3}/${DEST_FOLDER}/index.html
-      - cd ./admin && aws s3 sync . s3://${BUCKET_S3}/${DEST_FOLDER}/admin 
-      - cd ../ca && aws s3 sync . s3://${BUCKET_S3}/${DEST_FOLDER}/ca 
-      - cd ../es && aws s3 sync . s3://${BUCKET_S3}/${DEST_FOLDER}/es 
-      - cd ../en && aws s3 sync . s3://${BUCKET_S3}/${DEST_FOLDER}/en 
-      - cd ../img && aws s3 sync . s3://${BUCKET_S3}/${DEST_FOLDER}/img 
-      - cd ../js && aws s3 sync . s3://${BUCKET_S3}/${DEST_FOLDER}/js 
-      - cd ../css && aws s3 sync . s3://${BUCKET_S3}/${DEST_FOLDER}/css
+      - aws s3 sync . s3://${BUCKET_S3}/${DEST_FOLDER}
       - |
           if [ "${UPLOAD_TO_CLOUDSEARCH}" == "true" ]; then
             echo "Uploading data to cloudsearch"
-            cd .. && aws cloudsearchdomain --endpoint-url ${CLOUDSEARCH_URL} upload-documents --content-type application/json --documents ./ca/index.json
-            if test -f "./ca/index-to-delete.json"; then
-                aws cloudsearchdomain --endpoint-url ${CLOUDSEARCH_URL} upload-documents --content-type application/json --documents ./ca/index-to-delete.json
+            cd .. && aws cloudsearchdomain --endpoint-url ${CLOUDSEARCH_URL} upload-documents --content-type application/json --documents ./index.json
+            if test -f "./index-to-delete.json"; then
+                aws cloudsearchdomain --endpoint-url ${CLOUDSEARCH_URL} upload-documents --content-type application/json --documents ./index-to-delete.json
             fi
           fi
     finally:
