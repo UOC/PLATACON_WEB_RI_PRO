@@ -85,27 +85,22 @@ grups_recerca:
   - id: "3602"
     name: NOUTUR
     description: Noves perspectives en turisme i oci
-    url: https://transfer.research.uoc.edu/ca/noutur.html
+    url: https://transfer.research.uoc.edu/ca/grups/noutur.html
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/36/image/1594109415142
   - id: "2602"
     name: KISON
     description: K-riptography and Information Security for Open Networks
-    url: https://transfer.research.uoc.edu/ca/kison.html
+    url: https://transfer.research.uoc.edu/ca/grups/kison.html
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/26/image/1594286715997
-  - id: "802"
-    name: GRIAL-UOC
-    description: Grup de recerca en Lingüística Aplicada
-    url: https://transfer.research.uoc.edu/ca/grial-uoc.html
-    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/8/image/1594198022684
   - id: "7702"
     name: WINE
     description: Wireless Networks Research Lab
-    url: https://transfer.research.uoc.edu/ca/wine.html
+    url: https://transfer.research.uoc.edu/ca/grups/wine.html
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/77/image/1594216262171
   - id: "2902"
     name: DigiBiz
     description: Digital Business Research Group
-    url: https://transfer.research.uoc.edu/ca/digibiz.html
+    url: https://transfer.research.uoc.edu/ca/grups/digibiz.html
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/29/image/1594030464767
 contacte:
   - text: "Knowledge Transfer & Entrepreneurship "
