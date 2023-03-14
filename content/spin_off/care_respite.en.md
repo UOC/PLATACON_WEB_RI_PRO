@@ -25,7 +25,7 @@ about:
       It has been developed by researchers from the Centre de Visió per Computador (CVC), the Universitat Autònoma de Barcelona (UAB), the University of Barcelona (UB) and the Universitat Oberta de Catalunya (UOC), i**n conjunction with the company Acceplan.** 
 
 
-      The spin-off was created in 2016 by, among others, Xavier Baró Solé, a UOC researcher who belongs to the SUNAI research group. It **specializes in the field of computer vision**, specifically in facial and object recognition and the general understanding of environments. 
+      The spin-off was created in 2016 by, among others, Xavier Baró Solé, a UOC researcher who belongs to the AIWELL research group. It **specializes in the field of computer vision**, specifically in facial and object recognition and the general understanding of environments. 
 
 
       Care Respite's technology is based on these capacities.
@@ -65,9 +65,9 @@ casos_exit:
     titol: CARERESPITE_cases
 grups_recerca:
   - id: "5702"
-    name: SUNAI
-    description: Scene understanding and artificial intelligence lab
-    url: https://transfer.research.uoc.edu/ca/sunai.html
+    name: AIWELL
+    description: Artificial Intelligence for Human Well-being
+    url: https://transfer.research.uoc.edu/ca/grups/aiwell.html
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/57/image/1594206271178
 investigadors:
   - id: "63980502"
