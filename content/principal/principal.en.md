@@ -5128,7 +5128,7 @@ centre:
     value: eHealth Center
 infografia:
   - display_name: Research groups
-    number: "51"
+    number: + 50
     icon: icon--user
   - display_name: Researchers
     number: + 500
@@ -5140,6 +5140,6 @@ infografia:
     number: + 100
     icon: icon--pencil
   - display_name: Spin-off
-    number: "4"
+    number: "2"
     icon: icon--profile
 ---
