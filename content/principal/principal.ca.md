@@ -5128,7 +5128,7 @@ centre:
     value: eHealth Center
 infografia:
   - display_name: Grups de recerca
-    number: Més de 50 grups
+    number: Més de 50
     icon: icon--user
   - display_name: Investigadors i investigadores
     number: "més de 500 "
