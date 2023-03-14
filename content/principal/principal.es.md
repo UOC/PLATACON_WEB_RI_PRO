@@ -5125,12 +5125,12 @@ centre:
   - display_name: Estudis
     value: Estudis
   - display_name: eHealth Center
-    value: eHealth Center   
+    value: eHealth Center
 infografia:
   - display_name: Grupos de investigación
-    number: "51"
+    number: más de 50
     icon: icon--user
-  - display_name: Investigadores
+  - display_name: Investigadores e investigadoras
     number: + de 500
     icon: icon--search
   - display_name: Centros de investigación
@@ -5140,6 +5140,6 @@ infografia:
     number: + de 100
     icon: icon--pencil
   - display_name: Spin-off
-    number: "4"
+    number: "2"
     icon: icon--profile
 ---
