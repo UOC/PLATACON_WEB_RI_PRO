@@ -5130,8 +5130,8 @@ infografia:
   - display_name: Grups de recerca
     number: Més de 50 grups
     icon: icon--user
-  - display_name: Investigadors
-    number: més de 500 investigadors i investigadores
+  - display_name: Investigadors i investigadores
+    number: "més de 500 "
     icon: icon--search
   - display_name: Centres de recerca
     number: "3"
