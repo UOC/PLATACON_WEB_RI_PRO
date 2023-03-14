@@ -26,7 +26,7 @@ about:
       Ha sido desarrollado por investigadores del **Centro de Visión por Computador** (CVC), la Universitat Autònoma de Barcelona (UAB), la Universidad de Barcelona (UB) y la Universitat Oberta de Catalunya (UOC), junto con la empresa Acceplan. 
 
 
-      La spin-off fue promovida en 2016, entre otros, por **Xavier Baró Solé**, investigador de la UOC que pertenece al grupo de investigación SUNAI.
+      La spin-off fue promovida en 2016, entre otros, por **Xavier Baró Solé**, investigador de la UOC que pertenece al grupo de investigación AIWELL.
 
        Está especializado en el campo de la visión por computador, concretamente en el reconocimiento facial de objetos y la **comprensión general de escenarios**. 
 
