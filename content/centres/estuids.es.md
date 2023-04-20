@@ -1,5 +1,4 @@
 ---
-title: Estuids
+title: Estudios
 language: es
 ---
-
