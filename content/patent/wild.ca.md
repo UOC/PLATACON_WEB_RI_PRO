@@ -19,14 +19,9 @@ general:
 about:
   - titol: WILD_ca
     descripcio: >-
-      Sol·licituds de patent núm.: EP18382616.3 / PCT/EP2019/070476 / US
-      17/269,014 
-
-
-      Data de prioritat: 17/08/2018 
-
-
-      Durant el **procés de muntatge d'un vehicle** es realitza la prova d'aigua per comprovar l'estanquitat i detectar possibles entrades d'aigua en vehicle provocades per forats, peces mal acoblades o ratllades.
+      Durant el **procés de muntatge d'un vehicle** es realitza la prova d'aigua
+      per comprovar l'estanquitat i detectar possibles entrades d'aigua en
+      vehicle provocades per forats, peces mal acoblades o ratllades.
 
        El procés de **detecció la fan de forma manual** els operaris de línia de producció, que utilitzen equips sensors d'humitat. 
 
@@ -43,6 +38,12 @@ about:
 
 
       El sistema detecta els nivells d'humitat corresponents a una fuga i localitza automàticament la seva posició, avisant l'operari **sense necessitat que hi intervingui directament.**
+
+
+      Sol·licituds de patent núm.: EP18382616.3 / PCT/EP2019/070476 / US 17/269,014 
+
+
+      Data de prioritat: 17/08/2018
     video_list:
       - video: 6oO-lUMXQHc
     docs_rels:
@@ -112,7 +113,7 @@ grups_recerca:
   - id: "7702"
     name: WINE
     description: Wireless Networks Research Lab
-    url: https://transfer.research.uoc.edu/ca/wine.html
+    url: https://transfer.research.uoc.edu/ca/grups/wine.html
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/77/image/1594216262171
 investigadors:
   - id: "42075402"
