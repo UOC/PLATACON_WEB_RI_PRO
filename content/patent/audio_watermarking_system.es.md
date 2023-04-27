@@ -81,7 +81,10 @@ aplicacions:
       \- Mediciones de **audiencia y seguimiento** de radiodifusión.
 
 
-      \- Mediciones de la eficacia de campañas. **Análisis del consumidor sobre difusión**, vídeo a la carta o incluso distribución por internet. Seguridad digital: 
+      \- Mediciones de la eficacia de campañas. **Análisis del consumidor sobre difusión**, vídeo a la carta o incluso distribución por internet. 
+
+
+      **Seguridad digital:** 
 
 
       \- Gestión de derechos digitales sobre VOD o música.
@@ -104,14 +107,14 @@ aplicacions:
 grups_recerca:
   - id: "2602"
     name: KISON
-    description: K-riptography and Information Security for Open Networks
-    url: https://transfer.research.uoc.edu/ca/kison.html
+    description: K-ryptography and Information Security for Open Networks
+    url: https://transfer.research.uoc.edu/ca/grups/kison.html
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/26/image/1594286715997
 investigadors:
   - id: "22479602"
     name: Megías Jiménez, David
     url: https://talent.uoc.edu/ca/david-megias-jimenez.html
-    url_img: https://talent.uoc.edu/img/api/pdi/224796/image/1588156888077
+    url_img: https://talent.uoc.edu/img/api/pdi/224796/image/1650988040889
 contacte:
   - text: Knowledge, Transfer & Entrepreneurship
     email: transfer_ari@uoc.edu
