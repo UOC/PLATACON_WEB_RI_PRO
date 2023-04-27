@@ -35,13 +35,17 @@ aspectes_innovadors:
       \-Incrementa la **accesibilidad a topografías** corneales y las puede
       incorporar como tests de salud visual habitual.
 
-      -El sistema es portable en comparación con los **equipos de tomografía** corneal de mercado.
 
-      -Gran reducción de los **costes de fabricación** asociados a este tipo de equipamiento.
+      \-El sistema es portable en comparación con los **equipos de tomografía** corneal de mercado.
 
-      -**Reducción del coste unitario** de realización del test, alrededor de 200 €, en comparación con el coste de los topógrafos corneales actuales, que supera los 3.000 €.
 
-      -Nuevo método de cálculo de la superficie corneal y nuevo patrón de iluminación ocular que mejora el alineamiento con cámara-ojo, disminuye el tiempo de cálculo para la obtención de resultados y **facilita el cambio de resolución de la prueba.**
+      \-Gran reducción de los **costes de fabricación** asociados a este tipo de equipamiento.
+
+
+      \-**Reducción del coste unitario** de realización del test, alrededor de 200 €, en comparación con el coste de los topógrafos corneales actuales, que supera los 3.000 €.
+
+
+      \-Nuevo método de cálculo de la superficie corneal y nuevo patrón de iluminación ocular que mejora el alineamiento con cámara-ojo, disminuye el tiempo de cálculo para la obtención de resultados y **facilita el cambio de resolución de la prueba.**
     titol: MOCOTO_aspectos
 aplicacions:
   - descripcio: >-
@@ -58,9 +62,9 @@ aplicacions:
     titol: MOCOTO_ aplicaciones
 grups_recerca:
   - id: "5702"
-    name: SUNAI
-    description: Scene understanding and artificial intelligence lab
-    url: https://transfer.research.uoc.edu/ca/sunai.html
+    name: AIWELL
+    description: Artificial Intelligence for Human Well-being
+    url: https://transfer.research.uoc.edu/ca/grups/aiwell.html
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/57/image/1594206271178
 investigadors:
   - id: "88961402"
