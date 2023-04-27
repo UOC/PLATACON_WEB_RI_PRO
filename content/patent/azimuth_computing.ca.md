@@ -79,7 +79,10 @@ aplicacions:
       **Computació verda** 
 
 
-      \- Promoure **la veritable computació** verda i fer possible la ciència verda Sistemes de gestió de bateries 
+      \- Promoure **la veritable computació** verda i fer possible la ciència verda 
+
+
+      **Sistemes de gestió de bateries** 
 
 
       \- Optimitzar **encara més l'ús** de bateries basant-se en les previsions de producció d'energia. Responsabilitat corporativa 
@@ -91,7 +94,7 @@ grups_recerca:
   - id: "7702"
     name: WINE
     description: Wireless Networks Research Lab
-    url: https://transfer.research.uoc.edu/ca/wine.html
+    url: https://transfer.research.uoc.edu/ca/grups/wine.html
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/77/image/1594216262171
 investigadors:
   - id: "42075402"
