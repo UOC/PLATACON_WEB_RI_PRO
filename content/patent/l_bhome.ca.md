@@ -17,9 +17,10 @@ general:
 about:
   - titol: L@b Home_cat
     descripcio: >-
-      Patent núm.: ES2636650 B1 Data de prioritat: 04/05/2016 Lab@Home és una
-      plataforma desenvolupada per a l’ensenyament de les competències
-      d’electrònica analògica bàsica.
+      Patent núm.: ES2636650 B1 Data de prioritat: 04/05/2016 
+
+
+      Lab@Home és una plataforma desenvolupada per a l’ensenyament de les competències d’electrònica analògica bàsica.
 
        **Aquesta eina permet que estudiants d’electrònica aprenguin**, de manera pràctica, el disseny i muntatge de circuits electrònics i també la utilització d’aparells de generació de senyals propis d’un laboratori d’electrònica. La plataforma comprèn els següents elements: 
 
