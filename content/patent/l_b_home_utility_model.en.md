@@ -2,7 +2,7 @@
 title: "L@b Home – Utility model "
 language: en
 general:
-  nom: "Title: Lab@Home – Utility model"
+  nom: Lab@Home – Utility model
   img_background: /img/labhome_1.jpg
   sector: Education - eLearning
   centre: Estuids
