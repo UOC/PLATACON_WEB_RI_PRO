@@ -1,5 +1,5 @@
 ---
-title: DRET, INTERNET I TIC
+title: "DERECHO, INTERNET Y TIC "
 language: es
 general:
   nom: "DERECHO, INTERNET Y TIC "
