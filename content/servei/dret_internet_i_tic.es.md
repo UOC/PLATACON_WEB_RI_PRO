@@ -79,11 +79,6 @@ grups_recerca:
     description: Fiscalitat, relacions laborals i empresa
     url: https://transfer.research.uoc.edu/ca/grups/taxbusiness.html
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/12/image/1594102969060
-  - id: "6402"
-    name: VICRIM
-    description: Victimologia empírica i aplicada
-    url: https://transfer.research.uoc.edu/ca/grups/vicrim.html
-    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/64/image/1594190299361
 contacte:
   - email: "transfer_ari@uoc.edu "
     text: Knowledge Transfer & Entrepreneurship
