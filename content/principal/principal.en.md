@@ -5140,6 +5140,6 @@ infografia:
     number: + 100
     icon: icon--pencil
   - display_name: Spin-off
-    number: "2"
+    number: "3"
     icon: icon--profile
 ---
