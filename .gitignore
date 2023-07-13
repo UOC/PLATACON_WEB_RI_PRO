@@ -1,2 +1,4 @@
 public/
 bin/
+node_modules/
+hugo*.deb
