@@ -60,9 +60,9 @@ aplicacions:
     titol: MOCOTO_applications
 grups_recerca:
   - id: "5702"
-    name: SUNAI
-    description: Scene understanding and artificial intelligence lab
-    url: https://transfer.research.uoc.edu/ca/sunai.html
+    name: AIWELL
+    description: Artificial Intelligence for Human Well-being
+    url: https://transfer.research.uoc.edu/ca/grups/aiwell.html
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/57/image/1594206271178
 investigadors:
   - id: "88961402"
