@@ -122,7 +122,7 @@ grups_recerca:
   - id: "7702"
     name: WINE
     description: Wireless Networks Research Lab
-    url: https://transfer.research.uoc.edu/ca/wine.html
+    url: https://transfer.research.uoc.edu/ca/grups/wine.html
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/77/image/1594216262171
 investigadors:
   - id: "42075402"
