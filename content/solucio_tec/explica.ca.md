@@ -55,7 +55,7 @@ grups_recerca:
   - id: "3602"
     name: NOUTUR
     description: Noves perspectives en turisme i oci
-    url: https://transfer.research.uoc.edu/ca/noutur.html
+    url: https://transfer.research.uoc.edu/ca/grups/noutur.html
     url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/36/image/1594109415142
 investigadors:
   - id: "50897202"
