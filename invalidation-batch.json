@@ -29,5 +29,5 @@
       "/spin_off/*"
     ]
   },
-  "CallerReference": "buildspec-pro"
+  "CallerReference": "buildspec-pre"
 }

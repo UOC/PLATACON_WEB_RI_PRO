@@ -10,6 +10,8 @@ DefaultContentLanguageInSubdir = "true"
 
 disableKinds = ["home", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
 
+ignoreFiles = [ "./data/README.md" ]
+
 [permalinks]
   grup = "/:filename"
   principal = "/index"
@@ -37,3 +39,4 @@ date = ["date", "publishDate", "lastmod"]
 lastmod = [":git", "lastmod", "date", "publishDate"]
 publishDate = ["publishDate", "date"]
 expiryDate = ["expiryDate"]
+

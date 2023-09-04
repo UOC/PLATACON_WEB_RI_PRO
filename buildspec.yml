@@ -15,8 +15,9 @@ phases:
     commands:
       - node ./scripts/replace-platacon-url.js
       - node ./scripts/rename-languages.js
+      - node ./scripts/get-data.js
     finally:
-      - echo "Finished renaming language files"
+      - echo "Finished executing pre-build scripts"
   build:
     commands:
       - hugo --environment ${ENV}
@@ -41,5 +42,5 @@ phases:
             fi
           fi
     finally:
-      - aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --invalidation-batch file://invalidation-batch.json
+      - bash ./scripts/invalidations.sh
       - echo "Script finished running"
