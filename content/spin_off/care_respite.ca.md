@@ -69,9 +69,9 @@ casos_exit:
 grups_recerca:
   - id: "5702"
     name: AIWELL
-    description: Artificial Intelligence for Human Well-being
-    url: https://transfer.research.uoc.edu/ca/grups/aiwell.html
-    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/57/image/1594206271178
+    description: null
+    url: null
+    url_img: ""
 investigadors:
   - id: "63980502"
     name: Baró Solé, Xavier
