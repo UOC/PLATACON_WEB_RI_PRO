@@ -7,7 +7,7 @@
 		{"display_name" : "Other", "value" : "Other"}
 	], 
 	"ambit" : [
-		{"display_name" : "Social Sciences", "value" : "Social Science"},
+		{"display_name" : "Social Sciences", "value" : "Social Sciences"},
 		{"display_name" : "Health Sciences", "value" : "Health Sciences"},
 		{"display_name" : "Arts and Humanity", "value" : "Arts and Humanity"},
 		{"display_name" : "IT", "value" : "IT"}
