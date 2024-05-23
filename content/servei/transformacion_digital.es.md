@@ -4,7 +4,7 @@ language: es
 general:
   nom: TRANSFORMACIÓN DIGITAL
   text_breu: Empoderamiento digital de trabajadores y clientes.
-  img_background: /img/a_imatge_verda_sense_logo.jpg
+  img_background: /img/captura_de_pantalla_2021-07-28_a_las_19.59.25.png
   sector: Economía, empresa y TIC
   keywords:
     - value: Transformación digital
