@@ -70,19 +70,19 @@ about:
 grups_recerca:
   - id: "7302"
     name: CareNet
-    description: Care and Preparedness in the Network Society
-    url: https://transfer.research.uoc.edu/ca/carenet.html
-    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/73/image/1580718947741
+    description: null
+    url: null
+    url_img: ""
   - id: "1902"
     name: GAME
-    description: Grup de recerca en Aprenentatges, Mitjans de comunicació i Entreteniment
-    url: https://transfer.research.uoc.edu/ca/game.html
-    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/19/image/1591614546348
-  - id: "7502"
-    name: DIMMONS
-    description: Digital Commons
-    url: https://transfer.research.uoc.edu/ca/dimmons.html
-    url_img: https://transfer.research.uoc.edu/img/api/grupsrecerca/75/image/1594189171998
+    description: null
+    url: null
+    url_img: ""
+  - id: "2902"
+    name: DigiBiz
+    description: null
+    url: null
+    url_img: ""
 contacte:
   - text: Knowledge Transfer & Entrepreneurship
     email: "  transfer_ari@uoc.edu "
