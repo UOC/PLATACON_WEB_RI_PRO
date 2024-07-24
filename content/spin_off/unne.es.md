@@ -28,6 +28,12 @@ about:
     titol: UNNE
     docs_rels:
       - file: https://institutounne.com/
+grups_recerca:
+  - id: "12102"
+    name: NeuroADaS Lab
+    description: null
+    url: null
+    url_img: ""
 investigadors:
   - id: "47284102"
     name: Muñoz Marrón, Elena
