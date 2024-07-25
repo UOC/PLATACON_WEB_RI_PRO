@@ -5038,7 +5038,7 @@ unesco:
   - value: "7299"
     display_name: Altres especialitats filosòfiques (especificar)
 title: R&I a la UOC
-language: en
+language: ca
 ambits_especialitzacio:
   - display_name: Tots
     value: ""
