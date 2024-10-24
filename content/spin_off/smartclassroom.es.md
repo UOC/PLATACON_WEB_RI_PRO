@@ -63,7 +63,6 @@ investigadors:
     name: Bautista Pérez, Guillermo
     url: https://talent.uoc.edu/ca/guillermo-bautista-perez.html
     url_img: https://talent.uoc.edu/img/api/pdi/139838/image/1607008128415
-  - {}
 contacte:
   - text: Guillermo Bautista Peréz
     address: https://smartclassroomproject.com/
