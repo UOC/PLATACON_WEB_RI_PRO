@@ -9,8 +9,8 @@ general:
     especializada en el rediseño de los espacios educativos con base en la
     evidencia científica. Esto permite el uso adecuado de nuevas metodologías
     educativas, potenciar el aprendizaje activo y mejorar el bienestar físico y
-    emocional de sus usuarios (alumnado y profesorado)."
-  logo: /img/logo_smartclassroom.png
+    emocional "
+  logo: /img/samrt.jpg
   keywords:
     - value: eLearning
   xarxes:
