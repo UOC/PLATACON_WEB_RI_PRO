@@ -8,7 +8,9 @@ general:
   logo: /img/logo_smartclassroom.png
   keywords:
     - value: e-learning
-  xarxes: []
+  xarxes:
+    - xarxa: web
+      address: https://smartclassroomproject.com/ca/
   text_breu: "Smart Classroom Project és una spin-off de la UOC i la UB
     especialitzada en el redisseny dels espais educatius amb base en l’evidència
     científica. Això permet l’ús adequat de noves metodologies educatives,
