@@ -5,7 +5,7 @@ general:
   nom: Smart Classroom Project
   sector: Educació - eLearning
   img_background: /img/0a5e3d8399408516a201716607daee9dc776694d.png
-  logo: /img/logo_smartclassroom.png
+  logo: /img/samrt.jpg
   keywords:
     - value: e-learning
   xarxes:
