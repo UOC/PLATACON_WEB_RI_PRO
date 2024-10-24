@@ -4,13 +4,12 @@ language: en
 general:
   nom: Smartclassroom Project
   img_background: /img/0a5e3d8399408516a201716607daee9dc776694d.png
-  logo: /img/logo_smartclassroom.png
+  logo: /img/samrt.jpg
   sector: Education - eLearning
   text_breu: Smart Classroom Project is a spin-off of the UOC and the UB
     specialized in the redesign of educational spaces based on scientific
     evidence. This allows the appropriate use of new educational methodologies,
     enhances active learning and improves the physical and emotional well-being
-    of its users (students and teachers).
   keywords:
     - value: E-Learning
   xarxes:
