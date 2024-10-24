@@ -29,6 +29,8 @@ about:
       estudiante y del profesorado, y en su experiencia de
       enseñanza–aprendizaje.
     titol: Smart Classroom Project
+    video_list:
+      - video: https://www.youtube.com/watch?v=bItL4lQn6ng&list=PLq3301Atrd_cjwzqgSI97NAm4NydENhdh
 productes_serveis:
   - descripcio: Consultoría personalizada sobre co-diseño, prototipat,
       implementación y evaluación de los espacios educativos liderada por
