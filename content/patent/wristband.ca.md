@@ -6,6 +6,7 @@ general:
     durador, flexible i de baix cost"
   sector: Societat en xarxa
   img_background: /img/imagen_smartlogistics_2.jpg
+  text_breu: PCT/EP2023/052364
 about:
   - descripcio: Aquesta contribució se centra en l'avaluació del rendiment d'una
       antena tipus pegat de llarg abast per a etiquetes de polsera
